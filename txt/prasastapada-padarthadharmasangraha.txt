@@ -1,0 +1,498 @@
+Padārthadharmasaṅgraha
+A SARIT edition
+Prasastapāda
+Muneo Tokunaga
+Yasutaka Muroya
+Dominik Wujastyk
+Conversion to TEI
+SARIT: Search and Retrieval of Indic Texts
+Copyright (C) Muneo Tokunaga and Yasutaka Muroya
+Distributed by
+SARIT
+under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Under this licence, you are free
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information and fuller details of this license are given on the Creative Commons website.
+2012-2016
+2013-03-05
+The Prasastapadabhasya with Commentary Nyayakandali of Sridhara
+V. P. Dvivedin
+Sri Satguru Publications
+Delhi
+1895
+Sri Garbi Dass Oriental Ser., 13. Reprint of the edition Benares 1895, Vizianagram Sanskrit Series ; 6
+Compounds are not analyzed into constituent words.
+Word-boundaries are tagged.
+Page/line number of the edition are tagged in brackets; e.g., "(48.7)" = p. 48, line 7.
+Tweaked the TEI header to reflect current SARIT usage.
+
+<B 1>
+
+Praśastapādabhāṣyam
+maṅgalam
+PP0.0/ 0.0: praśastapādabhāṣyam /
+PP1.1ab/ 1.1ab: praṇamya hetum īśvaram munim kaṇādam anvataḥ /
+PP1.1cd/ 1.1cd: padārthadharmasaṃgrahaḥ pravakṣyate mahodayaḥ //
+
+<B 2>
+
+dravyaguṇakarmasāmānyaviśeṣasamavāyānām
+PP2.1/ 2.1: dravyaguṇakarmasāmānyaviśeṣasamavāyānām ṣaṇṇām padārthānām sādharmyavaidharmyatattvajñānam nihśreyasahetuḥ //
+PP2.1/ 2.1: tac ceśvaracodanābhivyaktād dharmād eva //
+PP2.2/ 2.2: atha ke dravyādayaḥ padārthāḥ kim ca teṣām sādharmyam vaidharmyam ceti //
+PP2.2/ 2.2: tatra dravyāṇi pṛthivyaptejovāyvākāśakāladigātmamanāṃsi sāmānyaviśeṣasaṃjñayoktāni navaiveti / tadvyatirekeṇānyasya saṃjñān abhidhānāt //
+PP2.2/ 2.2: guṇāś ca rūparasagandhasparśasaṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvabuddhisukhaduhkhecchādveṣaprayatnāś ceti kaṇṭhoktāḥ saptadaśa / caśabdasamuccitāś ca gurutvadravatvasnehasaṃskārād ūṣṭaśabdāḥ saptaivety evam caturviṃśatir guṇāḥ //
+PP2.2/ 2.2: utkṣepaṇāpakṣepaṇākuñcanaprasāraṇagamanāni pañcaiva karmāṇi/ gamanagrahaṇād bhramaṇarecanasyandanordhvajvalanatiryakpavananamanonnamanādayo gamanaviśeṣā na jātyantarāṇi //
+PP2.2/ 2.2: sāmānyam dvividham param aparam cānuvṛttipratyayakāraṇam/ tatra paramsattā, mahāviṣayatvāt sā cānuvṛtter eva hetutvāt sāmānyam eva / dravyatvādyaparam, alpaviṣayatvāt / tac ca vyāvṛtter api hetutvāt sāmānyam sadviśeṣākhyām api labhate //
+PP2.2/ 2.2: nityadravyavṛttayo'ntyā viśeṣāḥ / te khalv atyantavyāvṛttihetutvād viśeṣā eva //
+PP2.2/ 2.2: ayutasiddhānām ādhāryādhārabhūtānām yaḥ sambandhaḥ `iha'-pratyayahetuḥ sa samavāyaḥ //
+PP2.2/ 2.2: evam dharmair vinā dharmiṇām uddeśaḥ kṛtaḥ //
+PP2.3/ 2.3: ṣaṇṇām api padārthānām astitvābhidheyatvajñeyatvāni //
+PP2.3/ 2.3: āśritatvam cānyatra nityadravyebhyaḥ //
+PP2.3/ 2.3: dravyādīnām pañcānām samavāyitvam anekatvam ca //
+PP2.3/ 2.3: guṇādīnām pañcānām api nirguṇatvaniṣkriyatve //
+PP2.3/ 2.3: dravyādīnām trayāṇām apisattāsambandhah,sāmānyaviśeṣavattvam,svasamayārthaśabdābhidheyatvam, dharmādharmakartṛtvam ca //
+PP2.3/ 2.3: kāryatvānityatve kāraṇavatām eva //
+PP2.3/ 2.3: kāraṇatvam cānyatra pārimāṇḍalyādibhyaḥ //
+PP2.3/ 2.3: dravyāśritatvam cānyatra nityadravyebhyaḥ //
+PP2.3/ 2.3: sāmānyādīnām trayāṇām svātmasattvam,buddhilakṣaṇatvam,akāryatvam,akāraṇatvam,asāmānyaviśeṣavattvam,nityatvam, arthaśabdānabhidheyatvam ceti //
+
+<B 3>
+
+dravyāsaṅkaraḥ
+PP3/ 3: pṛthivyādīnām navānām apidravyatvayogah, svātmany ārambhakatvamguṇavattvam,kāryakāraṇavirodhitvam, antyaviśeṣavattvam //
+PP3/ 3: anāśritatvanityatve cānyatrāvayavidravyebhyaḥ //
+PP3/ 3: pṛthivyudakajvalanapavanātmamanasām anekatvāparajātimattve //
+PP3/ 3: kṣitijalajyotir anilamanasām kriyāvattvamūrtatvaparatvāparatvavegavattvāni //
+PP3/ 3: ākāśakāladigātmanāmsarvagatatvam,paramamahattvam, sarvasamyogisamānadsatvam ca //
+PP3/ 3: pṛthivyādīnām pañcānām api bhūtatvendriyaprakṛtitvabāhyaikendriyagrāhyaviśeṣaguṇavattvāni //
+PP3/ 3: caturṇām dravyārambhakatvasparśavattve //
+PP3/ 3: trayāṇām pratyakṣatvarūpavattvadravatvāni //
+PP3/ 3: dvayor gurutvam rasavattvam ca //
+PP3/ 3: bhūtātmanām vaiśeṣikaguṇavattvam //
+PP3/ 3: kṣityudakātmanām caturdaśaguṇavattvam //
+PP3/ 3: ākāśātmanām kṣaṇikaikadeśavṛttiviśeṣaguṇavattvam //
+PP3/ 3: dikkālayoḥ pañcaguṇavattvam sarvotpattimatām nimittakāraṇatvam ca //
+PP3/ 3: kṣititejasor naimittikadravatvayogaḥ //
+PP3/ 3: evam sarvatra sādharmyam viparyayād vaidharmyam ca vācyam iti dravyāsaṅkaraḥ //
+
+<B 4>
+
+vaidharmyam
+PP4.0/ 4.0: ihedānīm ekaikaśo vaidharmyam ucyate //
+PP4.1/ 4.1: pṛthivītvābhisambandhāt pṛthivī / rūparasagandhasparśasaṅkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvagurutvadravatvasaṃskāravatī /
+PP4.1/ 4.1: ete ca guṇaviniveśādhikāre rūpādayo guṇaviśeṣāḥ siddhāḥ / `cākṣuṣa'-vacanāt saptasaṅkhyādayaḥ / patanopadeśād gurutvam / `adbhiḥ sāmānya'-vacanād dravyatvam / `uttarakarma'-vacanāt saṃskāraḥ /
+PP4.1/ 4.1: kṣitāv eva gandhaḥ/ rūpam anekaprakāram śuklādi / rasaḥ ṣaḍvidho madhurādiḥ / gandho dvividhaḥ surabhir asurabihś ca / sparśo 'syā anuṣṇāśītatve sati pākajaḥ /
+PP4.1/ 4.1: sā tu dvividhā/ nityā cānityā ca / paramāṇulakṣaṇā nityā / kāryalakṣaṇā tv anityā / sā ca sthairyādyavayavasanniveśaviśiṣṭā +aparajātibahutvopetā śayanāsanādyanekopakārakarī ca / trividham cāsyāḥ kāryam / śarīrendriyaviṣayasaṃjñakam //
+PP4.1/ 4.1: śarīram dvividham / yonijam ayonijam ca / tatrāyonijam anapekṣya śukraśoṇitam devarṣīṇām dharmaviśeṣasahitebhyo 'ṇubhyo jāyate /
+PP4.1/ 4.1: kṣudrajantūnām yātanāśarīrāṇy adharmaviśeṣasahitebhyo'ṇubhyo jāyante / śukraśoṇitasannipātajam yonijam/ tad vividham jarāyujam aṇḍajam ca / māṇuṣapaśumṛgāṇām jarāyujam/ pakṣisarīsṛpāṇām aṇḍajam //
+PP4.1/ 4.1: indriyam gandhavyaṃjakam sarvaprāṇinām jalādyanabhibhūtaiḥ pārthivāvayavair ārabdham ghrāṇam /
+PP4.1/ 4.1: viṣayas tu dvyaṇukādikrameṇārabdhas trividho mṛtpāṣāṇasthāvaralakṣaṇaḥ/ tatra bhūpradeśāḥ prākāreṣṭakādayaḥ mṛtprakārāḥ/ pāṣāṇā upalamaṇivajrādayaḥ/ sthāvarās tṛṇauṣadhivṛkṣagulmalatāvatānavanaspataya iti //
+PP4.2/ 4.2: aptvābhisambandhād āpaḥ / rūparasasparśadravatvasnehasaṅkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvagurutvasaṃskāravatyaḥ /
+PP4.2/ 4.2: pūrvavad eṣām siddhiḥ /
+PP4.2/ 4.2: śuklamadhuraśītā eva rūparasasparśāḥ/ sneho 'mbhasy eva sāṃsiddhikam ca dravatvam /
+PP4.2/ 4.2: tāś ca pūrvavad dvividhāḥ / nityānityabhāvāt / tāsām tu kāryam trividham/ śarīrendriyaviṣayasaṃjñakam /
+PP4.2/ 4.2: tatra śarīram ayonijam eva varuṇaloke, pārthivāvayavopaṣṭambhāc copabhogasamartham /
+PP4.2/ 4.2: indriyam sarvaprāṇinām rasavyaṃjakam vijātyanabhibhūtair jalāvayavair ārabdham rasanam /
+PP4.2/ 4.2: viṣayas tu saritsamudrahimakarakādiḥ //
+PP4.3/ 4.3: tejastvābhisambandhāt tejaḥ / rūpasparśasaṅkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvadravatvasaṃskāravat /
+PP4.3/ 4.3: pūrvavad eṣām siddhiḥ /
+PP4.3/ 4.3: tatra śuklam bhāsvaram ca rūpam/ uṣṇa eva sparśaḥ /
+PP4.3/ 4.3: tad api dvividham aṇukāryabhāvāt / kāryam ca śarīrāditrayam /
+PP4.3/ 4.3: śarīram ayonijam ādityaloke, pārthivāvayavopaṣṭambhāc copabhogasamartham /
+PP4.3/ 4.3: indriyam sarvaprāṇinām rūpavyaṃjakam anyāvayavānabhibhūtais tejo'vayavair ārabdham cakṣuḥ /
+PP4.3/ 4.3: viṣayasaṃjñakam caturvidham / bhaumam divyam udaryam ākarajam ca / tatra bhaumam kāṣṭhendhanaprabhavam ūrdhvajvalanasvabhāvam pacanadahanasvedanādisamartham divyam abindhanam sauravidyudādi bhuktasyāhārasya rasādipariṇāmārtham udaryam ākarajam ca suvarṇādi /
+PP4.3/ 4.3: tatra samyuktasamavāyād rasādyupalabdhir iti //
+PP4.4/ 4.4: vāyutvābhisambandhād vāyuḥ / sparśasaṅkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvasaṃskāravān /
+PP4.4/ 4.4: sparśo'syānuṣṇāśītatve saty apākajaḥ/ guṇaviniveśāt siddhaḥ/ `arūpiṣvacākṣuṣa'-vacanāt sapta saṅkhyādayaḥ/ tṛṇakarmavacanāt saṃskāraḥ /
+PP4.4/ 4.4: sa cāyam dvividho'ṇukāryabhāvāt /
+PP4.4/ 4.4: tatra kāryalakṣaṇaś caturvidhaḥ śarīram indriyam viṣayaḥ prāṇa iti /
+PP4.4/ 4.4: tatrāyonijam eva śarīram marutām loke pārthivāvayavopaṣṭambhāc copabhogasamartham /
+PP4.4/ 4.4: indriyam sarvaprāṇinām sparśopalambhakam pṛthivyādyanabhibhūtair vāyvavayavair ārabdham sarvaśarīravyāpi tvagindriyam /
+PP4.4/ 4.4: viṣayas tūpalabhyamānasparśādhiṣṭhānabhūtaḥ sparśaśabdadhṛtikampaliṅgas tiryaggamanasvabhāvo meghādipreraṇadhāraṇādisamarthaḥ /
+PP4.4/ 4.4: tasyāpratyakṣasyāpi nānātvam sammūrcchanenānumīyate/ sammūrcchanam punaḥ samānajavayor vāyvor viruddhadikkriyayoḥ sannipātaḥ/ so 'pi sāvayavinor vāyvorūrdhvagamanenānumīyate; tad api tṛṇādigamaneneti //
+PP4.4/ 4.4: prāṇo'ntahserīre rasamaladhātūnām preraṇādihetur ekaḥ san kriyābhedād apānādisaṃjñām labhate //
+
+<B 5>
+
+sṛṣṭisaṃhāravidhir
+PP5/ 5: ihedānīm caturṇām mahābhūtānām sṛṣṭisaṃhāravidhir ucyate /
+PP5/ 5: brāhmaṇe mānena varṣaśatānte vartamānasya brahmaṇo'pavargakāle saṃsārakhinnānām sarvaprāṇinām niśi viśrāmārtham sakalabhuvanapater maheśvarasya saṃjihīrṣāsamakālam śarīrendriyamahābhūtopanibandhakānām sarvātmagatānām adṛṣṭānām vṛttinirodhe sati maheśvarecchātmāṇusamyogajakarmabhyaḥ śarīrendriyakāraṇāṇuvibhāgebhyas tatsamyoganivṛttau teṣām āparamāṇvanto vināśaḥ
+PP5/ 5: tathā pṛthivyudakajvalanapavanānām api mahābhūtānām anenaiva krameṇottarasminn uttarasmin sati pūrvasya pūrvasya vināśaḥ tataḥ pravibhaktāḥ paramāṇavovatiṣṭhante dharmādharmasaṃskārānuviddhā ātmānas tāvantam eva kālam /
+PP5/ 5: tataḥ punaḥ prāṇinām bhogabhūtaye maheśvarasisṛkṣānantaram sarvātmagatavṛttilabdhādṛṣṭāpekṣebhyas tatsamyogebhyaḥ pavanaparamāṇuṣu karmotpattau teṣām parasparasamyogebhyo dvyaṇukādiprakrameṇa mahān vāyuḥ samutpanno nabhasi dodhūyamānas tiṣṭhati /
+PP5/ 5: tadanantaram tasminn eva vāyāvāpy ebhyaḥ paramāṇubhyas tenaiva krameṇa mahān salilanidhir utpannaḥ poplūyamānas tiṣṭhati tadanantaram tasminn eva pārthivebhyaḥ paramāṇubhyo mahāpṛthivī saṃhatāvatiṣṭhate /
+PP5/ 5: tadanantaram tasminn eva mahodadhau taijasebhyo'ṇubhyo dvyaṇukādiprakrameṇotpanno mahāṃs tejorāśiḥ kenacid anabhibhūtatvād dedīpyamānas tiṣṭhati /
+PP5/ 5: evam samutpannenṣu caturṣu mahābhūteṣu maheśvarasyābhidhyānamātrāt taijasebhyo 'ṇubhyaḥ pārthivaparamāṇusahitebhyo mahadaṇḍam ārabhyate tasmiṃś caturvadanakamalam sarvalokapitāmaham brahmāṇam sakalabhuvanasahitam utpādya prajāsarge viniyuṅkte /
+PP5/ 5: sa ca maheśvareṇa viniyukto brahmātiśayajñānavairāgyaiśvaryasampannaḥ prāṇinām karmavipākam viditvā karmānurūpajñānabhogāyuṣaḥ sutān prajāpatīn mānasān maudevarṣipitṛgaṇān mukhabāhūrupādataś caturo varṇānanyāni coccāvacāni bhūtāni ca sṛṣṭvāśayāṇurūpair dharmajñānavairāgyaiśvaryaiḥ samyojayatīti //
+
+<B 6>
+
+dravyapadārthaḥ
+PP6.1/ 6.1: ākāśakāladiśām ekaikatvād parajātyabhāve pāribhāṣikyastisraḥ saṃjñā bhavanti / ākāśaḥ kālo dig iti / tatrākāśasya guṇāḥ śabdasaṃkhyāparimāṇapṛthaktvasamyogavibhāgāḥ /
+PP6.1/ 6.1: śabdaḥ pratyakṣatve satyakāraṇaguṇapūrvakatvād ayāvad dravyabhāvitvād āśrayād anyatropalabdheś ca na sparśavad viśeṣaguṇaḥ/ bāhyendriyapratyakṣatvād ātmāntaragrāhyatvād ātmany asamavāyād ahaṅkāreṇa vibhaktagrahaṇāc ca nātmaguṇaḥ /
+PP6.1/ 6.1: śrotragrāhyatvād vaiśeṣikaguṇabhāvāc ca na dikkālamanasām/ pariśeṣād guṇo bhūtvā ākāśasyādhigame liṅgam/ śabdaliṅgāviśeṣād ekatvam siddham /
+PP6.1/ 6.1: tad anuvidhānād ekapṛthaktvam / vibhavavacanāt paramamahatparimāṇam / śabdakāraṇatvavacanāt samyogavibhāgāv iti /
+PP6.1/ 6.1: ato guṇavattvād anāśritatvāc ca dravyam / samānāsamānajātoyakāraṇābhāvāc ca nityam / sarvaprāṇinām ca śabdopalabdhau nimittam śrotrabhāvena /
+PP6.1/ 6.1: śrotram punaḥ śravaṇavivarasaṃjñako nabhodeśaḥ śabdanimittopabhogaprāpakadharmādharmopanibaddhas tasya ca nityatve saty upanibandhakavaikalyād bādhiryam iti //
+PP6.2/ 6.2: kālaḥ parāparavyatikarayaugapadyāyaugapadyacirakṣiprapratyayaliṅgam / teṣām viṣayeṣu pūrvapratyayavilakṣaṇānām utpattāv anyanimittābhāvād yad atra nimittam sa kālaḥ /
+PP6.2/ 6.2: sarvakāryāṇām cotpattisthitivināśahetus tadvyapadeśāt/ kṣaṇalavanimeṣakāṣṭhākalāmuhūrtayāmāhorātrārdhamāsamāsartvayanasaṃvatsarayugakalapamanvantarapralayamahāpralayavyavahārahetuḥ /
+PP6.2/ 6.2: tasya guṇāḥ saṃkhyāparimāṇapṛthaktvasamyogavibhāgāḥ/ kālaliṅgāviśeṣād ekatvam siddham / tad anuvidhānāt pṛthaktvam / kāraṇe kāla itivacanāt paramamahatparimāṇam/ kāraṇaparatvādivacanāt samyogaḥ /
+PP6.2/ 6.2: tadvināśakatvād vibhāga iti/ tasyākāśavad dravyatvanityatve siddhe kālaliṅgāviśeṣād aṃjasaikatve[m']pi sarvakāryāṇām ārambhakriyābhinirvṛttisthitinirodhopapādhibhedān maṇivat pācakavad vā nānātvopacāra iti //
+PP6.3/ 6.3: dik pūrvāparādipratyayaliṅgā / mūrtadravyam avadhim kṛtvā mūrteṣv eva dravyeṣv etasmād idam pūrveṇa dakṣiṇena paścimenottareṇa pūrvadakṣiṇena dakṣiṇāpareṇa aparottareṇa uttarapūrveṇa cādhastād upariṣṭāc ceti daśa pratyayā yato bhavanti sā dig iti /
+PP6.3/ 6.3: anyanimittāsambhavāt /
+PP6.3/ 6.3: tasyās tu guṇāḥ saṃkhyāyaparimāṇapṛthaktvasamyogavibhāgāḥ kālavad ete siddhāḥ/ dig liṅgāviśeṣād aṃjasaikatve 'pi diśaḥ paramamaharṣibhiḥ śrutismṛtilokasaṃvyavahārārtham merum pradakṣiṇam āvartamānasya bhagavataḥ savitur ye samyogaviśeṣāḥ lokapālaparigṛhītadikpradeśānām anvarthāḥ prācyādibhedena daśavidhāḥ saṃjñāḥ kṛtāḥ ato bhaktyā daśa diśaḥ siddhāḥ /
+PP6.3/ 6.3: tāsām eva devatāparigrahāt punar daśa saṃjñā bhavanti/ māhendrī vaiśvānarī yāmyā nairṛtī vāruṇī vāyavyā kauverī aiśānī brāhmī nāgī ceti /
+PP6.4/ 6.4: ātmatvābhisambandhād ātmā / tasya saukṣmyād apratyakṣatve sati karaṇaiḥ śabdādyupalabdhyanumitaiḥ śrotrādibhiḥ samadhigamaḥ kriyate / vāsyādīnām karaṇānām kartṛprayojyatvadarśanāt śabdādiṣu prasiddhyā ca prasādhako'numīyate /
+PP6.4/ 6.4: na śarīrendriyamanasām ajñatvāt / na śarīrasya caitanyam ghaṭādivad bhūtakāryatvāt mṛte cāsambhavāt / nendriyāṇām karaṇatvāt upahateṣu viṣayāsānnidhye cānusmṛtidarśanāt /
+PP6.4/ 6.4: nāpi manasaḥ karaṇāntarānapekṣitve yugapadālocanasmṛtiprasaṅgāt svayam karaṇabhāvāc ca / pariśeṣād ātmakāryatvāt tenātmā samadhigamyate śarīrasamavāyinībhyām ca hitāhitaprāptiparihārayogyābhyām pravṛttinivṛttibhyām rathakarmaṇā sārathivat prayatnavān vigrahasyādhiṣṭhātānumīyate prāṇādibhiś ceti /
+PP6.4/ 6.4: katham śarīraparigṛhīte vāyau vikṛtakarmadarśanād bhastrādhmāpayiteva nimeṣonmeṣakarmaṇā niyatena dāruyantraprayokteva dehasya vṛddhikṣatabhagnasaṃrohaṇādinimittatvāt
+PP6.4/ 6.4: gṛhapatir iva abhimataviṣayagrāhakakaraṇasambandhanimittena manahkarmaṇā gṛhakoṇeṣu pelakapreraka iva dārakaḥ nayanaviṣayālocanānantaram rasānusmṛtikrameṇa rasanavikriyādarśanād anekagavākṣāntargataprekṣakavad ubhayadarśī kaścid eko vijñāyate /
+PP6.4/ 6.4: sukhaduhkhecchādveṣaprayatnaiś ca guṇair guṇyanumīyate te ca na śarīrendriyaguṇāḥ kasmād ahaṅkāreṇaikavākyatābhāvāt pradeśavṛttitvād ayāvaddravyabhāvitvād bāhyendriyāpratyakṣatvāc ca tathāhaṃśabdenāpi pṛthśśdivyādiśabdavyatirekād iti /
+PP6.4/ 6.4: tasya guṇāḥ buddhisukhaduhkhecchādveṣaprayatnadharmādharmasaṃskārasaṃkhyāparimāṇapṛthaktvasamyogavibhāgāḥ/ ātmaliṅgādhikāre buddhyādayaḥ prayatnāntāḥ siddhāḥ /
+PP6.4/ 6.4: dharmādharmāv ātmāntaraguṇānām akāraṇatvavacanāt saṃskāraḥ smṛtyutpattau kāraṇavacanāt / vyavasthāvacanāt saṃkhyā pṛthaktvam apy ata eva tathā cātmetivacanāt paramamahat parimāṇam /
+PP6.4/ 6.4: sannikarṣajatvāt sukhādīnām samyogaḥ / tadvināśakatvād vibhāga iti //
+PP6.5/ 6.5: manastvayogān manaḥ / saty apy ātmendriyārthasānnidhye jñānasukhādīnām abhūtvotpattidarśanāt karaṇāntaram anumīyate / śrotrādyavyāpāre smṛtyutpattidarśanāt bāhyendriyair agṛhītasukhādigrāhyāntarabhāvāc cāntahkaraṇam /
+PP6.5/ 6.5: tasya guṇāḥ saṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvasaṃskārāḥ/ prayatnajñānāyaugapadyavacanāt pratiśarīram ekatvam siddham/ pṛthaktvam apy ata eva/ tadabhāvavacanād aṇuparimāṇam /
+PP6.5/ 6.5: apasarpaṇopasarpaṇavacanāt samyogavibhāgau / mūrtatvāt paratvāparatve saṃskāraś ca/ asparśavattvād dravyānārambhakatvam/ kriyāvattvān mūrtatvam/ sādhāraṇavigrahavattvaprasaṅgād ajñatvam /
+PP6.5/ 6.5: karaṇabhāvāt parārtham / guṇavattvād dravyam/ prayatnādṛṣṭaparigrahavaśād āśusañcāri ceti //
+PP6.0/ 6.0: iti praśastapādabhāṣye dravyapadārthaḥ// **********************************************************************
+
+<B 7>
+
+guṇapadārthanirūpaṇam
+PP7.0/ 7.0: atha guṇapadārthanirūpaṇam /
+PP7.0/ 7.0: rūpādīnām guṇānām sarveṣām guṇatvābhisambandho dravyāśritatvam nirguṇatvam niṣkriyatvam //
+PP7.0/ 7.0: rūparasagandhasparśaparatvāparatvagurutvadravatvasnehavegā mūrtaguṇāḥ //
+PP7.0/ 7.0: buddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanāśabdā amūrtaguṇāḥ //
+PP7.0/ 7.0: saṃkhyāparimāṇapṛthaktvasamyogavibhāgā ubhayaguṇāḥ //
+PP7.0/ 7.0: samyogavibhāgadvitvadvipṛthaktvādayo'nekāśritāḥ //
+PP7.0/ 7.0: śeṣās tv ekaikadravyavṛttayaḥ //
+PP7.0(95.24-)/ rūparasagandhasparśasnehasāṃsiddhikadravatvabuddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanāśabdā vaiśeṣikaguṇāḥ //
+PP7.0(96.5-)/ saṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvagurutvanaimitikadravatvavegāḥ sāmānyaguṇāḥ //
+PP7.0/ 7.0: śabdasparśarūparasagandhā bāhyaikaikendriyagrāhyāḥ //
+PP7.0(96.14-)/ saṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvadravatvasnehavegā dvīndriyagrāhyāḥ //
+PP7.0/ 7.0: buddhisukhaduhkhecchādveṣaprayatnās tv antahkaraṇagrāhyāḥ //
+PP7.0/ 7.0: gurutvadharmādharmabhāvanā hy atīndriyāḥ //
+PP7.0(98.7-)/ apākajarūparasagandhasparśaparimāṇaikatvaikapṛthaktvagurutvadravatvasnehavegāḥ kāraṇaguṇapūrvakāḥ //
+PP7.0/ 7.0: buddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanāśabdā akāraṇaguṇapūrvakāḥ //
+PP7.0(98.24-)/ buddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanāśabdatūlaparimāṇottarasamyoganaimittikadravatvaparatvāparatvāpākajāḥ samyogajāḥ //
+PP7.0/ 7.0: samyogavibhāgavegāḥ karmajāḥ //
+PP7.0/ 7.0: śabdottaravibhāgau vibhāgajau //
+PP7.0/ 7.0: paratvāparatvadvitvadvipṛthaktvādayo buddhyapekṣāḥ //
+PP7.0/ 7.0: rūparasagandhānuṣṇasparśaśabdaparimāṇaikatvaikapṛthaktvasnehāḥ samānajātyārambhakāḥ //
+PP7.0/ 7.0: sukhadūhkhecchādveṣaprayatnāś cāsamānajātyārambhakāḥ //
+PP7.0(100.3-)/ samyogavibhāgasaṃkhyāgurutvadravatvoṣṇasparśajñānadharmādharmasaṃskārāḥ samānāsamānajātyārambhakāḥ //
+PP7.0/ 7.0: buddhisukhaduhkhecchādveṣabhāvanāśabdāḥ svāśrayasamavetārambhakāḥ //
+PP7.0/ 7.0: rūparasagandhasparśaparimāṇasnehaprayatnāḥ paratrārambhakāḥ //
+PP7.0(100.20-)/ samyogavibhāgasaṃkhyaikapṛthaktvagurutvadravatvavegadharmādharmās tūbhayatrārambhakāḥ //
+PP7.0/ 7.0: gurutvadravatvavegaprayatnadharmādharmasamyogaviśeṣāḥ kriyāhetavaḥ //
+PP7.0(101.9-)/ rūparasagandhānuṣṇasparśasaṃkhyāparimāṇaikapṛthaktvasanehaśabdānām asamavāyikāraṇatvam //
+PP7.0/ 7.0: buddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanānām nimittakāraṇatvam //
+PP7.0/ 7.0: samyogavibhāgoṣṇasparśagurutvadravatvavegānām ubhayathā kāraṇatvam //
+PP7.0/ 7.0: paratvāparatvadvitvadvipṛthaktvādīnām akāraṇatvam //
+PP7.0/ 7.0: samyogavibhāgaśabdātmaviśeṣaguṇānām pradeśavṛttitvam //
+PP7.0/ 7.0: śeṣāṇām āśrayavyāpitvam //
+PP7.0(103.11-)/ apākajarūparasagandhasparśaparimāṇaikatvaikapṛthaktvasāṃsiddhikadravatvagurutvasnehānām yāvaddravyabhāvitvam //
+PP7.0/ 7.0: śeṣāṇām ayāvaddravyabhāvitvam ceti //
+
+<B 8>
+
+guṇapadārthaḥ
+PP8.1/ 8.1: rūpādīnām sarveṣām guṇānām pratyekam aparasāmānyasambandhād rūpādisaṃjñā bhavanti //
+PP8.1/ 8.1: tatra rūpam cakṣurgrāhyam/ pṛthivyudakajvalanavṛtti dravyādyupalambhakam nayanasahakāri śuklādyanekaprakāram salilādiparamāṇuṣu nityam pārthivaparamāṇuṣv agnisamyogavirodhi sarvakāryadravyeṣu kāraṇaguṇapūrvakam āśrayavināśād eva vinaśyatīti //
+PP8.2/ 8.2: raso rasanagrāhyaḥ / pṛthivyudakavṛttiḥ jīvanapuṣṭibalārogyanimittam rasanasahakārī madhurāṃlalavaṇatiktakaṭukaṣāyabhedabhinnaḥ/ asyāpi nityānityatvaniṣpattayo rūpavat //
+PP8.3/ 8.3: gandho ghrāṇagrāhyaḥ / pṛthivīvṛttiḥ ghrāṇasahakārī surabhir asurabhiś ca / asyāpi pūrvavad utpattyādayo vyākhyātāḥ //
+PP8.4/ 8.4: sparśas tvagindriyagrāhyaḥ / kṣityudakajvalanapavanavṛttiḥ tvakṣahakārī rūpānuvidhāyī śītoṣṇānuṣṇāśītabhedāt trividhaḥ / asyāpi nityānityatvaniṣpattayaḥ pūrvavat //
+PP8.5/ 8.5: pārthivaparamāṇurūpādīnām pākajotpattividhānam / ghaṭāder āmadravyasyāgninā sambaddhasyāgnyabhighātān nodanād vā tadārambhakeṣv aṇuṣu karmāṇy utpadyante tebhyo vibhāgāḥ vibhāgebhyaḥ samyogavināśāḥ samyogavināśebhyaś ca kāryadravyam vinaśyati /
+PP8.5/ 8.5: tasmin vinaṣṭe svatantreṣu paramāṇuṣv agnisamyogād auṣṇyāpekṣāc chyāmādīnām vināśaḥ punar anyasmād agnisamyogād auṣṇyāpekṣāt pākajā jāyante /
+PP8.5/ 8.5: tadanantaram bhoginām adṛṣtāpekṣād ātmāṇusamyogād utpannapākajeṣv aṇuṣu karmotpattau teṣām parasparasamyogād dvyaṇukādikrameṇa kāryadravyam utpadyate / tatra ca kāraṇaguṇaprakrameṇa rūpādyutpattiḥ /
+PP8.5/ 8.5: na ca kāryadravya eva rūpādyutpattir vināśo vā sambhavati sarvāvayaveṣv antar bahiś ca vartamānasyāgninā vyāptyabhāvād aṇupraveśād api ca vyāptir na sambhavati kāryadravyavināśād iti //
+PP8.6/ 8.6: ekādivyavahārahetuḥ saṃkhyā / sā punar ekadravyā cānekadravyā ca / tatraikadravyāyāḥ salilādiparamāṇurūpadīnām iva nityānityatvaniṣpattayaḥ/ anekadravyā tu dvitvādikā parārdhāntā /
+PP8.6/ 8.6: tasyāḥ khalv ekatvebhyo'nekaviṣayabuddhisahitebhyo niṣpattir apekṣābuddhivināśād vināśa iti/ katham /
+PP8.6/ 8.6: yadā boddhuś cakṣuṣā samānāsamānajātīyayor dravyayoḥ sannikarṣe sati tatsamyuktasamavetasamavetaikatvasāmānyajñānotpattāv ekatvasāmānyatas sambandhajñānebhya ekaguṇayor anekaviṣayiṇy ekā buddhir utpadyate tadā tām apkṣyaikatvābhyām svāśrayayor dvitvam ārambhyate tataḥ punas tasmin dvitvasāmānyajñānam utpadyate tasmād dvitvasāmānyajñānād apekṣābuddher vinaśyattā dvitvasāmānyatatsambandhatajjñānebhyo dvitvaguṇabuddher utpadyamānatety ekaḥ kālaḥ /
+PP8.6/ 8.6: tata idānīm apekṣābuddhivināśād dvitvaguṇasya vinaśyattā dvitvaguṇajñānam dvitvasāmānyajñānasya vināśakāraṇam dvitvaguṇatajjñānasambandhebhyo dve dravye iti dravyabuddher utpadyamānatety ekaḥ kālaḥ /
+PP8.6/ 8.6: tadanantaram dve dravye iti dravyajñānasyotpādaḥ dvitvasya vināśaḥ dvitvaguṇabuddher vinaśyat tā dravyajñānāt saṃskārasyotpadyamānatety ekaḥ kālaḥ tadanantaram dravyajñānād dvitvaguṇabuddher vināśo dravyabuddher api saṃskārāt /
+PP8.6/ 8.6: etena tritvādyutpattir api vyākhyātā / ekatvebhyo 'nekaviṣayabuddhisahitebhyo niṣpattir apekṣābuddhivināśāc ca vināśa iti / kvacic cāśrayavināśād iti / katham /
+PP8.6/ 8.6: yadaikatvādhārāvayave karmotpadyate tadaivaikatvasāmānyajñānam utpadyate karmaṇā cāvayavāntarād vibhāgaḥ kriyate apekṣābuddheś cotpattiḥ /
+PP8.6/ 8.6: tato yasminn eva kāle vibhāgāt samyogavināśas tasminn eva kāle dvitvam utpadyate samyogavināśād dravyavināśaḥ sāmānyabuddheś cotpattiḥ /
+PP8.6/ 8.6: tato yasminn eva kāle sāmānyajñānād apekṣābuddher vināśaḥ tasminn eva kāle āśrayavināśād dvitvavināśa iti śobhanam etadvidhānam badhyaghātakapakṣe sahānavasthānalakṣaṇe tu virodhe dravyajñānānutpattiprasaṅgaḥ / katham /
+PP8.6/ 8.6: guṇabuddhisamakālam apekṣābuddhivināśād dvitvavināśe tadapekṣasya dve dravye iti dravyajñānasyānutpattiprasaṅga iti/ laiṅgikavaj jñānamātrād iti cetasyān matam yathā'bhūtam bhūtasyety atra liṅgābhāve 'pi jñānamātrād anumānam tathā guṇavināśe'pi guṇabuddhimātrād dravyapratyayaḥ syād iti /
+PP8.6/ 8.6: na/ viśeṣyajñānatvāt / nahi viśeṣyajñānam sārūpyād viśeṣaṇasambandham antareṇa bhavitum arhati / tathā cāha sūtrakāraḥ samavāyinaḥ śvaityāc chvaityabuddheḥ śvete buddhis te kāryakāraṇabhūte iti /
+PP8.6/ 8.6: na tu laiṅgikam jñānam abhedenotpadyate tasmād viṣamo'yam upanyāsaḥ na āśūtpatteḥ yathā śabdavad ākāśam iti atra trīṇi jñānāny āśūtpadyante tathā dvitvādijñanotpattāv ity adoṣaḥ /
+PP8.6/ 8.6: badhyaghātakapakṣe'pi samāno doṣa iti cet syān matam/ nanu badhyaghātakapakṣe'pi tarhi dravyajñānānutpatti prasaṅgaḥ / katham / dvitvasāmānyabuddhisamakālam saṃskārād apekṣābuddhivināśād iti/ na /
+PP8.6/ 8.6: samūhajñānasya saṃskārahetutvāt samūhajñānm eva saṃskārakāraṇam nālocanajñānam ity adoṣaḥ / jñānayaugapadyaprasaṅga iti cet syān matam nanu jñānānām badhyaghātakavirodhe jñānayaugapadyaprasaṅga iti/ na /
+PP8.6/ 8.6: avinaśyator avasthānapratiṣedhāt /
+PP8.6/ 8.6: jñānāyaugapdyavacanena jñānayor yugapad utpattir avinaśyatoś ca yugapadavasthānam pratiṣidhyate nahi badhyaghātakavirodhe jñānayor yugapadutpattir vinaśyatoś ca yugapadavasthānam astīti //
+PP8.7/ 8.7: parimāṇam mānavyavahārakāraṇam / tac caturvidham aṇu mahad dīrgham hrasvam ceti / tatra mahad dvividham nityam anityam ca / nityam ākāśakāladigātmasu paramamahattvam anityam tryaṇukādāv eva /
+PP8.7/ 8.7: tathā cāṇv api dvividham nityam anityam ca/ nityam paramāṇumanassu tat pārimāṇḍaluyam/ anityam dvyaṇuka eva / kuvalayāmalakabilvādiṣu mahatsv api tatprakarṣabhāvābhāvam apekṣya bhākto'ṇutvavyavahāraḥ /
+PP8.7/ 8.7: dīrghatvahrasvatve cotpādye mahadaṇutvaikārthasamavete/ samidikṣuvaṃśādiṣv aṃjasā dīrgheṣv api tatprakarṣabhāvābhāvam apekṣya bhākto hrasvatvavyavahāraḥ /
+PP8.7/ 8.7: anityam caturvidham api saṃkhyāparimāṇapracayayoni / tatreśvarabuddhim apekṣyotpannā paramāṇudvyaṇukeṣu bahutvasaṃkhyā tair ārabdhe kāryadravye tryaṇukādilakṣaṇe rūpādyutpattisamakālam mahattvam dīrghatvam ca karoti /
+PP8.7/ 8.7: dvibahubhir mahadbhiś cārabdhe kāryadravye kāraṇamahattvāny eva mahattvam ārabhante na bahutvam / samānasaṃkhyaiś cārabdhe'tiśayadarśanāt /
+PP8.7/ 8.7: pracaya tūlapiṇḍayor vartamānaḥ piṇḍārambhakāvayavapraśithilasamyogān apekṣamāṇa itaretarapiṇḍāvayavasamyogāpekṣo vā dvitūlake mahattvam ārabhate na bahutvamahattvāni /
+PP8.7/ 8.7: samānasaṃkhyāpalaparimāṇair ārabdhe 'tiśayadarśanāt/ dvitvasaṃkhyā cāṇvor vartamānā dvyaṇuke'ṇutvam ārabhate / mahattvavat tryaṇukādau kāraṇabahutvamahattvasamānajātīyapracayebhyo dīrghatvasyopattiḥ /
+PP8.7/ 8.7: aṇutvavad dvyaṇuke dvitvasaṃkhyāto hrasvatvasyotpattiḥ / atha tryaṇukādiṣu vartamānayor mahattvadīrghatvayoḥ parsparataḥ ko viśeṣaḥ dvyaṇukeṣu cāṇutvahrasvatvayor iti /
+PP8.7/ 8.7: tatrāsti mahattvadīrghatvayoḥ parasparatoviśeṣah, mahatsu dīrgham ānīyatām dīrgheṣu ca mahad ānīyatām iti viśiṣṭavyavahāradarśanād iti /
+PP8.7/ 8.7: aṇutvahrasvatvayos tu parasparato viśeṣas taddarśinām pratyakṣa iti/ tac caturvidham api parimāṇam utpādyam āśrayavināśād eva vinaśyatīti //
+PP8.8/ 8.8: pṛthaktvam apoddhāravyavahārakāraṇam / tat punar ekadravyam anekadravyam ca / tasya tu nityānityatvaniṣpattayaḥ saṃkhyayā vyākhyātāḥ / etāvāṃs tu viśeṣaḥ ekatvādivad ekapṛthaktvādiṣv aparasāmānyābhāvaḥ saṃkhyayā tu viśiṣyate tadviśiṣṭavyavahāradarśanād iti //
+PP8.9/ 8.9: samyogaḥ samyuktapratyayanimittam / sa ca dravyaguṇakarmahetuḥ / dravyārambhe nirapekṣas tathā bhavatīti sāpekṣebhyo nirapekṣebhyaś ceti vacanāt/ guṇakarmārambhe tu sāpekṣaḥ samyuktasamavāyād agner vaiśeṣikam iti vacanāt /
+PP8.9/ 8.9: atha kathaṃlakṣaṇaḥ katividhaś ceti / aprāptayoḥ prāptiḥ samyogaḥ sa ca trividhaḥ anyatarakarmajaḥ ubhayakarmajaḥ samyogajaś ca/ tatrānyatarakarmajaḥ kriyāvatā niṣkriyasya /
+PP8.9/ 8.9: yathā sthāṇoḥ śyenenna vibhūnām ca mūrttaiḥ / ubhayakarmajo viruddhadikkriyayoḥ sannipātaḥ / yathā mallayor meṣāyor vā/
+PP8.9/ 8.9: samyogajas tūtpannamātrasya cirotpannasya vā niṣkriyasya kāraṇasamyogibhir akāraṇaiḥ kāraṇākāraṇasamyogapūrvakaḥ kāryākāryagataḥ samyogaḥ /
+PP8.9/ 8.9: sa caikasmād dvābhyām bahubhyaś ca bhavati / ekasmāt tāvat tantuvīraṇasamyogāt dvitantukavīraṇasamyogaḥ/ dvābhyām tantvākāśasamyogābhyām eko dvitantukākāśasamyogaḥ/ bahubhyaś ca tantturīsamyogebhya ekaḥ paṭaturīsamyogaḥ /
+PP8.9/ 8.9: ekasmāc ca dvayor utpattiḥ / katham / yadā pārthivāpyayor aṇvoḥ samyoge saty anyena pārthivena pārthivasyānyenāpyena cāpyasya yugapatsamyogau bhavatas tadā tābhyām samyogābhyām pārhtivāpye dvyaṇuke yugapad ārabhyete /
+PP8.9/ 8.9: tato yasmin kāle dvyaṇukayoḥ kāraṇaguṇapūrvakrameṇa rūpādyutpattiḥ tasminn eva kāle itaretarakāraṇākāraṇagatāt samyogād itaretarakāyākāryagatau samyogau yugapad utpadyete/ kim kāraṇam /
+PP8.9/ 8.9: kāraṇasāyoginā hy akāraṇena kāryam avaśyam samyujyate iti nyāyaḥ ataḥ pārthivam dvyaṇukam kāraṇasamyogināpyenāṇunā sambaddhyate āpyam api dvyaṇukam kāraṇsamyoginā pārthiveneti /
+PP8.9/ 8.9: atha dvyaṇukayor itaretarakāraṇākāraṇasambaddhayoḥ katham parasparataḥ sambandha iti/ tayor api samyogajābhyām samyogābhyām sambandha iti/ nāstyajaḥ samyogo nityaparimaṇḍalavat pṛthaganabhidhānāt /
+PP8.9/ 8.9: yathā caturvidham parimāṇam utpādyam uktvāha nityam parimaṇḍalam ity evam anyatarakarmajādisamyogam utpādyam uktvā pṛthaṅnityam brūyān na tv evam abravīt tasmān nāstyajaḥ samyogaḥ /
+PP8.9/ 8.9: paramāṇubhir ākāśādīnām pradeśavṛttir anyatarakarmajaḥ samyogaḥ/ vibhūnām tu parasparataḥ samyogo nāsti yutasiddhyabhāvāt /
+PP8.9/ 8.9: sā punar dvayor anyatarasya vā pṛthaggatimattvam pṛthagāśrayāśrayitvam ceti / vināśas tu sarvasya samyogasyaikārthasamavetād vibhāgāt kvacid esrayavināśād api/ katham /
+PP8.9/ 8.9: yadā tantvoḥ samyoge satyanyataratantvārambhake aṃśau karmotpadyate tena karmaṇā aṃśvantatarād vibhāgaḥ kriyate vibhāgāc ca tantvārambhakasamyogavināśaḥ samyogavināśāt tantuvināśas tadvināśe tadāśritasya tantvantarasamyogasya vināśa iti //
+PP8.10/ 8.10: vibhāgo vibhaktapratyayanimittam / śabdavibhāgahetuś ca/ prāptipūrvikā 'prāptir vibhāgaḥ / sa ca trividhaḥ / anyatarakarmaja ubhayakarmajo vibhāgajaś ca vibhāga iti /
+PP8.10/ 8.10: tatrānyatarakarmajobhayakarmajau samyogavat / vibhāgajas tu dvividhaḥ kāraṇavibhāgāt kāraṇākāraṇavibhāgāc ca/ tatra kāraṇavibhāgāt tāvat kāryāviṣṭe kāraṇe karmotpannam yadā tasyāvayavāntarād vibhāgam karoti na tadākāśādideśāt yadā tv ākāśādideśād vibhāgam karoti na tadāvayavāntarād iti sthitiḥ /
+PP8.10/ 8.10: ato'vayavakarmāvayavāntarād eva vibhāgam ārabhate tato vibhāgāc ca dravyārambhakasamyogavināśaḥ tasmin vinaṣṭe kāraṇābhāvāt kāryābhāva ity avayavivināśaḥ tadā kāraṇayor vartamāno vibhāgaḥ kāryavināśaviśiṣṭam kālam svatantram vāvayavam apekṣya sakriyasyaivāvayavasya kāryasamyuktād ākāśādideśād vibhāgam ārabhate na niṣkriyasya kāraṇābhāvād uttarasamyogānutpattāv anupabhogyatvaprasaṅgaḥ na tu tadavayavakarmākāśādideśād vibhāgam karoti tadārambhakālātītatvāt pradeśāntarasamyogam tu karoty eva akṛtasamyogasya karmaṇaḥ kālātyayābhāvād iti /
+PP8.10/ 8.10: kāraṇākāraṇavibhāgād api katham /
+PP8.10/ 8.10: yadā haste karmotpannam avayavāntarād vibhāgam akurvadākāśādideśebhyo vibhāgān ārabhya pradeśāntare samyogān ārabhate tadā te kāraṇākāraṇavibhāgāḥ karma yām diśam prati kāryārambhābhimukham tām apekṣya kāryākāryavibhāgān ārabhante tadanantaram kāraṇākāraṇasamyogāc ca kāryākāryasamyogān iti /
+PP8.10/ 8.10: yadi kāraṇavibhāgānantaram kāryavibhāgotpattiḥ kāraṇasamyogānantaram kāryasamyogotpattiḥ nanv evam avayavāvayavinor yutasiddhidoṣaprasaṅgaḥ iti / na /
+PP8.10/ 8.10: yutasiddhyaparijñānāt/ sā punar dvayor anyatarasya vā pṛthaggatimattvam iyantu nityānām anityānām tu yuteṣv āśrayeṣu samavāyo yutasiddhir iti /
+PP8.10/ 8.10: tvagindriyaśarīrayoḥ pṛthaggatimattvam nāsti yuteṣv āśrayeṣu samavāyostīti paraspareṇa samyogaḥ siddhaḥ/ aṇvākāśayos tv āśrayāntarābhāvepy anyatarasya pṛthaggatimattvāt samyogavibhāgau siddhau /
+PP8.10/ 8.10: tantupaṭayor anityayor āśrayāntarābhāvāt parasparataḥ samyogavibhāgābhāva iti / digādīnām tu pṛthaggatimattvābhāvād iti paraspareṇa samyogavibhāgābhāva iti /
+PP8.10/ 8.10: vināśas tu sarvasya vibhāgasya kṣaṇikatvād uttarasamyogāvadhisadbhāvād kṣaṇika iti /
+PP8.10/ 8.10: na tu samyogavidyayor eva vibhāgas tayor eva samyogād vināśo bhavati kasmāt samyuktapratyayavadvibhaktapratyayānuvṛttyabhāvāt tasmād uttarasamyogāvadhisadbhāvāt kṣaṇika iti /
+PP8.10/ 8.10: kvacic cāśrayavināśād eva vinaśyatīti / katham /
+PP8.10/ 8.10: yadā dvitantukakāraṇāvayave aṃśau karmotpannam aṃśvantarād vibhāgām ārabhate tadaiva tantvantare'pi karmotpadyate vibhāgāc ca tantvārambhakasamyogavināśaḥ tantukarmaṇā tantvantarād vibhāgaḥ kriyate ity ekaḥ kālaḥ /
+PP8.10/ 8.10: tato yasminn eva kāle vibhāgāt tantusamyogavināśaḥ tasminn eva kāle samyogavināśāt tantuvināśas tasmin vinaṣṭe tadāśritasya tantvantaravibhāgasya vināśa iti/ evam tarhy uttaravibhāgānutpattiprasaṅgaḥ /
+PP8.10/ 8.10: kāraṇavibhāgābhāvāt/ tataḥ pradeśāntarasamyogavati samyogābhāva ity ato virodhiguṇāsambhavāt karmaṇaś cirakālāvasthāyitvam nityadravyasamavetasya ca nityatvam iti doṣaḥ / katham /
+PP8.10/ 8.10: yadāpyadvyaṇukārambhakaparamāṇau karmotpannam aṇvantarād vibhāgam karoti tadaivāṇvantare 'pi karma tato yasminn eva kāle vibhāgād dravyārambhakasamyogavināśaḥ tadaivāṇvantarakarmaṇā dvyaṇukāṇvor vibhāgaḥ kriyate tato yasminn eva kāle vibhāgāt dvyuaṇukāṇusamyogasya vināśaḥ tasminn eva kāle samyogavināśāt dvyaṇukasya vināśaḥ
+PP8.10/ 8.10: tasmin vinaṣṭe tadāśritasya dvyaṇukāṇuvibhāgasya vināśaḥ tataś ca virodhiguṇāsambhavān nityadravyasamavetakarmaṇo nityatvam iti /
+PP8.10/ 8.10: tantvaṃśvantaravibhāgād vibhāga ity adoṣaḥ / āśrayavināśāt tantvor eva vibhāgo vinaṣṭo na tantvaṃśvantaravibhāga iti etasmād uttaro vibhāgo jāyate aṅgulyākāśavibhāgāc charīrākāśavibhāgavat tasminn eva kāle karma samyogam kṛtvā vinaśyatīty adoṣaḥ /
+PP8.10/ 8.10: athavā aṃśvantaravibhāgotpattisamakālam tasminn eva tantau karmotpadyate tatoṃśvantaravibhāgāt tantvārambhakasamyogavināśaḥ tantukarmaṇā ca tantvantarād vibhāgaḥ kriyate ity ekaḥ kālaḥ /
+PP8.10/ 8.10: tataḥ samyogavināśāt tantuvināśaḥ tadvināśāc ca tadāśritayor vibhāgakarmaṇor yugapadvināśaḥ / tantuvīraṇayor vā samyoge sati dravyānutpattau pūrvoktena vidhānenāśrayavināśasamyogābhyām tantuvīraṇavibhāgavināśa iti //
+PP8.11/ 8.11: paratvam aparatvam ca parāparābhidhānapratyayanimittam / tat tu dvividham dikkṛtam kālakṛtam ca/ tatra dikkṛtam digviśeṣapratyāyakam /
+PP8.11/ 8.11: kālakṛtam ca vayobhedapratyāyakam/ tatra dikkṛtasyotpattir abhidhīyate / katham / ekasyām diśy avasthitayoḥ piṇḍayoḥ samyuktasamyogabahvalpabhāve saty ekasya draṣṭuḥ sannikṛṣṭam avadhim kṛtvā etasmād viprakṛṣṭo 'yam iti paratvādhāre'sannikṛṣṭā buddhir utpadyate /
+PP8.11/ 8.11: tatas tām apekṣya pareṇa dikpradeśena samyogāt paratvasyotpattiḥ/ tathā viprakṛṣṭam cāvadhim kṛtvā etasmāt sannikṛṣṭoyam ity aparatvādhāre itarasmin sannikṛṣṭā buddhir utpadyate /
+PP8.11/ 8.11: tatas tām apekṣyāpareṇa dikpradeśena samyogād aparatvasyotpattiḥ / kālakṛtayor api katham /
+PP8.11/ 8.11: vartamānakālayor aniyatadigdeśasamyuktayor yuvasthavirayo rūḍhaśmaśrukārkaśyabalipalitādisānnidhye saty ekasya draṣṭur yuvānam avadhim kṛtvā sthivire viprakṛṣṭā buddhir utpadyate /
+PP8.11/ 8.11: tatas tām apekṣya pareṇa kālapradeśena samyogāt paratvasyotpattiḥ/ sthaviram cāvadhim kṛtvā yūni sannikṛṣṭā buddhir utpadyate / tatas tām apekṣyāpareṇa kālapradeśena samyogād aparatvasyotpattir iti /
+PP8.11/ 8.11: vināśas tv apekṣābuddhisamyogadravyavināśāt/ apekṣābuddhivināśāt tāvad utpanne paratve yasmin kāle sāmānyabuddhir utpannā bhavati tato'pekṣābuddher vinaśyattā sāmānyajñānatatsambandhebhyaḥ paratvaguṇabuddher utpadyamānatety ekaḥ kālaḥ /
+PP8.11/ 8.11: tato'pekṣābuddher vināśo guṇabuddheś cotpattiḥ tato'pekṣābuddhivināśād guṇasya vinaśyattā guṇajñānatatsambandhebhyo dravyabuddher utpadyamānatety ekaḥ kālaḥ / tato dravyabuddher utpattir guṇasya vināśa iti /
+PP8.11/ 8.11: samyogavināśād api katham/ apekṣābuddhisamakālam eva paratvādhāre karmotpadyate tena karmaṇā dikpiṇḍavibhāgaḥ kriyate apekṣābuddhitaḥ paratvasyotpattir ity ekaḥ kālaḥ /
+PP8.11/ 8.11: tataḥ sāmānyabuddhier utpattiḥ dikpiṇḍasamyogasya ca vināśaḥ tato yasmin kāle guṇabuddhir utpadyate tasminn eva kāle dikpiṇḍasamyogavināśād guṇasya vināśaḥ/ dravyavināśād api katham /
+PP8.11/ 8.11: paratvādhārāvayave karmotpannam yasminn eva kāle'vayavāntarād vibhāgam karoti tasminn eva kāle 'pekṣābuddhir utpadyate tato vibhāgād yasminn eva kāle samyogavināśaḥ tasminn eva kāle paratvam utpadyate tataḥ samyogavināśād dravyavināśaḥ tadvināśāc ca tadāśritasya guṇasya vināśaḥ /
+PP8.11/ 8.11: dravyāpekṣābuddhor yugapadvināśād api katham / yadā paratvādhārāvayave karmotpadyate tadaivāpekṣābuddhir utpadyate karmaṇā cāvayavāntarād vibhāgaḥ kriyate paratvasyotpattir ity ekaḥ kālaḥ /
+PP8.11/ 8.11: tato yasminn eva kāle 'vayavavibhāgād dravyārambhakasamyogavināśas tasminn eva kāle sāmānyabuddhir utpadyate tadanantaram samyogavināśād dravyavināśaḥ sāmānyabuddheś cāpekṣābuddhivināśa ity ekaḥ kālaḥ /
+PP8.11/ 8.11: tato dravyāpekṣābuddhor vināśāt paratvasya vināśaḥ/ dravyasamyogavināśād api katham /
+PP8.11/ 8.11: yadā paratvādhārāvayave karmotpannam avayavāntarād vibhāgam karoti tasminn eva kāle piṇḍakarmāpekṣābuddhor yugapad utpattiḥ tato yasminn eva kāle paratvasyotpattis tasminn eva kāle vibhāgād dravyārambhakasamyogavināśaḥ piṇḍakarmaṇā dikpiṇḍasya ca vibhāgaḥ kriyate ity ekaḥ kālaḥ /
+PP8.11/ 8.11: tato yasminn eva kāle sāmānyabuddhir utpadyate tasminn eva kāle dravyārambhakasamyogavināśāt piṇḍavināśaḥ piṇḍavināśāc ca piṇḍasamyogavināśaḥ tato guṇabuddhisamakālam piṇḍadikpiṇḍasamyogavināśāt paratvasya vināśaḥ /
+PP8.11/ 8.11: samyogāpekṣābuddhor yugapadvināśād api katham / yadā paratvam utpadyate tadā paratvādhāre karma tato yasminn eva kāle paratvasāmānyabuddhir utpadyate tasminn eva kāle piṇḍakarmaṇā dikpiṇḍavibhāgaḥ kriyate tataḥ sāmānyabuddhito'pekṣābuddhivināśo vibhāgāc ca dikpiṇḍasamyogavināśa ity ekaḥ kālaḥ /
+PP8.11/ 8.11: tataḥ samyogāpekṣābuddhivināśāt paratvasya vināśaḥ /
+PP8.11/ 8.11: trayāṇām samavāyyasamavāyinimittakāraṇānām yugapad vināśād api katham / yadāpekṣābuddhir utpadyate tadā piṇḍāvayave karma tato yasminn eva kāle karmaṇāvayavāntarād vibhāgaḥ kriyate'pekṣābuddheḥ paratvasya cotpattis tasminn eva kāle piṇḍe'pi karma tato'vayavavibhāgāt piṇḍārambhakasamyogavināśaḥ piṇḍakarmaṇā ca dikpiṇḍavibhāgaḥ kriyate sāmānyabuddheś cotpattir ity ekaḥ kālaḥ /
+PP8.11/ 8.11: tataḥ samyogavināśāt piṇḍavināśaḥ vibhāgāc ca dikpiṇḍasamyogavināśaḥ sāmānyajñānād apekṣābuddher vināśa ity etat sarvam yugapat trayāṇām samavāyyasamavāyinimittakāraṇānām vināśāt paratvasya vināśa iti //
+PP8.12/ 8.12: buddhir upalabdhir jñānam pratyaya iti paryāyāḥ //
+PP8.12/ 8.12: sā cānekaprakārārthānantyāt pratyarthaniyatatvāc ca //
+PP8.12/ 8.12: tasyāḥ saty apy anekavidhatve samāsato dve vidhe vidyā cāvidyā ceti / tatrāvidyā caturvidhā saṃśayaviparyayānadhyavasāyasvapnalakṣaṇā //
+PP8.12.1.1/ 8.12.1.1: saṃśayas tāvat prasiddhānekaviśeṣayoḥ sādṛśyamātradarśanād ubhayaviśeṣānusmaraṇād adharmāc ca kiṃsvid ity ubhayāvalambī vimarṣaḥ saṃśayaḥ /
+PP8.12.1.1/ 8.12.1.1: sa ca dvividhaḥ antar bahiś ca / antas tāvat ādeśikasya samyaṅmithyā coddiśya punar ādiśatas triṣu kāleṣu saṃśayo bhavati kin nu samyaṅmithyā veti /
+PP8.12.1.1/ 8.12.1.1: bahir dvividhaḥ pratyakṣaviṣaye cāpratyakṣaviṣaye ca /
+PP8.12.1.1/ 8.12.1.1: tatrāpratyakṣaviṣaye tāvat sādhāraṇaliṅgadarśanād ubhayaviśeṣānusmaraṇād adharmāc ca saṃśayo bhavati / yathā 'ṭavyām viṣāṇamātradarśanād gaur gavayo veti /
+PP8.12.1.1/ 8.12.1.1: pratyakṣāviṣaye'pi sthāṇupuruṣayor ūrdhvatāmātrasādūśyadarśanāt vakrādiviśeṣānupalabdhitaḥ sthāṇutvādisāmānyaviśeṣānabhivyaktāv ubhayaviśeṣānusmaraṇād ubhayatrākṛṣyamāṇasyātmanaḥ pratyayo dolāyate kim nu khalv ayam sthāṇuḥ syāt puruṣo veti //
+PP8.12.1.2/ 8.12.1.2: viparyayopi pratyakṣānumānaviṣaya eva bhavati /
+PP8.12.1.2/ 8.12.1.2: pratyakṣaviṣaye tāvat prasiddhānekaviśeṣayoḥ pittakaphānilopahatendriyasyāyathārthālocanāt asannihitaviṣayajñānajasaṃskārāpekṣād ātmamanasoḥ samyogād adharmāc cātasmiṃs tad iti pratyayo viparyayaḥ /
+PP8.12.1.2/ 8.12.1.2: yathā gavyevāśva iti/ asaty api pratyakṣe pratyakṣābhimāno bhavati yathā vyapagataghanapaṭalamacalajalanidhisadūśambaram aṃjanacūrṇapuṃjaśyāam śārvaram tama iti /
+PP8.12.1.2/ 8.12.1.2: anumānaviṣaye'pi bāṣpādibhir dhūmābhimatair vahyanumāṇam gavayaviṣāṇadarśanāc ca gaur iti /
+PP8.12.1.2/ 8.12.1.2: trayīdarśanaviparīteṣu śākyādidarśaneṣv idam śreya iti mithyāpratyayaḥ viparyayaḥ śarīrendriyamanas svātmābhimānaḥ kṛtakeṣu nityatvadarśanam kāraṇavaikalye kāryotpattijñānam hitam upadiśatsv ahitam itijñānam ahitam upadiśatsu hitam itijñānam //
+PP8.12.1.3/ 8.12.1.3: anadhyavasāyopi pratyakṣānumānaviṣaya eva saṃjāyate / tatra pratyakṣaviṣaye tāvat prasiddhārtheṣv aprasiddhāryeṣu vā vyāsaṅgād arhtitvād vā kim ity ālocanamātram anadhyavasāyaḥ /
+PP8.12.1.3/ 8.12.1.3: yathā vāhīkasya panasādiṣv anadhyavasāyo bhavati/ tatra sattādravyatvapṛthvītvavṛkṣatvarūpavattvādiśākhādyapekṣo'dhyavasāyo bhavati /
+PP8.12.1.3/ 8.12.1.3: panasatvam api panaseṣv anuvṛttam āṃrādibhyo vyāvṛttam pratyakṣam eva kevalam tūpadeśābhāvād viśeṣasaṃjñāpratipattir na bhavati /
+PP8.12.1.3/ 8.12.1.3: anumānaviṣaye'pi nārikeladvīpavāsinaḥ sāsnāmātradarśanāt konu khalv ayam prāṇī syād ity anadhyavasāyo bhavati //
+PP8.12.1.4/ 8.12.1.4: uparatendriyagrāmasya pralīnamanaskasyendriyadvāreṇaiva yad anubhavanam mānasam tat svapnajñānam/ katham /
+PP8.12.1.4/ 8.12.1.4: yadā buddhipūrvād ātmanaḥ śarīravyāpārād ahani khinnānām prāṇinām niśi viśramārtham āhārapariṇāmārtham vādṛṣṭakāritaprayatnāpekṣād ātmāntahkaraṇasambandhān manasi kriyāprabandhād antarhṛdaye nirindriye ātmapradeśe niścalam manas tiṣṭhati tadā pralīnamanaska ityākhyāyate
+PP8.12.1.4/ 8.12.1.4: pralīne ca tasminn uparatendriyagrāmo bhavati tasyāmavasthāyām prabandhena prāṇāpānasantānapravṛttāv ātmamanahsamyogaviśeṣāt svāpākhyāt saṃskārāc cendriyadvāreṇaivāsatsu viṣayeṣu pratyakṣākāram svapnajñānam utpadyate /
+PP8.12.1.4/ 8.12.1.4: tat tu trividham/ saṃskārapāṭavāddhātudoṣād adṛṣṭāc ca /
+PP8.12.1.4/ 8.12.1.4: tatra saṃskārapāṭavāt tāvat kāmī krudho vā yadā yamartham ādūtaś cintayan svapiti tadā saiva cintāsantatiḥ pratyakṣākārā saṃjāyate /
+PP8.12.1.4/ 8.12.1.4: dhātudoṣād vātaprakṛtis taddūṣito vā ākāśagamanādīn paśyati / pittaprakṛtiḥ pittadūṣito vāgnipraveśakanakaparvatādīn paśyati /
+PP8.12.1.4/ 8.12.1.4: śleṣmaprakṛtiḥ śleṣmadūṣito vā saritsamudraprataraṇahimaparvatādīn paśyati/
+PP8.12.1.4/ 8.12.1.4: yat svayam anubhūteṣv ananubhūteṣu vā prasiddhārtheṣv aprasiddhārtheṣu vā yac chubhāvedakam gajārohaṇacchattralābhādi tat sarvam sāṃskārādharmābhyām bhavati viparītam ca tailābhyaṃjanakharoṣṭārohaṇādi tat sarvam adharmasaṃskārābhyām bhavati /
+PP8.12.1.4/ 8.12.1.4: atyantāprasiddhārtheṣv adṛṣṭād eveti /
+PP8.12.1.4/ 8.12.1.4: svapnāntikam yady apy uparatendriyagrāmasya bhavati tathāpy atītasya jñānaprabandhasya pratyavekṣaṇāt smṛtir eveti bhavaty eṣā caturividhā 'vidyeti //
+PP8.12.2/ 8.12.2: vidyāpi caturvidhā / pratyakṣalaiṅgikasmṛtyārṣalakṣaṇā //
+PP8.12.2.1/ 8.12.2.1: tatrākṣam akṣam pratītyotpadyate pratakṣam [.5: pratītya yad utpadyate tat pratyakṣam ] /
+PP8.12.2.1/ 8.12.2.1: akṣāṇīndriyāṇi ghrāṇarasanacakṣustvakchrotramanāṃsi ṣaṭ/ tad dhi dravyādiṣu padārtheṣūtpadyate /
+PP8.12.2.1/ 8.12.2.1: dravye tāvad dvividhe mahaty anekadravyavattvodbhūtarūpaprakāśacatuṣṭayasannikarṣād dharmādisāmagrye ca svarūpālocanamātram /
+PP8.12.2.1/ 8.12.2.1: sāmānyaviśeṣadravyaguṇakarmaviśeṣaṇāpekṣād ātmamanaḥ sannikarṣāt pratyakṣam utpadyate sad dravyam pṛthivī viṣāṇī śuklo gaur gacchatīti /
+PP8.12.2.1/ 8.12.2.1: rūparasagandhasparśeṣv anekadravyasamavāyāt svagataviśeṣāt svāśrayasannikarṣān niyatendriyanimittam utpadyate / tenaivopalabdhiḥ /
+PP8.12.2.1(187.1)/ saṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvasnehadravatvavegakarmaṇām pratyakṣadravyasamavāyāc cakṣuḥ sparśanābhyām grahaṇam /
+PP8.12.2.1/ 8.12.2.1: buddhisukhaduhkhecchādveṣaprayatnānām dvayor ātmamanasoḥ samyogād upalabdhiḥ/ bhāvadravyatvaguṇatvakarmatvādīnām upalabhyādhārasamavetānām āśrayagrāhakair indriyair grahaṇam ity etad asmadādīnām pratyakṣam /
+PP8.12.2.1/ 8.12.2.1: asmadviśiṣṭānām tu yoginām yuktānām yogajadharmānugṛhītena manasā svātmāntarākāśadikkālaparamaṇuvāyumanasassu tatsamavetaguṇakarmasāmānyaviśeṣeṣu samavāye cāvitatham svarūpadarśanam utpadyate /
+PP8.12.2.1/ 8.12.2.1: viyuktānām punaś catuṣṭayasannikarṣād yogajadharmānugrahasāmarthayāt sūkṣmavyavahitaviprakṛṣṭeṣu pratyakṣam utpadyate /
+PP8.12.2.1/ 8.12.2.1: tatra sāmānyaviśeṣeṣu svarūpālocanamātram pratyakṣam pramāṇam prameyā dravyādayaḥ padārthāḥ pramānātmā pramitir dravyādiviṣayam jñānam /
+PP8.12.2.1/ 8.12.2.1: sāmānyaviśeṣajñānotpattāv avibhaktam ālocanamātram pratyakṣam pramāṇam asmin nānyatpramāṇāntaram asti aphalarūpatvāt /
+PP8.12.2.1/ 8.12.2.1: athavā sarveṣu padārtheṣu catuṣṭayasannikarṣād avitatham avyapadeśyam yajjñānam utpadyate tatpratyakṣam pramāṇam prameyā dravyādayaḥ padārthāḥ pramātātmā pramitir guṇadoṣamādhyasthyadarśanam iti //
+PP8.12.2.2/ 8.12.2.2: liṅgadarśanāt saṃjāyamānam laiṅgikam //
+PP8.12.2.2/ 8.12.2.2: liṅgampunaḥ
+PP8.12.2.2/ 8.12.2.2: yadanumeyena sambaddham prasiddham ca tadanvite /
+PP8.12.2.2/ 8.12.2.2: tadabhāve ca nāsty eva talliṅgam anumāpakam //
+PP8.12.2.2/ 8.12.2.2: viparītam ato yat syād ekena dvitayena vā /
+PP8.12.2.2/ 8.12.2.2: viruddhāsiddhasandigdham aliṅgam kāśyapo'bravīt //
+PP8.12.2.2/ 8.12.2.2: yadanumeyenārthena deśaviśeṣe kālaviśeṣe vā sahacaritam anumeyadharmānvite cānyatra sarvasminn ekadeśe vā prasiddham anumeyaviparīte ca sarvasmin pramāṇato'sad eva tadaprasiddhārthasyānumāpakam liṅgam bhavatīti //
+PP8.12.2.2/ 8.12.2.2: vidhis tu yatra dhūmas tatrāgnir agnyabhāve dhūmo'pi na bhavatīti/ evam prasiddhasamayasyāsandigdhadhūmadarśanāt sāhacaryānusmaraṇāt tadanantaram agnyadhyavasāyo bhavatīti /
+PP8.12.2.2/ 8.12.2.2: evam sarvatra deśakālāvinābhūtam itarasya liṅgam/ śāstre kāryādigrahaṇam nidarśanārtham kṛtam nāvadhāraṇārtham kasmādyūtir ekadarśanāt /
+PP8.12.2.2/ 8.12.2.2: tadyathā adhvaryur oṃśrāvayan vyavahitasya hotur liṅgam candrodayaḥ samudravṛddheḥ kumudavikāśasya ca śaradi jalaprasādo 'gastyodayasyeti /
+PP8.12.2.2/ 8.12.2.2: evamādi tat sarvam asyedam iti sambandhamātravacanāt siddham/ tat tu dvividham / dṛṣṭam sāmānyato dṛṣṭam ca /
+PP8.12.2.2/ 8.12.2.2: tatra dṛṣṭam prasiddhasādhyayor atyantajātyabhede 'numānam/ yathā gavy eva sāsnāmātram upalabhya deśāntare'pi sāsnāmātradarśanād gavi pratipattiḥ /
+PP8.12.2.2/ 8.12.2.2: prasiddhasādhyayor atyantajātibhede liṅgānumeyadharmasāmānyānuvṛttito'numānam sāmānyato dṛṣṭam /
+PP8.12.2.2/ 8.12.2.2: yathā karṣakavaṇigrājapuruṣāṇām ca pravṛtteḥ phalavattvam upalabhya varṇāśramiṇām api dṛṣṭam prayojanam anuddiśya pravartamānānām phalānumānam iti /
+PP8.12.2.2/ 8.12.2.2: tatra liṅgadarśanam pramāṇam pramitir agnijñānam/ athavāgnijñānam eva pramāṇam pramitir agnau guṇadoṣamādhyasthyadarśanam ity etat svaniścitārtham anumānam /
+PP8.12.2.2.A/ 8.12.2.2.A: śabdādīnām apy anumāne'ntarbhāvaḥ samānavidhitvāt /
+PP8.12.2.2.A/ 8.12.2.2.A: yathā prasiddhasamayasyāsandigdhaliṅgadarśanaprasiddhyanusmaraṇābhyām atīndriye'rthe bhavaty anumānam evam śabdādibhyo'pīti /
+PP8.12.2.2.A/ 8.12.2.2.A: śrutismṛtilakṣaṇo'py āmnāyovaktṛprāmāṇyāpekṣaḥ tadvacanād āmnāyaprāmāṇyam liṅgāc cānityo buddhipūrvā vākyakṛtir vede buddhipūrvo dadātir ity uktatvāt //
+PP8.12.2.2.A/ 8.12.2.2.A: prasiddhābhinayasya ceṣṭayā pratipattidarśanāt tad apy anumānam eva //
+PP8.12.2.2.A/ 8.12.2.2.A: āptenāprasiddhasya gavayasya gavā gavayapratipādanād upamānam āptavacanam eva //
+PP8.12.2.2.A/ 8.12.2.2.A: darśanārthād arthāpattir virodhy eva śravaṇād anumitānumānam //
+PP8.12.2.2.A/ 8.12.2.2.A: sambhavo'py avinābhāvitvād anumānam eva //
+PP8.12.2.2.A/ 8.12.2.2.A: abhāvo'py anumānam eva yathotpannam kāryam kāraṇasadbhāve liṅgam/ evam anutpannam kāryam kāraṇāsadbhāve liṅgam //
+PP8.12.2.2.A/ 8.12.2.2.A: tathaivaitihyam apy avitatham āptopadeśa eveti //
+PP8.12.2.2.B/ 8.12.2.2.B: pañcāvayavena vākyena svaniścitārthapratipādanām parārthānumānam / pañcāvayavenaiva vākyena saṃśayitaviparyas tāvyutpannānām pareṣām svaniścitārthapratipādanam parārthānumānam vijñeyam //
+PP8.12.2.2.B/ 8.12.2.2.B: avayavāḥ punaḥ pratijñāpadeśanidarśanānusandhānapratyāmnāyāḥ /
+PP8.12.2.2B1/ 8.12.2.2B1: tatrānumeyoddeśo'virodhī pratijñā /
+PP8.12.2.2B1/ 8.12.2.2B1: pratipipādayiṣitadharmaviśiṣṭasya dharmiṇopadeśaviṣayam āpādayitum uddeśamātram pratijñā/ yathā dravyam vāyur iti /
+PP8.12.2.2B1/ 8.12.2.2B1: avirodhigrahaṇāt pratyakṣānumānābhyupagatasvaśāstrasvavacanavirodhino nirastā bhavanti /
+PP8.12.2.2B1/ 8.12.2.2B1: yathā'nuṣṇo'gnir iti pratyakṣavirodhī ghanam ambaram ity anumānavirodhī brāhmaṇena surā peyety āgamavirodhī vaiśeṣikasya satkāryam itibruvataḥ svaśāstravirodhī na śabdo'rthapratyāyaka iti svavacanavirodhī //
+PP8.12.2.2B2/ 8.12.2.2B2: liṅgavacanam apadeśaḥ / yadanumeyena sahacaritam tatsamānajātīye sarvatra sāmānyena prasiddham tadviparīte ca sarvasminn asad eva talliṅgam uktam tasya vacanam apadeśaḥ /
+PP8.12.2.2B2/ 8.12.2.2B2: yathā kriyāvattvād guṇavattvāc ca tathā ca tadanumeye'sti tatsamānajātīye ca sarvasmin guṇavattvam asārvasmin kriyāvattvam /
+PP8.12.2.2B2/ 8.12.2.2B2: ubhayam apy etad adravye nāsty eva tasmāt tasya vacanam apadeśa iti siddham //
+PP8.12.2.2B2/ 8.12.2.2B2: etenāsiddhaviruddhasandigdhānadhyavasitavacanānām anapadeśatvam uktam bhavati / tatrāsiddhaś caturvidhaḥ/ ubhayāsiddho 'nyatarāsiddhaḥ tadbhāvāsiddho 'numeyāsiddhaś ceti /
+PP8.12.2.2B2/ 8.12.2.2B2: tatrobhayāsiddhaḥ ubhayor vādiprativādinor asiddhaḥ yathā'nityaḥ śabdaḥ sāvayavatvād iti /
+PP8.12.2.2B2/ 8.12.2.2B2: anyatarāsiddhaḥ yathā 'nityaḥ śabdaḥ kāryatvād iti / tadbhāvāsiddho yathā dhūmabhāvenāgnyadhigatau kartavyāyām upanyasyamāno vāṣpe dhūmabhāvenāsiddha iti /
+PP8.12.2.2B2/ 8.12.2.2B2: anumeyāsiddho yathā pārthivam dravyam tamaḥ kṛṣṇarūpavattvād iti/ yo hy anumeye 'vidyamāno'pi tatsamānajātīye sarvasmin nāsti tadviparīte cāsti sa viparītasādhanād viruddhaḥ yathā yasmād viṣāṇī tasmād aśva iti /
+PP8.12.2.2B2/ 8.12.2.2B2: yas tu sann anumeye tatsamānāsamānajātīyayoḥ sādhāraṇaḥ sann eva sa sandehajanakatvāt sandigdhaḥ yathā yasmād viṣāṇī tasmād gaur iti/ ekasmiṃś ca dvayor hetvor yathoktalakṣaṇayor viruddhayoḥ sannipāte sati saṃśayadarśanād ayam anyaḥ sandigdha iti kecit /
+PP8.12.2.2B2/ 8.12.2.2B2: yathā mūrtatvāmūrtatvam prati manasaḥ kriyāvattvāsparśavattvayor iti /
+PP8.12.2.2B2/ 8.12.2.2B2: nanv ayam asādhāraṇa evācākṣuṣatvapratyakṣatvavat saṃhatayor anyatarapakṣāsambhavāt tataś cānadhyavasita it vakṣyāmaḥ /
+PP8.12.2.2B2/ 8.12.2.2B2: nanu śāstre tatratatrobhayathā darśanam saṃśayakāraṇam apadiśyata iti na saṃśayo viṣayadvaitadarśanāt /
+PP8.12.2.2B2/ 8.12.2.2B2: saṃśayotpattau viṣayadvaitadarśanam kāraṇam tulyabalatve ca tayoḥ parasparavirodhān nirṇayānutpādakatvam syān na tu saṃśayahetutvam na ca tayos tulyabalavattvam asti anyatarasyānumeyoddeśasyāgamabādhitatvād ayam tu viruddhabheda eva /
+PP8.12.2.2B2/ 8.12.2.2B2: yaś cānumeye vidyamānas tatsamānāsamānajātīyayor asann eva so'nyatarāsiddho'nadhyavasāyahetutvād anadhyavasitaḥ yathā satkāryam utpatter iti /
+PP8.12.2.2B2/ 8.12.2.2B2: ayam aprasiddho 'napadeśa iti vacanād avaruddhaḥ /
+PP8.12.2.2B2/ 8.12.2.2B2: nanu cāyam viśeṣaḥ saṃśayahetur abhihitaḥ śāstre tulyajātīyeṣv arthāntarabhūteṣu viśeṣasyobhayathā dṛṣṭatvād iti nānyārthatvāc chabde viśeṣadarśanāt /
+PP8.12.2.2B2/ 8.12.2.2B2: saṃśayānutpattir ity ukte nāyam dravyādīnām anyatamasya viśeṣaḥ syāc chrāvaṇatvam kim tu sāmānyam eva sampadyate kasmāt tulyajātīyeṣv arthāntarabhūteṣu dravyādibhedānām ekaikaśo viśeṣasyobhayathā dṛṣṭatvād ity uktam na saṃśayakāraṇam anyathā ṣaṭsv api padārtheṣu saṃśayaprasaṅgāt tasmāt sāmānyapratyayād eva saṃśaya iti //
+PP8.12.2.23/ 8.12.2.23: dvividham nidarśanam sādharmyeṇa vaidharmyeṇa ca/ tatrānumeyasāmānyena liṅgasāmānyasyānuvidhānadarśanam sādharmyanidarśanam /
+PP8.12.2.2B3/ 8.12.2.2B3: tadyathā yat kriyāvat tad dravyam dṛṣṭam yathā śara iti/ anumeyaviparyaye ca liṅgasyābhāvadarśanam vaidharmyanidarśanam/ tadyathā yad adravyam tat kriyāvan na bhavati yathā satteti //
+PP8.12.2.2B3/ 8.12.2.2B3: anena nidarśanābhāsā nirastā bhavanti /
+PP8.12.2.2B3/ 8.12.2.2B3: tadyathā nityaḥ śabdo'mūratvāt yad amūrtam dṛṣṭam tan nityam yathā paramāṇur yathā karma yathā sthālī yathā tamaḥ ambaravad iti yad dravyam tat kriyāvad dṛṣṭam iti ca liṅgānumeyobhayāśrayāsiddhānanugataviparītānugatāḥ sādharmyanidarśanābhāsāḥ /
+PP8.12.2.2B3/ 8.12.2.2B3: yad anityam tan mūratam dṛṣṭam yathā karma yathā paramāṇur yathākāśam yathā tamaḥ ghaṭavat yan niṣkriyam tad adravyañ ceti liṅgānumeyobhayāvyāvṛttāśrayāsiddhāvyāvṛttaviparītavyāvṛttā vaidharmyanidarśanābhāsā iti //
+PP8.12.2.2B4/ 8.12.2.2B4: nidarśane'numeyasāmānyena saha dṛṣṭasysa liṅgasāmānyasyānumeye 'nvānayanam anusandhānam /
+PP8.12.2.2B4/ 8.12.2.2B4: anumeyadharmātratvenābhitam liṅgasāmānyam anupalabdhaśaktikam nidarśane sādhyadharmasāmānyena saha dṛṣṭam anumeye yena vacanenānusandhīyate tadanusandhānam/ tathā ca vāyuḥ kriyāvān iti /
+PP8.12.2.2B4/ 8.12.2.2B4: anumeyābhāve ca tasyāsattvam upalabhya na ca tathā vāyur niṣkriya iti //
+PP8.12.2.2  B 5(250.25)/ anumeyatvenoddiṣṭe cāniścite ca pareṣām niścayāpādanārtham pratijñāyāḥ punar vacanam praptyāmnāyaḥ /
+PP8.12.2.2  B 5(251.2)/ pratipādyatvenoddiṣṭe cāniścite ca pareṣām hetvādibhir avayavair āhitaśaktīnām parisamāptena vākyena niścayāpādanārtham pratijñāyāḥ punar vacanam pratyāmanāyaḥ / tasmād dravyam eveti /
+PP8.12.2.2  B 5(251)/ na hy etasmin na sati pareṣām avayavānām samastānām vyastānām vā tadarthavācakatvam asti gamyamānārthatvād iti cen na atiprasaṅgāt /
+PP8.12.2.2  B 5(251)/ tathāhi pratijñānantaram hetumātrābhidhānam kartavyam viduṣāmanvayavyatirekasmaraṇāt tadarthāvagatir bhaviṣyatīti tasmād atraivārthaparisamāptiḥ /
+PP8.12.2.2  B 5(251)/ katham anityaḥ śabda ity anenāniścitānityatvamātraviśiṣṭaḥ śabdaḥ kathyate prayatnānantarīyakatvād ity anenānityatvasādhanadharmamātram abhidhīyate /
+PP8.12.2.2  B 5(251)/ iha yat prayatnānantarīyakam tadanityam dṛṣṭam yathā ghaṭa ity anena sādhyasāmānyena sādhanasāmānyasyānugāmamātram ucyate /
+PP8.12.2.2  B 5(251)/ nityam aprayatnānantarīyakam dṛṣṭam yathākāśam ity anena sādhyābhāvena sādhanasyāsattvam pradarśyate /
+PP8.12.2.2  B 5(251)/ tathā ca prayatnānantarīyakaḥ śabdo dṛṣṭo na ca tathākāśavad aprayatnānantarīyakaḥ śabda ity anvayavyatirekābhyām dṛṣṭasāmarthyasya sādhanasāmānyasya śabde'nusandhānam gamyate tasmād anityaḥ śabda ty anenānitya eva śabda iti pratipipādayiṣitārthaparisamāptir gamyate tasmāt pañcāvayavenaiva vākyena pareṣām svaniścitārthaprtipādanam kriyate ity etat parārthānumānam siddham iti //
+PP8.12.2.2.C/ 8.12.2.2.C: viśeṣadarśanajam avadhāraṇajñānam saṃśayavirodhī nirṇayaḥ / etad eva pratyakṣam anumānam vā /
+PP8.12.2.2.C/ 8.12.2.2.C: yad viśeṣadarśanāt saṃśayavirodhy utpadyate sa pratyakṣanirṇayaḥ /
+PP8.12.2.2.C/ 8.12.2.2.C: yathā sthāṇupuruṣayor ūrdhvatāmātrasādṛśyālocanād viśeṣeṣv apratyakṣeṣūbhayaviśeṣānusmaraṇāt kim ayam sthāṇupuruṣo veti saṃśayotpattau śirahpāṇyādidarśanāt puruṣa evāyam ity avadhāraṇajñānam pratyakṣanirṇayaḥ /
+PP8.12.2.2.C/ 8.12.2.2.C: viṣāṇamātradarśanād gaur gavayo veti saṃśayotpattau sāsnāmātradarśanād gauru evāyam ity avadhāraṇajñānam anumānanirṇaya iti //
+PP8.12.2.3/ 8.12.2.3: lṅgadarśanecchānusmaraṇādyapekṣād ātmamanasoḥ samyogaviśeṣāt paṭvābhyāsādarapratyayajanitāc ca saṃskārād dṛṣṭaśrutānubhūteṣv artheṣu śeṣānuvyavasāyecchānusmaraṇadveṣahetur atītaviṣayā smṛtir iti //
+PP8.12.2.4/ 8.12.2.4: āmnāyavidhātqṇām ṛṣīṇām atītānāgatavartamāneṣv atīndriyeṣv artheṣu dharmādiṣu granthopanibaddheṣv anupanibaddheṣu cātmamanasoḥ samyogād dharmaviśeṣāc ca yat prātibham yathārthanivedanam jñānam utpadyate tadārṣam ity ācakṣate /
+PP8.12.2.4/ 8.12.2.4: tat tu prastāreṇa devarṣīṇām kadācid eva laukikānām yathā kanyakā bravīti śvo me bhātā''ganti hṛdayam me kathayatīti //
+PP8.12.2.5/ 8.12.2.5: siddhadarśanam na jñānāntaram kasmāt prayatnapūrvakam aṃjanapādalopakhaḍgagulikādisiddhānām dṛśyadraṣṭqṇām sūkṣmavyavahitaviprakṛṣṭeṣv artheṣu yad darśanam tat pratyakṣam eva /
+PP8.12.2.5/ 8.12.2.5: atha divyāntarikṣabhaumānām prāṇinām grahanakṣatrasañvārādinimittam dharmādharmavipākadarśanam iṣṭam tad apy anumānam eva /
+PP8.12.2.5/ 8.12.2.5: atha liṅgānapekṣam dhramādiṣu darśanam iṣṭam tad api pratyakṣārṣayor anyatarasminn atarbhūtam ity evam buddhir iti //
+PP8.13/ 8.13: anugrahalakṣaṇam sukham / sragādyabhipretaviṣayasānnidhye satīṣṭopalabdhīndriyārthasannikarṣād dharmādyapekṣād ātmamanasoḥ samyogād anugrahābhiṣvaṅganayanādiprasādajanakam utpadyate tat sukham /
+PP8.13/ 8.13: atīteṣu viṣayeṣu smṛtijam/ anāgateṣu saṅkalpajam/ yat tu viduṣām asatu viṣayānusmaraṇechāsaṅkalpeṣv āvirbhavati tad vidyāśamasantoṣadharmaviśeṣanimittam iti //
+PP8.14/ 8.14: upaghātalakṣaṇam duhkham /
+PP8.14/ 8.14: viṣādyanabhipretaviṣayasānnidhye satyaniṣṭopalabdhīndriyārthasannikarṣād adharmādyapekṣād ātmamanasoḥ samyogād yad amarṣopaghātadainyanimittam utpadyate tad duhkham /
+PP8.14/ 8.14: atīteṣu sarpavyāghrācaurādiṣu smṛtijam/ anāgateṣu saṅkalpajam iti //
+PP8.15/ 8.15: svārtham parārtham vā'praptaprārthanecchā/ sā cātmamanasoḥ samyogāt sukhādyapekṣāt smṛtyapekṣād votpadyate /
+PP8.15/ 8.15: prayatnasmṛtidhamādharmahetuḥ/ kāmo 'bhilāṣaḥ rāgaḥ saṅkalpaḥ kāruṇyam vairāgyam upadhā bhāva ity evam ādaya icchābhedāḥ/ maithunecchā kāmaḥ /
+PP8.15/ 8.15: abhyavahārecchābhilāṣaḥ/ punaḥ punar viṣayānuraṃjanecchā rāgaḥ/ anāsannakriyecchā saṅkalpaḥ/ svārtham anapekṣya paraduhkhaprahāṇecchā kāruṇyam /
+PP8.15/ 8.15: doṣadarśanād viṣayatyāgecchā vairāgyam/ paravañvanecchā upadhā/ antarnigūḍhecchā bhāvaḥ/ cikīrṣājihīrṣety ādikriyābhedād icchābhedā bhavanti //
+PP8.16/ 8.16: prajvalanātmako dveṣaḥ / yasmin sati prajvalitam ivātmānam manyate sa dveṣaḥ / sa cātammanasoḥ samyogād duhkhāpekṣāt smṛtyapekṣād votpadyate /
+PP8.16/ 8.16: prayatnasmṛtidharmādharmahetuḥ/ krodho drohaḥ manyur akṣam āmarṣa iti dveṣabhedāḥ //
+PP8.17/ 8.17: prayatnaḥ saṃrambha utsāha iti prayāyāḥ/ sad vividho jīvanapūrvaḥ icchādveṣapūrvakaś ca / tatra jīvanapūrvakh; suptasya prāṇāpānasantānaprerakaḥ prabodhakāle cāntahkaraṇasyendriyāntaraprāptihetuḥ /
+PP8.17/ 8.17: asya jīvanapūrvakasyātmamanasoḥ samyogād dharmādharmāpekṣād utpattiḥ/ itaras tu hitāhitaprāptiparhihārasamarthasya vyāpārasya hetuḥ śarīravidhārakaś ca /
+PP8.17/ 8.17: sa cātammanasoḥ samyogād icchāpekṣād dveṣāpekṣād votpadyate //
+PP8.18/ 8.18: gurutvam jalabhūmyoḥ patanakarmakāraṇam/ apratyakṣam patanakarmānumeyam samyogaprayatnasāṃskāravirodhi / asya cābādiparamāṇurūpādivan nityānityatvaniṣpattayaḥ //
+PP8.19/ 8.19: dravatvam syandanakarmakāraṇam / tridravyavṛtti / tat tu dvividham sāṃsiddhakam naimittikam ca/ sāṃsiddhikam apām viśeṣaguṇaḥ / naimittikam pṛthivītejasoḥ sāmānyaguṇaḥ /
+PP8.19/ 8.19: sāṃsiddhikasya gurutvavan nityānityatvaniṣpattayaḥ/ saṅghātadarśanāt sāṃsiddhikam ayuktam iti cen na/
+PP8.19/ 8.19: divyena tejasā samyuktānām āpyānām paramāṇūnām parasparam samyogo dravyārambhakaḥ saṅghātākhyaḥ tena paramāṇudravatvapratibandhāt kārye himakarakādau dravatvānupattiḥ /
+PP8.19/ 8.19: naimittikam ca pṛthivītejasor agnisamyogajam /
+PP8.19/ 8.19: katham sarpir jatumadhūcchiṣṭādīnām kāraṇeṣu paramāṇuṣv agnisamyogād vegāpekṣāt karmotpattau tajjebhyo vibhāgebhyo dravyārambhakasamyogavināśāt kāryadravyanivṛttāv agnisamyogādauṣṇyāpekṣāt svatantreṣu paramāṇuṣu dravatvam utpadyate tatas teṣu bhoginām adṛṣṭāpekṣād ātmāṇusamyogāt karmotpattau tajjebhyaḥ samyogebhyo dyūṇukādiprakrameṇa kāryadravyam utpadyate tasmiṃś ca rūpādyutpattisamakālam kāraṇaguṇaprakrameṇa dravatvam utpadyata iti //
+PP8.20/ 8.20: sneho'pām viśeṣaguṇaḥ / saṃgrahamṛjādihetuḥ/ asyāpi gurutvavan nityānityatvaniṣpattayaḥ //
+PP8.21/ 8.21: saṃskāras trividho vego bhāvanā sthitisthāpakaś ca / tatra vego mūrtimatsu pañvasu dravyeṣu nimittaviśeṣāpekṣāt karmaṇo jāyate niyatadikkriyāprabandhahetuḥ sparśavad dravyasamyogaviśeṣavirodhī kvacit kāraṇaguṇapūrvakrameṇotpadyate/ bhāvanāsaṃjñakas tv ātmaguṇo dṛṣṭaśrutānubhūteṣv artheṣu smṛtipratyabhijñānahetur bhavati jñānamad aduhkhādivirodhī/ paṭvabhyāsādarapratyayajaḥ paṭupratyayāpekṣād ātmamanasoḥ samyogād āścarye'rthe paṭuḥ saṃskārātiśayo jāyate / yathā dākṣiṇāty asyoṣṭradarśanād iti / vidyāśilpavyāyāmādiṣv abhyasyamāneṣu tasminn evārthe pūrvapūrvasaṃskāram apekṣamāṇād uttarottarasmāt pratyayād ātmamanasoḥ samyogāt saṃskārātiśayo jāyate / prayatnena manaś cakṣuṣi sthāpayitvā 'pūrvam artham didūkṣamāṇasya vidyut sampātadarśanavad ādarapratyayaḥ tam apekṣamāṇād ātmamanasoḥ samyogāt saṃskārātiśayo jāyate / yathā devahraderājatasauvarṇapadmadarśanād iti/ sthitisthāpakas tu sparśavad dravyeṣu vartamāno ghanāvayavasanniveśaviśiṣṭeṣu kālāntarāvasthāyiṣu svāśrayam anyathākṛtam yathāvasthitam sthāpayati/ sthāvarajaṅgamavikāreṣu dhanuhśākhāśṛṅgadantāsthisūtravastrādiṣu bhugnasaṃvartiteṣu sthitisthāpakasya kāryam saṃlakṣyate / nityānityatvaniṣpattayosyāpi gurutvavat //
+PP8.22/ 8.22: dharmaḥ puruṣaguṇaḥ / kartuḥ priyahitamokṣahetuḥ atīndiryo'ntyasukhasaṃvijñānavirodhī puruṣāntahkaraṇasamyogaviśuddhābhisandhijaḥ varṇāśramiṇām pratiniyatasādhananimittaḥ / tasya tu sādhanāni śrutismṛtivihitāni varṇāśramiṇām sāmānyaviśeṣabhāvenāvasthitāni dravyaguṇakarmāṇi/ tatra sāmānyāni dharme śraddhā ahiṃsā bhūtahitatvam satyavacanam asteyam brahamacaryam anupadhā krodhavarjanam abhiṣecanam śicidravyasevanam viśiṣṭadevatābhaktir upavāso'pramādaś ca / brāhmaṇakṣaciyavaiśyānāmijyādhyayanadānāni brāhmaṇasya viśiṣṭāni pratigrahādhyāpanayājanāni svavarṇavihitāś ca saṃskārāḥ/ kṣatriyasya samyak prajāpālanam asādhunigraho yuddheṣv anivartanam svakīyāś ca saṃskārāḥ/ vaiśyasya kriyavikrayakṛṣipaśupālanāni svakīyāś ca saṃskārāḥ/ śūdrasya pūrvavarṇapāratantryam amantrikāś ca kriyāḥ/ āśramiṇām tu brahmacāriṇo gurukulanivāsinaḥ svaśāstravihitāni guruśuśrūṣāgnīndhanabhaikṣyācaraṇāni madhumāṃsadivāsvapnāṃjanābhyañajanādivarjanam ca /
+PP8.22/ 8.22: vidyāvratasnātakasya kṛtadārasya gṛhasthasya śālīnayāyāvaravṛttyupārjitair arthair bhūtamanuṣyadevapitṛbrahmākhyānām pañvānām mahāyajñānam sāyamprātaranuṣṭhānam ekāgnividhānena pākayajñasaṃsthānām ca nityānām śaktau vidyamānāyām agnyādheyādīnām ca haviryajñasaṃsthānām agniṣṭomādīnām somayajñasaṃsthānām ca/ ṛtvantareṣu brahmacaryam apatyotpādanam ca / brahmacāriṇo gṛhasthasya vā grāmān nirgatasya vanavāso valkakājinakeśaśmaśrunakharomadhāraṇam ca / vanyahutātithiśeṣabhojanāni vānaprasthasya / trayāṇām anyatamasya śraddhāvataḥ sarvabhūtebhyo nityam abhayam dattvā samnyasya svāni karmāṇi yamaniyameṣv apramattasya ṣaṭpadārthaprasaṃkhyānād yogaprasādhanam pravrajitasyeti/ dṛṣṭam prayojanam anuddiśyaitāni sādhanāni bhāvaprasādam cāpekṣyātmamanasoḥ samyogād dharmotpattir iti //
+PP8.23/ 8.23: adharmo'py ātmaguṇaḥ / kartur ahitapratyavāyahetur atīndriyo'ntyaduhkhasaṃvijñānavirodhī/ tasya tu sādhanāni śāstre pratiṣiddhāni dharmasādhanaviparītāni hiṃsānṛtasteyādīni vihitākaraṇam pramādaś caitāni duṣṭābhisandhim cāpekṣyātmamanasoḥ samyogād adharmasyotpattiḥ //
+PP8.24/ 8.24: aviduṣo rāgadveṣavataḥ pravartakāddharmāt prakṛṣṭāt svalpādharmasahitāt brahmendraprajāpatipitṛmanuṣyalokeṣv āśayānurūpair iṣṭaśarīrendriyaviṣayasukhādibhir yogo bhavati / tathā prakṛṣṭād adharmāt svalpadharmasahitāt pretatiryagyonisthāneṣv aniṣṭaśarīrendriyaviṣayaduhkhābhir yogo bhavati /
+PP8.24/ 8.24: evam pravṛttilakṣaṇād dharmād adharmasahitād devamanuṣyatiryaṅnārakeṣu punaḥ punaḥ saṃsārabandho bhavati //
+PP8.24/ 8.24: jñānapūrvakāt tu kṛtād asaṃkalpitaphalād viśuddhe kule jātasya duhkhavigamopāyajijñāsor ācāryam upasaṅgamyotpannaṣaṭpadārthatattvajñānasyājñānanivṛttau viraktasya rāgadveṣādyabhāvāt tajjayor dharmādharmayor anutpattau pūrvasaṅcitayoś copabhogān nirodhe santoṣasukham śarīraparicchedam cotpadya rāgādinivṛttau nivṛttilakṣaṇaḥ kevalo dharmaḥ paramārthadarśanajam sukham kṛtvā nivartate/ tadā nirodhāt nirbījasyāt manaḥ śarīrādinivṛttiḥ punaḥ śarīrādyanutpattau dagdhendhanānalavadupaśamo mokṣa iti //
+PP8.24/ 8.24: śabdo'mbaraguṇaḥ śrotragrāhyaḥ kṣaṇikaḥ kāryakāraṇobhayavirodhī samyogavibhāgaśabdajaḥ pradeśavṛttiḥ samānāsamānajātīyakāraṇaḥ/ sa dvividho varṇalakṣaṇo dhvanilakṣaṇaś ca/ tatra akārādirvarṇalakṣaṇaḥ śaṅkhādinimitto dhvanilakṣaṇaś ca/ tatra varṇalakṣaṇasyotpattir ātmamanasoḥ samyogāt smṛtyapekṣād varṇoccāraṇecchā tadanantaram prayatnas tam apekṣamāṇād ātmavāyusamyogād vāyau karma jāyate sa cordhvam gacchan kaṇṭhādīn abhihanti tataḥ sthānavāyusamyogāpekṣamāṇāt sthānākāśasamyogāt varṇotpattiḥ /
+PP8.24/ 8.24: avarṇalakṣaṇo'pi bherīdaṇḍasamyogāpekṣād bheryākāśasamyogād utpadyate / veṇuparvavibhāgād veṇvākāśavibhāgāc ca śabdāc ca samyogavibhāganiṣpannādvīcīsantānavac chabdasantāna ity evamṇ santānena śrotrapradeśam āgatasya grahaṇam śrotraśabdayor gamanāgamanābhāvād aprāptasya grahaṇam nāsti prariśeṣāt santānasiddhir iti //
+PP8.0/ 8.0: praśastapādabhāṣye guṇapadārthaḥ samāptaḥ// *******************************************************************
+
+<B 9>
+
+karmapadārthaḥ
+PP9.0/ 9.0: atha karmapadārthanirūpaṇam /
+PP9.1/ 9.1: utkṣepaṇādīnām pañcānām api karmatvasambandhaḥ / ekadravyavattvam kṣaṇikatvam mūrtadravyavṛttitvam aguṇavattvam gurutvadravatvaprayatnasamyogajatvam svakāryasamyogavirodhitvam samyogavibhāganirapekṣakāraṇatvam asamavāyikāraṇatvam svaparāśrayasamavetakāryārambhakatvam samānajātīyānārambhakatvam dravyānārambhakatvam ca pratiniyatajātiyogitvam/ digviśiṣṭakāryārambhakatvam ca viśeṣaḥ //
+PP9.2.1/ 9.2.1: tatrotkṣepaṇam śarīrāvayaveṣu tat sambaddheṣu ca yad ūrdhvabhāgibhiḥ pradeśaiḥ samyogakāraṇam adhobhāgbhiś ca pradeśaiḥ vibhāgakāraṇam karmotpadyate gurutvaprayatnasamyogebhyas tad utkṣepaṇam //
+PP9.2.1/ 9.2.1: tad viparītasamyogavibhāgakāraṇam karmāpakṣepaṇam //
+PP9.2.2/ 9.2.2: ṛjuno dravyasyāgrāvayvānām tad deśair vibhāgaḥ samyogaś ca mūlapradeśair yena karmaṇāvayavī kuṭilaḥ saṃjāyate tad ākuñcanam //
+PP9.2.2/ 9.2.2: tadviprayayeṇa samyogavibhāgotpattau yena karmaṇāvayavī ṛjuḥ sampadyate tat prasāraṇam //
+PP9.2.3/ 9.2.3: yad aniyatadikpradeśasamyogavibhāgakāraṇam tad gamanam iti //
+PP9.3/ 9.3: etat pañcavidham api karma śarīrāvayaveṣu tat sambaddheṣu ca sat pratyayam asat pratyayam ca yad anyat tad apratyayam eva teṣv anyeṣu ca tad gamanam iti / karmaṇām jātipañcakatvam ayuktaṃgamanāviśeṣāt/ sarvam hi kṣaṇikam karma gamanamātram utpannam svāśrayasyordhvam adhis tiryag vāpy aṇumātraiḥ pradeśaiḥ samyogavibhāgātn karoti sarvatra gamanapratyayo 'vusiṣṭas tasmād gamanam eva sarvam iti / na vargaśaḥ pratyayānuvṛttivyāvṛttidarśanāt ihotkṣepaṇam paratrāpakṣepaṇam ity evam ādi sarvatra vargaśaḥ pratyayānuvṛttivyāvṛttī dṛṣṭe tad dhetuḥ sāmānyaviśeṣabhedo'vagamyate/ teṣām udādyupasargaviśeṣāt pratiniyatadigviśiṣṭakāryārambhatvād upalakṣaṇabhedo 'pi siddhaḥ / evam api pañcaivety avadhāraṇānupapattiḥ / niṣkrāmaṇapraveśanādiṣv api vargaśaḥ pratyayānuvṛttivyāvṛttidarśanāt / yady utkṣepaṇādiṣu sarvatra vargaśaḥ pratyayānuvṛttivyāvṛttidarśanāj jātibheda iṣyate evam ca niṣkramaṇapraveśanādiṣv api/ kāryabhedāt teṣu pratyayānuvṛttivyāvṛttī iti cet na utkṣepaṇādiṣv api kāryabhedād eva pratyayānuvṛttivyāvṛttiprasaṅgaḥ/ atha samāne vargaśaḥ pratyayānuvṛttivyāvṛttisadbhāve utkṣepaṇādīnām eva jātibhedo na niṣkramaṇādīnām ity atra viśeṣahetur astīti na jātisaṅkaraprasaṅgāt/ niṣkramaṇādīnām jātibhedāt pratyayānuvṛttivyāvṛttau jātisaṅkaraḥ prasajyate/ katham dvayor draṣṭror ekasmād apavarakādapavarakāntaram gacchato yugapan niṣkramaṇapraveśanapratyayau dṛṣṭau tathā dvārapradeśe praviśati niṣkrāmatīti ca / yadā tu pratisīrādyapanītam bhavati tadā na praveśanapratyayo nāpi niṣkramaṇapratyayaḥ kin tu gamanapratyaya eva bhavati / tathā nālikāyām vaṃśapattrādau patati bahūnām draṣṭqṇām yugapadbhramaṇapatanapraveśanapratyayā dṛṣṭā iti jātisaṅkaraprasaṅgaḥ / na caivam utkṣepaṇādiṣu pratyayasaṅkaro dṛṣṭaḥ tasmād utkṣepaṇādīnām eva jātibhedāt pratyayānuvṛttivyāvṛttī niṣkramaṇādīnām tu kāryabhedād iti / katham yugapat prayayabheda iti cet/ atha matam yathā jātisaṅkaro nāsit evam anekakarmasamāveśo'pi nāstīty ekasmin karmaṇi yugapad draṣṭqṇām bhramaṇapatanapraveśanapratyayāḥ katham bhavantīti/ atra brūmaḥ na avayavāvayavinor digviśiṣṭasamyogavibhāgānām bhedāt /
+PP9.3/ 9.3: yo hi draṣṭā avayavānām pārśvataḥ paryāyeṇa dikpradeśaiḥ samyogavibhāgān paśyati tasya bhramaṇapratyayo bhavti yo hy avayavini ūrdhvapradeśair vibhāgam adhaḥ samyogam cāvekṣate tasya patanapratyayo bhavati/ yaḥ punar nālikāntar deśe samyogam bahir deśe ca vibhāgam paśyati tasya praveśanapratyayo bhavatīti siddhaḥ kāryabhedān niṣkramaṇādīnām pratyayabheda iti / bhavatūtkṣepaṇādīnām jātibhedāt pratyayabhedaḥ niṣkramaṇādīnām tu kāryabhedād iti //
+PP9.3/ 9.3: atha gamanatvam kim karmatvaparyāyaḥ āhosvid aparam sāmānyam iti / kutas te saṃśayaḥ/ samas teṣūtkṣepaṇādiṣu karmapratyayavad gamanapratyayāviśeṣāt karmatvaparyāya iti gamyate/ yatas tūtkṣepaṇādivad viśeṣasaṃjñayābhihitam tasmād aparam sāmānyam syād iti / na/ karmatvaparyāyatvāt/ ātmatvapuruṣatvavat karmatvaparyāya eva gamanatvam iti/ atha viśeṣasaṃjñayā kim artham gamanagrahaṇam kṛtam iti na bhramaṇādyavarodhārthatvāt/ utkṣepaṇādiśabdair anavaruddhānām bhramaṇapatanaspandanādīnām avarodhārtham gamanagrahaṇam kṛtam iti/ anyathā hi yāny eva catvāri viśeṣasaṃjñayoktāni tāny eva sāmānyaviśeṣasaṃjñāviṣayāṇi prasajyerann iti/ athavā astv aparam sāmānyam gamanatvam aniyatadigdeśasamyogavibhāgakāraṇeṣu bhramaṇādiṣv eva vartate gamanaśabdaś cotkṣepaṇādiṣu bhākto draṣṭavyaḥ svāśrayasamyogavibhāgakartṛtvasāmānyād iti //
+PP9.4/ 9.4: sat pratyayakarmavidhiḥ / katham cikīrṣiteṣu yajñādhyayanadānakṛṣyādiṣu yadā hastam utkṣeptum icchaty apakṣeptum vā tadā hastavaty ātmapradeśe prayatnaḥ saṃjāyate tam prayatnam gurutvā copekṣamāṇād ātmahastasamyogād dhaste karma bhavati hastavat sarvaśarīrāvayaveṣu pādādiṣu śarīre ceti/ tat sambaddheṣv api katham yadā hastena musalam gṛhītvecchām karoti utkṣipāmi hastena musalam iti tadanantaram prayatnas tam apekṣamaṇād ātmahastasamyogād yasminn eva kāle haste utkṣepaṇakarmotpadyate tasminn eva kāle tam eva prayatnam apekṣamāṇād dhastamusalasamyogāt musalae 'pi karmeti /
+PP9.4/ 9.4: tato dūram utkṣipte musale tadarthecchā nivartate punar apy apakṣepaṇecchotpadyate tadanataram prayatnas tam apekṣamāṇād yathoktāt samyogād dhastamusalayor yugapad apakṣepaṇakarmaṇī bhavataḥ tato 'ntyena musalakarmaṇolūkhalamusalayor abhighātākhyaḥ samyogaḥ kriyate sa samyogomusalagatavegam apekṣamāṇo 'pratyayam musale utpatanakarma karoti / tat karmābhighātāpekṣam musale saṃskāram ārabhate tam apekṣya musalahastasamyogo 'prayayam hate 'py utpatanakarma karoti/ yady api prāktanaḥ saṃskāro vinaṣṭaḥ tathāpi musalolūkhalayoḥ samyogaḥ paṭukarmotpādakaḥ samyogaviśeṣabhāvāt tasya saṃskārārambhe sācivyasamartho bhavati / athavā prāktana eva paṭuḥ saṃskāro'bhighātād avinaśyann avasthita iti / ataḥ saṃskāravati punaḥ saṃskārārambho nāsty ato yasmin kāle saṃskārāpekṣād abhighātād aprayayam musale utpatanakarma tasminn eva kāle tam eva saṃskāram apekṣamāṇāt musalahastasamyogād apratyayam haste'py utpatanakarmeti //
+PP9.4/ 9.4: paṇim ukteṣu gamanavidhiḥ/ katham yadā tomaram hastena gṛhītvotkṣeptum icchotpadyate tadanantaram prayatnaḥ tam apekṣamāṇād yathoktāt samyogadvayāt tomarahastayor yugapad ākarṣaṇakarmaṇī bhavataḥ / prasārite ca haste tadākarṣaṇārthaḥ prayatno nivartate tadanantaram tiryag ūrdhva dūram āsannam vā kṣipāmītīcchā saṃjāyate tadanantaram tadnurūpaḥ prayatnas tam apekṣamāṇas tomarahastasamyogo nodanākhyaḥ tasmāt tomare karṃtopannam nodanāpekṣam tasmin saṃskāram ārabhate tataḥ saṃskāranodanābhyām tāvat karmāṇi bhavanti yāvad dhastatomaravibhāga iti tato vibhāgān nodane nivṛtte saṃskārād ūrdhvam tiryag dūram āsannam vā prayatnānurūpāṇi karmāṇi bhavanty āpatanād iti //
+PP9.4/ 9.4: tathā yantram ukteṣu gamanvidhiḥ / katham yo balavān kṛtavyāyāmo vāmena kareṇa dhanur viṣṭabhya dakṣiṇena śaram sandhāya saśarām jyām muṣṭinā gṛhītvā ākarṣaṇecchām karoti sajyeṣv ākarṣayāmy etad dhanur iti / tadanantaram prayatnas tam apekṣamāṇād ātmahastasamyogād ākarṣaṇakarma haste yadaivotpadyate tadaiva tam eva prayatnam apekṣamāṇād dhastajyāśarasamyogād jyāyām śare ca karma prayatnaviśiṣṭahastajyāśarasamyogam apekṣamāṇābhyām jyākoṭisamyogābhyām karmaṇī bhavato dhanuṣkoṭyor ity etat sarvam yugapat / evam ākarṇād ākṛṣṭe dhanuṣi nātaḥ param anena gantavyam iti yaj jñānam tatas tad ākarśaṇārthasya prayatnasya vināśas tataḥ punar mokṣaṇecchā saṃjāyate tadanantaram prayatnas tam apekṣamāṇād ātmāṅgulisamyogād aṅgulikarma tasmāj jyāṅgulivibhāgaḥ tato vibhāgāt samyogavināśaḥ tasmin vinaṣṭe pratibandhakābhāvād yadā dhaṇuṣi vartamānaḥ sthitisthāpakaḥ saṃskāro maṇḍalībhūtam dhanur yathāvasthitam sthāpayati tadā tam eva saṃskāram apekṣamāṇād dhanur jyāsamyogāj jyāyām śare ca karmotpadyate tatsv akāraṇāpekṣam jyāyām saṃskāram karoti tam apekṣamāṇa iṣujyāsamyogo nodanam tasmād iṣāvādyam karma nodanāpekṣam iṣau saṃskāram ārabhate /
+PP9.4/ 9.4: tasmāt saṃskārān nodanasahāyāt tāvat karmāṇi bhavanti yāvad iṣujyāvibhāgo vibhāgān nivṛtte nodane karmāṇy uttarottarānīṣusaṃskārād evāpatanād iti/ bahūni karmāṇi kramaśaḥ kasmāt samyogabahutvāt ekas tu saṃskāro 'ntarāle karmaṇo 'pekṣākāraṇābhāvād iti //
+PP9.4/ 9.4: evam ātmādhiṣṭhiteṣu satpratyayam asatprayayam ca karmoktam /
+PP9.5/ 9.5: anadhiṣṭhiteṣu bāhyeṣu caturṣu mahābhūteṣv apratyayam karma gamanam eva nodanādibhyo bhavati / tatra nodanam gurutvadravatvavegaprayatnān samastavyas tān apekṣamāṇo yaḥ samyogaviśeṣo nodanam avibhāgahetor ekasya karmaṇaḥ kāraṇam tasmāc caturṣv api mahābhūteṣu karma bhavati //
+PP9.5/ 9.5: yathā paṅkākhyāyām pṛthivyām/ vegāpekṣo yaḥ samyogaviśeṣā vibhāgahetor ekasya karmaṇaḥ kāraṇam so 'bhighātaḥ/ tasmād api caturṣu mahābhūteṣu karma bhavati yathā pāṣāṇādiṣu niṣṭhure vastuny abhipatiteṣu tathā pādādibhir nudyamānāyām abhihanyamānāyām vā paṅkākhyāyām pṛthivyām yaḥ samyogo nodanābhighātayor anyatarāpekṣa ubhayāpekṣo vā sa samyuktasamyogaḥ tasmād api pṛthivyādiṣu karma bhavati/ ye ca pradeśā na nudyante nāpy abhihanyante teṣv api karma jāyate/ pṛthivyudakayor gurutvavidhārakasamyogaprayatnavegābhāve sati gurutvād yad adhogamanam tat patanam / yathā musalaśarīrādiṣūktam / tatrādyam gurutvād dvitīyādīni tu gurutvasaṃskārābhyām //
+PP9.5/ 9.5: srotobhūtānām apām sthalānnimnābhisarpaṇam yat tad dravatvāt syandanam/ katham samantād rodhahsamyogenāvayavidravatvam pratibaddham avayavadravatvam apy ekārthasamavetam tenaiva pratibaddham uttarottarāvayavadravatvāni samyuktasamyogaiḥ pratibaddhāni / yadā tu mātrayā setubhedaḥ kṛto bhavati tadā samantāt pratibaddhatvād avayavidravatvasya kāryārambho nāsti setusamīpasthasyāvayavadravatvasyottarottareṣām avayavadravatvānām pratibandhakābhāvād vṛttilābhaḥ / tataḥ kramaśaḥ samyuktānām evābhisarpaṇam tataḥ pūrvadravyavināśe sati prabandhenāvasthitair avayavir dīrgham dravyam ārabhyate tatra ca kāraṇaguṇapūrvakrameṇa dravatvam utpadyate tatra ca kāraṇānām samyuktānām prabandhena gamane yad avayavini karmotpadyate tat syandanākhyam iti //
+PP9.5/ 9.5: saṃskārāt karm aiṣvādiṣūktam/ tathā cakrādiṣv avayavānām pārśvataḥ pratiniyatadigdeśasamyogavibhāgotpattau yad avayavinaḥ saṃskārād aniyatadigdeśasamyogavibhāganimittam karma tad bhramaṇam iti/ evam ādayo gamanaviśeṣāḥ //
+PP9.5/ 9.5: prāṇākhye tu vāyau karma ātmavāyusamyogādicchādveṣapūrvakaprayatnāpekṣāj jāgrata icchānuvidhānadarśanāt suptasya tu jīvanapūrvakaprayatnāpekṣāt / ākāśakāladigātmanām saty api dravyabhāve niṣkriyatvam sāmānyādivad amūrtatvāt/ mūrtir asarvagatadravyaparimāṇam tad anuvidhāyinī ca kriyā sā cākāśādiṣu nāsti tasmān na teṣām kriyāsambandho'stīti //
+PP9.5/ 9.5: savigrahe manasīndriyāntarasambandhārtham jāgrataḥ karma ātmamanahsamyogād icchādveṣapūrvakaprayatnāpekṣāt anvabhiprāyam indriyāntareṇa viṣayāntaropalabdhidarśanāt/ suptasya prabodhakāle jīvanapūrvakaprayatnāpekṣāt/ apasarpaṇakarmotpasarpaṇakarma cātmamanahsamyogād adṛṣṭāpekṣāt/ katham yadā jīvanasahakārinor dharmādharmayor upabhogāt prakṣayo 'nyonyābhibhavo vā tadā jīvanasahāyayor vaikalyāt tatpūrvakaprayatnavaikalyāt prāṇanirodhe saty anyābhyām labdhavṛttibhyām dharmādharmābhyām ātmamanahsamyogasahāyābhyām mṛtaśarīrād vibhāgakāraṇam apasarpaṇakarmotpadyate /
+PP9.5/ 9.5: tataḥ śarīrād vahir apagatam tābhyām eva dharmādharmābhyām samutpanenātivāhikaśarīreṇa sambandhyate tatsaṅkrāntam ca svargam narakam vāgatvā āśayānurūpeṇa śarīreṇa sambadhyate tatsamyogārtham karmopasarpaṇam iti / yoginām ca bahir udrecitasya manaso'bhipretadeśagamanam pratyāgamanam ca/ tathā sargakāle pratyagreṇa śarīreṇa sambandhārtham karmādṛṣṭakāritam / evam anyad api mahābhūteṣu yat pratyakṣānumānābhyām anupalabhyamānakāraṇam upakārāpakārasamartham ca bhavati tad apy adṛṣṭakāritam/ yathā sargādāv aṇukarma agnivāyvor ūrdhvatiryag gamane mahābhūtānām prakṣebhaṇam / abhiṣiktānām maṇīnām taskaram prati gamanam/ ayaso'yaskāntābhisarpaṇam ceti //
+PP9.0/ 9.0: iti praśastapādabhāṣye karmapadārthaḥ samāpataḥ //
+
+<B 10>
+
+sāmānyapadārthaḥ
+PP10.0/ 10.0: atha sāmānyapadārthanirūpaṇam /
+PP10/ 10: sāmānyam dvividham param aparam ca/ svaviṣayasarvagatam abhinnātmakam anekavṛtti ekadvibahuṣv ātmasvarūpānugamapratyayakāri svarūpābhedenādhāreṣu prabandhena vartamānam anuvṛttipratyayakāraṇam/ katham pratipiṇḍam sāmānyāpekṣam prabandhena jñānotpattāv abhyāsapratyayajanitāc ca saṃskārād atītajñānaprabandhapratyavekṣaṇād yad anugatam asti tat sāmānyam iti/ tatrasattāsānyam param anuvṛttipratyayakāraṇam eva / yathā parasparaviśiṣṭeṣu carmavastrakambalādiṣv ekasmāniladravyābhisambandhāt nīlam nilam iti pratyayānuvṛttiḥ tathā parasparaviśiṣṭeṣu dravyaguṇakarmasv aviśiṣṭā sat sad iti pratyayānuvṛttiḥ sā cārthāntarād bhavitum arhatīti yat tad arthānatarm sā satteti siddhā /
+PP10/ 10: sattānusambandhāt sat sad iti pratyayānuvṛttiḥ tasmāt sā sāmānyam eva/ aparam dravyatvaguṇatvakarmatvādi anuvṛttivyāvṛttihetutvāt sāmānyam viśeṣaś ca bhavati/ tatra dravyatvam parasparaviśiṣṭeṣu pṛthivyādiṣv anuvṛttihetutvāt sāmānyam guṇakarmabhyo vyāvṛttihetutvāt viśeṣaḥ/ tathā guṇatvam parasparaviśiṣṭeṣu rūpādiṣv anuvṛttihetutvāt sāmānyam dravyakarmabhyo vyāvṛttihetutvāt viśeṣaḥ/ tathā karmatvam parasparaviśiṣteṣūtkṣepaṇādiṣv anuvṛttipratyayahetutvāt sāmānyam dravyaguṇebhyo vyāvṛttihetutvād viśeṣaḥ evam pṛthivītvarūpatvotkṣepaṇatvagotvaghaṭatvapaṭatvādīnām api prāṇyaprāṇigatānām anuvṛttivyāvṛttihetutvāt sāmānyaviśeṣabhāvaḥ siddhaḥ/ etāni tu dravyatvādīni prabhūtaviṣayatvāt prādhānyena sāmānyāni svāśrayaviśeṣakatvād bhaktyā viśeṣākhyānīti //
+PP10/ 10: lakṣaṇabhedād eṣām dravyaguṇakarmabhyaḥ padārthāntaratvam siddham/ ata eva ca nityatvam / dravyādiṣu vṛttiniyamāt pratyayabhedāc ca parasparataś cānyatvam / pratyekam svāśrayeṣu lakṣaṇāviśeṣād viśeṣalakṣaṇābhāvāc caikatvam/ yady apy aparicchinnadeśāni sāmānyāni bhavanti tathāpy upalakṣaṇaniyamāt kāraṇasāmagrīniyamāc ca svaviṣayasarvagatāni / antarāle ca samyogasamavāyavṛttyabhāvād avyapadeśyānīti //
+PP10.0/ 10.0: iti praśastapādabhāṣye sāmānyapadārthaḥ samāptaḥ //
+
+<B 11>
+
+viśeṣapadārthaḥ
+PP11.0/ 11.0: atha viśeṣapadārthanirūpaṇam /
+PP11/ 11: anteṣu bhavā antyāḥ svāśrayaviśeṣakatvād viśeṣāḥ/ vināśārambharahiteṣu nityadravyeṣv aṇvākāśakāladigātmamanassu pratidravyam ekaikaśo vartamānāḥ atyantavyāvṛttibuddhihetavaḥ/ yathāsmadīnām gavādiṣv aśvādibhyas tulyākṛtiguṇakriyāvayavasamyoganimittā pratyayavyāvṛttir dṛṣṭā gauḥ śuklaḥ śīghragatiḥ pīnakakudmān mahāghaṇṭa iti / tathāsmadviśiṣṭānām yoginām nityeṣu tulyākṛtiguṇakriyeṣu paramāṇuṣu muktātmamanassu ca anyanimittāsambhavād yebhyo nimittebhyaḥ pratyādhāram vilakṣaṇo 'yam vilakṣaṇo 'yam iti pratyayavyāvṛttiḥ deśakālaviprakarṣe ca paramāṇau sa evāyam iti pratyabhijñānam ca bhavati te'ntyā viśeṣāḥ /
+PP11/ 11: yadi punar antyaviśeṣam antareṇa yoginām yogajād dharmāt pratyayavyāvṛttiḥ pratyabhijñānam ca syāt tataḥ kim syān naivam bhavati / yathā na yogajād dharmād aśukle śuklapratyayaḥ saṃjāyate atyantādṛṣṭe ca pratyabhijñānam / yadi syān mithyā bhavet tathehāpy antyaviśeṣam antareṇa yoginām na yogajād dharmāt pratyayavyāvṛttiḥ pratyabhijñānam vā bhavitum arhati / athāntyaviśeṣeṣv iva paramāṇuṣu kasmān na svataḥ pratyayavyāvṛttiḥ kalpyate iti cen na tādātmyāt / ihātadātmakeṣv anyanimittaḥ pratyayo bhavati yathā ghaṭādiṣu pradīpāt na tu pradīpe pradīpāntarāt/ yathā gavāśvamāṃsādīnām svata evāśucitvam tadyogād anyeṣām tathehāpi tādātmyād antyaviśeṣeṣu svata eva pratyayavyāvṛttiḥ tadyogāt paramāṇvādiṣv iti //
+PP11.0/ 11.0: iti praśastapādabhāṣye viśeṣapadārthaḥ samāptaḥ //
+
+<B 12>
+
+samavāyapadārthaḥ
+PP12.0/ 12.0: atha samavāyapadārthanirūpaṇam /
+PP12/ 12: ayutasiddhānām ādhāryādhārabhūtānām yaḥ sambandha ihapratyayahetuḥ sa samavāyaḥ/ dravyaguṇakarmasāmānyaviśeṣāṇām kāryakāraṇabhūtānām akāryakāraṇabhūtānām vāyutasiddhānām ādhāryādhārabhāvenāvasthitānām ihedam itibuddhir yato bhavati yataś cāsarvagatānām adhigatānyatvānām aviṣvagbhāvaḥ sa samavāyākhyaḥ sambandhaḥ / katham yatheha kuṇḍe dadhītipratyayaḥ sambandhe sati dṛṣṭas tatheha tantuṣu paṭaḥ iha vīraṇeṣu kaṭaḥ iha dravye guṇakaṃraṇī iha dravyaguṇakarmasu sattā iha dravye dravyatvam iha guṇe guṇatvam iha karmaṇi karmatvam iha nityadravye 'ntyā viśeṣā itipratyayadarśanād asty eṣām sambandha iti jñāyate //
+PP12/ 12: na cāsau samyogaḥ sam bandhinām ayutasiddhatvāt anyatarakarmādinimittāsambhavāt vibhāgāntatvādarśanād adhikaraṇādhikartavyayor eva bhāvād iti //
+PP12/ 12: sa ca dravyādibhyaḥ padārthāntaram bhāvaval lakṣaṇabhedāt / yathā bhāvasya dravyatvādīnām svādhāreṣu ātmānurūpapratyayakartṛtvāt svāśrayādibhyaḥ parasparataś cārthāntarabhāvaḥ tathā samavāyasyāpi pañcasu padārtheṣv ihetipratyayadarśanāt tebhyaḥ padārthāntaratvam iti / na ca samyogavan nānātvam bhāvaval liṅgāviśeṣāt viśeṣaliṅgābhāvāc ca tasmād bhāvavat sarvatraikaḥ samavāya iti //
+PP12/ 12: nanu yady ekaḥ samavāyo dravyaguṇakarmaṇām dravyatvaguṇatvakarmatvādiviśeṣaṇaiḥ saha sambandhaikatvāt padārthasaṅkaraprasaṅga iti na ādhārādheyaniyamāt / yady apy ekaḥ samavāyaḥ sarvatra svatantraḥ tathāpy ādhārādheyaniyamo 'sti/ katham dravyeṣv eva dravyatvam guṇeṣv eva guṇatvam karmasv eva karmatvam iti/ evam ādi kasmād anvayavyatirekadarśanāt / ihetisamavāyanimittasya jñānasyānvayadarśanāt sarvatraikaḥ samavāya iti gamyate / dravyatvādinimittānām vyatirekadarśanāt pratiniyamo jñāyate / yathā kuṇḍadadhnoḥ samyogaikatve bhavaty āśrayāśrayibhāvaniyamaḥ/ tathā dravyatvādīnām api samavāyaikatve 'pi vyaṅgyavyaṃjakaśaktibhedād ādhārādheyaniyama iti //
+PP12/ 12: sambandhanityatve'pi na samyogavad anityatvam bhāvavad akāraṇatvāt / yathā pramāṇataḥ kāraṇānupalabdher nityo bhāva ity uktam tathā samavāyo'pīti/ na hy asya kiñcit kāraṇam pramāṇata upalabhyate iti / kayā punar vṛttyā dravyādiṣu samavāyo vartate / na samyogaḥ sambhavati tasya guṇatvena dravyāśritatvāt / nāpi samavāyas tasyaikatvāt na cānyā vṛttir astīti/ na/ tādātmyāt/ yathā dravyaguṇakarmaṇām sadātmakasya bhāvasya nānyaḥ sattāyogo 'sti/ evam avibhāgino vṛttyātmakasya samavāyasya nānyā vṛttir asti tasmāt svātmavṛttiḥ /
+PP12/ 12: ata evātīndriyaḥ sattādīnām iva pratyakṣeṣu vṛttyabhāvāt svātmagatasaṃvedanābhāvāc ca / tasmād ihabuddhyanumeyaḥ samavāya iti //
+PP12.0/ 12.0: iti praśastapādabhāṣye samavāyapadārthaḥ samāptaḥ //
+
+<B 13>
+
+PP0.0/ 0.0: yogācāravibhūtyā yas toṣayitvā maheśvaram / cakre vaiśeṣikam śāstram tasmai kaṇabhuje namaḥ //
+PP0.0/ 0.0: iti praśastapādaviracitam dravyādiṣaṭpadārthabhāṣyam samāptam //

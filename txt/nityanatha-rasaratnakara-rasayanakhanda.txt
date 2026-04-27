@@ -1,0 +1,2755 @@
+Rasāyanakhaṇḍa
+A SARIT edition
+Nityanātha Siddha
+Dagmar Wujastyk
+The AyurYog.org Project
+Creation of machine-readable version.
+SARIT: Search and Retrieval of Indic Texts
+Copyright Notice
+Copyright 2017-2018 SARIT and Dagmar Wujastyk
+Distributed by
+SARIT
+under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Under this licence, you are free
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information and fuller details of this license are given on the Creative Commons website.
+SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown.
+2017
+Śrīnityanāthasiddhaviracitaḥ Rasaratnākarāntargataś caturthaḥ Rasāyanakhaṇḍaḥ = Rasâyanakhanda, Fourth Part of Rasaratnākara of Śrī Nitya Nātha Siddha edited by Vaidya Jâdavjî Tricumjî Âchârya
+Yādavaśarmā Trivikrama Ācārya
+Rāmacandraśāstrī Paṇaśīkara
+Caukhambā Saṃskṛta Pustakālaya
+Banaras
+1939
+Digitized copy available at
+https://archive.org/details/RasaratnakaraRasayanakhanda1939
+The published edition from which this e-text was transcribed is printed in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (
+The International Alphabet of Sanskrit Transliteration
+). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:
+ṛ -> r̥ and ṃ -> ṁ
+Text division is as Devanāgarī ("ityevam" not "ity evam".)
+Verse passages are grouped within the line-group tag,
+lg
+, and individually tagged as verse lines,
+l
+.
+Arranged for the text to be digitized at Aurochana in Pondichery, for the
+AyurYog Project
+project.
+Converted to SARIT conventions
+Updated the SARIT header
+
+<B 1>
+
+prathamopadeśaḥ |
+NL1/ jayati sa rasarājo mṛtyuśaṅkāpahārī
+NL2/ sakalaguṇanidhānaṃ kāyakalpādhikārī |
+NL3/ valipalitavināśaṃ sevito vīryavṛddhiṃ
+NL4/ sthiramapi kurute yaḥ kāmi nīnāṃ prasaṅgam || 1 ||
+<B 2>
+
+dehasiddheḥ praśaṃsā |
+NL5/ athātaḥ saṃpravakṣyāmi dehasiddhiṃ suśobhanām |
+NL6/ yasyāḥ siddhau manuṣyāṇāṃ jāyante sarvasiddhayaḥ || 2 ||
+NL7/ na dehena vinā kiñcidiṣṭamasti jagattraye |
+NL8/ tasmātsarvaprayatnena tasmin yatno vidhīyatām || 3 ||
+
+<B 3>
+
+rasāyanasevanasya pūrvakarma |
+NL9/ śubhanakṣatradivase vamane recane kṛte |
+NL10/ tato viśeṣaśuddhyarthaṃ ketakīstanajaṃ dravam || 4 ||
+NP1/ tasyāḥ kha. |
+NL11/ tridinaṃ kuḍavaikaikaṃ loṇadoṣaharaṃ pibet |
+NL12/ viḍaṅgaṃ ca vacā kuṣṭhaṃ ketakīstanasaṃyutam || 5 ||
+NL13/ kvathitaṃ tridinaṃ pītamamladoṣaharaṃ param |
+NL14/ śyāmāvahniviḍaṅgāni tryūṣaṇaṃ triphalā vṛṣaḥ || 6 ||
+NL15/ saindhavaṃ devadāruśca mustā caitatsamaṃ samam |
+NL16/ ghṛtairlehyaṃ tu karṣaikaṃ saptāhātsarvadoṣajit || 7 ||
+NL17/ evaṃ viśuddhadehastu pūjayeddevatāṃ gurum |
+NL18/ kumārīṃ yoginīcakraṃ tataḥ kuryādrasāyanam || 8 ||
+
+<B 4>
+
+rasasevane pathyāni |
+NL19/ nirvāte bhūgṛhe vā'tha bāhyacintāvivarjitaḥ |
+NL20/ jitendriyo jitakrodhaḥ kṣīraśālyannabhugbhavet || 9 ||
+NL21/ ṣaṣṭyodanaṃ yavānnaṃ ca godhūmaṃ mudgayūṣakam |
+NL22/ jāṅgalaṃ bhakṣayenmāṃsaṃ kevalaṃ kṣīrameva vā || 10 ||
+NL23/ balānnaṃ vā'tha bhuñjīta śākaloṇavivarjitam |
+NL24/ abhyaṅgaṃ mastunā kuryāt snānaṃ caiva sukhāmbunā || 11 ||
+NL25/ kākinīṃ strīṃ bhajennityaṃ svānukūlāṃ suyauvanām |
+NL26/ rasendre bhakṣyamāṇe tu kāmāndho jāyate naraḥ || 12 ||
+NL27/ maithunena vinā tasya hyajīrṇo jāyate rasaḥ |
+NL28/ ajīrṇe kampadāhārtī hikkā mūrcchā jvaro'ratiḥ || 13 ||
+NL29/ kāsaśvāsārucicchardibhramamohā bhavanti hi |
+NL30/ seveta subhagāṃ tasmāddurbhagāṃ parivarjayet || 14 ||
+
+<B 5>
+
+rasāyane varjyāni |
+NL31/ abhyaṅgaṃ kaṭutailena kāñjikaṃ madirāṃ dadhi |
+NL32/ kaliṅgakāravallyamlatailakūṣmāṇḍarājikāḥ || 15 ||
+NL33/ bilvacchatrākavārtākavidalaṃ kākamācikām |
+NL34/ mūlakaṃ laśunaṃ tīkṣṇaṃ śītamuṣṇaṃ ca varjayet || 16 ||
+NL35/ rātrau jāgaraṇaṃ tyājyaṃ divāsvāpaṃ ca maithunam |
+NL36/ kalahodvegacintāśca śokaṃ caiva vivarjayet || 17 ||
+
+<B 6>
+
+rasāyanavyāpaccikitsā |
+NL37/ āvarjanādbhavecchūlaṃ nidrā''lasyaṃ jvaro'ratiḥ |
+NL38/ tryaṃhaṃ pibettatpraśāntyai vāriṇā karkaṭīphalam || 18 ||
+NL39/ śuṇṭhīsaindhavacūrṇaṃ vā mātuluṅgāmlakairlihet |
+NL40/ sauvarcalaṃ gavāṃ mūtraiḥ pibedvā tatpraśāntaye || 19 ||
+NL41/ vandhyākarkoṭakīṃ puṅkhāṃ pātālagaruḍīṃ jalaiḥ |
+NL42/ kvāthayedaṣṭaguṇitaistadaṣṭāṃśaṃ sasaindhavam || 20 ||
+NL43/ pibetsarvavikāraghnaṃ tridinaṃ śivabhāṣitam |
+NL44/ mūlaṃ vā kāravallyutthaṃ saindhavaṃ vā gavāṃ jalaiḥ || 21 ||
+NL45/ tridinaṃ karṣamātraṃ tu pibetsarvavikārajit |
+NL46/ apathyaśīlināmetat kathitaṃ rasasevinām || 22 ||
+NL47/ amumeva vidhiṃ kuryādrasāyanavidhau kila |
+NL48/ amṛtaṃ vidhisaṃyuktaṃ vidhihīnaṃ tu taddviṣam || 23 ||
+
+<B 7>
+
+rasasaṅkrāmaṇam |
+NL49/ cāturjātakakarpūrakaṅkolaṃ kaṭukīphalam |
+NL50/ khādettāmbūlasaṃyuktaṃ rasasaṅkrāmaṇe hitam || 24 ||
+
+<B 8>
+
+pāradamaraṇabidhiḥ |
+NL51/ athātra vakṣyate samyagādau pāradamāraṇam |
+NL52/ samukhasya rasendrasya vāsanāmukhitasya vā || 25 ||
+NL53/ krameṇa jārayetsvarṇaṃ samāṃśaṃ pūrvavattataḥ |
+NL54/ tattulyaṃ gandhakaṃ tasmin dattvā divyauṣadhidravaiḥ || 26 ||
+NP2/ mātuluṅgārdrakairlihet kha. |
+NP3/ puṅkhāmiti śarapuṅkhāmityarthaḥ |
+NP4/ statpādāṃśena saindhavam kha, |
+NL55/ mardayettridinaṃ khalve mūṣāyāṃ cāndhitaṃ tataḥ |
+NL56/ karīṣāgnau divārātraṃ trirātraṃ vā tuṣāgninā || 27 ||
+NL57/ sveditaṃ mardayedbhūyo bījairdivyauṣadhodbhavaiḥ |
+NL58/ tulyaṃ khalve caturyāmaṃ vajramūṣāndhitaṃ dhamet || 28 ||
+NL59/ bhasmasūtaṃ bhavettadvai yojyaṃ sarvarasāyane |
+
+<B 9>
+
+pāradamāraṇasya dvitīyaḥ prakāraḥ |
+NL60/ śuddhasūtaṃ samaṃ svarṇaṃ yāmamamlairvimardayet || 29 ||
+NL61/ prākṣālya grāhayet piṣṭīṃ piṣṭyardhaṃ śuddhagandhakam |
+NL62/ gandhārdhaṃ ṭaṅkaṇaṃ dattvā sarvatulyāṃ haridrikām || 30 ||
+NL63/ strīpuṣpeṇa tu tatsarvaṃ mardyaṃ rambhādravānvitam |
+NL64/ dinānte golakaṃ kṛtvā vālukāyantragaṃ pacet || 31 ||
+NL65/ dinaṃ mandāgninā taṃ vai samuddhṛtya vicūrṇayet |
+NL66/ cūrṇāṃśaṃ gandhakaṃ dattvā garbhayantre tryahaṃ pacet || 32 ||
+NL67/ tuṣāgninā laghutvena jāyate bhasmasūtakaḥ |
+
+<B 10>
+
+pāradamāraṇasya tṛtīyaḥ prakāraḥ |
+NL68/ śuddhasūtastribhāgaḥ syādbhāgaikaṃ tāmracūrṇakam || 33 ||
+NL69/ dinaikaṃ mardayedamlaiḥ kṣālitaṃ piṣṭimāharet |
+NL70/ mākṣikāddhautasattvaṃ ca piṣṭitulyaṃ prakalpayet || 34 ||
+NL71/ tatsarvaṃ tridinaṃ mardyaṃ cakramardadaladravaiḥ |
+NL72/ tadgolaṃ garbhayantrasthaṃ tridinaṃ tuṣavahninā || 35 ||
+NL73/ karīṣāgnau divārātraṃ pacedvā bhasmatāṃ vrajet |
+
+<B 11>
+
+pāradamāraṇasya caturthaḥ prakāraḥ |
+NL74/ śuddhasūtaṃ vyomasattvaṃ suvarṇaṃ ca samaṃ samam || 36 ||
+NL75/ sarvatulyaṃ biḍaṃ dattvā mardyaṃ rambhādravairdinam |
+NL76/ bījairdivyauṣadhīnāṃ ca tulyairmardyaṃ dinadvayam || 37 ||
+NL77/ garbhayantragataṃ pacyānmriyate pūrvavatpuṭe |
+NP5/ --rdivyauṣadhidravaiḥ kha. |
+NP6/ sūtabhasma kha. |
+NP7/ gaḍukāyantragaṃ ka. |
+NP8/ śuddhasūtaṃ tridhā gandhaṃ bhāgaikaṃ kha. |
+NP9/ pacedagnau kha. |
+
+<B 12>
+
+garbhayantralakṣaṇam |
+NL78/ caturaṅguladīrghaṃ syādvistāre cāṅgulatrayam || 38 ||
+NL79/ mṛṇmayaṃ sampuṭaṃ kṛtvā chāyāśuṣkaṃ ca kārayet |
+NL80/ lavaṇaṃ viṃśabhāgaṃ syādbhāgamekaṃ tu guggulum || 39 ||
+NL81/ sarvaṃ toyaiḥ prapiṣyātha tenaiva sampuṭodaram |
+NL82/ liptvā tatra rasaṃ rundhyādgarbhayantramidaṃ bhavet || 40 ||
+
+<B 13>
+
+pāradamāraṇasya pañcamaḥ prakāraḥ |
+NL83/ vimalā pāradaṃ śuddhaṃ tulyaṃ nirguṇḍikādravaiḥ |
+NL84/ mardayettridinaṃ taṃ vai kācakūpyāṃ niveśayet || 41 ||
+NL85/ kācakūpyā hyabhāve tu nirundhyācchrāvasampuṭe |
+NL86/ pācayedvālukāyantre caturyāmānmṛto bhavet || 42 ||
+
+<B 14>
+
+pāradamāraṇasya ṣaṣṭhaḥ prakāraḥ |
+NL87/ mākṣikāddhautasattvaṃ tu tatsamaṃ śuddhagandhakam |
+NL88/ dvābhyāṃ tulyaṃ śuddharasaṃ dinaṃ nirguṇḍikādravaiḥ || 43 ||
+NL89/ tatsarvaṃ marditaṃ golaṃ vajramūṣāndhitaṃ pacet |
+NL90/ dinaikaṃ vālukāyantre mṛtaṃ syādraktavarṇakam || 44 ||
+
+<B 15>
+
+pāradamāraṇasya saptamaḥ prakāraḥ |
+NL91/ urdhvādho gandhakaṃ tulyaṃ dātavyaṃ śuddhapārade |
+NL92/ udare pakvamūṣāyāḥ kākamācīdravaṃ punaḥ || 45 ||
+NL93/ dvābhyāṃ caturguṇaṃ dattvā tāmācchādya pacecchanaiḥ |
+NL94/ kramāgnau vālukāyantre caturyāmānmṛto bhavet || 46 ||
+
+<B 16>
+
+pāradamāraṇasyāṣṭhamaḥ prakāraḥ |
+NL95/ snuhyā vā hemavallyā vā kṣīraiḥ śuddharasaṃ dinam |
+NL96/ mardayedgandhakaṃ tulyaṃ garbhayantragataṃ puṭet || 47 ||
+NL97/ pūrvavatkramayogena mṛtaṃ yogeṣu yojayet |
+
+<B 17>
+
+pāradamāraṇasya navamaḥ prakāraḥ |
+NL98/ śuddhasūtasamaṃ guñjālākṣorṇāmadhuṭaṅkaṇam || 48 ||
+NL99/ tatsarvaṃ bhṛṅgajairdrāvairdinamekaṃ vimardayet |
+NL100/ vajramūṣāndhitaṃ dhmātaṃ mriyate śaśisannibham || 49 ||
+
+<B 18>
+
+pāradamāraṇasya daśamaḥ prakāraḥ |
+NL101/ dravaistu kīṭamāriṇyā hyajamodādravaiśca vā |
+NL102/ ahimāryā dravairvā'tha kiṃvā śvetāṅkuladravaiḥ || 50 ||
+NL103/ mardayetpāradaṃ śuddhaṃ samagandhaṃ dinatrayam |
+NL104/ sampuṭe mṛṇmaye ruddhvā karīṣāgnau divāniśi || 51 ||
+NL105/ pacettuṣāgninā vā'tha tridinānmriyate dhruvam |
+
+<B 19>
+
+pāradamāraṇasyaikādaśaḥ prakāraḥ |
+NL106/ śuddhasūtaṃ mṛtaṃ vajraṃ samāṃśaṃ taptakhalvake || 52 ||
+NL107/ haṃsapādyā dravairmardyaṃ tridinānte samuddharet |
+NL108/ bījairdivyauṣadhīnāṃ ca vajramūṣāṃ pralepayet || 53 ||
+NL109/ tatra pūṃrvarasaṃ ruddhvā tridinaṃ tuṣavahninā |
+NL110/ pācayitvā samuddhṛtya tatsamaṃ śuddhapāradam || 54 ||
+NL111/ ekīkṛtya tryahaṃ mardyaṃ haṃsapādyā dravairdṛḍham |
+NL112/ tadgolaṃ pūrvavatpacyānmṛtaṃ bhavati śobhanam || 55 ||
+
+<B 20>
+
+vajrādimāraṇavidheratideśena kathanam |
+NL113/ vajrābhrādyaṣṭalohānāṃ rasakhaṇḍe yathoditam |
+NL114/ māraṇaṃ vādikhaṇḍe vā tathā jñeyaṃ rasāyane || 56 ||
+
+<B 21>
+
+mṛtarasaguṇāḥ |
+NL115/ evaṃ mṛto rasavaraḥ paramāmṛtaḥ syā-
+NL116/ ttatsevakāḥ satatamasya dṛḍhaṃ tu teṣām |
+NL117/ dehaṃ karoti sahasā surasundarīṇāṃ
+NL118/ krīḍākṣamaṃ paramasundarameva nityam || 57 ||
+
+NP10/ vādakhaṇḍe kha. |
+NP11/ padaṃ kha. |
+
+<B 2>
+
+dvitīyopadeśaḥ |
+NL119/ dharmajñaiḥ śivavatsalairnijaratairbhūpairmahāsādhakaiḥ
+NL120/ samyagdivyarasāyanena satataṃ kalpāntasīmāvadhi |
+NL121/ rakṣyaṃ gātramanantapuṇyanicaye muktiśca yasmādbhave-
+NL122/ ttadvakṣye paramādbhutaṃ sukhakaraṃ sāmrājyadaṃ dhīmatām || 1 ||
+<B 23>
+
+kṣetrīkaraṇārthamabhrakabhakṣaṇavidhiḥ |
+NL123/ abhrakaṃ bhakṣayedādau māritaṃ cāmṛtīkṛtam |
+NL124/ māsaikaṃ niṣkaniṣkaṃ vai kṣetrīkaraṇahetave || 2 ||
+NL125/ yasmādabhraṃ rasakṣetraṃ tataḥ kuryādrasāyanam |
+NL126/ akṣetrīkaraṇe sūto hyamṛto viṣatāṃ vrajet || 3 ||
+NL127/ phalasiddhiḥ kutastasya subījasyoṣare yathā |
+
+<B 24>
+
+vajrapañjararasaḥ |
+NL128/ vajrapāradayorbhasma samabhāgaṃ prakalpayet || 4 ||
+NL129/ sūtapādaṃ mṛtaṃ svarṇaṃ sarvaṃ mardyaṃ dināvadhi |
+NL130/ haṃsapādyā dravaireva tadgolaṃ cāndhitaṃ puṭet || 5 ||
+NL131/ arkakṣīraiḥ punarmardyaṃ tadvadgajapuṭe pacet |
+NL132/ bhakṣayetsarṣapavṛddhaṃ yāvanmāṣaṃ vivardhayet || 6 ||
+NL133/ śaraṇyaḥ sādhakānāṃ tu raso'yaṃ vajrapañjaraḥ |
+NL134/ citrakārdrakasindhūtthamṛtatakṣṇisuvarcalam || 7 ||
+NL135/ samaṃ sarvaṃ sadā cānu bhakṣyaṃ syātkrāmaṇe hitam |
+NL136/ māsaṣaṭkaprayogeṇa jīvedācandratārakam || 8 ||
+NL137/ valīpalitanirmukto divyakāyo mahābalaḥ |
+
+<B 25>
+
+vajreśvararasaḥ |
+NL138/ mṛtasūtāddvādaśāṃśaṃ mṛtaṃ vajraṃ prakalpayet || 9 ||
+NL139/ dvābhyāṃ tulyaṃ mṛtaṃ kāntaṃ kāntatulyaṃ mṛtābhrakam |
+NL140/ tatsarvaṃ bhṛṅgajairdrāvairmarditaṃ bhāvayettryaham || 10 ||
+NL141/ tryahaṃ gokṣurakadrāvaiḥ kṣaudrairmāṣaṃ tato lihet |
+NL142/ raso vajreśvaro nāma vajrakāyakaro nṛṇām || 11 ||
+NP12/ dehamanantapuṇyavibhavā bhuktiśca kha. |
+NP13/ śrīmatām kha. |
+NL143/ caturmāsairjarāṃ hanti jīvedbrahmadinaṃ kila |
+NL144/ bhṛṅgarājasya pañcāṅgaṃ cūrṇayettriphalāsamam || 12 ||
+NL145/ palaikaṃ madhunā lehyaṃ krāmakaṃ paramaṃ rase |
+
+<B 26>
+
+vajradhārārasaḥ |
+NL146/ vajrasūtābhrahemnāṃ tu bhasma śuddhaṃ tu mākṣikam || 13 ||
+NL147/ tulyaṃ saptadinaṃ mardyaṃ divyauṣadhirasairdṛḍham |
+NL148/ ruddhvā taṃ tridinaṃ pacyādvālukāyantragaṃ punaḥ || 14 ||
+NL149/ uddhṛtya tridinaṃ bhāvyaṃ bhṛṅgasarpākṣijairdravaiḥ |
+NL150/ māṣaikaṃ madhusarpirbhyāṃ vajradhārārasaṃ lihet || 15 ||
+NL151/ māsaṣaṭkaprayogeṇa rudratulyo bhavennaraḥ |
+NL152/ valīpalitanirmukto vāyuvego mahābalaḥ || 16 ||
+NL153/ punarnavābhṛṅgatilavājigandhāḥ samāṃśakāḥ |
+NL154/ sarvatulyā sitā yojyā cūrṇitaṃ bhakṣayetpalam || 17 ||
+
+<B 27>
+
+bhairavarasaḥ |
+NL155/ suvarṇaṃ pāradaṃ kāntaṃ mṛtaṃ sarvaṃ samaṃ bhavet |
+NL156/ śatāvaryāḥ śiphādrāvairbhāvayeddivasatrayam || 18 ||
+NL157/ tridinaṃ triphalākvāthairbhṛṅgadrāvairdinatrayam |
+NL158/ bhāvitaṃ madhusarpirbhyāṃ bhakṣayedbhairavaṃ rasam || 19 ||
+NL159/ māṣaikaikaṃ varṣamātraṃ jīveccandrārkatārakam |
+NL160/ mūlacūrṇaṃ śatāvaryāḥ kṛṣṇājapayasā yutam || 20 ||
+NL161/ palaikaikaṃ pibeccānu krāmakaṃ paramaṃ hitam |
+
+<B 28>
+
+śilāvīrarasaḥ |
+NL162/ rasabhasma samaṃ gandhaṃ śilājatvamlavetasam || 21 ||
+NL163/ yāmaikaṃ mardayetsarvaṃ madhusarpiryutaṃ lihet |
+NL164/ niṣkaikaikaṃ varṣamātraṃ śilāvīro mahārasaḥ || 22 ||
+NL165/ jarākālaṃ nihantyāśu jīvedvarṣaśatatrayam |
+NL166/ palārdhaṃ muśalīcūrṇaṃ bhṛṅgarājarasaiḥ pibet || 23 ||
+NL167/ dhātrīphalarasairvā'tha krāmakaṃ hmanupānakam |
+
+<B 29>
+
+amṛtārṇavarasaḥ |
+NL168/ meghanādadravairmardyaṃ śuddhasūtaṃ dinatrayam || 24 ||
+NL169/ viḍaṅgaṃ dviniśaṃ vyoṣaṃ samaṃ cūrṇaṃ prakalpayet |
+NL170/ āragvadhasya mūlaṃ tu cūrṇasya dviguṇaṃ bhavet || 25 ||
+NL171/ cūrṇasya dviguṇaṃ cājyaṃ kṣaudraṃ caiva caturguṇam |
+NL172/ sarvaṃ pūrvarase kṣiptvā mṛdvagnau cālayan pacet || 26 ||
+NL173/ tatpiṇḍaṃ karṣamekaikaṃ bhakṣayedamṛtārṇavaḥ |
+NL174/ varṣamātrāñjarāṃ hanti jīvedvarṣaśatatrayam || 27 ||
+NL175/ bākucīcūrṇakarṣaikaṃ dhātrīphalarasaiḥ pibet |
+
+<B 30>
+
+udayādityarasaḥ |
+NL176/ pāradāddviguṇaṃ gandhaṃ śuddhaṃ sarvaṃ vimardayet || 28 ||
+NL177/ muṇḍyārdrakarasaiḥ khalve trisaptāhaṃ punaḥ punaḥ |
+NL178/ etattulyaṃ śuddhatāmraṃ sampuṭe tannirodhayet || 29 ||
+NL179/ veṣṭayedvastrakhaṇḍena vajramṛttikayā bahiḥ |
+NL180/ liptvā viśoṣayettaṃ vai samyaggajapuṭe pacet || 30 ||
+NL181/ uddhṛtya sampuṭaṃ cūrṇyaṃ devadālyā dravaistryaham |
+NL182/ bhaṅgīpunarnavādrāvaiḥ pṛthagbhāvyaṃ tryahaṃ tryaham || 31 ||
+NL183/ tattulyaṃ nāgarāccūrṇaṃ kṣiptvā madhvājyasaṃyutam |
+NL184/ lihenmāṣadvayaṃ nityaṃ yāvatsaṃvatsarāvadhi || 32 ||
+NL185/ raso'yamudayādityo jarāmṛtyuharaḥ paraḥ |
+NL186/ punarnavādevadālībhṛṅgacūrṇaṃ samaṃ samam || 33 ||
+NL187/ madhvājyābhyāṃ lihetkarṣamanu syātkrāmaṇaṃ param |
+
+<B 31>
+
+gaganeśvararasaḥ |
+NL188/ pārado gaganaṃ kāntaṃ tīkṣṇaṃ ca māritaṃ samam || 34 ||
+NL189/ bhṛṅgadhātrīphaladrāvaiśchāyāyāṃ bhāvayettryaham |
+NL190/ sitāmadhvājyakaistulyaṃ sarvaṃ bhāṇḍe nirodhayet || 35 ||
+NL191/ dhānyarāśau sthitaṃ māsaṃ tato niṣkatrayaṃ samam |
+NL192/ bhakṣayecca pibetkṣīraṃ karṣaikaṃ triphalāmanu || 36 ||
+NL193/ rātrau śuṇṭhīṃ kaṇāṃ khādedvarṣaikādamaro bhavet |
+NL194/ jīvedbrahmadinaṃ vīraḥ syādraso gaganeśvaraḥ || 37 ||
+
+<B 32>
+
+vaṭeśvararasaḥ |
+NL195/ vaṭakṣīraistryahaṃ mardyaṃ gandhaṃ śuddharasaṃ samam |
+NL196/ vaṭakāṣṭhāgninā pacyānmṛtpātre yāmapañcakam || 38 ||
+NL197/ kṣipan kṣipan vaṭakṣīraṃ tatkāṣṭhenaiva cālayet |
+NL198/ samuddhṛtya tryahaṃ bhāvyaṃ devadālīdaladravaiḥ || 39 ||
+NL199/ uṣṇakāle tu guñjaikaṃ tāmbūlapatrasaṃyutam |
+NL200/ candravṛddhyā sadā bhakṣyaṃ yāvat ṣoḍaśaguñjakam || 40 ||
+NL201/ cūrṇamuttaravāruṇyā bākucyā devadālijam |
+NL202/ madhvājyābhyāṃ lihetkarṣaṃ krāmakaṃ hyanupānakam || 41 ||
+NL203/ varṣamātrājjarāṃ hanti jīvedvarṣaśatatrayam |
+NL204/ raso vaṭeśvaro nāma vajrakāyakaro nṛṇām || 42 ||
+
+<B 33>
+
+acaleśvararasaḥ |
+NL205/ mṛtaṃ sūtaṃ śuddhagandhaṃ triphalāṃ gugugluṃ samam |
+NL206/ sarvaṃ vātāritailena miśraṃ karṣaṃ lihetsadā || 43 ||
+NL207/ ṣaṇmāsena jarāṃ hanti jīvedbrahmadinatrayam |
+NL208/ tasya mūtrapurīṣeṇa śulbaṃ bhavati kāñcanam || 44 ||
+NL209/ ajasya vṛṣaṇaṃ pācyaṃ gavāṃ kṣīreṇa taṃ niśi |
+NL210/ sitāyuktaṃ pibeccānu raso'yamacaleśvaraḥ || 45 ||
+
+<B 34>
+
+parameśvararasaḥ |
+NL211/ rasaṃ vajraṃ svarṇakānte muṇḍaṃ ca māritaṃ samam |
+NL212/ mākṣikaṃ gandhakaṃ śuddhaṃ sarvaṃ jambīrajairdravaiḥ || 46 ||
+NL213/ saptāhaṃ mardayetkhalve tadgolaṃ cāndhitaṃ puṭet |
+NL214/ bhūdhare dinamekaṃ tu khyātaḥ siddharasaḥ paraḥ || 47 ||
+NL215/ māṣaikaṃ madhunā lehyaṃ varṣānmṛtyujarāpaham |
+NL216/ divyakāyo naraḥ siddho bhavedviṣṇuparākramaḥ || 48 ||
+NL217/ śvetapaunarnavaṃ mūlaṃ kṣīrapiṣṭaṃ sadā pibet |
+NL218/ bhakṣayedvā sitā sārdhaṃ krāmakaṃ parame rase || 49 ||
+NP14/ parameśvare kha. |
+
+<B 35>
+
+gandhāmṛtarasaḥ |
+NL219/ mṛtasūtasya dviguṇaṃ śuddhaṃ gandhaṃ vimiśrayet |
+NL220/ dinaikaṃ kanyakādrāvairmardayitvā nirodhayet || 50 ||
+NL221/ dinaikaṃ madhunā pacyānniṣkaikaṃ madhunā lihet |
+NL222/ gandhāmṛto raso nāma vatsarānmṛtyujidbhavet || 51 ||
+NL223/ samūlaṃ bhṛṅgarājaṃ tu chāyāśuṣkaṃ vicūrṇayet |
+NL224/ tatsamaṃ triphalācūrṇaṃ sarvatulyā sitā bhavet || 52 ||
+NL225/ ekīkṛtya palaikaikaṃ bhakṣayedanupānakam |
+
+<B 36>
+
+kālakaṇṭakarasaḥ |
+NL226/ pāradābhraṃ mṛtaṃ tulyaṃ dvābhyāṃ tulyaṃ tu gandhakam || 53 ||
+NL227/ tatsarvaṃ mṛṅgajairdrāvairmardayeddinasaptakam |
+NL228/ ṣaḍvāraṃ cāṅkulītailairbhāvayitvā'tha bhakṣayet || 54 ||
+NL229/ māṣamātraṃ tu varṣaikaṃ raso'yaṃ kālakaṇṭakaḥ |
+NL230/ piṣṭvā karañjapatrāṇi gavāṃ kṣīraiḥ pibedanu || 55 ||
+NL231/ jarāmṛtyuvinirmukto jīvedbrahmadinaṃ naraḥ |
+
+<B 37>
+
+amṛteśarasaḥ |
+NL232/ mṛtasūtābhrakaṃ kāntaṃ viṣaṃ tāpyaṃ śilājatu || 56 ||
+NL233/ tulyāṃśaṃ madhusarpirbhyāṃ lihedguñjātrayaṃ sadā |
+NL234/ ṣaṇmāsena jarāṃ hanti jīvedbrahmadinaṃ naraḥ || 57 ||
+NL235/ aśvagandhāmūlacūrṇaṃ saptabhāgaghṛtaiḥ samam |
+NL236/ bhāgāṣṭakaṃ guḍaṃ tasmin kṣipedbhāgaṃ ca pippalīm || 58 ||
+NL237/ mṛdvagninā ca tatsarvaṃ piṇḍitaṃ bhakṣayet palam |
+NL238/ krāmakaṃ hyamṛteśasya rasarājasya siddhaye || 59 ||
+
+<B 38>
+
+rasavīramahārasaḥ |
+NL239/ triguṇaṃ śuddhasūtasya yojayecchuddhagandhakam |
+NL240/ lohaparpaṭikācūrṇaṃ sūtatulyaṃ vinikṣipet || 60 ||
+NL241/ snuhyarkapayasā mardyaṃ tatsarvaṃ divasatrayam |
+NL242/ tacchuṣkaṃ cāndhitaṃ pacyātkarīṣāgnau divāniśam || 61 ||
+NP15/ bākucotailai-- kha. |
+NL243/ tataśca ṭaṅkaṇaṃ kācaṃ dattvā ruddhvā dhameddṛḍham |
+NL244/ guñjaikaṃ madhunā khādedrasavīro mahārasaḥ || 62 ||
+NL245/ abdaikena jarāṃ hanti jīvedācandratārakam |
+NL246/ muśalīmūlacūrṇaṃ tu guñjāpatradravaiḥ pibet || 63 ||
+NL247/ chāgīmūtreṇa vā taṃ vai karṣaikaṃ krāmakaṃ param |
+
+<B 39>
+
+kāñcāyanarasaḥ |
+NL248/ mṛtasūtasamaṃ gandhaṃ kākamācyā dravairdinam || 64 ||
+NL249/ marditaṃ cāndhitaṃ pacyātkarīṣāgnau divāniśam |
+NL250/ divyauṣadhadaladrāvairdinaṃ mardyaṃ tamandhayet || 65 ||
+NL251/ dhmātaṃ tasmātsamuddhṛtya tattulyaṃ hāṭakaṃ mṛtam |
+NL252/ ekīkṛtya ghṛtairlehyaṃ māṣaikaṃ vatsarāvadhi || 66 ||
+NL253/ jarāṃ mṛtyuṃ nihantyāśu satyaṃ kāñcāyano rasaḥ |
+NL254/ kākamācīdravairbhāvyaṃ cūrṇaṃ dhātrīphalodbhavam || 67 ||
+NL255/ madhunā bhakṣayetkarṣamanu syātkrāmakaṃ param |
+
+<B 40>
+
+parānandarasaḥ |
+NL256/ mṛtasūtābhrakaṃ gandhaṃ tulyaṃ saptadināvadhi || 68 ||
+NL257/ śigrumṛladravairmardyaṃ tadgolaṃ bhāṇḍamadhyagam |
+NL258/ ruddhvā pacyāllaghutvena śākakāṣṭhairdināvadhi || 69 ||
+NL259/ parānando raso nāma ghṛtairniṣkaṃ sadā lihet |
+NL260/ dinaikaṃ triphalākvāthaiḥ kuṣṭhaṃ samyagvipācayet || 70 ||
+NL261/ tacchuṣkaṃ cūrṇitaṃ karṣaṃ madhvājyābhyāṃ lihedanu |
+NL262/ saṃvatsaraprayogeṇa jīvedācandratārakam || 71 ||
+
+<B 41>
+
+mahākālarasaḥ |
+NL263/ mṛtasūtābhrakaṃ tulyaṃ mṛtalohaṃ tayoḥ samam |
+NL264/ lohāṃśaṃ śodhitaṃ gandhaṃ bhāvayeddinasaptakam || 72 ||
+NL265/ tatsarvaṃ triphalākvāthairbhṛṅgaśigrukacitrakaiḥ |
+NL266/ dravaiḥ pṛthakpṛthagbhāvyaṃ saptadhā saptadhā kramāt || 73 ||
+NL267/ saptadhā kaṭukīkvāthairbhāvitaṃ cūrṇayetpunaḥ |
+NL268/ cūrṇatulyaṃ kaṇācūrṇaṃ purātanaguḍaiḥ samaiḥ || 74 ||
+NL269/ sarvamekīkṛtaṃ khādenniṣkaikaṃ vatsarāvadhi |
+NL270/ mahākālo raso nāma jarākālabhayaṅkaraḥ || 75 ||
+NL271/ tilakoraṇṭapatrāṇi guḍena bhakṣayedanu |
+
+<B 42>
+
+hemaparpaṭakarasaḥ |
+NL272/ mṛtapāradasantulyaṃ lohaparpaṭakaṃ bhavet || 76 ||
+NL273/ triguṇaṃ gandhakaṃ sūtātsarvaṃ divyauṣadhadravaiḥ |
+NL274/ marditaṃ taddinaṃ ruddhvā dhmāto baddho bhavedrasaḥ || 77 ||
+NL275/ tasmin pādaṃ mṛtaṃ svarṇaṃ kṣiptvā vahnyārdrakadravaiḥ |
+NL276/ mardyaṃ yāmaṃ vicūrṇyātha vyoṣajīrakasaindhavaiḥ || 78 ||
+NL277/ tulyaṃ pūrvarasaṃ tulyaṃ niṣkaikaikaṃ ca bhakṣayet |
+NL278/ jarāmṛtyuṃ nihantyāśu hemaparpaṭako rasaḥ || 79 ||
+NL279/ aśvagandhāsamāṃ yaṣṭiṃ dhātrīphalarasairdinam |
+NL280/ bhāvitāṃ lehayetkṣaudraiḥ palaikāṃ krāmakaṃ param || 80 ||
+
+<B 43>
+
+śrīkaṇṭharasaḥ |
+NL281/ svarṇatārārkakāntaṃ ca tīkṣṇaṃ vā māritaṃ samam |
+NL282/ kṛṣṇābhrasattvamākṣīkaṃ pratyekaṃ svarṇatulyakam || 81 ||
+NL283/ tatsarvaṃ cāndhitaṃ dhāmyaṃ tatkhoṭaṃ mṛtapāradam |
+NL284/ samaṃ sūnānmṛtaṃ vajraṃ pādāṃśaṃ tatra yojayet || 82 ||
+NL285/ sarvaṃ jambīrajairdrāvaistaptakhalve vimardayet |
+NL286/ dinaikaṃ taṃ nirudhyātha bhūdhare pācayeddinam || 83 ||
+NL287/ uddhṛtya gandhakaṃ tulyaṃ dattvā ruddhvā dhameddrutam |
+NL288/ taccūrṇaṃ madhunā''jyena māṣamātraṃ lihetsadā || 84 ||
+NL289/ rasaḥ śrīkaṇṭhanāmā'yaṃ khecaratvaṃ prayacchati |
+NL290/ saṃvatsaraprayogeṇa jīvetkalpāntameva ca || 85 ||
+NL291/ tasya mūtrapurīṣābhyāṃ sarvalohāni kāñcanam |
+NL292/ palaikaṃ gandhakaṃ kṣīraiḥ krāmakaṃ cānu pāyayet || 86 ||
+
+<B 44>
+
+khecarabaddharasaḥ |
+NL293/ śuddhatāmrasya bhāgaikaṃ dviṣaṭ śuddharasasya ca |
+NL294/ trayaṃ bhūnāgasattvasya bhāgamekatra kārayet || 87 ||
+NL295/ sarvaṃ mardyaṃ taptakhalve jambīrāṇāṃ dravairdinam |
+NL296/ tatsarvaṃ kacchape yantre kṣiptvā tatraiva gandhakam || 88 ||
+NL297/ kāsamardarasaiḥ piṣṭaṃ tulyaṃ dattvā nirudhya ca |
+NL298/ yāvajjīrṇaṃ puṭe pacyādevaṃ ṣaṅguṇagandhakam || 89 ||
+NL299/ jārayetkramayogena samuddhṛtyātha mardayet |
+NL300/ yāmaṃ jambīrajairdrāvaistato niścandramabhrakam || 90 ||
+NL301/ amlavetasasantulyaṃ marditaṃ dāpayadrase |
+NL302/ ṣoḍaśāṃśaṃ taptakhalve caṇakāmlaṃ ca tālakam || 91 ||
+NL303/ kāsīsaṃ ca daśāṃśena dattvā mardyaṃ dināvadhi |
+NL304/ tatsarvaṃ pakvamūṣāyāṃ kṣiptvā vastreṇa bandhayet || 92 ||
+NL305/ dolāyantre sāranāle tryahaṃ ladhvagninā pacet |
+NL306/ uddhṛtya kṣālayeduṣṇaiḥ kāñjikairjīryate yadi || 93 ||
+NL307/ ajīrṇaṃ cetpacedyantre kacchapākhye biḍānvitam |
+NL308/ evaṃ punaḥ punarjāryaṃ gaganaṃ sūtatulyakam || 94 ||
+NL309/ śikhipittapraliptāni svarṇapatrāṇi tasya vai |
+NL310/ catuḥṣaṭyaṃśayogena dattvā khalve vimardayet || 95 ||
+NL311/ svedayetpūrvavadyantre jīrṇeṃ svarṇaṃ ca dāpayet |
+NL312/ ityevaṃ ṣoḍaśāṃśaṃ tu svarṇaṃ jāryaṃ rasasya vai || 96 ||
+NL313/ tato jāryaṃ mṛtaṃ vajraṃ ṣoḍaśāṃśaṃ ca hemavat |
+NL314/ tālakāsīsajambīrayuktaṃ mardyaṃ ca tatparam || 97 ||
+NL315/ tato divyauṣadhadrāvaistaṃ sūtaṃ mardayettryaham |
+NL316/ vajramūṣāndhitaṃ dhāmyaṃ baddhaṃ syāccūrṇayetpunaḥ || 98 ||
+NL317/ madhuśarkarayā sārdhaṃ guñjāmātraṃ ca bhakṣayet |
+NL318/ rasaḥ khecarabaddho'yaṃ ṣaṇmāsānmṛtyujidbhavet || 99 ||
+NL319/ valīpalitanirmukto mahābalaparākramaḥ |
+NL320/ saptāhaṃ mṛṅgajairdrāvairnīlīmuṇḍīphalatrayam || 100 ||
+NL321/ bhāvayenmadhusarpirbhyāṃ karṣamātraṃ lihedanu |
+
+<B 45>
+
+svayamarinarasaḥ |
+NL322/ śuddhasūtaṃ dvidhā gandhaṃ kuryātkhalvena kañjalam || 101 ||
+NL323/ tayostulyaṃ kāntacūrṇaṃ tīkṣṇaṃ vā muṇḍameva vā |
+NL324/ sarvamekīkṛtaṃ khalve mardayetkanyakādravaiḥ || 102 ||
+NL325/ dinaikaṃ golakaṃ kṛtvā tāmrapātre niveśayet |
+NL326/ ācchādyairaṇḍapatraistu yāmārdhe'tyuṣṇatāṃ vrajet || 103 ||
+NL327/ dhānyarāśau nyasettaṃ tu dvidinānte samuddharet |
+NL328/ kanyābhṛṅgīkākamācīmuṇḍīnirguṇḍicitrakam || 104 ||
+NL329/ koraṇṭabākucībrāhmīsahadevīpunarnavāḥ |
+NL330/ śālmalīvijayādhūrtā dravaireṣāṃ pṛthakpṛthak || 105 ||
+NL331/ saptadhā saptadhā bhāvyaṃ saptadhā triphalodbhavaiḥ |
+NL332/ kaṣāyairbhāvitaṃ cūrṇyaṃ jātīphalalavaṅgakam || 106 ||
+NL333/ trikaṭu triphalā cailā cūrṇayennavakaṃ samam |
+NL334/ taccūrṇaṃ pūrvacūrṇaṃ ca samaṃ kṣaudreṇa karṣakam || 107 ||
+NL335/ varṣaikaṃ lehayennityaṃ jarākālapraśāntaye |
+NL336/ svayamagniraso nāma siddhānāṃ sumukhāgataḥ || 108 ||
+NL337/ tilāśvagandhayoścūrṇaṃ palārdhaṃ madhunā lihet |
+
+<B 46>
+
+kakṣapuṭarasaḥ |
+NL338/ nirguṇḍī nīlikā vajrī brahmadaṇḍī tridaṇḍikā || 109 ||
+NL339/ śatapuṣpā mudgaparṇī śvetārko vānarī jayā |
+NL340/ peṭārīkṛṣṇadhattūravijayākṣīrakandakam || 110 ||
+NL341/ etaiḥ samastairvyastairvā dravyairmardyaṃ dinatrayam |
+NL342/ śuddhasūtaṃ taptakhalve tatkalkaṃ kṣīrakandake || 111 ||
+NL343/ vajrakande'thavā ruddhvā tanmajjābhirmṛdā punaḥ |
+NL344/ taṃ kandaṃ vajramūṣāyāṃ ruddhvā laghupuṭe pacet || 112 ||
+NL345/ punarmardyaṃ punaḥ pācyamityevaṃ saptadhā kramāt |
+NL346/ rasaḥ kakṣapuṭo nāma guñjaikaṃ madhunā lihet || 113 ||
+NL347/ jīvedbrahmadinaikaṃ tu valīpalitavarjitaḥ |
+NL348/ varṣaikena na sandeho rasakāyo bhavennaraḥ || 114 ||
+NL349/ bhallātabījacūrṇaṃ ca hayagandhāmṛtāghṛtaiḥ |
+NL350/ palaikaṃ bhakṣayeccānu krāmakaṃ paramaṃ hitam || 115 ||
+
+<B 47>
+
+mahāśāktirasaḥ |
+NL351/ mṛtasūtābhrakaṃ vajraṃ kāntatārārkahāṭakam |
+NL352/ tīkṣṇaṃ ca tulyatulyāṃśaṃ sarveṣāṃ gandhakaṃ samam || 116 ||
+NL353/ sarvaṃ pālāśatailena mardayeddinasaptakam |
+NL354/ mahāśaktiraso nāma kṣaudrairmāṣaṃ lihetsadā || 117 ||
+NL355/ ṣaṇmāsena jarāṃ hanti jīvedbrahmadinatrayam |
+NL356/ vatsarātsaptakalpāni jīvatyeva na saṃśayaḥ || 118 ||
+NL357/ icchāvegī mahāsiddhaḥ parāśaktisamo bhavet |
+NL358/ tasya mūtrapurīṣābhyāṃ tāmraṃ bhavati kāñcanam || 119 ||
+NL359/ pālāśabījajaṃ tailaṃ kṣaudrairlehyaṃ palāṣṭakam |
+NL360/ krāmakaṃ hyanupānaṃ syātsamyakchaktyā prakāśitam || 120 ||
+
+<B 48>
+
+nāṭakeśvararasaḥ |
+NL361/ lohitaṃ vā'tha vā kṛṣṇaṃ vaikrāntaṃ māritaṃ palam |
+NL362/ svarṇacūrṇapalaikaṃ ca dvipalaṃ śuddhapāradam || 121 ||
+NL363/ bālaraṇḍājamūtrābhyāṃ tatsarvaṃ mardayeddinam |
+NL364/ śarapuṅkhā meṣaśṛṅgī sarpākṣīkaṭutumbikā || 122 ||
+NL365/ indravāruṇikā caiṣāṃ dravairmardyaṃ dinatrayam |
+NL366/ tadgolaṃ garbhayantre tu ruddhvā pacyāddinatrayam || 123 ||
+NL367/ tuṣāgninā laghutvena samuddhṛtya vicūrṇayet |
+NL368/ saptadhā bhṛṅgajairdrāvairbhāvitaṃ cūrṇayetpunaḥ || 124 ||
+NL369/ triphalātryūṣamadhvājyaiḥ samaṃ cūrṇaṃ vimiśrayet |
+NL370/ māṣaikaikaṃ sadā khādedraso'yaṃ nāṭakeśvaraḥ || 125 ||
+NL371/ sarvarogajarāmṛtyūn vatsarānnāśayatyalam |
+NL372/ divyatejā mahākāyo jīvedācandratārakam || 126 ||
+NL373/ mūlatvacaṃ brahmavṛkṣācchāyāśuṣkāṃ vicūrṇitām |
+NL374/ pibenniṣkadvayāṃ takraiḥ krāmakaṃ paramaṃ śubham || 127 ||
+NP16/ triphaloṣaṇamadhvājyaiḥ kha. |
+NP17/ hāṭakeśvaraḥ ka. |
+
+<B 49>
+
+bālasundararasaḥ |
+NL375/ suśuddhaṃ śvetavaikrāntaṃ saptāhaṃ bhāvyamātape |
+NL376/ amlavetasasampiṣṭaṃ tenaiva drutimāpnuyāt || 128 ||
+NL377/ etaddrutiṃ śuddhasūtaṃ samaṃ kṣaudrairdinatrayam |
+NL378/ marditaṃ lehayenmāṣaṃ māsādbālo bhavennaraḥ || 129 ||
+NL379/ vatsarādbrahmatulyaḥ syādraso'yaṃ bālasundaraḥ |
+NL380/ bākucībījakarṣaikaṃ madhvājyābhyāṃ lihedanu || 130 ||
+
+<B 50>
+
+brahmapañjararasaḥ |
+NL381/ catuḥpalaṃ śuddhasūtaṃ palaikaṃ mṛtahāṭakam |
+NL382/ palāśakuḍmaladrāvaistattailaiśca dinatrayam || 131 ||
+NL383/ mardayettaptakhalve tu svarṇatulyaṃ ca gandhakam |
+NL384/ śodhitaṃ nikṣipettasmin pūrvoktairmardayeddinam || 132 ||
+NL385/ māṣamātrāṃ vaṭīṃ khādedvatsarānmṛtyujidbhavet |
+NL386/ jīvedbrahmadinaṃ vīro raso'yaṃ brahmapañjaraḥ || 133 ||
+NL387/ vānarīkākatuṇḍyutthabījacūrṇaṃ samaṃ samam |
+NL388/ śālmalītvagdaladrāvairbhāvayeddivasatrayam || 134 ||
+NL389/ tryahaṃ ca bhṛṅgajairdrāvairbhāvitaṃ cūrṇayettataḥ |
+NL390/ purātanaguḍaistulyaṃ karṣaikamanu bhakṣayet || 135 ||
+
+<B 51>
+
+śivāmṛtarasaḥ |
+NL391/ raktabhūmau tu bhūnāgān grāhayitvā parīkṣayet |
+NL392/ chede niryāti raktaṃ cettān svīkuryātprayatnataḥ || 136 ||
+NL393/ kṛṣṇavarṇagavājyena samena saha tān pacet |
+NL394/ lohaje cālayan pātre yāvatsindūravarṇakam || 137 ||
+NL395/ tatsarvaṃ jāyate bhasma tattulyaṃ mṛtapāradam |
+NL396/ madhunā''loḍitaṃ sarvaṃ guñjārdhārdhaṃ vivardhayan || 138 ||
+NL397/ paścādguñjāṃ sadā khādedyāvatsaṃvatsarāvadhi |
+NL398/ śivāmṛto raso nāma jarāmṛtyuharo nṛṇām |
+NL399/ āyurbrahmadinaṃ datte śivāmbu pāyayedanu || 139 ||
+NP18/ tilaiḥ saha kha. |
+NL400/ evaṃ divyarasāyanaiḥ samucitaiḥ sārātisāraiḥ śubhaiḥ
+NL401/ siddhaṃ dehamanekasādhanabalādyeṣāṃ tu dṛṣṭaṃ mayā |
+NL402/ tānārādhya ca teṣu sāramakhilaṃ saṅgṛhya śāstrādapi
+NL403/ bhūpānāṃ viduṣāṃ mahāmatimatāṃ proktaṃ hitārthāya vai || 140 ||
+
+<B 3>
+
+atha tṛtīyopadeśaḥ |
+NL404/ divyayogaguṭikārasāyanaṃ krāmaṇena rahitaṃ na sidhyati |
+NL405/ śīghrasiddhikarameva sevyatāṃ krāmaṇārthamanupānamatra vai || 1 ||
+<B 53>
+
+mṛtasañjīvanīguṭikā |
+NL406/ kākatumbī kākamācī nirguṇḍī ca kumārikā |
+NL407/ gojihvā saindhavaṃ guñjā hyārdrakaṃ ca samaṃ samam || 2 ||
+NL408/ piṣṭvā tena praleptavyā mūṣā sarvā'ṅgulāvadhi |
+NL409/ pāradaṃ vyomasattvaṃ ca kāntaṃ tīkṣṇaṃ ca muṇḍakam || 3 ||
+NL410/ tāpyasattvaṃ ca tulyāṃśaṃ sarvaṃ sañcūrṇya mardayet |
+NL411/ dinaṃ jambīrajairdrāvaistanmūṣāyāṃ vinikṣipet || 4 ||
+NL412/ ācchādyālepya kalkena cāndhayitvā viśoṣayet |
+NL413/ karīṣāgnau divārātraṃ puṭe paktvā samuddharet || 5 ||
+NL414/ punaḥ praliptamūṣāyāṃ kṣiptvā ruddhvā puṭettataḥ |
+NL415/ ityevaṃ daśamūṣāsu praliptāsu vipācayet || 6 ||
+NL416/ jāyate guṭikā divyā mṛtasañjīvanī parā |
+NL417/ vaktre śirasi kaṇṭhe vā karṇe vā dhāritā kare || 7 ||
+NL418/ hemnā suveṣṭitā samyagvayaḥstambhakarī parā |
+NL419/ valīpalitakālāgnimṛtyuśaṅkāvināśanī || 8 ||
+NL420/ varṣamātrānna sandeho jīvedvarṣaśatatrayam |
+NL421/ śuddhagandhapalaikaṃ tu gavāṃ kṣīraiḥ pibetsadā || 9 ||
+NL422/ anena tvanupānena dehe saṅkramate rasaḥ |
+NP19/ dehasiddhikarameva kha. |
+NP20/ bādhāṃ harediyam kha. |
+
+<B 54>
+
+vajreśvarīguṭikā |
+NL423/ samukhaṃ pāradaṃ kāntaṃ muṇḍalohābhrasattvakam || 10 ||
+NL424/ tāpyasattvaṃ mṛtaṃ vajraṃ sarvaṃ jambīrajairdravaiḥ |
+NL425/ saptāhaṃ mardayettulyaṃ kṛtvā golaṃ samuddharet || 11 ||
+NL426/ nirguṇḍī saindhavaṃ kṣaudraṃ gojihvā kākatuṇḍikā |
+NL427/ piṣṭvā tu lepayedgolaṃ sarvato'ṅgulamātrakam || 12 ||
+NL428/ taṃ ruddhvā vajramūṣāyāṃ pacedyāmaṃ tu bhūdhare |
+NL429/ liptvā ruddhvā punaḥ pācyamityevaṃ pakṣamātrakam || 13 ||
+NL430/ yavaciñcāpalāśottharājīkārpāsabījakaiḥ |
+NL431/ supiṣṭairlepayenmūṣāṃ tanmadhye pūrvagolakam || 14 ||
+NL432/ ṭaṅkaṇaṃ śvetakācaṃ ca dattvā pṛṣṭhe nirudhya ca |
+NL433/ khadirāṅgārayogena dhamedyāvaddrutaṃ bhavet || 15 ||
+NL434/ tatastaṃ biḍaliptāyāṃ mūṣāyāṃ ca niveśayet |
+NL435/ tattulyaṃ dāpayetsvarṇaṃ jārayettaṃ dhaman dhaman || 16 ||
+NL436/ jīrṇe svarṇe samuddhṛtya taptakhalve vimardayet |
+NL437/ tryahaṃ divyauṣadhidrāvairvajramūṣāndhitaṃ dhamet || 17 ||
+NL438/ jāyate guṭikā divyā nāmnā vajreśvarī parā |
+NL439/ vaktrasthā sā jarāṃ mṛtyuṃ hanti saṃvatsarātkila || 18 ||
+NL440/ śastrastambhaṃ ca kurute brahmāyuryacchati dhruvam |
+NL441/ kṛṣṇāṣṭamyāṃ samādāya sahadevīṃ sucūrṇayet || 19 ||
+NL442/ karṣaikāṃ bhakṣayedājyairanu syātkrāmeṇa hitam |
+
+<B 55>
+
+vajrasundarīguṭikā |
+NL443/ āraktaṃ meghanādaṃ tu tathā pāṣāṇabhedakam || 20 ||
+NL444/ strīstanyasahitaṃ piṣṭvā tena mūṣāṃ pralepayet |
+NL445/ bhāgaikaṃ mṛtavajrasya svarṇacūrṇasya ṣoḍaśa || 21 ||
+NL446/ kṣiptvā tasyāṃ nirundhyātha yāmamātraṃ dṛḍhaṃ dhamet |
+NL447/ uddhṛtya nikṣipetkhalve śuddhasūtaṃ ca tatsamam || 22 ||
+NP21/ piṣṭairnirundhayet kha. |
+NL448/ mardayeccārdrakadrāvairyāvadbhavati golakaḥ |
+NL449/ caṇḍālīkandamādāya strīstanyena supeṣayet || 23 ||
+NL450/ anena golakaṃ liptvā vajramūṣyāṃ nirodhayet |
+NL451/ paktvā gajapuṭe grāhyā guṭikā vajrasundarī || 24 ||
+NL452/ varṣaikaṃ dhārayedvaktre jīvedbrahyadinatrayam |
+NL453/ brahmavṛkṣasya tvakcūrṇaṃ kṣīrairnityaṃ palaṃ pibet || 25 ||
+NL454/ krāmaṇaṃ hyanupānaṃ syātsādhakasyātisiddhidam |
+NL455/ tadudbhavamalairliptaṃ tāmraṃ tu dhamanena hi || 26 ||
+NL456/ jāyate kanakaṃ divyaṃ satyaṃ śaṅkarabhāṣitam |
+
+<B 56>
+
+hemasundarībaṭikā |
+NL457/ samukhasya rasendrasya pūrvavatkāñcanaṃ samam || 27 ||
+NL458/ jārayedbiḍayogena tato mardyaṃ dinatrayam |
+NL459/ divyauṣadhaiḥ sagomūtrairvajramūṣāndhitaṃ dhamet || 28 ||
+NL460/ uddhṛtya dhārayedvaktre guṭikā hemasundarī |
+NL461/ palārdhaṃ gandhakaṃ cājyairdviguṇairlehayedanu || 29 ||
+NL462/ varṣaikena jarāṃ hanti jīvedācandratārakam |
+
+<B 57>
+
+vajrakhecarīguṭikā |
+NL463/ śuddhasūtaṃ mṛtaṃ vajraṃ vyomasattvaṃ sahāṭakam || 30 ||
+NL464/ amlavarge samaṃ sarvaṃ mardayeddivasatrayam |
+NL465/ tadgolakaṃ dṛḍhaṃ kṛtvā chāyāyāṃ śoṣayettataḥ || 31 ||
+NL466/ brahmakārpāsabījāni rājikā yavaciñcikā |
+NL467/ vandhyā sarvaṃ samaṃ piṣṭvā pūrvagolaṃ pralepayet || 32 ||
+NL468/ ruddhvā gajapuṭe pacyātsamuddhṛtyātha lepayet |
+NL469/ ruddhvā mūṣyāṃ dhamedgāḍhaṃ guṭikā vajrakhecarī || 33 ||
+NL470/ jāyate dhāritā vaktre vatsarānmṛtyunāśinī |
+NL471/ bhūtāravaṭacūrṇaṃ tu palaikaṃ sitayā yutam || 34 ||
+NL472/ bhakṣayetkrāmaṇārthaṃ tu brahmāyurjāyate naraḥ |
+NP22/ kṣiptvā tu mardayeccānu ārdrakasya dravaiḥ punaḥ kha. |
+NP23/ surasundarī kha. |
+NP24/ bhūtāvaraṭacūṇa kha.
+
+<B 58>
+
+vyomasundarī vaṭikā |
+NL473/ kārpāsyāḥ kākamācyāśca kanyāyāśca daladravaiḥ || 35 ||
+NL474/ śuddhasūtaṃ dinaṃ mardyaṃ kṣālyamamlaiḥ samuddharet |
+NL475/ tadrasaṃ niṣkacatvāri niṣkārdhaṃ tāmracūrṇakam || 36 ||
+NL476/ pādonaniṣkamabhrotthaṃ sattvaṃ pādaṃ ca hāṭakam |
+NL477/ hematulyaṃ muṇḍacūrṇaṃ sarvamamlairvimardayet || 37 ||
+NL478/ dinānte golakaṃ kṛtvā jambīrasyodare kṣipet |
+NL479/ tridinaṃ dolakāyantre pācayetsāranālake || 38 ||
+NL480/ uddhṛtya dhārayedvaktre guṭikā vyomasundarī |
+NL481/ varṣamātrājjarāṃ hanti jīvedbrahmadinaṃ naraḥ || 39 ||
+NL482/ citramūlasya cūrṇaṃ tu sakṣaudraṃ kāntapātrake |
+NL483/ āloḍya bhakṣayetkarṣamanu syātkrāmaṇe hitam || 40 ||
+
+<B 59>
+
+hāṭakeśvarīguṭikā |
+NL484/ niṣkamekaṃ svarṇapatraṃ triniṣkaṃ śuddhapāradam |
+NL485/ jambīraśarapuṅkhotthadravairmadyaṃ dināvadhi || 41 ||
+NL486/ tadgolaṃ bandhayedvastre pacedgokṣīrapūrite |
+NL487/ dolāyantre divārātraṃ guṭikā hāṭakeśvarī || 42 ||
+NL488/ jāyate dhāritā vaktre jarāmṛtyuvināśinī |
+NL489/ varṣamātrānna sandeho jīvedvarṣāyutaṃ naraḥ || 43 ||
+NL490/ dinaikaṃ triphalācūrṇaṃ kvāthaiḥ khadirabījakaiḥ |
+NL491/ bhāvitaṃ madhusarpirbhyāṃ palaikaṃ krāmakaṃ lihet || 44 ||
+
+<B 60>
+
+arkaprabhāvatī guṭikā |
+NL492/ rasaniṣkatrayaṃ śuddhaṃ niṣkaikaṃ tāmracūrṇakam |
+NL493/ ciñcāphalāmlatakrābhyāṃ khalve mardyaṃ dināvadhi || 45 ||
+NL494/ tadgolaṃ bandhayedvasraistakraciñcāmlapūrite |
+NL495/ dolāyantre dinaṃ pacyādguṭikā'rkaprabhāvatī || 46 ||
+NL496/ varṣaikaṃ dhārayedvaktraṃ sūryatulyo bhavennaraḥ |
+NL497/ pālāśabījajaṃ tailaṃ gokṣīraiḥ karṣamātrakam || 47 ||
+NL498/ krāmakaṃ hyanupānaṃ syājjarāmṛtyuharaṃ param |
+
+<B 61>
+
+surasundarī vaṭikā |
+NL499/ svarṇamekaṃ kāntamekaṃ pañcatāraṃ dvipāradam || 48 ||
+NL500/ tribhāgaṃ vyomasattvaṃ syāt ṣaḍbhāgaṃ śulbacūrṇakam |
+NL501/ sarvametatkṛtaṃ sūkṣmaṃ taptakhalve dinatrayam || 49 ||
+NL502/ mardayedamlavargeṇa dolāyantre sakāñjike |
+NL503/ tadgolaṃ tridinaṃ pacyādguṭikā surasundarī || 50 ||
+NL504/ jāyate dhāritā vaktre varṣānmṛtyujarāpahā |
+NL505/ bhūtāravaṭamūlaṃ ca karṣaṃ kṣīraiḥ pibedanu || 51 ||
+
+<B 62>
+
+vajratuṇḍāvaṭikā |
+NL506/ svarṇatārārkamuṇḍaṃ ca vaṅgasīsābhrasattvakam |
+NL507/ etatsarvaṃ samaṃ cūrṇaṃ cūrṇāśaṃ mṛtavajrakam || 52 ||
+NL508/ sarvatulyaṃ śuddhasūtaṃ sarvaṃ divyauṣadhidravaiḥ |
+NL509/ mardayeddinamekaṃ tu vajramūṣāndhitaṃ dhamet || 53 ||
+NL510/ guṭikā vajratuṇḍeyaṃ jāyate dhāritā mukhe |
+NL511/ jarāmṛtyuṃ śastrasaṅghaṃ nāśayedvatsarātkila || 54 ||
+NL512/ vajrakāyo mahāvīro jīvedvarṣaśatatrayam |
+NL513/ kumāryāḥ svarasaṃ grāhyaṃ guḍena saha loḍayet || 55 ||
+NL514/ palaikaṃ krāmakaṃ lehyamanupānaṃ sadaiva hi |
+
+<B 63>
+
+kāmasundarīguṭikā |
+NL515/ svarṇacūrṇaṃ tu bhāgaikaṃ tribhāgaṃ śuddhapāradam || 56 ||
+NL516/ pādabhāgaṃ mṛtaṃ vajraṃ tatsarvaṃ kṣīrakandajaiḥ |
+NL517/ dravaiśca devadālyutthaistaptakhalve dināvadhi || 57 ||
+NL518/ mardayetkāntacūrṇaṃ ca vajratulyaṃ kṣipecca vai |
+NL519/ vajramūṣāndhitaṃ dhāmyaṃ guṭikā kāmasundarī || 58 ||
+NL520/ jāyate dhāritā vaktre varṣānmṛtyujarāpahā |
+NL521/ niṣkatrayaṃ brahmatailaṃ gavāṃ kṣīraṃ paladvayam || 59 ||
+NL522/ miśritaṃ pāyayeccānu lakṣāyurjāyate naraḥ |
+NP25/ bhūtāvaraṭamūlaṃ kha. |
+
+<B 64>
+
+gandhārīguṭikā |
+NL523/ lohapātre drute gandhe pādāṃśaṃ pāradaṃ kṣipet || 60 ||
+NL524/ kiñciccālyaṃ tu kāṣṭhena muhūrtādavatārayet |
+NL525/ śatāvarī kṣīrakando vajravallīndravāruṇī || 61 ||
+NL526/ pāṭhā punarnavā ciñcā lāṅgalī suradālikā |
+NL527/ etāsāṃ vastrapūteśca dravairmardyaṃ dinatrayam || 62 ||
+NL528/ tasmin pātre lohamuṣṭyā chāyāśuṣkaṃ vaṭīkṛtam |
+NL529/ lohasampuṭagaṃ ruddhvā sandhiṃ mṛllavaṇairdṛḍham || 63 ||
+NL530/ taṃ dhametkhadirāṅgāre yāvadāraktamuddharet |
+NL531/ utkhanyotkhanya tanmadhyāduddharettadrasaṃ punaḥ || 64 ||
+NL532/ kācaṭaṅkaṇasaṃyuktaṃ mūṣāyāṃ cāndhitaṃ pacet |
+NL533/ gāndhārīguṭikā siddhā varṣaṃ vaktre sthitā sadā || 65 ||
+NL534/ kākatuṇḍībījatailaṃ karṣaikaṃ nasyamācaret |
+NL535/ krāmakaṃ hyanupānaṃ syājjīvedvarṣasahasrakam || 66 ||
+
+<B 65>
+
+mārtaṇḍī guṭikā |
+NL536/ śuddhasūtasamaṃ gandhaṃ mardanātkajjalīkṛtam |
+NL537/ tattāmrasampuṭe ruddhvā lavaṇena mṛdā dṛḍham || 67 ||
+NL538/ śuṣkaṃ dīpāgninā pacyādyāmaikaṃ bhasmayantrake || 68 ||
+NL539/ sampuṭasyordhvalagnaṃ tatsamuddhṛtyātha mardayet |
+NL540/ tulyapāradasaṃyuktaṃ pūrvavatsampuṭe pacet || 69 ||
+NL541/ uddhṛtya tulyasūtena saṃyuktaṃ marditaṃ pacet |
+NL542/ ityevaṃ saptadhā kuryātpunaḥ pāradaṭaṅkaṇam || 70 ||
+NL543/ tulyaṃ tulyaṃ kṣipettasmin dinaṃ sarvaṃ vimardayet |
+NL544/ vajramūṣāgataṃ ruddhvā dhmāte khoṭo bhavedrasaḥ || 71 ||
+NL545/ mārtaṇḍī guṭikā hyeṣā varṣaikaṃ yasya vaktragā |
+NL546/ valīpalitamukto'sau jīvedācandratārakam || 72 ||
+NL547/ palāśabījajaṃ tailaṃ palaikaṃ kṣīratulyakam |
+NL548/ krāmaṇaṃ prapibennityaṃ tatkṣaṇānmūrcchito bhavet || 73 ||
+NP26/ śuṣkaṃ taṃ ca vicūrṇayet kha.
+NP27/ dīptāgninā kha. |
+NP28/ baddho kha. |
+NL549/ tasya vaktre gavāṃ kṣīraṃ stokaṃ stokaṃ niṣecayet |
+NL550/ prabuddhe kṣīramannaṃ syādbhojane paramaṃ hitam || 74 ||
+NL551/ tasya mūtrapurīṣābhyāṃ tāmraṃ bhavati kāñcanam |
+NL552/ vāyuvego mahāsiddhaśchidrāṃ paśyati-medinīm || 75 ||
+
+<B 66>
+
+tārakeśvarīguṭikā |
+NL553/ kākamācyamṛtādrāvaiḥ pāradaṃ tālakaṃ samam |
+NL554/ mardayeddinamekaṃ tu kṛtvā golaṃ viśoṣayet || 76 ||
+NL555/ nikṣipedvajramūṣāyāmācchādya lohaparpaṭaiḥ |
+NL556/ ruddhvā sandhiṃ dhamedgāḍhaṃ khoṭabaddho bhavedrasaḥ || 77 ||
+NL557/ lohaparpaṭakaṃ dattvā tadvaddhāmyaṃ tridhā punaḥ |
+NL558/ varṣaikaṃ dhārayedvaktre guṭikā tārakeśvarī || 78 ||
+NL559/ bākucībījakarṣaikaṃ gavāṃ kṣīraiḥ pibedanu |
+
+<B 67>
+
+vidyāvāgīśvarī guṭikā |
+NL560/ vyomasattvaṃ mṛtaṃ vajraṃ svarṇatārārkamuṇḍakam || 79 ||
+NL561/ tīkṣṇaṃ kāntaṃ tālakaṃ ca śuddhaṃ kṛtvā vimiśrayet |
+NL562/ sūkṣmacūrṇaṃ samaṃ sarvaṃ cūrṇāṃśaṃ śuddhapāradam || 80 ||
+NL563/ tridinaṃ cāmlavargeṇa marditaṃ cāndhitaṃ dhamet |
+NL564/ vidyāvāgīśvarī khyātā guṭikā vatsarāvadhi || 81 ||
+NL565/ yasya vaktre sthitā tasya jarā mṛtyurna vidyate |
+NL566/ karṣaṃ jyotiṣmatītailaṃ krāmaṇārthaṃ pibetsadā || 82 ||
+NL567/ vākpatirjāyate dhīro jīveccandrārkatārakam |
+
+<B 68>
+
+vajratuṇḍāvaṭikā |
+NL568/ kāntapāṣāṇamākṣīkaṃ ṭaṅkaṇaṃ karkaṭāsthi ca || 83 ||
+NL569/ snuhyarkakṣīrabhūnāgaṃ sarvametatsamaṃ bhavet |
+NL570/ strīstanyena dinaṃ mardyaṃ tena mūṣāṃ pralepayet || 84 ||
+NL571/ tanmadhye drutasūtaṃ tu vajrabhasma samaṃ samam |
+NL572/ kṣiptvā ruddhvā puṭe pacyādgajākhye yāmamātrakam || 85 ||
+NL573/ tataḥ praliptamūṣāyāṃ kṣiptvā ruddhvā dhameddhaṭhāt |
+NL574/ evaṃ punaḥ punaḥ kāryaṃ vajrasūtaṃ milatyalam || 86 ||
+NL575/ tatastasyaiva dātavyaṃ samaṃ kācaṃ saṭaṅkaṇam |
+NL576/ evaṃ mūṣāśate deyaṃ tulyaṃ tulyaṃ dhaman dhaman || 87 ||
+NL577/ tejaḥpuñjo rasendro'sau bhavenmārtaṇḍasannibhaḥ |
+NL578/ guṭikā vajratuṇḍeyaṃ vaktrasthā mṛtyunāśinī || 88 ||
+NL579/ varṣamātrānna sandeho rudratulyo bhavennaraḥ |
+NL580/ tasya mūtrapurīṣābhyāṃ pūrvavatkāñcanaṃ bhavet || 89 ||
+NL581/ pañcāṅgaṃ bhakṣayetkarṣaṃ rudantyā madhusarpiṣā |
+
+<B 69>
+
+gaganeśvarīguṭikā |
+NL582/ ṭaṅkaṇaṃ karkaṭāsthīni ūrṇā caiva śilā jatu || 90 ||
+NL583/ mahiṣīkarṇanetrottha malaṃ strīstanyakaiḥ samam |
+NL584/ piṣṭvā talliptamūṣāyāmabhrasattvaṃ kṣipeddhamet || 91 ||
+NL585/ sattvatulyaṃ kṣipettatra pūrvavaddrutaṣāradam |
+NL586/ dravaṃ divyauṣadhīnāṃ ca dattvā tatraiva taddhamet || 92 ||
+NL587/ milito jāyate baddhaḥ pūrvavatkācaṭaṅkaṇaiḥ |
+NL588/ dhmāto mūṣāśatenāyaṃ tejaḥpuñjo bhavedrasaḥ || 93 ||
+NL589/ varṣaikaṃ dhārayedvaktre śivatulyo bhavennaraḥ |
+NL590/ ajarāmarakārīyaṃ guṭikā gaganeśvarī || 94 ||
+NL591/ bilvabījotthitaṃ tailaṃ niṣkamātraṃ pibedanu |
+NL592/ udare jāyate vahniḥ pibetkṣīraṃ punaḥ punaḥ || 95 ||
+NL593/ sākṣājjātismaratvaṃ ca kavitvaṃ śrutadhāraṇam |
+NL594/ khecaratvamadṛśyatvaṃ jāyate nātra saṃśayaḥ || 96 ||
+
+<B 70>
+
+ānandaguṭikā |
+NL595/ agnimantho vajravallī sūraṇaṃ vanasūraṇam |
+NL596/ citrakaśca dravaireṣāṃ śuddhasūtaṃ dināvadhi || 97 ||
+NL597/ mardayettaptakhalve tu taṃ rasaṃ palamātrakam |
+NL598/ palaṃ palaṃ tālavaṅgau tatsarvaṃ cāmlavetasaiḥ || 98 ||
+NL599/ mardayeddinamekaṃ tu kṛtvā taṃ golakaṃ punaḥ |
+NL600/ catuḥpalāṃ nāgamūṣāṃ kṛtvā tasyāṃ tu tatkṣipet || 99 ||
+NL601/ catuṣpale śuddhatāmrasampuṭe tāṃ nirodhayet |
+NL602/ mṛṇmūṣāyāṃ tu tāṃ ruddhvā āraṇyotpalakaiḥ puṭet || 100 ||
+NL603/ śatadvayapramāṇaistu svāṅgaśītaṃ samuddharet |
+NL604/ sarvaṃ divyauṣadhadrāvairmardayeddivasatrayam || 101 ||
+NL605/ caturniṣkamitā kāryā vaṭikā, śoṣayettataḥ |
+NL606/ ekaikāṃ vajramūṣāyāṃ ruddhvā tīvrāgninā dhamet || 102 ||
+NL607/ ānandaguṭikā hyeṣā vaktrasthā mṛtyunāśinī |
+NL608/ vatsarānnātra sandeho jīvedbrahmadinatrayam || 103 ||
+NL609/ tailaṃ vātāribījotthaṃ gokṣīrairniṣkamātrakam |
+NL610/ krāmaṇārthaṃ pibennityaṃ śīghrasiddhikaraṃ param || 104 ||
+
+<B 71>
+
+vajrakhecarikāvaṭikā |
+NL611/ vajrabhasmasamaṃ sūtaṃ haṃsapādyā dravaistryaham |
+NL612/ marditaṃ dvandva liptāyāṃ mūṣāyāṃ cāndhitaṃ puṭet || 105 ||
+NL613/ bhūdharākhye divārātrau samuddhṛtyātha tasya vai |
+NL614/ pūrvāṃśaṃ pāradaṃ dattvā haṃsapādyā dravaistryaham || 106 ||
+NL615/ marditaṃ dvandvaliptāyāṃ mūṣāyāṃ cāndhitaṃ dhamet |
+NL616/ tatkhoṭaṃ dhamanācchodhyaṃ kācaṭaṅkaṇayogataḥ || 107 ||
+NL617/ nakṣatrābhaṃ bhavedyāvattāvaddhāmyaṃ punaḥ punaḥ |
+NL618/ tadrasaṃ vyomasattvaṃ ca kāñcanaṃ ca samaṃ samam || 108 ||
+NL619/ samāvartya tataḥ kāryā guṭikā vaktramadhyagā |
+NL620/ vajrakhecarikā nāma vatsarānmṛtyunāśinī || 109 ||
+NL621/ valīpalitanirmukto divyakāyo bhavennaraḥ |
+NL622/ nirguṇḍīmunicūrṇaṃ tu karṣamājyaiḥ pibedanu || 110 ||
+
+<B 72>
+
+ratneśvarī guṭikā |
+NL623/ kāntaṃ śulbaṃ samaṃ cūrṇyaṃ vajramūṣāndhitaṃ dhamet |
+NL624/ tatkhoṭasiddhacūrṇaṃ tu gandhakāmlena mardayet || 111 ||
+NL625/ ruddhvā samyakpuṭe pacyātsamuddhṛtyātha mardayet |
+NL626/ pūrvavatkramayogena puṭedvārāṃścaturdaśa || 112 ||
+NL627/ vajreṇa dvandvitaṃ svarṇamanenaiva tu rañjayet |
+NL628/ mūṣāmadhye dhamannevaṃ saptavāraṃ samaṃ kṣipet || 113 ||
+NL629/ tatkhoṭaṃ cūrṇitaṃ bhāvyaṃ strīpuṣpeṇa dināvadhi |
+NL630/ tattulyaṃ drutasūtaṃ tu sarvaṃ yāmaṃ vimardayet || 114 ||
+NL631/ veṣṭayedbhūrjapatreṇa vastre baddhvā pacetrtryaham |
+NL632/ dolāyantre sāranāle jātaṃ golaṃ samuddharet || 115 ||
+NL633/ gāndhārī jīvanī caiva lāṅgalī cendravāruṇī |
+NL634/ etāsāṃ piṇḍakalkena veṣṭayetpūrvagolakam || 116 ||
+NL635/ andhayitvā dinaṃ pacyādbhūdhare taṃ samuddharet |
+NL636/ punarlepyaṃ punaḥ pācyaṃ caturdaśadināvadhi || 117 ||
+NL637/ guṭikā jāyate divyā nāmnā ratneśvarī tathā |
+NL638/ vaktrasthā varṣamātraṃ tu nanditulyo bhavennaraḥ || 118 ||
+NL639/ jīvedvarṣasahasrāṇi divyatejā mahābalaḥ |
+NL640/ varṣadvādaśaparyantaṃ yasya vaktre sthitā tu sā || 119 ||
+NL641/ tasya prasvedasamparkādaṣṭalohāni kāñcanam |
+NL642/ jāyante nātra sandehaḥ satyamīśvarabhāṣitam || 120 ||
+NL643/ pañcāṅgacūrṇaṃ madhvājyai rudantyutthaṃ lihedanu |
+
+<B 73>
+
+divyakhecarīvaṭikā |
+NL644/ svarṇaṃ kṛṣṇābhrasattvaṃ ca tāraṃ tāmraṃ sucūrṇitam || 121 ||
+NL645/ samāṃśaṃ dvandvaliptāyāṃ mūṣāyāṃ cāndhitaṃ dhamet |
+NL646/ tatkhoṭaṃ bhāgacatvāri bhāgaikaṃ mṛtavajrakam || 122 ||
+NL647/ mākṣikaṃ tīkṣṇakāntaṃ ca bhāgaikaikaṃ sucūrṇitam |
+NL648/ samastaṃ dvandvaliptāyāṃ mūṣāyāṃ cāndhitaṃ dhamet || 123 ||
+NL649/ tatkhoṭaṃ sūkṣmacūrṇaṃ tu cūrṇāṃśaṃ drutasūtakam |
+NL650/ tridinaṃ taptakhalve tu mardyaṃ divyauṣādhidravaiḥ || 124 ||
+NL651/ ruddhvā'tha bhūdhare pacyādahorātrātsamuddharet |
+NL652/ drutasūtaṃ punastulyaṃ dattvā mardyaṃ puṭettathā || 125 ||
+NL653/ ityevaṃ saptavārāṃstu drutaṃ sūtaṃ samaṃ samam |
+NL654/ dattvā mardyaṃ puṭe pacyājjāyate bhasmasūtakaḥ || 126 ||
+NL655/ bhasmasūtasamaṃ gandhaṃ dattvā ruddhvā dhameddṛḍham |
+NL656/ jāyate guṭikā divyā vikhyātā divyakhecarī || 127 ||
+NL657/ varṣaikaṃ dhārayedvaktre jīvetkalpasahasrakam |
+NL658/ tasya mūtrapurīṣābhyāṃ sarvalohasya lepanāt || 128 ||
+NL659/ jāyate kanakaṃ divyaṃ samāvarte na saṃśayaḥ |
+NL660/ paladvayaṃ bhṛṅgarājadravyaṃ cānu pibetsadā || 129 ||
+NL661/ pūrvoktaṃ bhasmasūtaṃ vā guñjāmātraṃ sadā lihet |
+NL662/ varṣaikaṃ madhunā''jyena lakṣāyurjāyate naraḥ || 130 ||
+NL663/ valīpalitanirmukto mahābalaparākramaḥ |
+
+<B 74>
+
+svarṇavaikrāntabaddharasaḥ |
+NL664/ svarṇaṃ vaikrāntasattvaṃ ca dvandvitaṃ jārayedrase || 131 ||
+NL665/ samāṃśaṃ tu bhavedyāvattatastenaiva sārayet |
+NL666/ samena jāyate baddho dhārayettaṃ mukhe sadā || 132 ||
+NL667/ saṃvatsaraprayogeṇa jarākālāpamṛtyujit |
+NL668/ kumāryā dalajaṃ drāvaṃ sitāyuktaṃ pibedanu || 133 ||
+NL669/ svarṇavaikrāntabaddho'yaṃ brahmāyuryacchate nṛṇām |
+
+<B 75>
+
+vaikrāntavaṭikā |
+NL670/ vaikrāntasattvatulyāṃśaṃ śuddhasūtaṃ vimardayet || 134 ||
+NL671/ dinaṃ divyauṣadhadrāvaistadgolaṃ nigaḍena vai |
+NL672/ liptvā lavaṇagarbhāyāṃ vajramūṣyāṃ nirodhayet || 135 ||
+NL673/ chāyāyāṃ śoṣayetsandhiṃ tridinaṃ tuṣavahninā |
+NL674/ svedayedvā karīṣāgnau divārātramathoddharet || 136 ||
+NL675/ tadgolaṃ nigaḍenaiva liptvā tadvannirudhya ca |
+NL676/ chāyāśuṣkaṃ dhamedgāḍhaṃ bandhamāyāti niścitam || 137 ||
+NL677/ varṣaikaṃ dhārayedvaktre jīveddbrahmadinatrayam |
+NL678/ vaikrāntaguṭikā hyeṣā sarvakāmaphalapradā || 138 ||
+NL679/ karṣaikaṃ triphalācūrṇaṃ madhvājyābhyāṃ lihedanu |
+NP29/ jārayet kha. |
+
+<B 76>
+
+divyakhecarīguṭikā |
+NL680/ hemnā yddvandvitaṃ vajraṃ kuryāttatsūkṣmacūrṇitam || 139 ||
+NL681/ etaddeyaṃ guhyasūte mūṣāyāmadharottaram |
+NL682/ pādamātraṃ prayatnena ruddhvā sandhiṃ viśoṣayet || 140 ||
+NL683/ bhūdharākhye dinaṃ pacyātsamuddhṛtyātha mardayet |
+NL684/ divyauṣadhaphaladrāvaistaptakhalve dināvadhi || 141 ||
+NL685/ ruddhvā'tha bhūdhare pacyāddinaṃ laghupuṭaiḥ puṭet |
+NL686/ samuddhṛtya punastadvanmardyaṃ ruddhvā dinatrayam || 142 ||
+NL687/ tuṣāgninā śanaiḥ svedyamūrdhvādhaḥ parivartayan |
+NL688/ jāyate bhasmasūto'yaṃ sarvayogeṣu yojayet || 143 ||
+NL689/ drutasūtasya bhāgaikaṃ bhāgaikaṃ pūrvabhasmakam |
+NL690/ śuddhanāgasya bhāgaikaṃ sarvamamlena mardayet || 144 ||
+NL691/ andhamūṣāgataṃ dhāmyaṃ khoṭo bhavati tadrasaḥ |
+NL692/ dhametprakaṭamūṣāyāṃ yāvannāgakṣayo bhavet || 145 ||
+NL693/ drutasūtaprakāreṇa drāvayitvā tvimaṃ rasam |
+NL694/ nikṣipetkacchape yantre biḍaṃ dattvā daśāṃśataḥ || 146 ||
+NL695/ svarṇādisarvalohāni krameṇaiva ca jārayet |
+NL696/ pratyekaṃ ṣaṅguṇaṃ paścādvajradvandvaṃ ca jārayet || 147 ||
+NL697/ triguṇaṃ tu bhavedyāvattato ratnāni vai kramāt |
+NL698/ jārayeddrāvitānyeva pratyekaṃ triguṇaṃ śanaiḥ || 148 ||
+NL699/ tato yantrātsamuddhṛtya divyauṣadhadravairdinam |
+NL700/ mardyaṃ ruddhvā dhamedgāḍhaṃ jāyate guṭikā śubhā || 149 ||
+NL701/ pūjayedaṅkuśīmantrairnāmneyaṃ divyakhecarī |
+NL702/ yasya vaktre sthitā hyeṣā sa bhavedbhairavopamaḥ || 150 ||
+NL703/ divyatejā mahākāyaḥ khecaratvena gacchati |
+NL704/ yatrecchā tatra tatraiva krīḍate hyaṅganādibhiḥ || 151 ||
+NL705/ mahākalpāntaparyantaṃ tiṣṭhatyeva na saṃśayaḥ |
+NL706/ tasya mūtrapurīṣābhyāṃ tāmraṃ bhavati kāñcanam || 152 ||
+NL707/ palāśapuṣpacūrṇaṃ tu tilāḥ kṛṣṇāḥ saśarkarāḥ |
+NL708/ sarvaṃ palatrayaṃ khādennityaṃ syāt krāmaṇe hitam || 153 ||
+
+<B 77>
+
+pracaṇḍakhecarīguṭikā |
+NL709/ cūrṇamaśvakhurasyaiva guhyasūte samaṃ kṣipet |
+NL710/ tridinaṃ mātuluṅgāmlaistatsarvaṃ mardayeddṛḍham || 154 ||
+NL711/ sūtatulyaṃ mṛtaṃ vajraṃ tasmin kṣiptvā'tha mardayet |
+NL712/ taptakhalve dinaṃ cāmlaistadgolaṃ cāndhitaṃ puṭet || 155 ||
+NL713/ dinaikaṃ bhūdhare yantre bhāgaikaṃ pūrvapāradam |
+NL714/ kṣiptvā tasmin dṛḍhaṃ mardyaṃ mātuluṅgadravairdinam || 156 ||
+NL715/ ruddhvā'tha pūrvavatpacyātpunardeyaśca pāradaḥ |
+NL716/ mardyaṃ pācyaṃ yathāpūrvamevaṃ kuryācca saptadhā || 157 ||
+NL717/ rasaṃ punaḥ punardattvā syādevaṃ bhasmasūtakaḥ |
+NL718/ yojayetsaṃrvayogeṣu jarāmṛtyuharo bhavet || 158 ||
+NL719/ bhāgaikaṃ nāgacūrṇasya bhāgaikaṃ pūrvabhasmanaḥ |
+NL720/ drutasūtasya bhāgaikaṃ khoṭaṃ kuryācca pūrvavat || 159 ||
+NL721/ tadvaddhāmyaṃ gate nāge drāvitaṃ jārayetpunaḥ |
+NL722/ pūrvavalloharatnāntaṃ jīrṇe baddhā sthitā mukhe || 160 ||
+NL723/ pracaṇḍakhecarī nāmnī guṭikā khe gatipradā |
+NL724/ pūrvavallabhate vīraḥ phalamatyantadurlabham || 161 ||
+NL725/ nirguṇḍīmūlacūrṇaṃ tu karṣaṃ takraiḥ pibedanu |
+
+<B 78>
+
+kaṅkālakhecarīguṭikā |
+NL726/ śuddhasūtasya dātavyaṃ kalāṃśaṃ mṛtavajrakam || 162 ||
+NL727/ tatsarvamamlavargeṇa taptakhalve dinatrayam |
+NL728/ mardayitvā tatastena lepayetsamabhāgataḥ || 163 ||
+NL729/ pakvabījasya patrāṇi tāni bhānudalaiḥ punaḥ |
+NL730/ veṣṭitāni nirudhyātha nikhanecculligarbhataḥ || 164 ||
+NL731/ ācchādya jvālayettatra kāṣṭhāgniṃ divasatrayam |
+NL732/ uddhṛtya dvandvaliptāyāṃ mūṣāyāṃ taṃ nirodhayet || 165 ||
+NL733/ karīṣāgnau puṭe pacyādahorātrātsamuddharet |
+NL734/ vāsanāmukhite sūte tulyametadvinikṣipet || 166 ||
+NL735/ amlena mardayedyāmaṃ jātaṃ golaṃ samuddharet |
+NL736/ kṣipejjambīragarbhe taṃ vastre baddhvā tryahaṃ pacet || 167 ||
+NL737/ dolāyantre sāranāle jāyate guṭikā śubhā |
+NL738/ kaṅkālakhecarī nāmnā vaktrasthā mṛtyunāśinī || 168 ||
+NL739/ varṣaikaṃ dhārayedyastu sa jīvedbrahmaṇo dinam |
+NL740/ gandhakaṃ gugguluṃ tulyamājyaiḥ karṣaṃ lihedanu || 169 ||
+
+<B 79>
+
+kālavidhvaṃsikā vaṭikā |
+NL741/ kṛṣṇābhrakasya sattvaṃ tu kāntamākṣīkakāñcanam |
+NL742/ tīkṣṇaṃ sauvīracūrṇaṃ ca tulyaṃ ruddhvā dhameddṛḍham || 170 ||
+NL743/ tatkhoṭaṃ sūkṣmacūrṇaṃ tu drutasūtasamaṃ bhavet |
+NL744/ sūtārdhaṃ māritaṃ vajraṃ sarvamamlena mardayet || 171 ||
+NL745/ dinaikaṃ taptakhalve tu taṃ ruddhvā bhūdhare pacet |
+NL746/ ahorātrātsamuddhṛtya tatsamaṃ pūrvasūtakam || 172 ||
+NL747/ dattvā divyauṣadhadrāvairmardyaṃ sarvaṃ dināvadhi |
+NL748/ pūrvavadbhūdhare pacyāddrutasūtaṃ punaḥ samam || 173 ||
+NL749/ dattvā mardyaṃ punaḥ pacyādityevaṃ saptavārakam |
+NL750/ etadbhasmasamaṃ gandhaṃ dattvā cāndhyaṃ dhameddṛḍham || 174 ||
+NL751/ jāyate guṭikā divyā kālavidhvaṃsikā parā |
+NL752/ yasya vaktre sthitā hyeṣā tasya kālaḥ karoti kim || 175 ||
+NL753/ varṣaṭkaprayogeṇa jīvetkalpasahasrakam |
+NL754/ tadgātrasvedamātreṇa sarvalohāni kāñcanam || 176 ||
+NL755/ jāyante nātra sandehaḥ śivāmbu krāmakaṃ pibet |
+
+<B 80>
+
+pañcānanā guṭikā |
+NL756/ svarṇatārārkakāntaṃ ca tīkṣṇacūrṇaṃ samaṃ samam || 177 ||
+NL757/ dvandvamelāpaliptāyāṃ mūṣāyāṃ cāndhitaṃ dhamet |
+NL758/ tatkhoṭaṃ cūrṇitaṃ kṛtvā cābhiṣiktaṃ tu pūrvavat || 178 ||
+NL759/ samukhe jārayetsūte yāvatpañcaguṇaṃ kramāt |
+NL760/ divyauṣadhadravaistaṃ vai mardayeddivasatrayam || 179 ||
+NL761/ andhamūṣāgataṃ dhmātaṃ jāyate guṭikā śubhā |
+NL762/ nāmnā pañcānanā dhāryā vaktre saṃvatsarāvadhi || 180 ||
+NL763/ valīpalitanirmukto jīveccandrārkatārakam |
+NL764/ hastikarṇī samūlā tu cūrṇyā madhvājyasaṃyutā || 181 ||
+NL765/ snigdhabhāṇḍe tu tāṃ ruddhvā dhānyarāśau niveśayet |
+NL766/ trisaptāhātsamuddhṛtya palaikaṃ bhakṣayedanu || 182 ||
+
+<B 81>
+
+śatavedhikādiguṭikāḥ |
+NL767/ ṛddhikhaṇḍe tu yatproktaṃ vividhaṃ rasabandhanam |
+NL768/ atra tasyaiva vakṣyāmi dehavedhakramaṃ yathā || 183 ||
+NL769/ jāritairbandhitaistaistai rasarājaiḥ pṛthakpṛthak |
+NL770/ kārayedguṭikāṃ divyā badarāṇḍapramāṇakām || 184 ||
+NL771/ sā dhāryā vatsaraṃ vaktre svānurūpaphalapradā |
+NL772/ guṭikā śatavedhī syādyugāyuṣyakarī nṛṇām || 185 ||
+NL773/ sahasravedhī guṭikā aṣṭakalpāntarakṣikā |
+NL774/ lakṣavedhakarī yā tu sā datte viṣṇuvadbalam || 186 ||
+NL775/ vedhikā daśalakṣe yā sā rudrapadadāyinī |
+NL776/ koṭivedhakarī yā sā īśvaratvakarī nṛṇām || 187 ||
+NL777/ vedhikā daśakoṭīnāṃ sā sadākhyapadapradā |
+NL778/ guṭikā'rbudavedhī yā sā śrīkaṇṭhapadapradā || 188 ||
+NL779/ samyagbhavapadaṃ datte guṭikā śaṅkhavedhikā |
+NL780/ dhūmravedhī tu yā siddhā sā śaktipadadāyinī || 189 ||
+NL781/ parāśaktipadaṃ datte sparśavedhakarī tu yā |
+NL782/ śabdavedhakarā yā tu sā yasya vatsarāvadhi || 190 ||
+NL783/ vaktre sthitā sa vai siddho nityaṃ nityapadaṃ labhet |
+NL784/ svecchācārī vajrakāyo vajrapātairna bhidyate || 191 ||
+NL785/ tasya mūtrapurīpābhyāṃ sarvalohāni kāñcanam |
+NL786/ jāyante svedasamparkādgātrasaṃsparśanādapi || 192 ||
+NL787/ sarveṣāmuktayogānāmanu syācchuddhagandhakam |
+NL788/ palārdhaṃ bhakṣayennityaṃ rasasaṅkrāmaṇe hitam || 193 ||
+NL789/ kāli kāli mahākāli māṃsaśoṇitabhojini |
+NL790/ raktakṛṣṇamukhe devi rasasiddhiṃ dadasva me || 194 || svāhā
+NL791/ anena siddhamantreṇa śakticakraṃ prapūjayet |
+NL792/ kālikāṃ bhairavaṃ siddhān kumārīṃ sādhitaṃ rasam || 195 ||
+NL793/ tato rasāyanaṃ divyaṃ sevayet sidvimāpnuyāt |
+NL794/ guṭikāṃ dhārayedvaktre pūrvamantraṃ japetsadā || 196 ||
+NL795/ rasamantraprayogeṇa śīghraṃ siddhimavāpnuyāt |
+
+<B 82>
+
+kālāntarasasiddhikaraṇaprakāraḥ |
+NL796/ kālāntarasasiddhiryā proktā manthānabhairave || 197 ||
+NL797/ tadarthaṃ pañca tattvāni ṣaṣṭhaṃ jīvaṃ ca sādhayet |
+NL798/ kākinyāḥ puṣpakāle tu saṅgaṃ kṛtvā samāharet || 198 ||
+NL799/ tadyonisthaṃ rajobījaṃ gaganaṃ taṃ vidurbudhāḥ |
+NL800/ kākinyutpannaputrasya sadyoviḍvāyurucyate || 199 ||
+NL801/ tejastu kākinīpuṣpaṃ jalaṃ tatputraśoṇitam |
+NL802/ kākinīputrasarvāṅgaṃ pṛthivītattvamucyate || 200 ||
+NL803/ rasasevakadehotthavīryaṃ jīvastu kathyate |
+NL804/ tatpratyekaṃ koṭivedhaṃ karṣaikaṃ rasasaṃyutam || 201 ||
+NL805/ kṛtvā saṃrakṣayedbhinnaṃ supiṣṭaṃ golakīkṛtam |
+NL806/ unnataṃ pauruṣaṃ yāvadvistāreṇa tadardhakam || 202 ||
+NL807/ kuryāttāmrakaṭāhaṃ tu sthūlaṃ yāvat ṣaḍaṅgulam |
+NL808/ caturmukhasya koṣṭhasya pṛṣṭhe dhāryaṃ dṛḍhaṃ yathā || 203 ||
+NL809/ goghṛtaṃ naratailaṃ ca samabhāgena melayet |
+NL810/ tenāpūrya kaṭāhaṃ taṃ siddhacakraṃ tato'rcayet || 204 ||
+NL811/ kumārīgurudevāgnīn bhairavaṃ bhairavīyutam |
+NL812/ tarpayedbalimāṃsena kṣetrapālaṃ ca pūjayet || 205 ||
+NL813/ dhamanaṃ tatra kurvīta caturdikṣu śanaiḥ śanaiḥ |
+NL814/ caturbhirvaṅkanālaiśca khadirāṅgārayogataḥ || 206 ||
+NP30/ asyāgre aiṃ hrīṃ śrīṃ śrīṃ ityadhikaṃ kha. pustake |
+NL815/ sutaptaṃ phenanirmuktaṃ nirdhūmaṃ ca yadā bhavet |
+NL816/ candrārkagrahanakṣatradevatābhuvanāni ca || 207 ||
+NL817/ namaskṛtya guruṃ devaṃ dehaṃ tatra vinikṣipet |
+NL818/ sudrutaṃ taṃ vijānīyānnikṣipetpārthivaṃ rasam || 208 ||
+NL819/ dhamannatraiva yatnena yāvattatkalkatāṃ vrajet |
+NL820/ aptattvākhyaṃ rasaṃ tasmin kṣipedraktaṃ bhavettu tat || 209 ||
+NL821/ vāyuyuktaṃ rasaṃ kṣiptvā śubhravarṇaṃ prajāyate |
+NL822/ tejoyuktaṃ rasaṃ kṣipyāddhanībhūtaṃ bhavettu tat || 210 ||
+NL823/ tata ākāśasaṃyuktaṃ rasaṃ tatra vinikṣipet |
+NL824/ āvartitaṃ suvarṇābhaṃ jāyate tatra nikṣipet || 211 ||
+NL825/ jīvayuktaṃ rasaṃ divyaṃ tato huṅkāramuccaret |
+NL826/ kṛtvā tatra mahārāvaṃ huṅkāratrayasaṃyutam || 212 ||
+NL827/ tataścottiṣṭhate siddhaḥ pūrvāhṇe bhāskaro yathā |
+NL828/ divyatejā mahākāyo mahābalaparākramaḥ || 213 ||
+NL829/ navanāgasahasrāṇāṃ balaṃ tasyādhikaṃ bhavet |
+NL830/ jīvate vajradehaḥ san satyaṃ satyaṃ śivoditam || 214 ||
+NL831/ jarājarjaritāṅgānāmandhānāṃ paṅgukuṣṭhinām |
+NL832/ naṣṭavāgjaḍaṣaṇḍānāṃ kubjānāṃ kuṣṭhadehinām || 215 ||
+NL833/ anekavyādhiyuktānāṃ bhrāntonmattapiśācinām |
+NL834/ kiṃ punaḥ svacchadehānāṃ bhūpānāṃ rasasevinām || 216 ||
+NL835/ vīrāṇāṃ sādhakānāṃ ca divyasiddhiprado bhavet |
+NL836/ tasmādvīrataro yo'tra bhairavo'sau na saṃśayaḥ || 217 ||
+NL837/ vajrakāyo bhavetsiddho medhāvī divyarūpavān |
+NL838/ ardhayojanavistīrṇaṃ vimānaṃ cāpsaroyutam || 218 ||
+NL839/ āyāti nātra sandeha stasya siddhasya sammukham |
+NL840/ tatrārūḍho rudraloke krīḍate bhairavo yathā || 219 ||
+NL841/ kṣutpipāsāvinirmukto jagannāśe na naśyati |
+NL842/ bhuñjānaḥ sarvabhogāṃśca yogināṃ sa priyo bhavet |
+NL843/ icchāsiddho mahāvīro nityānandamayo bhavet || 220 ||
+NL844/ dṛṣṭvā samastamanubhūya rasāyaneṣu
+NL845/ sārātisārasukhasādhyataraṃ narāṇām |
+NL846/ dehasya dārḍhyakaraṇe guṭikāprayogāḥ
+NL847/ proktāḥ paraṃ śivakarāḥ satataṃ susidhyai || 221 ||
+
+<B 4>
+
+atha caturthopadeśaḥ |
+NL848/ sūtagandhagamanāyasaśulbaṃ māritaṃ ca paramāmṛtīkṛtam |
+NL849/ iṣṭamekamapi mūlikāgaṇaṃ dehasiddhikaramāśu sevitam || 1 ||
+<B 84>
+
+kāntādimahārasāyanam |
+NL850/ mṛtakāntābhrakaṃ sūtaṃ gandhaṃ mṛṅgaviḍaṅgakam |
+NL851/ tvagvarjaṃ bilvabījaṃ ca pratyekaṃ palaṣoḍaśa || 2 ||
+NL852/ triṃśatpalaṃ tryūṣaṇaṃ ca triṃśattriṃśadghṛtaṃ madhu |
+NL853/ citramūlaṃ daśapalaṃ sarvaṃ cūrṇaṃ viloḍayet || 3 ||
+NL854/ palāni triphalāyāstu viṃśapūrvaṃ catuḥśatam |
+NL855/ kvāthyamaṣṭaguṇaistoyairgrāhyamaṣṭāvaśeṣitam || 4 ||
+NL856/ kaṣāyaṃ bhāvayettena māsaikaṃ pūrvaloḍitam |
+NL857/ lohapātre khare gharme tatpalārdhaṃ sadā pibet || 5 ||
+NL858/ kṣīraiḥ śayanakāle tu varṣānmṛtyujarāpaham |
+NL859/ bālo nibiḍasandhiśca jīveccandrārkatārakam || 6 ||
+NL860/ mahārasāyanaṃ divyaṃ kāminīśatatoṣakam |
+
+<B 85>
+
+rasāyanā abhrakayogāḥ |
+NL861/ agnivarṇaṃ kṣipetkṣīre kṛṣṇābhraṃ vahnitāpitam || 7 ||
+NL862/ bhinnapatraṃ tataḥ kṛtvā jalamadhye vinikṣipet |
+NL863/ triṃśatpalāni yatnena maricaṃ palapañcakam || 8 ||
+NL864/ cūrṇitaṃ nikṣipettasmiṃstridinānte samuddharet |
+NL865/ tatsarvaṃ peṣayecchlakṣṇaṃ sitavastreṇa bandhayet || 9 ||
+NL866/ jalapūrṇe ghaṭe gharme dolāyantreṇa dhārayet |
+NL867/ śuṣke toye punastoyaṃ dadyādyāvajjale gatam || 10 ||
+NL868/ tadabhrakaṃ tato vastraṃ santyajedrakṣayejjalam |
+NL869/ triṃśadbhāgaṃ tataḥ kuryāttajjalaṃ sābhrakaṃ sudhīḥ || 11 ||
+NL870/ tadbhāgaikena saṃloḍya palaikaṃ śvetataṇḍulāt |
+NL871/ triṃśatpale gavāṃ kṣīre tat paceccātha śītalam || 12 ||
+NL872/ madhvājyairdvipalairyuktaṃ niṣkaikaiśca marīcakaiḥ |
+NL873/ sādhako bhakṣayennityaṃ māsānmṛtyujarāpaham || 13 ||
+NL874/ keśā dantā nakhāstasya patanti hyudbhavanti ca |
+NL875/ vajrakāyo bhavetsiddho vāyuvego mahābalaḥ || 14 ||
+NL876/ amṛtābhrakayogo'yaṃ śambhunā gaditaḥ purā |
+NL877/ mṛtābhraṃ gandhakaṃ śuddhaṃ kaṇā sava samaṃ ghṛtaiḥ || 15 ||
+NL878/ karṣaikaṃ bhakṣayennityaṃ varṣānmṛtyujarāpaham |
+NL879/ koraṇṭakasya patrāṇi mṛtābhraṃ gandhakaṃ samam || 16 ||
+NL880/ tatsarvaṃ nīlikādrāvaiḥ saptāhaṃ bhāvyamātape |
+NL881/ tatkarṣaikaṃ pibetkṣīrairabdānmṛtyujarāpaham || 17 ||
+NL882/ mṛtābhrakasya karṣaikaṃ gavāṃ kṣīraṃ palaṃ tathā |
+NL883/ samūlapatrāṃ sarpākṣīṃ sārdrāṃ piṣṭvā ca gandhakam || 18 ||
+NL884/ ekīkṛtya pibetsarvaṃ varṣaikena jarāṃ jayet |
+NL885/ vajrakāyaḥ khecaraśca jīvedbrahmadinatrayam || 19 ||
+NL886/ mṛtābhraṃ kāntalohaṃ ca triphalā māgadhī samam |
+NL887/ pañcāṅgaṃ badarīcūrṇamabhratulyaṃ niyojayet || 20 ||
+NL888/ sitāmadhvājyasaṃyuktaṃ palārdhaṃ bhakṣayetsadā |
+NL889/ hanti varṣājjarāṃ mṛtyumāyuḥ syādbrahmaṇo dinam || 21 ||
+NP31/ amṛtakrīḍe viṣṇusaṃvaraṇi svāhā || anena mantreṇa sarve abhraka- yogā abhimantrya bhakṣaṇīyāḥ |
+NP32/ mahāsiddho kha. |
+NP33/ sārdraiḥ kha. |
+NP34/ karṣakam kha. |
+
+<B 86>
+
+rasāyanāḥ kāntayogāḥ |
+NL890/ mṛtaṃ kāntaṃ tilāḥ kṛṣṇā badarīphalacūrṇakam |
+NL891/ kākatuṇḍībījacūrṇaṃ sarvaṃ tulyaṃ prakalpayet || 22 ||
+NL892/ śālmalīmallipatrāṇāṃ dravairbhāvyaṃ dinatrayam |
+NL893/ tridinaṃ bhṛṅgajairdrāvairbhāvitaṃ śoṣayetpunaḥ || 23 ||
+NL894/ tasmiṃtulyaṃ guḍaṃ kṣiptvā vaṭikāḥ karṣamātrakāḥ |
+NL895/ rudantyutthadravaiḥ kṣīrairmadhvājyābhyāṃ pibetsadā || 24 ||
+NL896/ varṣaikena jarāṃ mṛtyuṃ hanti satyaṃ na saṃśayaḥ |
+NL897/ mṛtaṃ kāntaṃ kṛṣṇatilāṃstriphalāṃ cūrṇayetsamam || 25 ||
+NL898/ śālmalīketakīdrāvairloḍitaṃ kāntapātrake |
+NL899/ sthitaṃ rātrau pibetprātaḥ palārdhaṃ mṛtyunāśanam || 26 ||
+NL900/ vatsaraikājjarāṃ hanti jīvedbrahmadinatrayam |
+NL901/ kāntabhasma kaṇācūrṇaṃ nimbaniryāsameva ca || 27 ||
+NL902/ triphalātulyatulyāṃśaṃ madhvājyābhyāṃ palārdhakam |
+NL903/ lihenmāsāṣṭakaṃ nityaṃ jīvedbrahmadinaṃ naraḥ || 28 ||
+NL904/ kuṣṭhakhaṇḍāni sampācya kaṣāye traiphale same |
+NL905/ śoṣayityā vicūrṇyātha tāni kāntaṃ mṛtaṃ samam || 29 ||
+NL906/ madhvājyābhyāṃ lihetkarṣaṃ varṣānmṛtyujarāpaham |
+NL907/ koraṇṭapatracūrṇaṃ tu kāntabhasma tilā guḍam || 30 ||
+NL908/ tulyaṃ bhakṣyaṃ palārdhaṃ tadvarṣānmṛtyujarāpaham |
+NL909/ kāntabhasma samaṃ gandhaṃ tailairjyotiṣmatībhavaiḥ || 31 ||
+NL910/ lihennityaṃ caturniṣkaṃ brahmāyurjāyate naraḥ |
+NL911/ bṛhaspatisamo vācā vatsarādbhavati dhruvam || 32 ||
+NL912/ mṛtatīkṣṇaṃ trayo bhāgāḥ śuddhagandhāṣṭabhāgakam |
+NL913/ gharme bhāvyaṃ trisaptāhaṃ tatsarvaṃ kanyakādravaiḥ || 33 ||
+NL914/ gokṣīraistatpibetkarṣaṃ jīvedbrahmadinatrayam |
+NL915/ varṣamātrānna sandeho divyatejā mahābalaḥ || 34 ||
+NL916/ mṛtaṃ kāntaṃ śilā śuddhā tulyaṃ madhvājyakairlihet |
+NL917/ niṣkaṃ niṣkaṃ tu varṣaikaṃ jīvedbrahmadinatrayam || 35 ||
+NL918/ triniṣkaṃ mṛtatīkṣṇaṃ tu muṇḍaṃ vā kāntameva vā |
+NL919/ pibeddhāroṣṇapayasā vayaḥstambhakaraṃ nṛṇām || 36 ||
+NL920/ varṣadvayaprayogeṇa jīvedācandratārakam |
+NL921/ samyakkāntamaye pātre dhātrīcūrṇaṃ śivāmbunā || 37 ||
+NL922/ rātrau palaikaṃ saṃlipya prātarutthāya bhakṣayet |
+NL923/ valīpalitanirmukto vatsarānmṛtyujidbhavet || 38 ||
+NL924/ lepayetkāntapātrāntaḥ palaikaṃ triphalāmadhu |
+NL925/ divārātraṃ sthitaṃ peyaṃ tannityaṃ tu śivāmbunā |
+NL926/ varṣānmṛtyuṃ jarāṃ hanti jīvedvarṣaśatatrayam || 39 ||
+NP35/ oṃṃ haḥ amṛte amṛtaśakti amṛtagandhopajīvi niṣpannaṃ candrāmṛtaṃ ājñāpitaṃ kuru kuru svāhā he he haṃ haḥ gam iti gandhakalohayorbhakṣa- ṇamantraḥ ||
+NL927/ sarveṣāṃ lohayogānāmanu syātkṣīrapānakam |
+NL928/ āsvādetsvādumustānāṃ svarasaṃ dantapīḍitam || 40 ||
+NL929/ mūlāni bhakṣayettāsāmāsyavairasyaśāntaye |
+NL930/ baddhe koṣṭhe tu dīptāgnau taptaṃ kṣīraṃ pibetsadā || 41 ||
+NL931/ snānamardanatīkṣṇoṣṇaṃ viṣṭambhe sati varjayet |
+NL932/ tāmbūlaṃ bhakṣayennityaṃ sakarpūraṃ muhurmuhuḥ || 42 ||
+NL933/ samyagjīrṇe tu dīptāgnau pibetpaścādbubhukṣitaḥ |
+NL934/ śṛtaṃ kṣīraṃ tato'nnaṃ ca sevyaṃ lauharasāyane || 43 ||
+
+<B 87>
+
+brahmavṛkṣakalpaḥ |
+NL935/ brahmavṛkṣasya pañcāṅgaṃ chāyāśuṣkaṃ sucūrṇitam |
+NL936/ madhvājyābhyāṃ lihetkarṣaṃ varṣaikena jarāṃ jayet || 44 ||
+NL937/ jīvedvarṣasahasraikaṃ divyatejā mahābalaḥ |
+NL938/ brahmavṛkṣasya puṣpāṇi chāyāśuṣkāṇi kārayet || 45 ||
+NL939/ triṃśatpalaṃ tu taccūrṇaṃ caturviṃśatpalaṃ ghṛtam |
+NL940/ ekīkṛtya kṣipedbhāṇḍe taṃ ruddhvā dhānyarāśigam || 46 ||
+NL941/ kṛtvā māsātsamuddhṛtya bhāgān kuryāccaturdaśa |
+NL942/ bhāgaikaṃ bhakṣayennityaṃ bhuñjīta kāntabhājane || 47 ||
+NL943/ evaṃ māsatrayaṃ kuryādvajrakāyo bhavennaraḥ |
+NL944/ tasya mūtrapurīṣābhyāṃ tāmramāyāti kāñcanam || 48 ||
+NL945/ brahmavṛkṣasya bījāni cūrṇitāni ghṛtaiḥ saha |
+NL946/ pūrvavaddhānyamadhye tu kṣiptvā māsātsamuddharet || 49 ||
+NL947/ palaikaikaṃ sadā khādedvatsarānmṛtyujidbhavet |
+NL948/ valīpalitanirmukto jīvedbrahmadinatrayam || 50 ||
+NL949/ brahmabījotthitaṃ tailaṃ gavāṃ kṣīraiḥ paladvayam |
+NL950/ tulyaiḥ pibedbhavenmūrcchā siñcettasya mukhe payaḥ || 51 ||
+NL951/ bodhe kṣīraudanaṃ dadyānmāsājjñānī bhavennaraḥ |
+NL952/ dvitīye śukratulyaḥ syāttṛtīye vajravadbhavet || 52 ||
+NL953/ dūraśrāvī caturthe tu pañcame khegatirbhavet |
+NL954/ māsaṣaṭke svayaṃ kartā śivatulyaparākramaḥ || 53 ||
+NL955/ mahākalpāntaparyantaṃ jīvedvarṣaikasevanāt |
+NL956/ brahmavṛkṣamatisthūlaṃ chedayedūrdhvabhāgataḥ || 54 ||
+NL957/ adho rakṣyaṃ trihastaṃ syāttasya mūrdhni bilaṃ kṛtam |
+NL958/ pakvadhātrīphalaiḥ pūryaṃ tatkāṣṭhena nirudhya ca || 55 ||
+NL959/ kuśaistu veṣṭayetsarvaṃ lepyaṃ mṛdgomayaiḥ punaḥ |
+NL960/ āveṣṭya vastrakhaṇḍena limpenmṛdgomayaistataḥ || 56 ||
+NL961/ śuṣke gajapuṭaṃ deyaṃ parito'raṇyakotpalaiḥ |
+NL962/ svāṅgaśītalamuddhṛtya sadravāṇi phalāni ca || 57 ||
+NL963/ kṣipenmadhvājyasaṃyukte bhāṇḍe tānyeva bhakṣayet |
+NL964/ yatheṣṭaṃ bhūgṛhāntasthaḥ kṣīrāhārī jarāṃ jayet || 58 ||
+NL965/ māsadvayena vasudhāṃ chidrāṃ paśyati niścitam |
+NL966/ jīvedbrahmadinaṃ yāvatsarpavatkañcukaṃ tyajet || 59 ||
+
+<B 88>
+
+śvetapālāśakalpaḥ |
+NL967/ śvetapālāśapañcāṅgaṃ cūrṇitaṃ madhunā saha |
+NL968/ karṣaikaṃ bhakṣayennityaṃ māsānmṛtyujarāpaham || 60 ||
+NL969/ brahmāyurjāyate siddho varṣamātrānna saṃśayaḥ |
+NL970/ ajāghṛtena tadbījamekaikaṃ bhakṣayetsadā || 61 ||
+NL971/ śarīraṃ bhasmanā mardyaṃ māsānmṛtyujarāṃ jayet |
+NL972/ jīvedbrahmadinaṃ yāvaddivyakāyo bhavennaraḥ || 62 ||
+NL973/ anye yogā yathā rakte brahmavṛkṣe ca ye guṇāḥ |
+NL974/ tathaiva śvetapālāśe bhaveyuḥ sādhakasya vai || 63 ||
+NP36/ amṛtaṃ kuru kuru amṛtamālinyai namaḥ || anena mantreṇa sarvayogā saptābhimantritā bhakṣaṇīyāḥ |
+
+<B 89>
+
+muṇḍīkalpaḥ |
+NL975/ śuklapakṣe'tha pūrṇāyāṃ puṣye vā śravaṇe tathā |
+NL976/ revatyāṃ vā'tha sampūjya muṇḍīpañcāṅgamuddharet || 64 ||
+NL977/ chāyāśuṣkaṃ tu taccūrṇaṃ karṣaṃ gopayasā saha |
+NL978/ varṣaikena jarāṃ hanti jīvedvarṣaśatatrayam || 65 ||
+NL979/ tasya mūtrapurīṣābhyāṃ tāmraṃ sauvarṇatāṃ vrajet |
+NL980/ taccūrṇaṃ tu ghṛtailehyaṃ tadvatsyādbalamadbhutam || 66 ||
+NP37/ oṃṃ namo'mṛtodbhavāya amṛtaṃ kuru kuru svāhā o hrāṃ saḥ || iti auṣadhabhakṣaṇamantraḥ |
+
+<B 90>
+
+devadālīkalpaḥ |
+NL981/ chāyāśuṣkaṃ devadālīpañcāṅga cūrṇayettataḥ |
+NL982/ madhvājyābhyāṃ lihetkarṣaṃ varṣānmṛtyujarāṃ jayet || 67 ||
+NL983/ jīvetkalpasahasraṃ tu rudratulyo bhavennaraḥ |
+NL984/ taccūrṇaṃ karṣamātraṃ tu nityaṃ peyaṃ śivāmbunā || 68 ||
+NL985/ pūrvavajjāyate siddhirvatsarānnātra saṃśayaḥ |
+NL986/ taccūrṇaṃ bākucīvahnisarpākṣībhṛṅgarāṭsamam || 69 ||
+NL987/ cūrṇitaṃ karṣamātraṃ tu nityaṃ peyaṃ śivāmbunā |
+NL988/ varṣānmṛtyuṃ jarāṃ hanti chidrāṃ paśyati medinīm || 70 ||
+NL989/ punarnavādevadālyornīrairnityaṃ pibennaraḥ |
+NL990/ devadālyāśca sarpākṣyāḥ palaikaṃ vā śivāmbunā || 71 ||
+NL991/ pibetsyātpūrvavatsiddhirvatsarānnātra saṃśayaḥ |
+NL992/ devadālīṃ ca nirguṇḍīṃ pibetkarṣāṃ śivāmbunā |
+NL993/ varṣaikena jarāṃ hanti jīvedācandratārakam || 72 ||
+NP38/ oṃṃ amṛtagaṇa rudragaṇāmbhaḥ svāhā | ayaṃ ca grahaṇamantraḥ || namo bhagavate rudrāya huṃ phaṭ svāhā | ayaṃ sādhakasya śikhābandhana- mantraḥ || oṃṃ cara ra ra | ayaṃ bhakṣaṇamantraḥ ||
+
+<B 91>
+
+śvetārkakalpaḥ |
+NL994/ puṣye śvetārkamūlaṃ tu grāhyaṃ chāyāviśoṣitam |
+NL995/ cūrṇakarṣaṃ gavāṃ kṣīraiḥ paladvandvairyutaṃ pibet || 73 ||
+NL996/ māsaṣaṭkājjarāṃ hanti jīvedbrahmadinatrayam |
+NL997/ dravaṃ śvetārkapatrāṇāṃ bhṛṅgarājadravaiḥ samam || 74 ||
+NL998/ ekīkṛtyātape śuṣkaṃ cūrṇaṃ kṣīraiścaturguṇaiḥ |
+NL999/ mṛdvagninā pacettāvadyāvatpiṇḍatvamāgatam |
+NL1000/ tatkarṣaikaṃ ghṛtairlehyaṃ varṣātsyātpūrvavatphalam || 75 ||
+NP39/ oṃṃ āṃ haṃ vāsaramāline svāhā | ayaṃ bhakṣaṇamantraḥ ||
+
+<B 92>
+
+hastikarṇakalpaḥ |
+NL1001/ grāhyaṃ somatrayodaśyāṃ hastikarṇasya patrakam |
+NL1002/ chāyāśuṣkaṃ tu taccūrṇaṃ gavāṃ kṣīraiḥ pibetpalam || 76 ||
+NL1003/ varṣamātrājjarāṃ hanti jīvedbrahmadinaṃ naraḥ |
+NL1004/ hastikarṇasya pañcāṅgaṃ chāyāśuṣkaṃ vicūrṇitam || 77 ||
+NL1005/ karṣamātraṃ pibennityaṃ māsaikamudakaiḥ saha |
+NL1006/ āranālaistatastakrairdadhikṣīrājyakṣaudrakaiḥ || 78 ||
+NL1007/ pratyekena kramātsevyaṃ māsaikena jarāpaham |
+NL1008/ jīvedbrahmadinaṃ sārdhaṃ vajrakāyo mahābalaḥ || 79 ||
+NP40/ oṃṃ garaviṣaṃ dṛṣṭau gṛhṇāmi svāhā | hastikarṇagrahaṇamantraḥ || oṃṃ amṛtakuṭījātānāṃ amṛtaṃ kuru kuru svāhā | anena pūjayet | oṃṃ amṛtodbhavāya amṛtaṃ kuru kuru nityaṃ namo namaḥ | bhakṣaṇamantraḥ ||
+NP41/ karṣaika tu kha.
+NP42/ amṛtakukṣijātānāṃ kha. |
+
+<B 93>
+
+rudantīkalpaḥ |
+NL1009/ rudantyāścaiva pañcāṅgaṃ chāyāśuṣkaṃ vicūrṇayet |
+NL1010/ tadardhaṃ muśalīcūrṇaṃ muśalyardhaṃ phalatrayam || 80 ||
+NL1011/ mūlānāṃ katakotthānāṃ tailaṃ pātālayantrake |
+NL1012/ grāhayedgarbhayantre vā tattailaṃ kṣālayejjalaiḥ || 81 ||
+NL1013/ nālikerajalairvā'tha kṣālyaṃ pañcāṃśavārakam |
+NL1014/ etattailena saṃyuktaṃ pūrvacūrṇaṃ lihetkramāt || 82 ||
+NL1015/ karṣādivardhanaṃ kāryaṃ palāntaṃ cātha vardhayet |
+NL1016/ evamabdājjarāṃ hanti āyuḥ syādbrahmaṇo dinam || 83 ||
+NL1017/ siddhayogo hyayaṃ khyāto vajrakāyakaro nṛṇām |
+
+<B 94>
+
+nirguṇḍīkalpaḥ |
+NL1018/ puṣyārke grāhayetprātarnirguṇḍīmūlajāṃ tvacam || 84 ||
+NL1019/ chāyāśuṣkāṃ vicūrṇyātha karṣamekaṃ pibetsadā |
+NL1020/ ajāmūtrapalaikena ṣaṇmāsādamaro bhavet || 85 ||
+NL1021/ varṣamātraprayogeṇa śivatulyo bhavennaraḥ |
+NL1022/ taccūrṇaṃ kṣīramadhvājyairloḍitaṃ snigdhabhāṇḍake || 86 ||
+NL1023/ ruddhvā kṣipeddhānyarāśau māsāduddhṛtya bhakṣayet |
+NL1024/ dvipalaṃ varṣaparyantaṃ jīveccandrārkatārakam || 87 ||
+NL1025/ taccūrṇārdhapalaṃ cājyairlihetsyātpūrvavatphalam |
+NL1026/ taccūrṇaṃ triphalā muṇḍī bhṛṅgī nimbo guḍūcikā || 88 ||
+NL1027/ vacā caiṣāṃ samaṃ cūrṇaṃ madhvājyābhyāṃ lihetpalam |
+NL1028/ varṣānmṛtyuṃ jarāṃ hanti jīvedbrahmadinatrayam || 89 ||
+NL1029/ nirguṇḍīpatrajaṃ drāvaṃ bhāṇḍe mṛdvagninā pacet |
+NL1030/ guḍavatpākamāpannaṃ pītaṃ vāntivirekakṛt || 90 ||
+NL1031/ niryānti kṛmayastasya mukhanāsākṣikarṇataḥ |
+NL1032/ rājayakṣmādirogāṃśca saptāhena vināśayet |
+NL1033/ māsatrayājjarāṃ hanti jīvedvarṣaśatatrayam || 91 ||
+NP43/ oṃṃ namo māya gaṇapataye bhūpataye kuberāya svāhā iti bhakṣaṇamantraḥ ||
+NP44/ pañcāṃśavāsaram kha. |
+
+<B 95>
+
+rasāyanāḥ katipayayogāḥ |
+NL1034/ bhallātako'bhayā vīrā kākatuṇḍyāḥ phalaṃ vacā |
+NL1035/ lāṅgalī nimbapatrāṇi sahadevī samaṃ samam || 92 ||
+NL1036/ eṣāṃ pātālayantreṇa tailaṃ grāhyaṃ prayatnataḥ |
+NL1037/ tattailaṃ nīlikāmūlayuktamardhapalaṃ pibet || 93 ||
+NL1038/ catsarātpalitaṃ hanti āyuḥ syādbrahmaṇo dinam |
+NL1039/ tailārdhaniṣke tannasye kṛte syātpūrvavatphalam || 94 ||
+NL1040/ kṛṣṇajīrakaprasthaikaṃ tattulyaṃ bhṛṅgajadravam |
+NL1041/ yaṣṭī nīlotpalaṃ caiva prati prasthārdhamāharet || 95 ||
+NL1042/ pādaprasthaṃ tilāttailaṃ sarvamekatra pācayet |
+NL1043/ grāhyaṃ tailāvaśeṣaṃ tannasyaṃ tenaiva kārayet || 96 ||
+NL1044/ nasyaṃ cāṅkollatailena kuryānmṛtyujarāpaham |
+NL1045/ niṣkārdhaniṣkaṃ varṣaikaṃ jīvedvarṣaśatatrayam || 97 ||
+NL1046/ kākamācīphalaṃ piṣṭvā karṣaikamudakaiḥ pibet |
+NL1047/ vatsarātpalitaṃ hanti āyuḥ syādbrahmaṇo dinam || 98 ||
+NL1048/ guḍūcī muśalī muṇḍī nirguṇḍī ca śatāvarī |
+NL1049/ vijayā ca samaṃ cūrṇaṃ sitāmadhvājyasaṃyutam || 99 ||
+NL1050/ khādetkarṣadvayaṃ nityaṃ vatsarātpalitaṃ jayet |
+NL1051/ uktaṃ gorakṣanāthena jīvedbrahmadinatrayam || 100 ||
+
+<B 96>
+
+śunakaśālmalikākalpaḥ |
+NL1052/ kṛṣṇāṣṭamyāṃ kṛṣṇasūtrairvṛkṣaṃ śunakaśālmaleḥ |
+NL1053/ āveṣṭyāghoramantreṇa rātrau kṛṣṇājakaṃ balim || 101 ||
+NL1054/ dattvā'ghoraṃ japettatra yāvadaṣṭasahasrakam |
+NL1055/ tasya mūlatvacaṃ grāhyaṃ chāyāśuṣkaṃ vicūrṇayet || 102 ||
+NL1056/ madhvājyābhyāṃ sadā khādetpalaikaṃ vatsarāvadhi |
+NL1057/ valīpalitanirmukto jīvedbrahmadinaṃ naraḥ || 103 ||
+NL1058/ tasya puṣpāṇi saṅgṛhya gavāṃ kṣīraiḥ sadā pacet |
+NL1059/ puṣpavarjaṃ pibetkṣīraṃ māsānmṛtyujarāpaham || 104 ||
+NL1060/ phalaikaṃ tasya vṛkṣasya gavāṃ kṣīreṇa pācayet |
+NL1061/ phalavarjaṃ pibetkṣīraṃ kṣīramevaṃ pibedbudhaḥ || 105 ||
+NL1062/ caturmāsaprayogeṇa vajrakāyo bhavennaraḥ |
+NL1063/ jīvetkalpāntaparyantaṃ vāyuvego mahābalaḥ || 106 ||
+NL1064/ tasya mūtrapurīṣābhyāṃ tāmraṃ bhavati kāñcanam |
+NL1065/ kākamācī bhṛṅgarājaḥ sarpākṣī sahadevikā || 107 ||
+NL1066/ samūlā devadālī ca nimbabākucibījakam |
+NL1067/ phalāni kākatuṇḍyāśca mūlaṃ brahmāśvagandhayoḥ || 108 ||
+NL1068/ nīlakoraṇṭapatrāṇi triphalā ca samaṃ samam |
+NL1069/ cūrṇaṃ tatkanyakādrāvairbhāvayetsaptavāsaram || 109 ||
+NL1070/ chāyāyāṃ śoṣitaṃ kuryātsitāmadhvājyasaṃyutam |
+NL1071/ bhakṣetkarṣadvayaṃ nityaṃ varṣamātrājjarāṃ jayet |
+NL1072/ jīveccandrārkanakṣatraṃ mahākāyo mahābalaḥ || 110 ||
+NP45/ oṃṃ ṭhaḥ ṭhaḥ ṭhaḥ saḥ saḥ saḥ amṛte amṛtavarṣiṇi amṛtasañjīvati sarvakāmaprade bhagavān somarāja ājñāpayati svāhā iti bhakṣa- ṇamantraḥ ||
+
+<B 97>
+
+triphalādiyogaḥ |
+NL1073/ triphalā bākucībījaṃ pippalī cāśvagandhikā |
+NL1074/ sarvaṃ tulyaṃ kṛtaṃ cūrṇaṃ madhvājyābhyāṃ lihetpalam |
+NL1075/ varṣānmṛtyuṃ jarāṃ hanti jīvedbrahmadinatrayam || 111 ||
+NP46/ oṃṃ hrāṃ hrīṃ hrūṃ saḥ svāhā anena mantreṇa bhakṣayet ||
+
+<B 98>
+
+mūlikākalpeṣu pāradayogaḥ |
+NL1076/ mūlikākalpayogeṣu guñjaikaṃ mṛtapāradam |
+NL1077/ pratiyogayutaṃ khādetphalaṃ śataguṇaṃ bhavet |
+NL1078/ rasendrasya prabhāveṇa śīghraṃ siddhimavāpnuyāt || 112 ||
+
+<B 99>
+
+rasāyanakalpeṣu mantrayogaḥ |
+NL1079/ asthimudrādharo mantrī lakṣamekaṃ śmaśānataḥ |
+NL1080/ japenmahābhayaṃ hanti siddhiṃ datte rasāyanam || 113 ||
+NL1081/ tena bhakṣitamātreṇa jīvedācandratārakam |
+NL1082/ ajeyo devadaityānāṃ parvatānapi cālayet || 114 ||
+NP47/ oṃṃ hrīṃ mahābhayerum |
+
+<B 100>
+
+rasāyanasevanavidhiḥ |
+NL1083/ prātaḥ puṣyārkamukhye vividhaśubhadine mantrapūjāvidhānai-
+NL1084/ rgrāhyaṃ divyauṣadhīnāṃ phaladalakusumaṃ mūlapatraṃ rasaṃ vā |
+NL1085/ sarvāṅgaṃ vā'tha sidhyai sakalamabhinavaṃ sevayedbrahmacārī
+NL1086/ kṣīrānnaṃ codakānnaṃ hitamaśanamidaṃ sarvamanyadvivarjyam || 115 ||
+
+<B 5>
+
+atha pañcamopadeśaḥ |
+NL1087/ udvartanaṃ palitahāri paraṃ narāṇāṃ
+NL1088/ śobhāvahaṃ sukhakaraṃ kacarañjanaṃ ca |
+NL1089/ vṛddhopayogisukhasādhyamanekayuktyā
+NL1090/ vakṣye susiddhamanubhūtipathena dṛṣṭam || 1 ||
+<B 102>
+
+valīpalitanāśārthaṃ pāradādyudvartanam |
+NL1091/ pāradaṃ gandhakaṃ tulyaṃ nārīstanyena mardayet |
+NL1092/ viṣṇukrāntā meghanādā sarpākṣī munimuṇḍikā || 2 ||
+NL1093/ āsāṃ dravairdinaṃ khalve mardayettatsamuddharet |
+NL1094/ yavacūrṇaṃ tilāścaiva pratyekaṃ rasatulyakam || 3 ||
+NL1095/ kṣipettasmin ghṛtaiḥ kṣaudraiḥ sarvamāloḍya rakṣayet |
+NL1096/ anenodvartanaṃ samyagvalīpalitanāśanam || 4 ||
+NL1097/ vatsarāddivyadehaḥ syājjīvedvarṣasahasrakam |
+
+<B 103>
+
+valīpalitanāśārthaṃ vajrakāpālinīmūlādyudvartanam |
+NL1098/ vajrakāpālinīmūlaṃ pāradaṃ ca samaṃ samam || 5 ||
+NL1099/ śivāmbunā tryahaṃ mardyamudvartātpūrvavatphalam |
+
+<B 104>
+
+valīpalitanāśārthaṃ utpalādyudvartanam |
+NL1100/ utpalāni samūlāni pāradaṃ ca samaṃ samam || 6 ||
+NP48/ balakaraṃ paramaṃ kha. |
+NL1101/ saptāhaṃ mardayetkhalve svakīyenāśivāmbunā |
+NL1102/ tenaiva mardayedgātraṃ jāyate pūrvavatphalam || 7 ||
+
+<B 105>
+
+valīpalitanāśārthaṃ pāradādyudvartanam |
+NL1103/ pāradasya samāṃśena brahmadaṇḍīyamūlakam |
+NL1104/ kṣiptvā saptadinaṃ mardyaṃ svakīyenāśivāmbunā || 8 ||
+NL1105/ anenodvartayedgātraṃ jāyate pūrvavatphalam |
+
+<B 106>
+
+valīpalitanāśārthaṃ gandhakayogaḥ |
+NL1106/ gandhakaṃ kaṭutailena gharme bhāvyaṃ dināvadhi || 9 ||
+NL1107/ tatpalārdhaṃ sadā khādeddivyakāyakaraṃ nṛṇām |
+NL1108/ jāyate svarṇavaddeho vatsarādvalivarjitaḥ || 10 ||
+
+<B 107>
+
+rasāyanārthaṃ kuṣṭhayogaḥ |
+NL1109/ kuṣṭhacūrṇaṃ samadhvājyaṃ nityaṃ karṣaṃ lihettu yaḥ |
+NL1110/ vatsarāddivyadehaḥ syādgandhena śatapuṣpavat || 11 ||
+
+<B 108>
+
+palitanāśārthaṃ kāntapāṣāṇādiyogaḥ |
+NL1111/ kāntapāṣāṇacūrṇaṃ tu tailamadhvājyasaṃyutam |
+NL1112/ kākatuṇḍīphalaṃ sarvaṃ samametattu kalpayet || 12 ||
+NL1113/ bhāṇḍe ruddhvā kṣipenmāsaṃ dhānyarāśāvathoddharet |
+NL1114/ anena lepayecchīrṣaṃ nasyaṃ kuryādanena vai || 13 ||
+NL1115/ tryahādbhramarasaṅkāśāḥ keśāḥ syurvatsarārdhakam |
+
+<B 109>
+
+palitanāśārthaṃ sīsakādiyogaḥ |
+NL1116/ nāgacūrṇapalaikaṃ tu śaṅkhacūrṇapaladvayam || 14 ||
+NL1117/ pathyācūrṇaṃ niṣkamekaṃ sarvaṃ peṣyaṃ dināvadhi |
+NL1118/ amladadhnā yutaṃ yatnātsnātvā''dau śirasi kṣipet || 15 ||
+NL1119/ mardayeddhaṭikārdhaṃ tu veṣṭyameraṇḍapatrakaiḥ |
+NL1120/ śiraḥ saṃveṣṭya vastreṇa prātaḥ snānaṃ samācaret || 16 ||
+NL1121/ ityevaṃ tridinaṃ yatnātkṛtvā keśāṃśca rañjayet |
+
+<B 110>
+
+keśarañjanārthaṃ nīlikādiyogaḥ |
+NL1122/ pañcāṅgaṃ nīlikābhṛṅgatriphalālohacūrṇakam || 17 ||
+NL1123/ tulyaṃ sarvaṃ kṛtaṃ sūkṣmamiḍāmūtreṇa mardayet |
+NL1124/ dinārdhaṃ tena kalkena pūrvavatkeśarañjanam || 18 ||
+
+<B 111>
+
+keśarañjanārthaṃ guñjādiyogaḥ |
+NL1125/ guñjābījaṃ tu tvagvarjyaṃ kuṣṭhailādevadārukam |
+NL1126/ tulyaṃ cūrṇaṃ dinaṃ bhāvyaṃ bhṛṅgarājabhavairdravaiḥ || 19 ||
+NL1127/ sarvaṃ caturguṇe taile pācayenmṛduvahninā |
+NL1128/ tenābhyaṅgena keśānāṃ rañjanaṃ bhramaropamam || 20 ||
+
+<B 112>
+
+keśarañjanārthaṃ hastidantādiyogaḥ |
+NL1129/ hastidantasya dagdhasya samaṃ yojyaṃ rasāñjanam |
+NL1130/ ajākṣīreṇa tatpiṣṭvā lepanātkeśarañjanam || 21 ||
+
+<B 113>
+
+keśarañjanārthaṃ triphalādiyogaḥ |
+NL1131/ triphalā lohacūrṇaṃ tu kṛṣṇamṛdbhṛṅgajadravam |
+NL1132/ ikṣudaṇḍadravaṃ caiva māsaṃ bhāṇḍe nirodhayet || 22 ||
+NL1133/ tallepādrañjayetkeśān syādyāvanmāsapañcakam |
+
+<B 114>
+
+keśarañjanārthaṃ lohakiṭṭādiyogaḥ |
+NL1134/ lohakiṭṭaṃ japāpuṣpaṃ piṣṭvā dhātrīphalaṃ samam || 23 ||
+NL1135/ tridinaṃ lepitāstena kacāḥ syurbhramaropamāḥ |
+NL1136/ bhṛṅgarājarasaprasthaṃ tailaṃ kṛṣṇatilodbhavam || 24 ||
+NL1137/ tulyaṃ ca nīlikādrāvaṃ sarvaṃ yāmaṃ vimardayet |
+NL1138/ tallepastridinaṃ kāryaḥ keśānāṃ rañjanaṃ bhavet || 25 ||
+
+<B 115>
+
+keśarañjanārthaṃ sindūrādiyogaḥ |
+NL1139/ sindūrasya samaṃ cūrṇaṃ sābuṇaṃ ca tayoḥ samam |
+NL1140/ tajjale peṣitaṃ lepyaṃ tatkṣaṇātkacarañjanam || 26 ||
+
+<B 116>
+
+keśarañjanārthaṃ śatapuṣpādiyogaḥ |
+NL1141/ śatapuṣpā kākamācī tilāḥ kṛṣṇāśca rocanam |
+NL1142/ dinaṃ śivāmbunā sarvaṃ mardayellohapātrake || 27 ||
+NL1143/ tallepaṃ tridinaṃ kuryātkeśānāṃ rañjanaṃ bhavet |
+
+<B 117>
+
+keśarañjanārthaṃ cūrṇādiyogaḥ |
+NL1144/ cūrṇaṃ sarjī yavakṣāraṃ siddhārthaṃ kāñjikaiḥ saha || 28 ||
+NL1145/ nāgapuṣpādravairmardyaṃ tallepādrañjanaṃ bhavet |
+
+<B 118>
+
+keśarañjanārthaṃ nīlyādiyogaḥ |
+NL1146/ nīlīpatrāṇi kāsīsaṃ bhṛṅgarājarasaṃ dadhi || 29 ||
+NL1147/ lohacūrṇaṃ samaṃ piṣṭvā tallapaṃ keśarañjanam |
+
+<B 119>
+
+keśarañjanārthaṃ cūrṇādiyogaḥ |
+NL1148/ cūrṇaṃ sindūramaṅgāraṃ kadalīkandasaṃyutam || 30 ||
+NL1149/ lohapātre lohamuṣṭyā mardyaṃ jambīrajairdravaiḥ |
+NL1150/ dinaikaṃ ca tato lepyaṃ keśānāṃ rañjanaṃ bhavet || 31 ||
+
+<B 120>
+
+keśarañjanārthaṃ kuraṇṭakapatrādiyogaḥ |
+NL1151/ kuraṇṭakasya patrāṇi nāgamuṣṭyā vimardayet |
+NL1152/ tallepaṃ tridinaṃ kuryājjāyate keśarañjanam || 32 ||
+
+<B 121>
+
+keśarañjanārthamāmrāsthyādiyogaḥ |
+NL1153/ āmrāsthi triphalā bhṛṅgī priyaṅgurmātuluṅgakam |
+NL1154/ niśā nīlī mṛṇālāni nāgaṃ lohaṃ ca cūrṇitam || 33 ||
+NL1155/ samaṃ kalkaṃ kāntapātraṃ nimbatailena bhāvayet |
+NL1156/ māsamātraṃ tatastena lepādbhavati rañjanam || 34 ||
+
+<B 122>
+
+keśarañjanārthaṃ kākamācyādiyogaḥ |
+NL1157/ kākamācīyabījāni samāḥ kṛṣṇatilāstathā |
+NL1158/ tattailaṃ grāhayedyantre tannasyaṃ keśarañjanam || 35 ||
+
+<B 123>
+
+keśarañjanaṃ ghṛtam |
+NL1159/ goghṛtaṃ bhṛṅgajaṃ drāvaṃ mayūraśikhayā saha |
+NL1160/ mṛdvagninā pacettena syānnasyaṃ keśarañjanam || 36 ||
+
+<B 124>
+
+keśarañjanārthaṃ japāpuṣparasanasyam |
+NL1161/ japāpuṣpadravaṃ kṣaudraṃ karṣaikaṃ nasyamācaret |
+NL1162/ saptāhādrañjayetkeśān sarvanasyeṣvayaṃ vidhiḥ || 37 ||
+
+<B 125>
+
+keśarañjanārthaṃ triphalādatailam |
+NL1163/ triphalā lohacūrṇaṃ tu vāriṇā peṣayetsamam |
+NL1164/ tattulyena ca tailena bhṛṅgarājarasena ca || 38 ||
+NL1165/ pacettailāvaśeṣaṃ tatsnigdhabhāṇḍe nirodhayet |
+NL1166/ māsaikaṃ bhūgataṃ kuryāttena śīrṣaṃ pralepayet || 39 ||
+NL1167/ kāravallyā dalairveṣṭya tato vastreṇa bandhayet |
+NL1168/ nirvāte kṣīrabhojī syātkṣālayettriphalājalaiḥ || 40 ||
+NL1169/ nityamevaṃ prakartavyaṃ lepanaṃ dinasaptakam |
+NL1170/ kapālarañjanaṃ khyātaṃ yāvajjīvaṃ na saṃśayaḥ || 41 ||
+
+<B 126>
+
+keśarañjanārthaṃ kākatuṇḍyādiyogaḥ |
+NL1171/ bījāni kākatuṇḍyāśca siryālībījasaṃyutam |
+NL1172/ taccūrṇaṃ dinacatvāri bhāvyaṃ niguṇḍijairdravaiḥ || 42 ||
+NL1173/ japāpuṣpadravaistāvattataḥ pātālayantrake |
+NL1174/ tailaṃ prāhyaṃ tu tallepātkeśānāṃ rañjanaṃ bhavet || 43 ||
+NL1175/ veṣṭyameraṇḍapatraiśca nirvāte kṣīrabhojanam |
+NL1176/ kuryātsnānaṃ kāñjikaiśca nityaṃ saptadine kṛte || 44 ||
+NL1177/ yāvajjīvaṃ na sandehaḥ keśāḥ syurbhramaparomāḥ |
+
+<B 127>
+
+keśarañjānārthaṃ bhṛṅgarājādiyogaḥ |
+NL1178/ bhṛṅgarājaṃ kācamācīṃ samāṃśaṃ jalamaṇḍavīm || 45 ||
+NL1179/ sampiṣṭyāpūpikāṃ kṛtvā tailamadhye vipācayet |
+NL1180/ pakvāṃ tāṃ peṣayettailairlepaḥ syātkeśarañjanam || 46 ||
+NL1181/ pūrvavatkramayogena saptāhāttatphalaṃ bhavet |
+
+<B 128>
+
+keśarañjanārthaṃ triphalādiyogaḥ |
+NL1182/ ayaskāntamaye pātre rātrau lepyaṃ phalatrayam || 47 ||
+NL1183/ mṛṅgarājadravaiḥ sārdhaṃ prātaḥ keśān pralepayet |
+NL1184/ evaṃ kuryāttrisaptāhaṃ jāyate pūrvavatphalam || 48 ||
+
+<B 129>
+
+keśarañjanārthaṃ kṛṣṇajīrakayogaḥ |
+NL1185/ prakṣipenmāhiṣe śṛṅge kṛṣṇajīraṃ tadandhayet |
+NL1186/ gṛhāgre kardame kṣiptvā ṣaṇmāsāttatsamuddharet || 49 ||
+NL1187/ taddrutaṃ jāyate kṛṣṇaṃ karṣaikaṃ śirasi kṣipet |
+NL1188/ veṣṭayetpūrvayogena kapālarañjanaṃ bhavet || 50 ||
+NL1189/ bhramarāñjanasaṅkāśaṃ yāvajjīvaṃ na saṃśayaḥ |
+NP49/ bījakaṃ samam kha. |
+NP50/ jalamaṇḍayā kha. |
+NP51/ sarpākṣyā'pūpikāṃ kha. |
+
+<B 130>
+
+keśarañjanārthaṃ nīlyādiyogaḥ |
+NL1190/ nīlīpatraṃ bhṛṅgarājaṃ triphalā kṛṣṇamāyasam || 51 ||
+NL1191/ madanasya ca bījāni puṣpaṃ koraṇṭakasya ca |
+NL1192/ arjunasya tvacaṃ cūrṇaṃ nalinīmūlakardamam || 52 ||
+NL1193/ sarvaṃ tulyaṃ kṣipedbhāṇḍe lohaje tannirodhayet |
+NL1194/ pakṣamekaṃ kṣipedbhūmau bhāṇḍātkalkaṃ samuddharet || 53 ||
+NL1195/ kalkāccaturguṇaṃ tailaṃ tailāccaturguṇaṃ dravam |
+NL1196/ bhṛṅgatriphalajaṃ yojyaṃ pacettailāvaśeṣakam || 54 ||
+NL1197/ parīkṣārthaṃ kṣipetpakṣaṃ balākāyā yadā bhavet |
+NL1198/ kṛṣṇavarṇaṃ tadā siddhaṃ pātre kṛṣṇāyase kṣipet || 55 ||
+NL1199/ māsaikaṃ dhārayettasmiṃstataḥ keśān vilepayet |
+NL1200/ tiṣṭhanti māsaṣaṭkaṃ tu bhramarastomasannibhāḥ || 56 ||
+
+<B 131>
+
+keśarañjanārthaṃ sīsakādiyogaḥ |
+NL1201/ vāsāpalāśaciñcotthairdaṇḍairvā'śvatthajairdṛḍham |
+NL1202/ nāgaṃ pātragataṃ cālyaṃ yāvadbhavati mūrcchitam || 57 ||
+NL1203/ palaikaṃ tatsamādāya lohacūrṇaṃ paladvayam |
+NL1204/ tripalaṃ triphalācūrṇaṃ dāḍimasya phalatvacaḥ || 58 ||
+NL1205/ śuṣkaṃ cūrṇaṃ palaikaṃ tatsarveṣāṃ kāñjikaṃ samam |
+NL1206/ bhāṇḍe sarvaṃ pacetkiñcittaṃ kṣipellohabhājane || 59 ||
+NL1207/ bhṛṅgarājakuraṇṭotthadravaṃ dattvā''tape kṣipet |
+NL1208/ trisaptāhaṃ prayatnena dravo deyaḥ punaḥ punaḥ || 60 ||
+NL1209/ tatastaṃ rakṣayettena lepātsyātkeśarañjanam |
+NL1210/ uktānukteṣu lepeṣu veṣṭyameraṇḍapatrakaiḥ || 61 ||
+NL1211/ śiro rātrau divā snānaṃ yuktireṣā praśasyate |
+
+<B 132>
+
+keśaśuklīkaraṇayogāḥ |
+NL1212/ vajrīkṣīreṇa saptāhaṃ bhāvayedabhayāphalam |
+NL1213/ taccūrṇayuktatailasya lepācchuklā bhavanti hi || 62 ||
+NL1214/ keśāśca sarvaromāṇi śaṅkhavarṇā bhavanti vai |
+NL1215/ saptāhaṃ vajradugdhena suśvetān bhāvayettilān || 63 ||
+NL1216/ tebhyastailaṃ gṛhītvā tallepācchuklā bhavanti vai |
+NL1217/ gauryāmalakacūrṇaṃ tu vajrīkṣīreṇa saptadhā || 64 ||
+NL1218/ bhāvayettena lepena śuklatāṃ yānti mūrdhajāḥ |
+NL1219/ sindūraṃ sphaṭikāṃ śvetāṃ jalena saha lepayet || 65 ||
+NL1220/ tallepena tu romāṇi suśuklāni bhavanti hi |
+NL1221/ māsaikaṃ māgadhīcūrṇaṃ vajrīkṣīreṇa bhāvayet || 66 ||
+NL1222/ narāśvagajavājīnāṃ śuklīkaraṇamuttamam |
+NL1223/ indragopaṃ tailinī ca tālakaṃ rajanīdvayam || 67 ||
+NL1224/ manaḥśilā ca tulyāṃśaṃ cūrṇaṃ snukpayasā tryaham |
+NL1225/ bhāvayedarkajaiḥ kṣīraistridinaṃ cātape khare || 68 ||
+NL1226/ tataḥ kūṣmāṇḍajairdrāvairbhāvayeddinasaptakam |
+NL1227/ kūṣmāṇḍasya tato garbhe kṣiptvā māsātsamuddharet || 69 ||
+NL1228/ tailena sarvaromāṇi keśān saṃlepayettryaham |
+NL1229/ veṣṭayedarkajaiḥ patraiḥ śuklavarṇā bhavanti ca || 70 ||
+NL1230/ snāne kṛte śuṣkakaceṣu rātrau lepe kṛte pūrvadalaistu veṣṭyam |
+NL1231/ dadhnā tilaiḥ snānamataḥ prabhāte kuryāttryahaṃ lepana mitthameva || 71 ||
+
+<B 6>
+
+atha ṣaṣṭhopadeśaḥ |
+NL1232/ yeṣāṃ rāmā ramaṇakuśalā rāgasaktāḥ pragalbhāḥ
+NL1233/ kāmāsaktā hariṇanayanāścandrabimbānanāśca |
+NL1234/ teṣāṃ vakṣye madanasukhadāṃ vīryavṛddhiṃ prabhūtāṃ
+NL1235/ mattāḥ siddhāḥ śatamapi dṛḍhāstādṛśāstoṣayanti || 1 ||
+<B 134>
+
+vājīkaro makaradhvajarasaḥ |
+NL1236/ vajrahemārkasūtābhralohabhasma kramottaram |
+NL1237/ sarvaṃ kanyādravairmardyaṃ śālmalyāśca dravaistryaham || 2 ||
+NL1238/ tadruddhvā kācakupyantarvālukāyāṃ tryahaṃ pacet |
+NL1239/ tatkalkaṃ muśalīkvāthairvajrārkakṣīrasaṃyutaiḥ || 3 ||
+NL1240/ dinaikaṃ mardayetkhalve ruddhvā'ntarbhūdhare puṭet |
+NL1241/ yāmāduddhṛtya sañcūrṇyaṃ sitākṛṣṇātrijātakaiḥ || 4 ||
+NL1242/ samaiḥ samaṃ vimiśtyātha māṣaikaṃ bhakṣayetsadā |
+NL1243/ māgadhī muśalī yaṣṭī vānarībījakaṃ samam || 5 ||
+NL1244/ cūrṇaṃ sitājyagokṣīraiḥ palārdhaṃ pāyayedanu |
+NL1245/ kāminīnāṃ sahasraikaṃ ramamāṇo na muhyati |
+NL1246/ sevanāddṛḍhakāyaḥ syādraso'yaṃ makaradhvajaḥ || 6 ||
+
+<B 135>
+
+vājīkaro manodayarasaḥ |
+NL1247/ śuddhasūtaṃ samaṃ gandhaṃ raktotpaladaladravaiḥ |
+NL1248/ yāmaṃ mardyaṃ punargandhaṃ sārdhaṃ tatra vinikṣipet || 7 ||
+NL1249/ pūrvadrāvairdinaṃ mardyaṃ rasārdhaṃ gandhakaṃ punaḥ |
+NL1250/ dattvā tadvaddinaṃ mardyaṃ kācakūpyāṃ nirodhayet || 8 ||
+NL1251/ dinaikaṃ vālukāyantre pakvamuddhṛtya cūrṇayet |
+NL1252/ bhūkūṣmāṇḍīkaṣāyeṇa bhāvayeddinasaptakam || 9 ||
+NL1253/ chāyāyāṃ tatsitātulyaṃ niṣkaikaṃ bhakṣayetsadā |
+NL1254/ śaṇamūlaṃ sabījaṃ ca muśalī śarkarā samam || 10 ||
+NL1255/ gavāṃ kṣīraiḥ palārdhaṃ tu anu rātro sadā pibet |
+NL1256/ anantaṃ vardhate vīryaṃ raso'yaṃ madanodayaḥ || 11 ||
+
+<B 136>
+
+vājīkaro madaneśvararasaḥ |
+NL1257/ śuddhasūtasamaṃ gandhaṃ badarīcitrakadravaiḥ |
+NL1258/ mardyaṃ cāṅkollajairdrāvaistaptakhalve dinatrayam || 12 ||
+NL1259/ sadyo hatājamāṃsasya piṇḍe nyastaṃ ca sīvayet |
+NL1260/ tatpiṇḍaṃ tilatailena lohapātre śanaiḥ pacet || 13 ||
+NL1261/ yāvanmāṃsaṃ raktavarṇaṃ tataḥ sūtaṃ samuddharet |
+NL1262/ tridinaṃ muśalīkvāthairbhāvitaṃ sitayā yutam || 14 ||
+NP52/ dvidinaṃ kha. |
+NL1263/ niṣkaikaṃ bhakṣayennityaṃ raso'yaṃ madaneśvaraḥ |
+NL1264/ vidārīkandacūrṇaṃ tu kṣīrājyena palaṃ pibet || 15 ||
+NL1265/ ramayetstrīśataṃ nityaṃ tattyāgādandhatāṃ vrajet |
+
+<B 137>
+
+vājīkaraḥ kāmakalākhyarasaḥ |
+NL1266/ mṛtābhraṃ pāradaṃ svarṇaṃ tulyaṃ mardyaṃ dinatrayam || 16 ||
+NL1267/ muśalītriphalākvāthairvājigandhākaṣāyakaiḥ |
+NL1268/ kadalīkandajairdrāvaistadgolaṃ cāndhitaṃ puṭet || 17 ||
+NL1269/ bhūdhare dinamātraṃ tu samuddhṛtyātha mardayet |
+NL1270/ dinaikaṃ pūrvajairdrāvaistadvadruddhvā puṭe pacet || 18 ||
+NL1271/ punarmardyaṃ punaḥ pācyamevamaṣṭapuṭaiḥ pacet |
+NL1272/ śālmalījātaniryāsaistulyaṃ śarkarayā saha || 19 ||
+NL1273/ khādenniṣkadvayaṃ nityaṃ drāvayedvanitāśatam |
+NL1274/ gokṣīrairmarkaṭībījaṃ palārdhaṃ pāyayedanu || 20 ||
+NL1275/ sarvāṅgodvartanaṃ kuryātsayavaiḥ śālmalīdravaiḥ |
+NL1276/ rasaḥ kāmakalākhyo'yaṃ mahāvīryakaro nṛṇām || 21 ||
+
+<B 138>
+
+vājīkaraḥ kāmadevarasaḥ |
+NL1277/ mṛtasūtaṃ trayo bhāgā bhāgaikaṃ hāṭakaṃ mṛtam |
+NL1278/ kadalīkandajairdrāvaiḥ śālmalījadravairdinam || 22 ||
+NL1279/ gokṣīraiśca dinaṃ mardyaṃ kṣaṇaikaṃ pācayedghṛtaiḥ |
+NL1280/ tanmadhye śarkarāṃ drākṣāṃ dhātrīṃ rambhāphalaṃ madhu || 23 ||
+NL1281/ gokṣīraṃ muśalīṃ māṣān kokilākṣasya bījakam |
+NL1282/ sūtāccaturguṇaṃ kṣiptvā mardyaṃ śālmalijairdravaiḥ || 24 ||
+NL1283/ tatsarvaṃ dinamekaṃ tu kāmadevo raso bhavet |
+NL1284/ niṣkamātraṃ sadā bhakṣyaṃ gavāṃ kṣīraṃ pibedanu || 25 ||
+NL1285/ maithune dṛḍhaliṅgaḥ syāddrāvayedvanitākulam |
+
+<B 139>
+
+vājīkaro ratikāmarasaḥ |
+NL1286/ prārambharajasā strīṇāṃ mardayedbhasmasūtakam || 26 ||
+NL1287/ mṛtaṃ tāmraṃ ca tāraṃ ca gandhakaṃ ca samaṃ dinam |
+NL1288/ sitāmadhvājyasaṃyuktaṃ niṣkaṃ bhuktvā pibetpayaḥ || 27 ||
+NL1289/ ratikāmaraso nāma kāminarimaṇe hitaḥ |
+NL1290/ vānarīmūlagodhūmaṃ kokilākṣasya bījakam || 28 ||
+NL1291/ māṣāścekṣurasaiḥ sarvaṃ loḍitaṃ pācayedghṛtaiḥ |
+NL1292/ tenaiva vaṭakāḥ kāryā nityaṃ khādeddvayaṃ dvayam || 29 ||
+NL1293/ anupānamidaṃ siddhaṃ sevanādramayecchatam |
+
+<B 140>
+
+vājīkaro madavardhanarasaḥ |
+NL1294/ śuddhasūtasamaṃ gandhaṃ tryahaṃ kahlārajairdravaiḥ || 30 ||
+NL1295/ marditaṃ cāndhitaṃ pacyādyāmaṃ vālukayantrake |
+NL1296/ raktāgastyadravairbhāvyaṃ dinaikaṃ tu sitāyutam || 31 ||
+NL1297/ niṣkamātraṃ sadā khādedraso'yaṃ madavardhanaḥ |
+NL1298/ ajasya vṛṣaṇaṃ kṣīre pakvaṃ tilasitāyutam || 32 ||
+NL1299/ yatheṣṭaṃ bhakṣayeccānu ramayetkāminīśatam |
+
+<B 141>
+
+vājīkarī anaṅgasundarīvaṭikā |
+NL1300/ paladvayaṃ dvayaṃ śuddhaṃ pāradaṃ gandhakaṃ śubham || 33 ||
+NL1301/ karṣaikaṃ māritaṃ svarṇaṃ palaikaṃ mṛtatāmrakam |
+NL1302/ raupyabhasma caturniṣkaṃ sarvaṃ pañcāmṛtairdinam || 34 ||
+NL1303/ mardyaṃ ruddhvā dinaṃ pacyādbhūdhare taṃ samuddharet |
+NL1304/ piṣṭvā pañcāmṛtaiḥ khādedvaṭikāṃ badarākṛtim || 35 ||
+NL1305/ anaṅgasundarī khyātā rāmāṇāṃ ramate śatam |
+NL1306/ śālmalīmūlacūrṇaṃ tu madhuśarkarayā'nvitam || 36 ||
+NL1307/ palaikaṃ bhakṣayeccānu sitākṣīraṃ tu pāyayet |
+
+<B 142>
+
+vājīkaraḥ kāmanāyakarasaḥ |
+NL1308/ śālmalyutthairdravairmardyaḥ pakṣaikaṃ śuddhapāradaḥ || 37 ||
+NL1309/ śuddhagandhaṃ trisaptāhaṃ taddravairmardayetpṛthak |
+NL1310/ samāvetau punarmardyau ghṛtairyāmacatuṣṭayam || 38 ||
+NL1311/ tadgolaṃ bandhayedvastre ghṛtairyāmadvayaṃ pacet |
+NL1312/ tatastaṃ śālmalīdrāvairmardayeddivasatrayam || 39 ||
+NL1313/ nikṣipetkācakupyantarvālukāyantragaṃ pacet |
+NL1314/ kṣipecchālmalijaṃ drāvaṃ kupyā garbhe dināvadhi || 40 ||
+NL1315/ sārdrameva samuddhṛtya miśtyaṃ tatsitayā samam |
+NL1316/ niṣkamātraṃ sadā khādedraso'yaṃ kāmanāyakaḥ || 41 ||
+NL1317/ muśalīṃ sasitāṃ kṣīraiḥ palaikāṃ pāyayedanu |
+NL1318/ kāminīnāṃ sahasraṃ tu kṣobhayennimiṣāntare || 42 ||
+
+<B 143>
+
+vājīkaraḥ pūrṇendurasaḥ |
+NL1319/ śuddhasūtatrayo bhāgā bhāgaikaṃ tāmracūrṇakam |
+NL1320/ kṛtvā piṣṭīṃ nirudhyātha rambhākandodare punaḥ || 43 ||
+NL1321/ mṛlliptaṃ śoṣitaṃ pacyāddinaikaṃ kariṣāgnināṃ |
+NL1322/ evaṃ saptadinaṃ pacyātkande kande dinaṃ dinam || 44 ||
+NL1323/ uddhṛtya bandhayedvastre dṛḍhe caiva caturguṇe |
+NL1324/ kṣudraśambūkamāṃsāktacchāgīraktagataṃ pacet || 45 ||
+NL1325/ dolāyantre tryahaṃ yāvaddeyaṃ raktaṃ punaḥ punaḥ |
+NL1326/ guḍūcyā gajapippalyā kadalyā kokilākṣakaiḥ || 46 ||
+NL1327/ gokṣurīvānarīmūlajātīmūlasya ca dravaiḥ |
+NL1328/ pācayettatkaṣāyairvā dolāyantre dinatrayam || 47 ||
+NL1329/ tataḥ kṣīre sitāyukte tadvatpacyāddināvadhi |
+NL1330/ uddhṛtya muśalīkvāthairmardyaṃ yāmacatuṣṭayam || 48 ||
+NL1331/ rasaḥ pūrṇendunāmā'yaṃ khādenmāṃsaṃ sitāyutam |
+NL1332/ gokṣuro vānarībījaṃ guḍūcī gajapippalī || 49 ||
+NL1333/ kokilākṣasya bījāni majjā kārpāsabījajā |
+NL1334/ śatāvarī ca rambhāyāḥ phalaṃ sarvaṃ samaṃ bhavet || 50 ||
+NL1335/ sarvatulyā sitā yojyā madhunā loḍitaṃ lihet |
+NL1336/ palārdhamanupānaṃ syāttataḥ peyaṃ gavāṃ payaḥ || 51 ||
+NL1337/ kāminīnāṃ sahasraikaṃ ramate kāmadevavat |
+
+<B 144>
+
+vājīkaro madanakāmo rasaḥ |
+NL1338/ padmabījaṃ kaseruṃ ca kandaṃ nālaṃ ca karṇikām || 52 ||
+NL1339/ muśalī bhṛṅgarāṭ drākṣā pakvaṃ śleṣmātakaṃ phalam |
+NL1340/ vijayā markaṭī māṣāḥ śaṇabījāni vai tilāḥ || 53 ||
+NP53/ suśītalāṃ kha. |
+NL1341/ kokilākṣasya bījāni bhūkūṣmāṇḍī śatāvarī |
+NL1342/ śṛṅgāṭaṃ cirbhiṭaṃ phañjībījāni cāśvagandhikā || 54 ||
+NL1343/ etatsarvaṃ samaṃ cūrṇya pādāṃśaṃ cāharetpṛthak |
+NL1344/ pādāṃśasyāṣṭamāṃśena śuddhaṃ sūtaṃ vimiśrayet || 55 ||
+NL1345/ pāradādaṣṭamāṃśaṃ ca karpūraṃ tatra nikṣipet |
+NL1346/ cāturjātakamekaikaṃ karpūrāddviguṇaṃ bhavet || 56 ||
+NL1347/ sūtatulyā sitā yojyā mardyaṃ rambhādravairdinam |
+NL1348/ tadgolaṃ ḍāmare yantre kramavṛddhāgninā pacet || 57 ||
+NL1349/ dinānte cordhvalagnaṃ tadgrāhyaṃ rambhādravairdṛḍham |
+NL1350/ marditaṃ sitayā tulyaṃ māṣaikaṃ bhakṣayetsadā || 58 ||
+NL1351/ raso madanakāmo'yaṃ balavīryavivardhanaḥ |
+NL1352/ divyarūpā bhajedrāmāḥ kāmākulakalānvitāḥ || 59 ||
+NL1353/ bhāgatrayaṃ tu yatpūrvaṃ pṛthakcūrṇaṃ surakṣitam |
+NL1354/ kulīramāṃsacchāgāṇḍacaṭakāṇḍāni vai pṛthak || 60 ||
+NL1355/ pratyekaṃ cūrṇayettulyaṃ sarvatulyaṃ gavāṃ payaḥ |
+NL1356/ tatsarvaṃ cālayan pacyādyāvatpiṇḍatvamāgatam || 61 ||
+NL1357/ prasārya kāṣṭhapātrāntaśchāyāśuṣkaṃ vicūrṇayet |
+NL1358/ asya cūrṇasya karpūraṃ catuḥṣaṣṭyaṃśakaṃ kṣipet || 62 ||
+NL1359/ cāturjātakacūrṇaṃ tu kṣipeddvātriṃśadaṃśataḥ |
+NL1360/ sarvatulyā sitā yojyā rakṣayennūtane ghaṭe || 63 ||
+NL1361/ karṣadvayaṃ gavāṃ kṣīrairanupānaiḥ sadā pibet |
+
+<B 145>
+
+vājīkarā abhrakayogāḥ |
+NL1362/ niṣkaikaṃ māritaṃ cābhraṃ khādeccharkarayā samam || 64 ||
+NL1363/ śālmalīmūlacūrṇaṃ tu mṛṅgarājasya mūlakam |
+NL1364/ palaikaṃ sitayā cānu seveta kāminīśatam || 65 ||
+NL1365/ vānarīkokilākṣasya bījāni tilamāṣakāḥ |
+NL1366/ vāsāgokṣurayormūlaṃ sarvaṃ cūrṇaṃ samaṃ bhavet || 66 ||
+NL1367/ cūrṇatulyaṃ mṛtaṃ cābhraṃ sarvatulyā tu śarkarā |
+NL1368/ etatkarṣaṃ gavāṃ kṣīraiḥ pibet kāmāṅganāyakaḥ || 67 ||
+NL1369/ tailena pakvaṃ caṭakaṃ khādetpūrvaṃ tu bhojanāt |
+NL1370/ bhojanānte pibetkṣīraṃ rāmāṇāṃ ramayecchatam || 68 ||
+NL1371/ aśvagandhāśatāvaryoḥ śālmalyāścitrakasya ca |
+NL1372/ mūlaṃ muśalijaṃ kandaṃ kokilākṣasya bījakam || 69 ||
+NL1373/ vidārīpadminīkandaṃ vānarībījakaṃ samam |
+NL1374/ etaccūrṇaṃ mṛtābhraṃ tu tulyaṃ śarkarayā samam || 70 ||
+NL1375/ palārdhaṃ pāyayetkṣīraiḥ khādetkukkuṭamāṃsakam |
+NL1376/ kṣīrapānaṃ tataḥ kṛtvā ramayetkāminīśatam || 71 ||
+
+<B 146>
+
+vājīkaro dhātrīlohaḥ |
+NL1377/ dhātrīphalasya cūrṇaṃ tu bhāvayettatphaladravaiḥ |
+NL1378/ ekaviṃśativārān vai śoṣyaṃ peṣyaṃ punaḥ punaḥ || 72 ||
+NL1379/ tatpādāṃśaṃ mṛtaṃ lohaṃ madhvājyaśarkarānvitam |
+NL1380/ palaikaṃ bhakṣayennityaṃ sitākṣīraṃ pibedanu || 73 ||
+NL1381/ dhātrīlohaprabhāvena ramayet kāminīśatam |
+
+<B 147>
+
+vājīkaraḥ punarnavādiyogaḥ |
+NL1382/ punarnavā nāgabalā vājigandhā śatāvarī || 74 ||
+NL1383/ gokṣuraṃ muśalīkandaṃ mṛtaṃ sūtaṃ samaṃ samam |
+NL1384/ cūrṇaṃ madhvājyasaṃyuktaṃ niṣkaṃ bhuktvā pibetpayaḥ || 75 ||
+NL1385/ taṇḍulaṃ vānarībījaṃ cūrṇayetsitayā samam |
+NL1386/ āloḍayedgavāṃ kṣīraistena pacyādapūpikām || 76 ||
+NL1387/ tāṃ ghṛtairbhakṣayeccānu ramayetkāminīkulam |
+
+<B 148>
+
+vājīkaro vaṭakaḥ |
+NL1388/ vānarībījacūrṇaṃ tu tvagvarjyaṃ māṣacūrṇakam || 77 ||
+NL1389/ nālikerodakairbhāvyaṃ yāmānte peṣayettataḥ |
+NL1390/ viṃśatyaṃśena piṣṭasya mṛtamabhraṃ vimiśrayet || 78 ||
+NL1391/ ghṛtaistadvaṭakaṃ paktvā madhvājyābhyāṃ tu bhakṣayet |
+NL1392/ kṣīraṃ sitāṃ cānupibedrāmāṇāṃ ramate śatam || 79 ||
+NP54/ dhātrīphalaṃ kha. |
+
+<B 149>
+
+vājīkaro vālukāmatsyayogaḥ |
+NL1393/ vālukāsambhavaṃ matsyaṃ supakvaṃ bhakṣayedghṛtaiḥ |
+NL1394/ ṣaṇḍho'pi jāyate kāmī vīryastambhaḥ prajāyate || 80 ||
+
+<B 150>
+
+vājīkaro nābhilepaḥ |
+NL1395/ ūrṇanābhiṃ samaṃ kṣaudraiḥ piṣṭvā nābhiṃ pralepayet |
+NL1396/ mucyate baddhaṣaṇḍho'pi kṣīrairvahniṃ pibedanu || 81 ||
+NL1397/ svayamagnirasaṃ cātra triniṣkaṃ bhakṣayetsadā |
+
+<B 151>
+
+vājīkaro māṣayogaḥ |
+NL1398/ ghṛtāktā dalitā māṣā kṣīreṇa saha pācitāḥ || 82 ||
+NL1399/ sitājyasaṃyutā bhakṣyā vīryavṛddhikarā hyalam |
+NL1400/ kṣaṇe kṣaṇe bhajedrāmāṃ yathā pārāvato dhruvam || 83 ||
+
+<B 152>
+
+kāmeśvara modakaḥ |
+NL1401/ samyaṅmāritamabhrakaṃ kaṭuphalaṃ kuṣṭhāśvagandhāmṛtā
+NL1402/ methī mocaraso vidārimuśalīgokaṇṭakekṣūrakāṃ |
+NL1403/ rambhākandaśatāvarī hyajamudā māṣāstilā dhānyakaṃ
+NL1404/ yaṣṭī nāgabalā kacoramadanaṃ jātīphalaṃ saindhavam || 84 ||
+NL1405/ bhārgīkarkaṭaśṛṅgibhṛṅgatrikaṭu dvau jīrakau citrakaṃ
+NL1406/ cāturjātapunarnavāgajakaṇādrākṣāśaṇaṃ vāsakaḥ |
+NL1407/ śālmalyaṅghri phalatrikaṃ kapibhavaṃ bījaṃ samaṃ cūrṇaye-
+NL1408/ ccūrṇāśā vijayā sitā dviguṇitā madhvājyamiśraṃ tu tat || 85 ||
+NL1409/ karṣārdhāṃ gulikāṃ vilehyamathavā kṛtvā sadā sevaye-
+NL1410/ tpeyā kṣīrasitā'nu vīryakaraṇe stambhe'pyalaṃ kāminām |
+NL1411/ śyāmāvaśyakaraḥ samādhisukhadaḥ saṅge'ṅganādrāvakaḥ
+NL1412/ kṣīṇe puṣṭikaraḥ kṣayakṣayakaro nānāmayadhvaṃsakaḥ || 86 ||
+NL1413/ kāsaśvāsamahātisāraśamano mandāgnisandīpano
+NL1414/ hyarśāṃsi grahaṇīpramehanicayaśleṣmātisārapraṇut |
+NL1415/ nityānandakaverviśeṣakavitāvācāvilāsodbhavaṃ
+NL1416/ datte sarvaguṇaṃ mahāsthiradaśāṃ dhyānāvasāne bhṛśam || 87 ||
+NP55/ kaserudamanaṃ kha. |
+NL1417/ abhyāsena nihanti mṛtyupalitaṃ kāmeśvaro vatsarā-
+NL1418/ tsarveṣāṃ hitakārako nigaditaḥ śrīnityanāthena vai
+NL1419/ vṛddhānāmapi kāmavardhanakaraḥ prauḍhāṅganāsaṅgame
+NL1420/ siddho'yaṃ dhanavastvamoghasukhado bhūpaiḥ sadā sevyatām || 88 ||
+NL1421/ ityetaduktaṃ bahuvīryavardhanaṃ rātrau sadā kṣīrasitāsamanvitam |
+NL1422/ bhuktottaraṃ sevitamāśu kāmināṃ vidagdharāmākulavaśyakārakam ||
+
+<B 7>
+
+atha saptamopadeśaḥ |
+NL1423/ vīryaṃ sthiraṃ yonimukheṣu yeṣāṃ sthūlaṃ dṛḍhaṃ dīrghatamaṃ ca liṅgam |
+NL1424/ teṣāṃ pragalbhāḥ pramadāśca sarvā bhavanti tṛptāḥ surataprasaṅge || 1 ||
+<B 154>
+
+vīryastambhakarī brahmāṇḍaguṭikā |
+NL1425/ nāgavallīdaladrāvaiḥ saptāhaṃ śuddhapāradam |
+NL1426/ mardayettaptakhalve tu kṣālayetkāñjikaistataḥ || 2 ||
+NL1427/ tatkṣipedviṣakandasya garbhe niṣkacatuṣṭayam |
+NL1428/ viṣeṇa tanmukhaṃ ruddhvā sthūlavārāhamāṃsake || 3 ||
+NL1429/ piṇḍaṃ garbhe nirundhyātha mukhaṃ sūtreṇa sīvayet |
+NL1430/ sandhyākāle baliṃ dattvā kukkuṭaṃ madirāyutam || 4 ||
+NL1431/ tataścūllyāṃ lohapātre taile dhattūrasambhave |
+NL1432/ taṃ viṃśatipale pacyātsapiṇḍaṃ mandavahninā || 5 ||
+NL1433/ sandhyāmārabhya yatnena yāvatsūryodayaṃ tathā |
+NL1434/ haṭhājjāgaraṇaṃ kuryādanyathā tanna sidhyati || 6 ||
+NL1435/ prātaruddhṛtya guṭikāṃ kṣīrabhāṇḍe vinikṣipet |
+NL1436/ tatkṣīraṃ śuṣyati kṣiprametatpratyayamadbhutam || 7 ||
+NL1437/ dṛṣṭvā tāṃ dhārayedvaktre vīryastambhakarīṃ ratau |
+NL1438/ kṣīraṃ pītvā ramedrāmāḥ kāmākulakalānvitāḥ || 8 ||
+NL1439/ mukhāddhastaṃ yadā prāptā tadā vīryaṃ patatyalam |
+NL1440/ brahmāṇḍaguṭikā nāma śoṣayantī mahodadhim || 9 ||
+
+<B 155>
+
+vīryastambhakaro liṅgalepaḥ |
+NL1441/ dagdhamaṅkollamūlaṃ tu karpūraṃ kuṅkumaṃ tathā |
+NL1442/ rocanā sahadevī ca samaṃ sarvaṃ prapeṣayet || 10 ||
+NL1443/ viṣamuṣṭikatailena liptaliṅgo hyanena vai |
+NL1444/ naro nārīsahasraikaṃ gacchan vīryaṃ na muñcati || 11 ||
+
+<B 156>
+
+vīryastambhakaro dīpaḥ |
+NL1445/ śvetārkatūlajāṃ varttiṃ kṛtvā sūkaramedasā |
+NL1446/ yāvajjvalati dīpo'yaṃ tāvadvīryaṃ sthiraṃ nṛṇām || 12 ||
+
+<B 157>
+
+vīryastambhakarī indravāruṇikāmūlādyā vaṭīḥ |
+NL1447/ indravāruṇikāmūlaṃ puṣye nagnaḥ samuddharet |
+NL1448/ tryūṣaṇaiśca gavāṃ kṣīraiḥ piṣṭvā kuryādvaṭīṃ dṛḍhām || 13 ||
+NL1449/ chāyāśuṣkā sthitā vaktre vīryastambhakarī nṛṇām |
+NL1450/ varamaṅkolatailena nābhilepo'pi vīryadhṛk || 14 ||
+
+<B 158>
+
+vīryastambhārthaṃ raktāpāmārgamūlayogaḥ |
+NL1451/ raktāpāmārgamūlaṃ tu somavāre'bhimantrayet |
+NL1452/ bhaume prāptaḥ samuddhṛtya bandhetkaṭyāṃ ca vīryadhṛk || 15 ||
+
+<B 159>
+
+vīryastambhakaraḥ pādalepaḥ |
+NL1453/ caṭakānaṅkulītailaiḥ pādādhaḥ sampralepayet |
+NL1454/ na muñcati naro vīryaṃ śayyāṃ pādena na spṛśet || 16 ||
+
+<B 160>
+
+vīryastambhārthaṃ kaṭyāṃ sarpāsthidhāraṇayogaḥ |
+NL1455/ ḍuṇḍubho nāma yaḥ sarpaḥ kṛṣṇavarṇastamāharet |
+NL1456/ tasyāsthi dhārayetkaṭyāṃ naro vīryaṃ na muñcati || 17 ||
+NL1457/ tanmukte muñcate vīryaṃ siddhayoga udāhṛtaḥ |
+
+<B 161>
+
+vīryastambhakaro nābhilepaḥ |
+NL1458/ sahadevīyamūlaṃ tu tatsamaṃ padmakeśaram || 18 ||
+NL1459/ piṣṭvā madhvājyasaṃyukto lepo nābhau tu vīryadhṛk |
+
+<B 162>
+
+vīryastambhakarī kokilākṣādivaṭī |
+NL1460/ śvetasya kokilākṣasya bījaṃ mūlaṃ samāharet || 19 ||
+NL1461/ piṣṭaṃ taṇḍulasambhūtaṃ badarīṇāṃ phalaṃ samam |
+NL1462/ jalaiḥ piṣṭvā vaṭī dhāryā vīryastambhakarī mukhe || 20 ||
+
+<B 163>
+
+vīryastambhakaro nābhilepaḥ |
+NL1463/ nāgavallīpayaḥpiṣṭaṃ lajjāmūlaṃ pralepayet |
+NL1464/ tannābhau vīryadhṛk puṃsāṃ mūlaṃ vā tulasībhavam || 21 ||
+
+<B 164>
+
+vīryastabhakaro rdīpaḥ |
+NL1465/ mūlena śvetaguñjāyā vartiṃ kṛtvā pradīpayet |
+NL1466/ dīpaṃ sūkaratailena vīryastambhakaraṃ nṛṇām || 22 ||
+
+<B 165>
+
+vīryastambhakarī vaṭikā |
+NL1467/ bījamīśvaraliṅgyāstu sūtaṃ vṛścikakaṇṭakam |
+NL1468/ sarvaṃ pūgaphalasyāntaḥ kṣiptvā veṣṭyaṃ trilohakaiḥ || 23 ||
+NL1469/ jihvopari sthite tasminnaro vīryaṃ na muñcati |
+
+<B 166>
+
+vīryastambhārthaṃ śleṣmātakādiyogaḥ |
+NL1470/ śleṣmātasya kuraṇṭasya bījaṃ phañjyāḥ samāharet || 24 ||
+NL1471/ ajākṣīreṇa taṃ piṣṭvā karṣaṃ bhuktvā tu vīryadhṛk |
+
+<B 167>
+
+vīryastambhārthaṃ sūraṇādiyogaḥ |
+NL1472/ sūraṇaṃ tulasīmūlaṃ tāmbūlaiḥ saha bhakṣayet || 25 ||
+NL1473/ na muñcati naro vīryaṃ karṣaikena pṛthakpṛthak |
+
+<B 168>
+
+vīryastambhārthaṃ mārjāranakhādibandhanam |
+NL1474/ nakhāsthīni samādāya mārjārasya sitasya vai || 26 ||
+NL1475/ śvetāparājitāmūlaṃ nīlīmūlaṃ śmaśānajam |
+NL1476/ sarvaṃ baddhvā kaṭau vīryaṃ cirakālaṃ na muñcati || 27 ||
+
+<B 169>
+
+vīryastambhakaraḥ pādalepaḥ |
+NL1477/ bhūlatā sikthakaṃ tulyaṃ limpettailaiḥ kusumbhajaiḥ |
+NL1478/ pādau vīryadharo bhūyātpabhdyāṃ śayyāṃ na saṃspṛśet || 28 ||
+NL1479/ navanītena vā lepyaṃ caṭakāṇḍaṃ ca pūrvavat |
+NL1480/ indravāruṇikāmūlaṃ unmattājasya mūtrataḥ || 29 ||
+NL1481/ bhāvayettena lepena naro vīryaṃ na muñcati |
+
+<B 170>
+
+vīryastambhakaro liṅgalepaḥ |
+NL1482/ dāṇḍimasya tvacaścūrṇaṃ phalaṃ bhallātakākṣayoḥ || 30 ||
+NL1483/ piṣṭvā tatkaṭutailena lepaḥ syātpūrvavatphalam |
+NL1484/ karpūraṃ ṭaṅkaṇaṃ sūtaṃ munipuṣparasaṃ madhu || 31 ||
+NL1485/ mardayitvā lipettena liṅgaṃ yāvatsamantataḥ |
+NL1486/ jalaiḥ prakṣālayelliṅgaṃ bhajedrāmāṃ yathocitām || 32 ||
+NL1487/ vīryaṃ stambhayate puṃsāṃ yāmamātraṃ na saṃśayaḥ |
+
+<B 171>
+
+vīryastambhārthaṃ kaṭyāṃ pāradaguṭikādhāraṇam |
+NL1488/ kṛṣṇadhattūratailena pāradaṃ gharṣayeddinam || 33 ||
+NL1489/ trilohairveṣṭitaṃ baddhaṃ tatkaṭyāṃ vīryadhārakam |
+
+<B 172>
+
+vīryastambhārthaṃ pāradādiyogaḥ |
+NL1490/ sūtaṃ svarṇaṃ vyomasattvaṃ tāraṃ tāmraṃ ca rocanam || 34 ||
+NL1491/ bījaṃ vai śarapuṅkhāyāḥ kṛṣṇadhattūrabījakam |
+NL1492/ sarvaṃ mardyaṃ vaṭakṣīraiḥ kuberākṣasya bījake || 35 ||
+NL1493/ tatkṣiptvā dhārayedvaktre vīryastambhakaraṃ ciram |
+
+<B 173>
+
+vīryastambhārthaṃ haste mudrikādhāraṇam |
+NL1494/ kṛkalāsasya pucchāgraṃ mudrikākāratāṃ kṛtam || 36 ||
+NL1495/ urṇanābhasya jālena veṣṭayitvā'tha dhārayet |
+NL1496/ vāmahaste kaniṣṭhāyāṃ naro vīryaṃ na muñcati || 37 ||
+
+<B 174>
+
+vīryastambhārthaṃ sthalamīnayogaḥ |
+NL1497/ sthalamīnaṃ samādāya śuṣkaṃ cūrṇena lepayet |
+NL1498/ ulliptaṃ rakṣayetkiñcidvaktre dhāryaśca vīryadhṛk || 38 ||
+NP56/ paścimasamudrasya taṭe amaracaṇḍeśvaro nāma devatāyatanaṃ, tasyāpre vālukāmadhye sthalamīnāstiṣṭhanti, te ca vālukāmīnāḥ kathyante ||
+
+<B 175>
+
+vanitādrāvaṇārthaṃ jalaukāyogāḥ |
+NL1499/ śuddhasūte vinikṣipya svarṇaṃ vā nāgameva vā |
+NL1500/ aṣṭamāṃśena tatsarvaṃ mardayettaptakhalvake || 39 ||
+NL1501/ śālmalyāścaiva pañcāṅgarasaṃ tatra vinikṣipet |
+NL1502/ śleṣmāntasya phalaṃ pakvaṃ kokilākṣasya bījakam || 40 ||
+NL1503/ tilapiṇyākacūrṇaṃ tu dattvā tāvadvimardayet |
+NL1504/ jalaukā jāyate yāvattataḥ karpūraṭaṅkaṇam || 41 ||
+NL1505/ kapikacchukaromāṇi bākucītailakaṃ paṭu |
+NL1506/ māgadhīṃ ca jalaiḥ piṣṭvā tatsarvaṃ taptakhalvake || 42 ||
+NL1507/ kṣipetpūrvajalaukāṃ ca trisaptāhaṃ vimardayet |
+NL1508/ sā yojyā kāmakāle tu nārīṇāṃ yonigahvare || 43 ||
+NL1509/ madadarpaharā tāsāṃ madavihvalakārakā |
+NL1510/ bālye ṣaḍaṅgulā yojyā yauvane sā navāṅgulā || 44 ||
+NL1511/ dvādaśāṅgulikā yojyā pragalbhānāṃ jalaukikā |
+NL1512/ yo vā tāṃ dhārayenmūrdhni vīryaṃ tasya sthiraṃ bhavet || 45 ||
+NL1513/ pāradādaṣṭamāṃśena suvarṇaṃ nāgameva vā |
+NL1514/ yojayettaptakhalve tu śālmalītvaṅnijadravaiḥ || 46 ||
+NL1515/ munipatrarasairnīlīmūladrāvaiśca mardayet |
+NL1516/ śleṣmātakaphalaṃ pakvaṃ kokilākṣasya bījakam || 47 ||
+NL1517/ majjā supakvā bilvasya kṣipettatraiva mardayet |
+NL1518/ jalaukā jāyate yāvattatastasmātsamuddharet || 48 ||
+NL1519/ trisaptāhaṃ taptakhalve karpūrādyaiśca pūrvavat |
+NL1520/ mardayecca phalaṃ tadvajjāyate nātra saṃśayaḥ || 49 ||
+NL1521/ rasādaṣṭamabhāgaṃ tu suvarṇaṃ nāgameva vā |
+NL1522/ yojyaṃ ca triphalā bhṛṅgī śuṇṭhī chāgapayo ghṛtam || 50 ||
+NL1523/ kṣaudraṃ gomūtrakaṃ caiva sarvaṃ saptadināvadhi |
+NL1524/ mardayettadavacchinnaṃ jalaukā yāvatā bhavet || 51 ||
+NL1525/ karpūrādyaiḥ punarmardyaṃ taptakhalve tu pūrvavat |
+NL1526/ pūrvavajjāyate siddhistadvadyoge na saṃśayaḥ || 52 ||
+NL1527/ tridinaṃ mardayetkhalve sūtaṃ niṣkacatuṣṭayam |
+NL1528/ triphalāyāstu niryāsaṃ stokaṃ stokaṃ vinikṣipet || 53 ||
+NL1529/ payaścaiva mahāśṛṅgyā dātavyaṃ mardanakṣamam |
+NL1530/ jalaukā mardanākhyeyaṃ jāyate sukhadā nṛṇām || 54 ||
+NL1531/ rāmāṇāṃ madamattānāṃ drāvikā'gnau ghṛtaṃ yathā |
+NL1532/ pūrvavatkramayogena vīryastambhakarī bhavet || 55 ||
+
+<B 176>
+
+liṅgavardhanāḥ katipayayogāḥ |
+NL1533/ pāradaṃ maricaṃ kuṣṭhaṃ tagaraṃ kaṇṭakārikā |
+NL1534/ aśvagandhātilakṣaudrasaindhavaśvetasarṣapāḥ || 56 ||
+NL1535/ apāmārgo yavā māṣāḥ pippalī ca samaṃ jalaiḥ |
+NL1536/ piṣṭvā vimardayettena liṅgaṃ māsamaharniśam || 57 ||
+NL1537/ vardhate hastamātraṃ tatsthaulyena muśalopamam |
+NL1538/ varāhavasayā kṣaudrairliṅgaṃ māsaṃ vilepayet || 58 ||
+NL1539/ atidīrghaṃ dṛḍhaṃ sthūlaṃ jāyate nātra saṃśayaḥ |
+NL1540/ aśvagandhā vacā kuṣṭhaṃ bṛhatī ca śatāvarī || 59 ||
+NL1541/ pācayettilatailena mardayettena pūrvavat |
+NL1542/ liṅgaṃ sthūlaṃ dṛḍhaṃ dīrghaṃ māsamātrātprajāyate || 60 ||
+NL1543/ jambūsūkarajaṃ tailaṃ mahārāṣṭrī ca ṭaṅkaṇam |
+NL1544/ madhunā saha lepo'yaṃ māsālliṅgasya vṛddhikṛt || 61 ||
+NL1545/ miśritaṃ muśalīcūrṇaṃ māhiṣairnavanītakaiḥ |
+NL1546/ tadbhāṇḍaṃ dhānyarāśau ca sthitaṃ saptadinairharet || 62 ||
+NL1547/ tena pralepayelliṅgaṃ vardhate māsamātrataḥ |
+NL1548/ pippalī maricaṃ kṣīraṃ sitā tulyaṃ vimardayet || 63 ||
+NL1549/ māsaikaṃ vṛddhikṛlliṅge nātra kāryā vicāraṇā |
+NL1550/ māhiṣaṃ goghṛtaṃ tulyaṃ saindhavaṃ ca samaṃ samam || 64 ||
+NL1551/ anena lepayelliṅgaṃ sthūlaṃ syānmāsamātrataḥ |
+NL1552/ aśvagandhāpamārgau ca sārivā'kṣaphalaṃ tilāḥ || 65 ||
+NL1553/ sarṣapendrayavaṃ tulyamajākṣīreṇa peṣayet |
+NL1554/ tena liṅgaṃ tu māsaikaṃ mardanādvṛddhimāpnuyāt || 66 ||
+NL1555/ māṃsīmakṣaphalaṃ kuṣṭhamaśvagandhāṃ śatāvarīm |
+NL1556/ taile paktvā pralepo'yaṃ māsālliṅgasya vṛddhikṛt || 67 ||
+NP57/ śaivālaṃ ka. |
+NL1557/ rohītamatsyajaṃ pittaṃ jalaukā lāṅgalī samam |
+NL1558/ anena lepayelliṅgaṃ syānmāsānmuśalopamam || 68 ||
+NL1559/ niśā sitā'śvagandhā ca pāradaṃ mardayetsamam |
+NL1560/ anena mardayelliṅgaṃ yonikarṇastanāṃstathā |
+NL1561/ vardhante māsamātreṇa nātra kāryā vicāraṇā || 69 ||
+NP58/ oṃṃ namo bhagavate uḍḍāmareśvarāya sara prasara 2 kuru kuru ṭha ṭhaḥ | anena mantreṇa sarve vardhanayogāḥ saptābhimantritāḥ siddhā bhavanti ||
+NL1562/ jāmbūmārjārayoḥ pittaṃ yavāgūmarditaṃ dihet |
+NL1563/ māsaikādvardhate liṅgaṃ stanau karṇau ca mardanāt || 70 ||
+NP59/ oṃṃ namo bhagavate uḍḍāmareśvarāya sara prasara prasara nikala nikala nikālaya nikālaya svāhā ṭhaḥ ṭhaḥ ||
+NL1564/ gṛhagodhā śuno jihvā strījarāyuḥ samaṃ samam |
+NL1565/ piṣṭvā dhāryaṃ tāmrapātre saptāhāttaṃ punaḥ pacet || 71 ||
+NL1566/ tilatailena tattailamardanādvardhate khalu |
+NL1567/ liṅgaṃ stanau ca karṇau ca hastau pādau na saṃśayaḥ || 72 ||
+NP60/ oṃṃ namo bhagavate uḍḍāmareśvarāya sara sara hili hili svāhā ṭhaḥ ṭhaḥ ||
+NL1568/ atitarasukhasādhyairyogarājaiḥ prasiddhaiḥ
+NL1569/ satatasuratayogyaṃ stambhanaṃ vardhanaṃ ca |
+NL1570/ nipuṇarasikarāmārañjakaṃ mohakaṃ syā-
+NL1571/ dgaditamiha samastaṃ bhogināṃ saukhyahetuḥ || 73 ||
+
+<B 8>
+
+athāṣṭamopadeśaḥ |
+NL1572/ śrīśaile dehasiddhiḥ prabhavati sahasā vṛkṣamṛtkandatoyai-
+NL1573/ stacchāstraṃ śambhunoktaṃ pragahanamakhilaṃ vīkṣitaṃ yattu sāram |
+NL1574/ vyāhṛtyānekayuktyā sakalasukhakaraṃ dṛṣṭasiddhaṃ tu yadya-
+NL1575/ ttadvakṣye sādhakānāmanubhavapathagaṃ bhuktaye muktaye ca || 1 ||
+NL1576/ mallikārjunadevasya purato gajasannibhā |
+NL1577/ śilā tiṣṭhati yā rātrau sravate gugguluṃ sadā || 2 ||
+NL1578/ pālāśacāṭunā grāhyaṃ kṣipedalābupātrake |
+NL1579/ tadguggulusamaṃ gandhaṃ niṣkaikaṃ bhakṣayetsadā || 3 ||
+NL1580/ māsānmṛtyujarāṃ hanti jīvedācandratārakam |
+NL1581/ tadgugguluṃ drute tāmre koṭibhāgena yojayet || 4 ||
+NL1582/ tadbhavetkanakaṃ divyaṃ jāmbūnadasamaprabham |
+NL1583/ vāmato mallināthasya ghaṇṭāsiddheśvaraḥ sthitaḥ || 5 ||
+NL1584/ taddvāre vidyate kuṇḍaṃ tatra ghaṇṭā vilambate |
+NL1585/ rātrau kṛṣṇacaturdaśyāṃ sopavāsaistribhirjanaiḥ || 6 ||
+NL1586/ kartavyaṃ sādhanaṃ tatra nirvikalpairanidritaiḥ |
+NL1587/ ekastu snāpayeddevaṃ jalamekastu vāhayet || 7 ||
+NL1588/ ekastu vādayeddhaṇṭāmavicchinnaṃ niśāvadhi |
+NL1589/ tatastuṣṭo bhavecchambhuḥ kheracatvaṃ prayacchati || 8 ||
+NL1590/ ghaṇṭāsiddheśvarasyaiva dakṣiṇe krośamātrake |
+NL1591/ nikhaneddṛśyate tatra mṛdgorocanasannibhā || 9 ||
+NL1592/ sitākṣīraiḥ pibetkarṣaṃ saptāhādamaro bhavet |
+NL1593/ candrodakaṃ prasiddhaṃ vai mallināthasya paścime || 10 ||
+NL1594/ sthitaṃ vaiśākhamāse tu pūrṇamāsyāṃ susādhayet |
+NL1595/ sādhako nirvikalpena sthitvā tasya samīpataḥ || 11 ||
+NL1596/ rātrau japaṃ prakurvāṇastattoyaṃ cārdharātrake |
+NL1597/ spraṣṭuṃ candro yadā gacchettadā kṣipraṃ karāñjalim || 12 ||
+NL1598/ kṛtvā tiṣṭhedyadā yāti tajjalaṃ tatkṣaṇātpibet |
+NL1599/ vajrakāyo bhavedvīro jīvedācandratārakam || 13 ||
+NL1600/ śrīśailapūrvadvāre tu devo'sti tripurāntakaḥ |
+NL1601/ devasyottaradigbhāge ciñcāvṛkṣaḥ samīpataḥ || 14 ||
+NL1602/ vidyate tasya mūle tu bhairavo dṛśyate svayam |
+NL1603/ tasyāgre nikhanedbhūmiṃ puruṣasya pramāṇataḥ || 15 ||
+NL1604/ dṛśyate taptakuṇḍaṃ tu nīlavarṇajalānvitam |
+NL1605/ ciñcāvṛkṣasya patrāṇi samyagvastreṇa bandhayet || 16 ||
+NL1606/ tasmin kuṇḍe vinikṣipya tāni mīnā bhavanti vai |
+NL1607/ saṅgṛhya tasya kāṣṭhena pacetteṣāṃ vivarjayet || 17 ||
+NL1608/ kaṇṭakāni śiraḥ pucchaṃ śeṣaṃ bhakṣeta sādhakaḥ |
+NL1609/ kṣaṇaṃ mūrcchā bhavettena prabuddho jāyate svayam || 18 ||
+NL1610/ chidraṃ paśyati medinyāṃ jīvedvarṣāyutaṃ naraḥ |
+NL1611/ tripurāntakadevasya paścime gavyutidvaye || 19 ||
+NL1612/ maṇipalliriti grāmastasya paścimato giriḥ |
+NL1613/ tasya paścimadigbhāge kapāṭaṃ dṛśyate śubham || 20 ||
+NL1614/ pūrvābhimukhaḥ praviśettato gacchecca dakṣiṇam |
+NL1615/ daśadhanvantaraṃ yāvaddṛśyante jvalanaprabhāḥ || 21 ||
+NL1616/ āmrākārāḥ supāṣāṇā grāhyā vastreṇa bandhayet |
+NL1617/ raktavarṇaṃ bhavedvastraṃ kṣīramadhye kṣipettataḥ || 22 ||
+NL1618/ tatkṣīraṃ jāyate raktaṃ tatkṣīraṃ sādhakaḥ pibet |
+NL1619/ saptāhādvajrakāyaḥ syājjīveccandrārkatārakam || 23 ||
+NL1620/ tripurāntakadevasya uttare kokilābilam |
+NL1621/ vikhyātaṃ sarvalokeṣu kṛtvā vamanarecanam || 24 ||
+NL1622/ sādhakaḥ praviśettatra daśadhanvantarāvadhi |
+NL1623/ pāṣāṇāḥ kokilākārāstiṣṭhanti tāṃstu cāharet || 25 ||
+NL1624/ teṣāṃ pṛṣṭhe tilāḥ kṣiptāḥ sphuṭantyeva hi tatkṣaṇāt |
+NL1625/ ityevaṃ pratyayaṃ dṛṣṭvā tāṃśca ghṛṣṭvā parasparam || 26 ||
+NL1626/ kṣīramadhye kṣipettān vai kṣīraṃ kṛṣṇaṃ prajāyate |
+NL1627/ ākaṇṭhāntaṃ pibettattu divyakāvyo bhavennaraḥ || 27 ||
+NL1628/ valīpalitanirmukto jīvedbrahmadinatrayam |
+NL1629/ chidraṃ paśyati medinyāṃ vāyuvego mahābalaḥ || 28 ||
+NL1630/ tripurāntakadevasya pūrvadigyojanāntare |
+NL1631/ devaḥ svargapurī nāma vidyate tatra vai khanet || 29 ||
+NL1632/ devāgre bhūmikāṃ jānumātrāṃ tatra phalā iva |
+NL1633/ nirgacchanti tu pāṣāṇāḥ kharasparśā bhavanti vai || 30 ||
+NL1634/ tripurāntakadevasya paścime yojanārdhake |
+NL1635/ vidyate hi biladvāraṃ tanmadhye dhanuṣāṃ trayam || 31 ||
+NL1636/ gacchetkharjūravṛkṣo vai dṛśyate kṛṣṇavarṇakaḥ |
+NL1637/ tatphalānāṃ rasaṃ pītvā mūrcchā sañjāyate kṣaṇam || 32 ||
+NL1638/ tataḥ sañjāyate siddho jīveccandrārkatārakam |
+NL1639/ śrīśaile dakṣiṇe dvāre jāleśvarasureśvarau || 33 ||
+NL1640/ devau prasiddhau vidyete nikhanettatra bhūmikām |
+NL1641/ pāṣāṇāḥ śrīphalākārā niryānti sparśabhedakāḥ || 34 ||
+NL1642/ devo rāmeśvarastatra vidyate tasya sannidhau |
+NL1643/ rudrākṣākārapāṣāṇāḥ kharasparśā bhavanti te || 35 ||
+NL1644/ jyotiḥsiddhavaṭe vṛkṣe ekapādena tiṣṭhati |
+NL1645/ āvartadevako nāma tatsamīpe tu paścime || 36 ||
+NL1646/ vidyate parvatastatra pāṣāṇāstālakopamāḥ |
+NL1647/ ādāya tān dhamettīvraṃ divyaṃ bhavati kāñcanam || 37 ||
+NL1648/ tatraiva dakṣiṇadvāre devaḥ syātkuṇḍaleśvaraḥ |
+NL1649/ tatsamīpe khanedbhūmiṃ jānumātrāṃ tato haret || 38 ||
+NL1650/ pāṣāṇāḥ śrīphalākārā raktāśca sparśavedhakāḥ |
+NL1651/ puruṣeśvaradevasya kuṇḍamasti samīpataḥ || 39 ||
+NL1652/ guñjā ca riṭhṭhakaścaiva dvau vṛkṣau tatra tiṣṭhataḥ |
+NL1653/ tayoḥ patrāṇi sambhakṣya tatkṣaṇādamaro bhavet || 40 ||
+NL1654/ tathā hastiśilā tatra tasyā dakṣiṇataḥ khanet |
+NL1655/ hastamātraṃ tataḥ paśyejjambūphalasamākṛtiḥ || 41 ||
+NL1656/ śilā tatra samākhyātā sparśagrāhyā prayatnataḥ |
+NL1657/ nāmnā hastiśiraḥ khyātaṃ saiva hastiśilā bhavet || 42 ||
+NL1658/ tasyā dakṣiṇadigbhāge yojanaikena tiṣṭhati |
+NL1659/ chāyāchatraṃ prasiddhaṃ tacchivarūpaṃ śivoditam || 43 ||
+NL1660/ śatahastapramāṇaṃ tu tatkṣetraṃ parivartulam |
+NL1661/ yo'sau gacchati tasyādho nāsau kenāpi dṛśyate || 44 ||
+NP61/ gacchedarjunavṛkṣo kha. |
+NL1662/ rudratulyo bhavetsiddhaḥ krīḍate bhuvanatraye |
+NL1663/ athavā sādhayeddūrātkhyātaṃ siddhyaṣṭakaṃ tu yat || 45 ||
+NL1664/ kāntābhraṃ kāñcanaṃ sūtaṃ mardyaṃ kramaguṇottaram |
+NL1665/ tadgolaṃ veṣṭayellohaisnibhiryatnātkrameṇa vai || 46 ||
+NL1666/ vastre baddhvā tu tadvastraṃ vaṃśāgre bandhayeddṛḍham |
+NL1667/ mantrayetkālimantreṇa chāyācchatre niveśayet || 47 ||
+NL1668/ tadvaṃśāgraṃ kṣaṇaikena jāyate guṭikā tu tām |
+NL1669/ sādhako dhārayedvaktre khecaratvapradāyikām || 48 ||
+NL1670/ tālakaṃ kunaṭīṃ tadvadvaṃśe baddhvā niveśayet |
+NL1671/ tābhyāmañjitanetro yo nidhiṃ paśyati bhūgatam || 49 ||
+NL1672/ vaṃśe baddhvā kṣipetkhaṅgaṃ pūrvamantreṇa mantritam |
+NL1673/ tatkhaṅgaṃ dhārayeddhaste trailokyavijayī bhavet || 50 ||
+NL1674/ vastre gorocanaṃ baddhvā vaṃśasthaṃ tatra veśayet |
+NL1675/ tenaiva tilakaṃ kuryāddṛṣṭvā mohayate jagat || 51 ||
+NL1676/ srotoñjanaṃ kajjalaṃ ca kṣiptvā tatraiva pūrvavat |
+NL1677/ tena cāñjitanetro yo devairapi na dṛśyate || 52 ||
+NL1678/ pādukāṃ tena yogena kṣiptvā padbhyāṃ tu dhārayet |
+NL1679/ yatrecchā tatra tatraiva gantā bhavati tatkṣaṇāt || 53 ||
+NL1680/ tadvadraktapaṭaṃ tatra kṣiptvā saṃveṣṭya sādhakaḥ |
+NL1681/ adṛśyo jāyate samyakpaṭe mukte tu dṛśyate || 54 ||
+NL1682/ kāntābhraṃ kāñcanaṃ sūtaṃ kṛtvā golaṃ tu veśayet |
+NL1683/ vaṃśāgrasthaṃ mantrayuktaṃ sparśavedhī bhavettu tat || 55 ||
+NL1684/ śrīśaile paścime dvāre nāmnā brahmeśvareśvaraḥ |
+NL1685/ talliṅgaṃ sparśamityāhurdurgā tatraiva tādṛśī || 56 ||
+NL1686/ navamaṃ yattu sopānaṃ nadyāṃ tattādṛśaṃ sthitam |
+NL1687/ devasya tiṣṭhati dvāre mudgavarṇaṃ vilokayet || 57 ||
+NL1688/ brahmeśvarasya nairṛtye saṃsthitaṃ tintiṇīvanam |
+NL1689/ tasmin vane sthitaṃ kuṇḍaṃ tatra tiṣṭhati caṇḍikā || 58 ||
+NL1690/ ekapādena ciñcādhastadvṛkṣātpatramāharet |
+NL1691/ baddhvā vastre kṣipetkuṇḍe snānaṃ tatra samācaret || 59 ||
+NL1692/ snānānte poṭalī grāhyā sarve matsyā bhavanti te |
+NL1693/ tatkāṣṭhaiḥ pācayettāni kaṇṭhaṃ pucchaṃ śirastyajet || 60 ||
+NL1694/ bhāgaṃ devāya saṅkalpya dvitīyamatitherbhavet |
+NL1695/ tṛtīyaṃ sādhako bhuktvā kṣaṇaṃ bhavati mūrcchitaḥ || 61 ||
+NL1696/ tatkṣaṇājjāyate siddhāśchidrāṃ paśyati medinīm |
+NL1697/ ajarāmaratāṃ yāti na bādhyastridaśairapi || 62 ||
+NL1698/ alampurottare bhāge grāmaḥ syādbhīmapādukaḥ |
+NL1699/ tasya grāmasya pārśve tu hastamātraṃ khanedbhuvam || 63 ||
+NL1700/ pāṣāṇāḥ sarpavadvakrā grāhyā sparśā bhavanti te |
+NL1701/ yogeśvarīti vikhyatā devatā yā tvalampure || 64 ||
+NL1702/ devyā hyagre guhā ramyā tanmadhye nikhanedbhuvam |
+NL1703/ pāṣāṇā bhekasaṅkāśā grāhyā mārjāraviṣṭhayā || 65 ||
+NL1704/ miśrīkṛtya kṣipedvaṅge tadvaṅgaṃ tāratāṃ vrajet |
+NL1705/ madhvājyasahitān bhakṣetpāṣāṇāṃstānvicakṣaṇaḥ || 66 ||
+NL1706/ śrīśailasyottaradvāre maheśo nāma devatā |
+NL1707/ bhramarāmraḥ sthitastatra tasya pakvaphalāni vai || 67 ||
+NL1708/ sphoṭayettatra niryānti bhramarā jīvasaṃyutāḥ |
+NL1709/ ityevaṃ pratyayaṃ jñātvā bhramarāṃstān parityajet || 68 ||
+NL1710/ phalāni pācayetkṣīraiḥ pibetkṣīraṃ yatheṣṭakam |
+NL1711/ kiñcinmūrcchā bhavettena tato bodhe pibetpunaḥ || 69 ||
+NL1712/ evaṃ kuryāttrisaptāhaṃ vajrakāyo bhavennaraḥ |
+NL1713/ valīpalitanirmukto jīvedācandratārakam || 70 ||
+NL1714/ sarvavāṅmayavettā ca vāyuvegī bhavennaraḥ |
+NL1715/ tenaivāmraphalaikena varjitabhramareṇa ca |
+NL1716/ sahasrapalavaṅgaṃ tu drāvitaṃ stambhayedhruvam || 71 ||
+NL1717/ kṣepāttāramavāpnoti satyamīśvarabhāṣitam |
+NL1718/ tatphalaṃ chidritaṃ kṛtvā utpāṭya bhramaraṃ tataḥ || 72 ||
+NL1719/ śuddhapāradakarṣaikaṃ tattulyaṃ kṛṣṇamabhrakam |
+NL1720/ kṣiptvā tasminmukhaṃ ruddhvā limpenmṛdgomayena ca || 73 ||
+NL1721/ chāyāśuṣkaṃ tadāmrotthaiḥ kvāthairyāmaṃ vipācayet |
+NL1722/ svabhāvaśītalā grāhyā guṭikā phalamadhyagā || 74 ||
+NL1723/ mukhasthā khecaraṃ datte adṛśyatvaṃ mahābalā |
+NL1724/ kvāthe vākpatitulyaḥ syājjīvedācandratārakam || 75 ||
+NL1725/ tāraṃ tāmraṃ bhujaṅgaṃ vā koṭibhāgena vedhayet |
+NL1726/ kṛṣṇābhraṃ śuddhasūtaṃ ca pūrvavattatphale kṣipet || 76 ||
+NL1727/ limpenmṛdgomayaistadvadāraṇyotpalakaiḥ puṭet |
+NL1728/ svabhāvaśītalaṃ grāhyaṃ tadrasaṃ madhusarpiṣā || 77 ||
+NL1729/ guñjāmātraṃ sadā khādenmāsādbālo bhavennaraḥ |
+NL1730/ jīvedbrahmadinaṃ vīro navanāgabalānvitaḥ || 78 ||
+NL1731/ vidyate lokavikhyātaḥ pūjyaḥ pañcopacārakaiḥ |
+NL1732/ oṃṃ huṃ phaṭkāramantreṇa nirvikalpena sādhakaiḥ || 79 ||
+NL1733/ vīkṣya paścimadigbhāge hmantarikṣe ca tatkṣaṇāt |
+NL1734/ paśyeddivyavimānāni jāyate pratyayo mahān || 80 ||
+NL1735/ tataḥ paścimadigbhāge gacchennadīṃ taretsudhīḥ |
+NL1736/ gahvaraṃ dṛśyate tatra praviśetpaścimāmukham || 81 ||
+NL1737/ yojanatritayaṃ gacchedekākī nirvikalpakaḥ |
+NL1738/ pañcayojanavistīrṇaṃ dṛśyate kadalīvanam || 82 ||
+NL1739/ tasya madhye'tivistīrṇaṃ jalapūrṇaṃ sarovaram |
+NL1740/ siṃhāsanaṃ tu tanmadhye śuddhasphaṭikasannibham || 83 ||
+NL1741/ taṃ dṛṣṭvā daṇḍavadbhūmau nipatenmantramuccaret |
+NL1742/ oṃṃ hrīṃ vidyāvāgīśvarādhipataye hrīṃ oṃṃ svāhā |
+NL1743/ snānaṃ kṛtvā prayatnena lakṣamekaṃ japedanu |
+NL1744/ yatheṣṭaṃ bhojanaṃ kṛtvā kandamūlaphalādikam || 84 ||
+NL1745/ tataḥ siṃhāsanasyordhvaṃ śuddhasphaṭikasannibhaḥ |
+NL1746/ caturbhujastrinetraśca dṛśyate parameśvaraḥ || 85 ||
+NL1747/ stotramantrairnamaskāraiḥ praṇipatya punaḥ punaḥ |
+NL1748/ varaṃ datte yatheṣṭaṃ vai sādhakasya na saṃśayaḥ || 86 ||
+NL1749/ śatamāyatanaṃ tatra kūpānāṃ ca śataṃ nava |
+NL1750/ tāvatsaṅkhyāstathā''rāmā nandanākhyavanāni ca || 87 ||
+NL1751/ tathā navaśataṃ vāpyo vidyante kadalīvane |
+NL1752/ biladvārāṇi tāvanti kalpavṛkṣāstathaiva ca || 88 ||
+NL1753/ tatraiva maukalī nāma yakṣiṇī prakaṭā sthitā |
+NL1754/ sā vakti bhojanaṃ dehi yadīcchasi samīhitam || 89 ||
+NL1755/ tatastasyai pravaktavyaṃ dāsyāmi parameśvari |
+NL1756/ kṣīrānnaṃ vā phalāhāraṃ tadagre dāpayetsudhīḥ || 90 ||
+NL1757/ sā vakti mama putro'yaṃ kṣaṇaṃ vakṣasi dhāraya |
+NL1758/ yadā na muñcase bhūmau tadā siddhyaṣṭakaṃ tava || 91 ||
+NL1759/ dāsye'haṃ nātra saṃndeho bhojanānte'thavā punaḥ |
+NL1760/ tyakte karomi saṃhāraṃ tasmādyatnena rakṣaya || 92 ||
+NL1761/ ityevaṃ sādhako vīraḥ kuryātsiddhimavāpnuyāt |
+NL1762/ gaccheduttaradigbhāge tatsaro yojanārdhakam || 93 ||
+NL1763/ tatrāsti puṣpasaṃmpūrṇaṃ divyākhyaṃ nandanaṃ vanam |
+NL1764/ puṣpāṇāṃ ghrāṇamātreṇa kṣutpipāsā na vidyate || 94 ||
+NL1765/ athavā bhakṣayettasmātphalamekaṃ yathocitam |
+NL1766/ tena bhakṣitamātreṇa vajrakāyo bhavennaraḥ || 95 ||
+NL1767/ saro dakṣiṇadigbhāgaṃ gacchedyojanapādakam |
+NL1768/ tatra dāḍimasampūrṇaṃ dṛśyate nandanaṃ vanam || 96 ||
+NL1769/ tatphalaṃ bhakṣayetsiddho jīvedyugasahasrakam |
+NL1770/ tatsaraḥpūrvadigbhāge gacchetkrośārdhamātrakam || 97 ||
+NL1771/ tatra dhātrīphalaiḥ pūrṇaṃ śyāmalaṃ nandanaṃ vanam |
+NL1772/ phalāni bhakṣayettāni jīvetkalpaśatatrayam || 98 ||
+NL1773/ tatsaraḥpaścima bhāge gacchedyojanamātrakam |
+NL1774/ tatra bilvaphalaiḥ pūrṇaṃ dṛśyate nandanaṃ vanam || 99 ||
+NL1775/ tatphalaṃ bhakṣayedvīro jīveccandrārkatārakam |
+NL1776/ tannandanavane ramye liṅgaṃ syānnīlavarṇakam || 100 ||
+NL1777/ praviśeduttaradvāre tatra nāgo mahābalaḥ |
+NL1778/ ugraḥ saptaphaṇākāro dṛśyate'tibhayaṅkaraḥ || 101 ||
+NL1779/ tasya kuryānnamaskāraṃ hruṃ hruṃ kuryātsamuddharet |
+NL1780/ tadā'sau vadate vāṇīmadṛśyatvaṃ dadāmi te || 102 ||
+NL1781/ gaccha tvaṃ paścimadvāre tatrāsti divyakanyakā |
+NL1782/ gacchettatra mahāvīraḥ sādhako mantramuccaran || 103 ||
+NL1783/ hāraṃ dāsyati sā tuṣṭā na praveśaṃ prayacchati |
+NL1784/ taṃ hāraṃ dhārayetkaṇṭhe sākṣādvāgīśvaro bhavet || 104 ||
+NL1785/ tatastu dakṣiṇaṃ dvāraṃ gacchettatra bhayaṅkaram |
+NL1786/ muktakeśaṃ vakranetraṃ gadāhastaṃ digambaram || 105 ||
+NL1787/ nīlavarṇaṃ kṣetrapālaṃ dṛṣṭvā mantraṃ samuccaret |
+NL1788/ ha hā he he haṃ hruṃkāraṃ phaṭ huṃ svāhāntameva ca || 106 ||
+NL1789/ anena mantrapāṭhena kṣetrapālaḥ prasīdati |
+NL1790/ dadāti khecarīṃ siddhiṃ na praveśaṃ kadācana || 107 ||
+NL1791/ tatastu pūrvadigbhāge dvāraṃ tatra gaṇeśvaraḥ |
+NL1792/ dṛśyate pūjayettaṃ vai sādhakaḥ praviśettataḥ || 108 ||
+NL1793/ dṛśyate divyacāpaṃ tu tathā liṅgaṃ manoharam |
+NL1794/ pūjayecchivamantreṇa rakāreṇaiva nānyathā || 109 ||
+NL1795/ tatastatra japaṃ kuryādahorātramupoṣitaḥ |
+NL1796/ pratyakṣo jāyate rudro varaṃ datte yathepsitam || 110 ||
+NL1797/ ityevamādayaḥ santi siddhayaḥ kadalīvane |
+NL1798/ akṣarairlikhitaṃ dvāre tatra padmāvatībilam || 111 ||
+NL1799/ sarasaḥ pūrvadigbhāge yojanaikena tiṣṭhati |
+NL1800/ vamanaṃ recanaṃ kṛtvā praviśettatra sādhakaḥ || 112 ||
+NL1801/ dhanvantaraṃ śataṃ yāvadgacchettatra mṛdaṅgakam |
+NL1802/ dṛṣṭvā taṃ vādayedvīraḥ samyakpadmāvatī tataḥ || 113 ||
+NL1803/ āgatya cāmṛtaṃ datte yatpānādamaro bhavet |
+NL1804/ tatastaṃ prārthayatyeva āgaccha mama mandiram || 114 ||
+NL1805/ divyaṃ kanyāpañcaśataṃ parivāreṇa svīkuru |
+NL1806/ ahaṃ patnī bhaviṣyāmi yāvadbrahmā ca jīvati || 115 ||
+NL1807/ tadante paramaṃ sthānaṃ gacchāmo nātra saṃśayaḥ |
+NL1808/ kadambeśvaradevastu āgneyyāṃ diśi vidyate || 116 ||
+NP62/ prajeśatvaṃ kha. |
+NL1809/ tasya pūrvataṭākāgre sthito vṛkṣaḥ kadambakaḥ |
+NL1810/ tasya patrāṇi saṅgṛhya kaṭutailena lepayet || 117 ||
+NL1811/ tadvṛkṣabījatailairvā tatkāṣṭhaiḥ pācayetsudhīḥ |
+NL1812/ matsyā bhavanti te sarve tāmrapātre vinikṣipet || 118 ||
+NL1813/ kaṇṭhapucchaśirovarjaṃ madhvājyābhyāṃ tu bhakṣayet |
+NL1814/ tatkṣaṇājjāyate siddho rudratulyo mahābalaḥ || 119 ||
+NL1815/ nadīsthāne ca yo vṛkṣo vidyate kuṇḍaleśvare |
+NL1816/ pūrvavatkramayogena siddhiḥ syānnātra saṃśayaḥ || 120 ||
+NL1817/ kapoteśvaradevasyottare puṣpagiriḥ sthitaḥ |
+NL1818/ tasya kuryāt prayatnena trivāraṃ tu pradakṣiṇam || 121 ||
+NL1819/ tataḥ śiraḥ samāruhya khecaratvaṃ labhennaraḥ |
+NL1820/ tatpūrvottaradigbhāge chelikādvārasaṃsthitam || 122 ||
+NL1821/ uttarābhimukhaṃ tatra praviśeddhanuṣāṃ trayam |
+NL1822/ mūṣikākārapāṣāṇāstiṣṭhanti tān samāharet || 123 ||
+NL1823/ takraiḥ piṣṭvā tadekaṃ tu pibenmūrcchāmavāpnuyāt |
+NL1824/ kṣaṇāduttiṣṭhate siddho jīvedbrahmadinatrayam || 124 ||
+NL1825/ sa eva sarvalohānāṃ sparśavedhakaro bhavet |
+NL1826/ ahorātroṣito bhūtvā devāgre siddhimāpnuyāt || 125 ||
+NL1827/ kapoteśvaradevasya dakṣiṇe devatādvayam |
+NL1828/ tanmadhye kaṭimātraṃ tu khanedgorocanopamāḥ || 126 ||
+NL1829/ pāṣāṇāstān samādāya madhvājyābhyāṃ prapeṣayet |
+NL1830/ tatpānājjāyate martyaḥ kalpāyurnātra saṃśayaḥ || 127 ||
+NL1831/ kapoteśvaradevasya vāyavye hastamātrakam |
+NL1832/ khanetpārāvataprakhyāḥ pāṣāṇāḥ sparśabhedakāḥ || 128 ||
+NL1833/ tiṣṭhanti grāhayedekaṃ devatārādhane kṛte |
+NL1834/ mallikārjunadevasya aiśānyāṃ bhṛgupātanam || 129 ||
+NL1835/ vidyate tatsamīpasthaṃ kuṇḍaṃ tasmānmṛdāharet |
+NL1836/ pañcagavyena sammiśrāṃ khadirāṅgārakairdhamet || 130 ||
+NL1837/ nīlotpalasamaṃ lohaṃ patatyevātha secayet |
+NL1838/ madhvājyābhyāṃ sutaptaṃ tatsaptavāraṃ punaḥ punaḥ || 131 ||
+NL1839/ tadgolaṃ dhārayedvaktre viṣṇutulyo bhavennaraḥ |
+NL1840/ bhṛgupātāt pūrvabhāge krośodadhikapāṭake || 132 ||
+NL1841/ tasyāgre acchatailākhyaḥ parvato nāma viśrutaḥ |
+NL1842/ tatpaścime biladvāraṃ tanmadhye dhanvapañcakam || 133 ||
+NL1843/ gate tu dṛśyate kuṇḍaṃ raso lākṣārasaprabhaḥ |
+NL1844/ alābupātre saṃgṛhya koṭivedhī bhavettu saḥ || 134 ||
+NL1845/ mallikārjunadevasya pūrvato lokaviśrutaḥ |
+NL1846/ prākāraścandraguptasya vidyate tatra mandiram || 135 ||
+NL1847/ tasya pūrve sthitaścaityaścaityapūrve mahāśilā |
+NL1848/ mudgavarṇā ca sā khyātā sparśavedhakarā tu sā || 136 ||
+NL1849/ gajastatraiva vikhyātastamāruhya samāhitaḥ |
+NL1850/ tasya pṛṣṭhāttṛṇaṃ grāhyaṃ tatsarvaṃ kanakaṃ bhavet || 137 ||
+NL1851/ gajasya cottare pārśve jānumātraṃ khanedbhuvam |
+NL1852/ jambūphalasamākārāḥ santi te sparśavedhakāḥ || 138 ||
+NL1853/ gajasyādhaḥ khanedvā'tha jānumātraṃ labhettataḥ |
+NL1854/ trikoṇaguṭikāṃ siddhāṃ lakṣavedhakarāṃ parām || 139 ||
+NL1855/ śrīśailasya tu vāyavye tīrthaṃ devahradaḥ sthitam |
+NL1856/ tatra kuṇḍe mudgavarṇāḥ pāṣāṇāḥ sparśavedhakāḥ || 140 ||
+NL1857/ tatra kūrmopamaṃ liṅgaṃ sparśavedhakaraṃ param |
+NL1858/ kṛttikāyāṃ supūrṇāyāṃ kṛtvā pūjāṃ samāharet || 141 ||
+NL1859/ gavyūtidvayatastasmānnāmnā nīlavanaṃ smṛtam |
+NL1860/ tatra liṅgaṃ nīlavarṇaṃ jalaṃ caiva tu tādṛśam || 142 ||
+NL1861/ aśvāmrakākasadṛśāḥ pāṣāṇāḥ sparśavedhakāḥ |
+NL1862/ santi devagṛhasyāntaḥ khanejjānvantarāddharet || 143 ||
+NL1863/ śrīśailasya tu nairṛtye nāmnā guṇḍiprabhā sthitā |
+NL1864/ tasyāgrādgartamṛdgrāhyā pītavarṇā puṭairdahet || 144 ||
+NL1865/ tasmānniḥsarate hema sphuradrūpaṃ na saṃśayaḥ |
+NL1866/ tatraiva bhramarāḥ syuśca pūrvavatphaladāyakāḥ || 145 ||
+NL1867/ tathā tambīpure nāmni tīrthe ca vipule śubham |
+NL1868/ sadāphalaṃ tu vikhyātaṃ pūrvavatsādhayetsudhīḥ || 146 ||
+NL1869/ mahānandeśvaraṃ nāma śrīśailasya tu nairṛte |
+NL1870/ tasya pūrvottare pārśve gacchedrājapathena tu || 147 ||
+NL1871/ kālavarṇeśvaro nāma devastasyāgrakuṇḍakam |
+NL1872/ indragopakasaṅkāśastanmadhye vidyate rasaḥ || 148 ||
+NL1873/ taptāni saptalohāni tatsekātkāñcanaṃ bhavet |
+NL1874/ śrīśailasya tu īśāne devaḥ syātturaleśvaraḥ || 149 ||
+NL1875/ tasyottare suvikhyāta umāparvata uttamaḥ |
+NL1876/ tasya mūrdhni triśūlābhā darbhāstiṣṭhanti śobhanāḥ || 150 ||
+NL1877/ tasyādhaḥ kaṭimātraṃ tu khātvā nīlāṃ mṛdaṃ haret |
+NL1878/ tāṃ pacedakṣajaiḥ kāṣṭhairbhāgaṃ devāya kalpayet || 151 ||
+NL1879/ atitheśca tathā'gneśca bhāgaṃ bhāgaṃ prakalpayet |
+NL1880/ bhāgamātmani bhuñjīta jīvetkalpāyutaṃ naraḥ || 152 ||
+NL1881/ tatra koṭīśvaraṃ khyātamileśvarasamīpataḥ |
+NL1882/ tasyāgre puṣpamātraṃ tu sparśavedhakaraṃ bhavet || 153 ||
+NL1883/ acaleśaśca tatraiva sparśavedhakaraḥ paraḥ |
+NL1884/ dakṣiṇe acaleśasya yojanaikena vidyate || 154 ||
+NL1885/ amareśvaradevākhyastatra svarṇaśilā śubhā |
+NL1886/ tasya pṛṣṭhe ca gomāṃsaṃ mahāmāṃsaṃ ca vā kṣipet || 155 ||
+NL1887/ prajvālya badarīkāṣṭhaiḥ prātaḥ svarṇopamā tu sā |
+NL1888/ dṛśyate rajasā strīṇāṃ bhāvitaṃ vastrakhaṇḍakam || 156 ||
+NL1889/ tacchilāloḍitaṃ kuryādrakṣedalābupātrake |
+NL1890/ tena saṃsparśamātreṇa lohaṃ bhavati hāṭakam || 157 ||
+NL1891/ śrīśaile tatra tatraiva pāṣāṇā piṇḍabhūsthitāḥ |
+NL1892/ taccūrṇaṃ triphalāsārdhaṃ karṣaikaṃ bhakṣayetsadā || 158 ||
+NL1893/ māsārdhaṃ tu jarāṃ hanti jīvedācandratārakam |
+NL1894/ nairṛtye śailarājasya paṭāhakarṇa īśvaraḥ || 159 ||
+NL1895/ tasya ceśānadigbhāge pañcaviṃśatidhanvake |
+NL1896/ dvihastamātrordhvaśilā tatra hastadvayaṃ khanet || 160 ||
+NL1897/ śrāvasampuṭasaṅkāśān pāṣāṇāṃstriṃśadāharet |
+NL1898/ kṛtvā tānagnivarṇāṃśca siñcetkūṣmāṇḍajairdravaiḥ || 161 ||
+NL1899/ tanmadhyānnavanītaṃ tu gṛhyāddevāya bhāgakam |
+NL1900/ atitherbhāgamekaṃ tu bhāgaikaṃ bhakṣayedbudhaḥ || 162 ||
+NL1901/ mūrcchā bhaveddivārātraṃ prabuddho jāyate naraḥ |
+NL1902/ jīvedvarṣāyutaṃ vīro valīpalitavarjitaḥ || 163 ||
+NL1903/ tasya devasya sopānaṃ dvitīyaṃ sparśavedhakam |
+NL1904/ tasya devasya pārśve tu pāṣāṇāḥ śvetapītakāḥ || 164 ||
+NL1905/ sarvasparśā na sandeha ekameva samāharet |
+NL1906/ tasya devasya pūrve tu kūpaḥ syānnātidūrataḥ || 165 ||
+NL1907/ tanmadhye bhekasaṅkāśāḥ pāṣāṇāḥ sparśavedhakāḥ |
+NL1908/ uttare tasya devasya vikhyāto liṅgaparvataḥ || 166 ||
+NL1909/ tasya cottarapārśve tu nadī syātpūrvavāhinī |
+NL1910/ nadyāḥ paścimadigbhāge liṅgaṃ piṅgalavarṇakam || 167 ||
+NL1911/ tatra śailodakaiḥ kuṇḍaṃ pūrṇaṃ syātkṣaṇavedhakam |
+NL1912/ maheśāddakṣiṇe bhāge caṇḍikā yojanadvaye || 168 ||
+NL1913/ piṇḍādevīti vikhyātā tasyā vāyavyakoṇataḥ |
+NL1914/ kūpastiṣṭhati tanmadhye pāṣāṇā mudgavarṇakāḥ || 169 ||
+NL1915/ tathā pathyāṃnibhāścaiva sarve te sparśavedhakāḥ |
+NL1916/ sparśanādatra sarveṣāṃ vedhayuktirvidhīyate || 170 ||
+NL1917/ sthūlaścetpeṣayecchlakṣṇaṃ tena mūṣāṃ tu kārayet |
+NL1918/ aṣṭalohāni tanmadhye samāvartyāni kārayet || 171 ||
+NL1919/ tatsarvaṃ jāyate svarṇamevaṃ kuryādyathepsitam |
+NL1920/ sūkṣmaścedaṣṭalohānāṃ drutānāṃ yatra kutracit || 172 ||
+NL1921/ taṃ sarvaṃ nikṣipenmadhye sarvaṃ tatkāñcanaṃ bhavet |
+NL1922/ mallikārjunavāyavye tīrthaṃ sarveśvaraṃ sthitam || 173 ||
+NL1923/ tasya dakṣiṇadigbhāge jalamārge'rdhayojane |
+NL1924/ gate ḍāṅgarikaṃ tatra dṛśyate tasya mūrdhani || 174 ||
+NL1925/ dhātrīphalāni kṛṣṇāni vidyante tāni bhakṣayet |
+NL1926/ yatheṣṭāni tu saptāhaṃ vajrakāyo bhavennaraḥ || 175 ||
+NL1927/ balīpalitanirmukto jīvetkalpaśatatrayam |
+NL1928/ tasmācca dakṣiṇe bhāge kākalerīmahānavam || 176 ||
+NL1929/ tatrāsti stambhakadalī praviśettatra sādhakaḥ |
+NL1930/ gacchetkrośārdhamātraṃ tu dṛśyate rasakuṇḍakam || 177 ||
+NL1931/ gṛhītvā'lābupātre tu koṭivedhī bhavedrasaḥ |
+NL1932/ tasmin vane mayūraḥsyānnīlavarṇaśilāmayaḥ || 178 ||
+NL1933/ mukhāgre tasya kuṇḍaṃ tu dvādaśāṅgulanīlakam |
+NL1934/ tanmadhye śuṣkavaṃśaṃ tu kṣiptvā syānnūtanaḥ kṣaṇāt || 179 ||
+NL1935/ dine patraṃ phalaṃ puṣpaṃ jāyate tasya nānyathā |
+NL1936/ tatra pāradaprasthaikaṃ kṣiptvā tāvajjalaṃ haret || 180 ||
+NL1937/ kṣaudratulyaṃ pibettaṃ vai tatkṣaṇānmūrcchito bhavet |
+NL1938/ muhūrtāllabdharājyaḥ syājjīvedyugasahasrakam || 181 ||
+NL1939/ śailasyāgneyabhāge tu guṭikāsiddhakeśvaraḥ |
+NL1940/ vidyate tasya purataḥ pañcahastāṃ khanedbhuvam || 182 ||
+NL1941/ pāṣāṇā badarākārāḥ santi khegatidāyakāḥ |
+NL1942/ ekameva samāhṛtya vaktre dhāryaḥ khagāmibhiḥ || 183 ||
+NL1943/ śrīśaile sarvayogānāmuktānāṃ vidhirucyate |
+NL1944/ mantranyāsaṃ purā kṛtvā paścāllakṣaṃ japedanu || 184 ||
+NL1945/ aghoraṃ tena vai śīghraṃ tattatsiddhimavāpnuyāt |
+NP63/ kṣetradevatāmāvāhayet | tatra svapne devatā pratyakṣībhūya varaṃ dadāti |
+NP64/ evaṃ mantraparaiḥ suniścalatarairbhaktaiśca tatsādhakaiḥ śambhoḥ pūjanatatparaiḥ pratidinaṃ pūjāvidheḥ pālakaiḥ | kāryaṃ śrīgirisādhanaṃ japaparairāmnāyapāraṅgatai rno cetkleśakaraṃ parākṛtamaho vyarthaṃ bhavenniścitam || 185 ||

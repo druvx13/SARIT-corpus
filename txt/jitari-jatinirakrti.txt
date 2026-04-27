@@ -1,0 +1,237 @@
+Jātinirākṛti
+Jitāri
+German Research Foundation (DFG); Project "SARIT: Enriching Digital Text Collections in Indology" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017
+Birgit Kellner
+data entry by
+Aurorachana, Auroville
+prepared for SARIT by
+Liudmila Olalde
+"Project SARIT: Enriching Digital Text Collections in Indology" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017.
+Copyright Notice:
+Copyright 2016-2018 SARIT
+Distributed under a
+Creative Commons Attribution-ShareAlike 4.0 International licence.
+Under this licence, you are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+More information and fuller details of this license are given on the Creative Commons website.
+SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown.
+2016
+Jātinirākṛti
+Jitāri
+Jitāri: Kleine Texte
+Jitāri
+Gudrun
+Bühnemann
+Arbeitskreis für tibetische und buddhisitsche Studien Universität Wien
+Wien
+1982
+30-38
+Wiener Studien zur Tibetologie und Buddhismskunde
+8
+Kleine Texte
+is an edition of:
+Vedāprāmāṇyasiddhi
+,
+Sarvajñasiddhi
+,
+Nairātmyasiddhi
+,
+Jātinirākṛti
+, and
+*Īśvaravādimataparīkṣa
+. Bühneman's edition is based on the manuscript described below.
+Patna
+Bihar Research Society
+Glass plate negatives IA, IB, IIA, and IIB.
+See manuscript description in
+JBORS 21. 1935, pt. I, 41. No. 33(2) 158
+;
+JBORS 23. 1937, pt. I, 55, No. 27
+.
+Jitāri
+Apohasiddhi
+Jitāri
+Kṣaṇajabhaṅga
+Jitāri
+Śrutikartṛsiddhi
+IB.1.14; IA.1.14; IB.2.10; IA.2.10; IB.2.11; IA.2.11; IB.2.13; IA.2.13
+Jitāri
+Vedāprāmāṇyasiddhi
+IA.2.13 (Fol. Nr. 23a); IB.2.14 (Fol. Nr. 24b); IA.2.14; IB.2.15 (Fol. Nr. 25)
+one folio is missing (23b und 24a)
+Jitāri
+Sarvajñasiddhi
+Jitāri
+Vyāpakānupalambha
+IB.2.7; IA.2.7
+Jitāri
+Nairātmyasiddhi
+IB.2.9; IA.2.9; IIB.4; IIA.4; IIB.5; IIA.5; IIB.7; IIA.7; IIB.8; IIA.8.
+Jitāri
+Jātinirākṛti
+IIB.9; IIA.9; IIB.6; IIA.6; IIB.11; IIA.11; IIB.10; IIA.10; IIB.12; IIA.12
+Jitāri
+*Īśvaravādimataparīkṣa
+IIA.13
+Not identified.
+This is the description given by Bühnemann in the introduction (in German) to the her
+1982 edition
+, pp. 8-9.
+Low quality photographs of the manuscript, which is therefore difficult to read. Only parts of the manuscript were photographed; the beginning and the end are missing, as well as other folios. The preserved folios are not arranged in order. The numbers given on the margin seem not to correspond to the reconstructed sequence of the folios (for this reason Bühneman did not reproduced them in her edition). The script is Proto-Maithili. The manuscript has several mistakes.
+The references to the folios are by number of the glass plate, column, and folio number (counting from the top to the bottom), e.g. IA.2.13 = glass plate IA, colum 2, folio 13.
+Rāhula Sāṅkṛtyāyana took pictures of the manuscripts in Tibet
+Cf. Bühneman's introduction to her
+1982 edition
+, pp. 8-9
+.
+Giuseppe Tucci
+Jātinirākṛti of Jitāri
+Annals of the Bhandarkar Oriental Research Institute
+11
+54-58
+1930
+H. R. Rangaswamy Iyengar
+Tarkabhāṣa and Vādasthāna of Mokṣākaragupta and Jitāripāda
+Hindusthan Press
+Mysore
+1952
+72-80
+2nd edition; 1st edition 1944
+Line breaks: In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute "gb" refers to Bühnemann's
+1982 edition
+.
+The glass plate numbers were encoded as pb-elements with the edRef-attribute "#jāni-ms".
+The corresponding page an line number in
+Tucci
+'s and
+Iyengar
+'s editions were encoded as pb-elements with the edRef-attribute "#jāni-T" and "#jāni-I" respectively.
+The variant readings in the footnotes were enclosed in a
+.
+References were enclosed in a ref-element.
+Square brackets were encoded as
+surplus
+. This follows
+Bühnemann 1982
+p. 48:
+[ ] auszulassen
+.
+Angle brackets were encoded as
+supplied
+. This follows
+Bühnemann 1982
+p. 48:
+< > zu ergänzen
+.
+The footnotes were encoded as note-elements with their corresponding n-attribute. The footnote references were replaced with the corresponding note. Line breaks in the notes have been removed
+Abbreviations used in the cRef-attributes in this file. The editions are those consulted by Bühnemann:
+āmī =
+Āptamīmāṃsā
+by
+Samantabhadra
+, ed.
+Gajādharalāl Jaina
+.
+Benares
+1914
+.
+nsū = Nyāyasūtra.
+Nyāyadarśana. The Sūtras of Gotama and Bhāṣya of Vātsyāyana
+. 2nd. ed. by
+Ḍhuṇḍhirāja Shāstrī
+.
+Benares
+1970
+.
+nv = Nyāyavārttika:
+Nyāyadarśana-Vātsyāyana-bhāṣyopabṛṃhaṇam. pararṣibhāradvāj-Oddyotakara-viracitam
+.
+V. P. Dvivedin
+.
+Benares
+1916
+.
+śv =
+Ślokavārttika of Śrī Kumārila Bhaṭṭa. With the Commentary Nyāyaratnākara of Śrī Pārthasārathi Miśra
+, ed. and rev. by
+Swāmī Dvārikādāsa Śāstrī
+.
+Benares
+.
+1978
+. Chapters:
+śv-ākṛti = Ślokavārttika Ākṛtivāda
+śv-śūnya = Ślokavārttika Śūnyavāda
+For a complete history of the changes in this file go to
+SARIT GitHub Repository
+.
+
+<B 1>
+
+Jātinirākṛti
+JP1/ Dieser Text gehört wie wahrscheinlich auch der folgende zur Sammlung der vādasthānas Jitāris. Er ist bereits von TUCCI 1930 und von IYENGAR 1952 ediert worden. TUCCIs Text weist mehrere Lücken auf und gibt viele von IYENGARs Manuskript abweichende Lesarten. IYENGAR hat in seiner Edition TUCCIs Edition benutzt, hat jedoch die abweichenden Lesarten nicht verzeichnet.
+JP2/ Das vorliegende Manuskript kommt in seinen Lesarten TUCCIs Manuskript sehr nahe, weist aber nicht die dort vorhandene Lücke (57.27; vgl. IYENGAR 76.4-77.15) auf. Dafür bricht der Text 58.14 (TUCCI) bzw. 79.5 (IYENGAR) ab. Möglicherweise befindet sich der Schluß des Textes auch unter den unlesbaren Teilen des Manuskripts. Der erhaltene Text umfaßt die Folios IB|2|9; IA|2|9; IIB|4; IIA|4; IIB|5; IIA|5; IIB|7; IIA|7; IIB|8; IIA|8. [...]
+JP3/ Für die folgende Edition wurden die Lesarten des vorliegenden Manuskripts zur Grundlage genommen, die sich in vielen Fällen mit TUCCIs Text decken. Dem letzten Teil, der im Manuskript nicht mehr erhalten ist, wurde TUCCIs Text zugrundegelegt. Das gleiche Prinzip gilt beim Gebrauch der Daṇḍas. IYENGARs Text ist an vielen Stellen ausführlicher und bringt einfachere Lesarten.
+JP4/ namaḥ samantabhadrāya ||
+JL1/ mugdhāṅgulīkisalayāṅghrisuvarṇakumbha
+JL2/ vāntena kāntipayasā ghusṛṇāruṇena |
+JL3/ yo vandamānam abhiṣiñcati dharmarājye
+JL4/ jāgartu vo hitasukhāya sa mañjuvajraḥ ||
+JL5/ suhṛdām anurodhena yathāmati yathāsmṛti |
+JL6/ hriyaṃ vihāya likhyante vādasthānāni kānicit ||
+JP5/ tatra tāvad ādau jātivāda eva nirākriyate | iha yad yad vastuno bhedābhedābhyām abhidheyaṃ na bhavati | tat tat sarvaṃ vastu na bhavati | yathā vyomakamalam | na ca vastuno bhedābhedābhyām abhidheyaṃ sāmānyam iti vyāpakānupalabdhiḥ | na tāvad ayam asiddho hetuḥ | na hi vyaktibhyo bhinnam abhinnaṃ vā sāmānyaṃ śakyam abhidhātum ubhayathāpy asāmānyasvabhāvatāprasaṅgāt | tathā hi yadi tāvad vyaktibhyo arthāntaram eva sāmānyābhimataṃ vastu tadā kathaṃ tat tāsāṃ sāmānyaṃ nāma | yat khalu yato 'rthāntaraṃ na tat tasya sāmānyam | yathā gor aśvaḥ | arthāntaraṃ ca gor gotvam iti viruddhavyāptopalabdhiḥ |
+JP6/ nanu ca vyaktibhyo arthā ntaraṃ ca syāt | sāmānyaṃ ca tāsām iti na virodhaṃ paśyāmaḥ | na caitan manta vyam arthāntaraṃ ced arthāntarasya sāmānyaṃ sarvaṃ sarvasya sāmānyaṃ syāt viśeṣābhāvād iti || yad dhi khalv ekaṃ vastv anekatra samavetaṃ tat tadīyaṃ sāmānyam | goṣu cāśvo na samaveta iti katham asau gavāṃ sāmānyaṃ syād iti kuto viśeṣābhāvaḥ | tad ayam anaikāntiko hetuḥ katham iṣṭasiddhaye paryāpnuyāt |
+JP7/ tad etad api bālapralāpam anuharati | sa hi viśeṣo buddhimatā vaktavyo yaḥ sāmānyābhimatapadārthamātrabhāvī san na saṃkareṇa vyavasthām upapādayet | ayaṃ cānekasamavāyaḥ saṃkhyāsaṃyogakāryadravyādiṣv apy astīti tāny api saṃkhyādisaṃmatāni sāmānyāni syuḥ |
+JP8/ atha manyetāḥ | saty api anekārthasamavāye yad eva samānajñānābhidhānapravṛttinimittaṃ tad eva sāmānyaṃ nānyat | samānānāṃ hi bhāvaḥ sāmānyaṃ | bhavato asmād abhidhānapratyayāv iti ca bhāvaḥ | tad āhākṣapādaḥ |
+JP9/ samānaprasavātmikā jātir iti |
+JP10/ etad api svaprakriyāmātraparidīpanam | tathā hy atra | vikalpadvitayam udayate | kiṃ te svarūpeṇa samānāḥ svahetor utpannā yeṣu tatsāmānyaṃ tathāvidhabodhābhidhānapravaṇam āhosvid asamānā eveti | tatra yadi te svata eva samānāḥ samāne jñānābhidhāne svayam eva pravartayiṣyanti | kiṃ tatra sāmānyenārthāntareṇa | tathā ca tad asāmānyam eva | tadbalena samānayor jñānābhidhānayor avṛtteḥ | athāsamānāḥ | na tarhi teṣāṃ sāmānyam asti | samānānāṃ hi bhāvaḥ sāmānyam ity uktavān asi | asamānānāṃ ca bhāvaḥ sāmānyam iti bruvāṇaḥ ślāghanīyaprajño devānāṃpriyaḥ |
+JP11/ svayam asamānasvabhāvā api tenaiva samānās ta iti cet |
+JP12/ kiṃ te kriyante āhosvid adhyavasīyante | tatra na tāvat kriyante teṣāṃ svahetubhir eva kṛtatvāt | kṛtasya ca punaḥ karaṇāyogāt | abhūtaprādurbhāvalakṣaṇatvāt karaṇasya |
+JP13/ samānātmanā kriyanta iti cet |
+JP14/ nanu yeṣāṃ niṣpannatayā kṛñaḥ karmatā nāsti kathaṃ te kriyante nāma |
+JP15/ syād etat | yena dharmirūpeṇa te niṣpannā na tena karoteḥ karmabhāvam anubhavanti | samānena rūpeṇa niṣpannāḥ kriyanta iti na kiṃcid atrānupapannam |
+JP16/ evaṃ tarhi tad eva samānaṃ rūpaṃ sāmānyena kriyata iti syāt | tasya ca bhāvaniṣpattav aniṣpannasya kāraṇāntarataḥ paścād upajāyamānasya tadbhāvatā brahmaṇāpy aśakyā sādhayitum |
+JP17/ arthāntaram eva tad bhavatu na kiṃcid aniṣṭam āpadyata iti cet |
+JP18/ sāmānyāntaram eva tarhi tan nityasāmānyajanyam abhyupetaṃ syāt | tathā ca tad api bhedānām asamānānāṃ kathaṃ sāmānyam iti paryanuyoge tenāpi tadvyatiriktasamānarūpakaraṇopagame saty aparāparakāryasāmānyaparikalpanātmakam anavasthānam apratividhānam āsajyeta | na ca bhedānām asamānarūpaṃ pracyaveta |
+JP19/ nāpi dvitīyapakṣāśrayaṇaṃ śreyaḥ | na hy anyenānye samānā nāma pratīyante | tadvanto nāma pratīyeran | bhūtavat kaṇṭhe guṇena | anyathā hi yena kenacid anyena ye kecana samānāḥ pratīyeran pratiniyamanibandhanābhāvāt |
+JP20/ ekenānekasamavāyinānyenānye samānāḥ pratīyante | tato nātiprasaṅga iti cet |
+JP21/ na khalv avayavidravyadvitvādisaṃkhyānām apy ekatvānekasamavāyitve na staḥ | yena tebhyo 'vayavādayo na tathāvagamyeran |
+JP22/ atha teṣāṃ svāśrayeṣu samānajñānābhidhānavidhānasāmarthyābhāvād adoṣa eṣaḥ |
+JP23/ nanu sāmānyam api bhedeṣv ekatvānekasamavāyābhyām eva samānapratyayāpratyayatayā parikalpitam | tau cāvayavyādīnām api yuṣmābhir abhyupetāv iti teṣām api tathābhāvaḥ katham apākriyeta |
+JP24/ asāmānyasvabhāvatvān na te samānajñānahetava iti cet |
+JP25/ nanu samānajñānahetutve sati sāmānyasvabhāvatā | tasyāṃ ca satyāṃ samānajñānahetutvam iti sthiram itaretarāśrayatvam | tathā hy ekatvādeḥ samānatvāt | sāmānyābhimatabhāvavad ārabdhadravyāder api kiṃ na sāmānyarūpateti pa- ryanuyoge samānapratyayāpratyayatvād ity uttaram uktavān asi | tatas tad api samānapratītinimittatvaṃ nimittasya samānatvāt samānam avayavyāder api kiṃ na syād ity asmadīye punaḥ paryanuyoge saty asāmānyarūpatvād iti bruvāṇaḥ | katham itaretarāśrayadoṣān muktim āsādayasi | etenaitad api prayuktaṃ yad uktam uddyotakareṇa | na gavi gotvaṃ yena gotvayogāt | prāg gaur evāsāv iti vyarthaṃ gotvaṃ syāt | api tu yadaiva vastu tadaiva gotvena saṃbadhyate | gotvayogāt prāg vastv eva nāsti | na cāvidyamānaṃ gaur iti vā agaur iti vā śakyaṃ vyapadeṣṭum iti | tathā hi yadaiva vastu tadaiva yadi gorūpaṃ tat svahetor utpannaṃ kiṃ tasyānyena gotvena | athāgorūpaṃ na tarhi tasyāśvāder iva gotvena saha saṃbandhaḥ syāt | na hy agor bhāvo gotvaṃ nāma | tasmān nārthāntaram arthāntarasya sāmānyam ity asāmānyarūpatayārthāntaratvaṃ vyāptaṃ sāmānyātmatām apahastayatīti kuto anekāntaḥ | abhinnam eva tarhi sāmānyam astv iti vyatiriktasāmānyanirākaraṇe dattasāhāyyakaḥ sāṃkhya idānīṃ pratyavatiṣṭhate | sa evaṃ vaktavyaḥ | kiṃ nu vai bhavān vyaktīnāṃ sāmānyasaṃjñākaraṇakāma āhosvid ātmātiśayapratipādanakāmaḥ | ādye pakṣe na kiṃcit kṣīyate | na hi vayaṃ nāmni vivadāmahe | dvitīyo 'pi pakṣo mahatīṃ manorājyasaṃpadam āvedayati | tathā hy atrāpi vikalpadvayam udayate | kiṃ vyaktibhyaḥ sāmānyasyābhedaḥ | uta vyaktīnāṃ sāmānyād iti |
+JP26/ ādye vikalpe vyaktivad anekatvam anityatvaṃ ca sāmānyasya syād | iti prayogaḥ | vyaktibhyo yad abhinnaṃ tad anekam anityaṃ ca yathā tāsāṃ prātisvikaṃ rūpaṃ | vyaktibhyaś cābhinnaṃ sāmānyam iti svabhāvahetuprasaṅgaḥ | nānaikāntiko hetur ekatvanityatvayoḥ sāmānyasya viruddhadharmādhyāsena vyaktibhyaḥ sukhādibhya iva caitanyasyaikāntena bhedaprasaṅgāt | aparasmin punar vikalpe sāmānyavad vyaktīnām apy ekatvanityatve syātām | prayogaḥ | yad sāmānyād abhinnaṃ na tad bhinnaṃ anityaṃ ca yathā tasyaiva sāmānyatā | sāmānyād abhinnam ca vyaktīnāṃ rūpam iti | vyāpakaviruddhopalabdhipra saṅgaḥ | na cānekāntaḥ | sāmānyād abhinnaṃ hi sāmānyam eva | tac caikaṃ nityaṃ ceti kathaṃ tad abhinnaṃ bhinnam anityaṃ ca nāma | evaṃ hi bruvāṇaḥ sāmānyam evānekam anityaṃ ca brūyāt | tasya ca sākṣād ekatvanityatve pratijñāya punar upadeśāntareṇa te eva prativahatīti kathaṃ nonmattaḥ | tasmād bhedābhedābhyām avācyaṃ sāmānyam iti siddham |
+JP27/ nanv ayam anaikāntiko hetuḥ | yady api hi sāmānyaṃ bhedābhedābhyāṃ kevalābhyām avācyaṃ tathāpi nāvastu prakārāntarasyāpy ubhayātmatālakṣaṇasya saṃbhavāt | bhinnābhinnam eva hi sāmānyaṃ jainajaiminīyāḥ pratijānate | yad āhuḥ |
+JL7/ ghaṭamaulisuvarṇārthī nāśotpādasthitiṣv ayam |
+JL8/ śokapramodamādhyasthyaṃ jano yāti sahetukam ||
+JL9/ na sāmānyātmanodeti na vyeti vyaktam anvayāt |
+JL10/ vyety udeti viśeṣeṇa sahaikatrodayādimat ||
+JL11/ yathā kalmāṣavarṇasya yatheṣṭhaṃ varṇanigrahaḥ |
+JL12/ citratvād vastuno 'py evaṃ bhedābhedāvadhāraṇā ||
+JL13/ yadā tu śabalaṃ vastu yugapat pratipadyate |
+JL14/ tadānyānanyabhedādi sarvam eva pralīyate ||
+JL15/ ekātmakaṃ bhaved ekam iti neśvarabhāṣitam |
+JL16/ tathā hi tad upaitavyaṃ yad yathaivopalabhyate ||
+JP28/ iti
+JP29/ atra pratividhīyate | bhedābhedayor anyonyaniṣedharūpatvād ekavidher aparaniṣedhanāntarīyakatvāt katham anayor ekādhikaraṇatvaṃ mattonmattetaraḥ pratipadyeta | tathā hi tan nāma tasmād abhinnaṃ yad eva yat | bhinnaṃ ca tat tasmād yad yan na bhavati | ataś ca vyaktibhyaḥ sāmānyaṃ bhinnam abhinnaṃ ceti bruvāṇo vyaktayaḥ sāmānyaṃ na ca vyaktayaḥ sāmānyam iti brūte | kathaṃ ca svasthacetanaś cetasy api tad etad āropayet | prayogaḥ | yad yad eva na tad atad bhavati yathoṣṇaṃ vahnirūpaṃ nānuṣṇam | vyaktaya eva sāmānyam iti svabhāvaviruddhopalabdhiprasaṅgaḥ |
+JP30/ ubhayathā pratīter ubhayopagama iti cet |
+JP31/ nanu pratītir apratīter bādhikā na tu mithyāpratīteḥ | vitathasyāpi pratītidarśanāt | anyathā hi pratītipathānusāriṇā bhavatā dvicandrādayo 'pi na nihnotavyāḥ |
+JP32/ bādhakavaśāt te nihnūyanta iti cet |
+JP33/ ihāpy etad anumānam asiddhyādidoṣatrayarahitaliṅgajaṃ kiṃ na paśyati devānāṃpriyaḥ |
+JP34/ na saṃvido yuktibhir asti bādheti cet |
+JP35/ nanu kim iyaṃ rājñām ājñā yenāvicārya gṛhyate |
+JP36/ pratyakṣasvabhāvā saṃvit | tac ca jyeṣṭhaṃ pramāṇam ato na bādhyata iti cet |
+JP37/ kiṃ punar anumānaṃ lakṣaṇopetam api bādhyate | evam etad iti cet |
+JP38/ na tarhi tad anumānaṃ pramāṇaṃ syāt | lakṣaṇayukte bādhāsaṃbhave tal lakṣaṇam eva dūṣitaṃ syād iti sarvatrānāśvāsaḥ |
+JP39/ athānumānābhāso bādhyate |
+JP40/ pratyakṣābhāso 'pi kiṃ na bādhyate |
+JP41/ bādhyatām adhyakṣābhāsaḥ | pratyakṣaiva punar iyaṃ saṃvittis tat katham iti bādhyata iti cet |
+JP42/ nanv iyam api pratyakṣābhāsa evānumānena bādhyamānatvāt |
+JP43/ atha pratyakṣam eva pratyakṣasya tadābhāsatāṃ bādhyatvāt sādhayati na tv anumānam ity abhiniveśaḥ |
+JP44/ kathaṃ tarhi jvālādiviṣayāyāḥ pratyabhijñāyāḥ pratyakṣāyāḥ pratyakṣābhāsatā vyavasthāpyate | na khalu jvālādīnāṃ kṣaṇikatvam adhyakṣam avadhārayet | tasmād anumānam eva jvālādīnāṃ kṣaṇikatāṃ sādhayat | bādhakam etasyā ityakāmenāpi kumārilenābhyupetavyam | na śakyaṃ vaktuṃ sāmānyam eva kevalaṃ tayā viṣayīkriyata iti | tathābhāve hi tad evedaṃ jvālātvam iti syāt na saivaṃ jvāleti | tasmān nānaikāntiko hetur ity alaṃ bahubhāṣitayeti |
+JP45/ jitāripādānāṃ kṛtir jātinirākṛtis samāptā || I

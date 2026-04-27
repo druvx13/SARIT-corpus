@@ -1,0 +1,753 @@
+Aṣṭāvakragītā
+A SARIT edition
+Suryansu Ray
+Creation of machine-readable version.
+SARIT: Search and Retrieval of Indic Texts
+Copyright Notice
+Copyright
+Suryansu Ray
+2012
+Distributed by
+SARIT
+under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Under this licence, you are free
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information and fuller details of this license are given on the Creative Commons website.
+SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown.
+2013-2016
+2013-07-14
+Aṣṭāvakragītā, transcribed by Suryansu Ray from the Lucknow 1971 edition, with corrections.
+Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra
+Rāyabahādura
+Bābū Jālimasimha
+Tejakumāra-Pres, Bukaḍipo
+Lakhnaū
+1971
+Digitized at
+The printed edition from which this e-text was transcribed was written in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (
+The International Alphabet of Sanskrit Transliteration
+). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:
+ṛ -> r̥ and ṁ -> ṃ
+Text division is as Devanāgarī ("ityevam" not "ity evam".)
+Initial vowel elision for avagraha is reversed and marked with a + sign: e.g., "prathamo+adhyāyaḥ"
+The e-text was typed by Suryamsu Ray personally from a reprint of the Lucknow 1971 edition. He notes:
+Only one edition I could buy myself from Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi commentary as follows: "
+Ashtavakragita", with Hindi commentary by Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla, published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India.
+I wanted to have at least one more version of the text for comparison wherever doubts arose. Many Ashrams publish ancient texts for their own need. From a religious mela I procured one, whose printing and exposition is less that desirable. However, it served me the purpose of pinpointing the errors, for which I apply mainly chhandas and usual philosophical word combinations and phrases.
+Initial e-text created by
+Suryamsu Ray
+in
+2012
+Conversion by OxGarage from .doc to TEI P5, and initial TEI header.
+Dominik Wujastyk
+8 July 1013
+Added div divisions for the chapters; moved the verse xml:id numbers to the beginning of the ślokas instead of the beginning of the second line of the ślokas
+Dominik Wujastyk
+13 July 1013
+Corrected the note in notesStmt since we now know the edition on which this e-text is based. Corrected the encodingDesc to match the known source-edition.
+Dominik Wujastyk
+13 July 1013
+Replaced p's with lg's and l's.
+Wrapped colophon in a trailer-element.
+
+<B 1>
+
+Prakaraṇa 1
+AP1/ || atha śrīmadaṣṭāvakragītā||
+AP2/ janaka uvāca||1||
+verse_1.1/ kathaṃ jñānamavāpnoti kathaṃ muktirbhaviṣyati|
+AL2/ vairāgyaṃ ca kathaṃ prāptametadbrūhi mama prabho||1|1||
+AP3/ aṣṭāvakra uvāca||
+AL3/ muktimicchasi cettāta viṣayānviṣavattyaja|
+AL4/ kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja||1|2||
+AL5/ na pṛthvī na jalaṃ nāgnirna vāyurdyaurna vā bhavān|
+AL6/ eṣāṃ sākṣiṇamātmānaṃ cidrūpaṃ viddhi muktaye||1|3||
+AL7/ yadi dehaṃ pṛthakkṛtya citi viśrāmya tiṣṭhasi|
+AL8/ adhunaiva sukhī śānto bandhamukto bhaviṣyasi||1|4||
+AL9/ na tvaṃ viprādiko varṇo nāśramī nākṣagocaraḥ|
+AL10/ asaṅgo+asi nirākāro viśvasākṣī sukhī bhava||1|5||
+AL11/ dharmādharmau sukhaṃ duḥkhaṃ mānasāni na te bibho|
+AL12/ na kartā+asi na bhoktā+asi mukta evā+asi sarvadā||1|6||
+AL13/ eko draṣṭā+asi sarvasya muktaprāyo+asi sarvadā|
+AL14/ ayameva hi te bandho draṣṭāraṃ paśyasītaram||1|7||
+AL15/ ahaṃ kartetyahammānamahākṛṣṇāhidaṃśitaḥ|
+AL16/ nāhaṃ karteti viśvāsāmṛtaṃ pītvā sukhī bhava||1|8||
+AL17/ eko viśuddhabodho+ahamiti niścayavahninā|
+AL18/ prajvālyājñānagahanaṃ vītaśokaḥ sukhī bhava||1|9||
+AL19/ yatra viśvamidaṃ bhāti kalpitaṃ rajjusarpavat|
+AL20/ ānandaparamānandaḥ sa bodhastvaṃ sukhaṃ cara||1|10||
+AL21/ muktābhimānī mukto hi baddho baddhābhimānyapi|
+AL22/ kiṃvadantīha satyeyaṃ yā matiḥ sā gatirbhavet||1|11||
+AL23/ ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ|
+AL24/ asaṅgo niḥspṛhaḥ śānto bhramātsaṃsāravāniva||1|12||
+AL25/ kūṭasthaṃ bodhamadvaitamātmānaṃ paribhāvaya|
+AL26/ ābhāso+ahaṃ bhramaṃ muktvā bhāvaṃ bāhyamathāntaram||1|13||
+AL27/ dehābhimānapāśena ciraṃ baddho+asi putraka|
+AL28/ bodho+ahaṃ jñānakhaḍgena tanniṣkṛtya sukhī bhava||1|14||
+AL29/ niḥsaṅgo niṣkriyo+asi tvaṃ svaprakāśo nirañjanaḥ|
+AL30/ ayameva hi te bandhaḥ samādhimanutiṣṭhasi||1|15||
+AL31/ tvayā vyāptamidaṃ viśvaṃ tvayi protaṃ yathārthataḥ|
+AL32/ śuddhabuddhasvarūpastvaṃ mā gamaḥ kṣudracittatām||1|16||
+AL33/ nirapekṣo nirvikāro nirbharaḥ śītalāśayaḥ|
+AL34/ agādhabuddhirakṣubdho bhava cinmātravāsanaḥ||1|17||
+AL35/ sākāramanṛtaṃ viddhi nirākāraṃ tu niścalam|
+AL36/ etattattvopadeśena na punarbhavasaṃbhavaḥ||1|18||
+AL37/ yathaivādarśamadhyasthe rūpe+antaḥ paritastu saḥ|
+AL38/ tathaivā+asmiñcharīre+antaḥ paritaḥ parameśvaraḥ||1|19||
+AL39/ ekaṃ sarvagataṃ vyoma bahirantaryathā ghaṭe|
+AL40/ nityaṃ nirantaraṃ brahma sarvabhūtagaṇe tathā||1|20||
+
+<B 2>
+
+Prakaraṇa 2
+AP4/ janaka uvāca||2||
+AL41/ aho nirañjanaḥ śānto bodho+ahaṃ prakṛteḥ paraḥ|
+AL42/ etāvantamahaṃ kālaṃ mohenaiva viḍambitaḥ||2|1||
+AL43/ yathā prakāśayāmyeko dehamenaṃ tathā jagat|
+AL44/ ato mama jagatsarvamathavā na ca kiñcana||2|2||
+AL45/ saśarīramaho viśvaṃ parityajya mayā+adhunā|
+AL46/ kutaścitkauśalādeva paramātmā vilokyate||2|3||
+AL47/ yathā na toyato bhinnāstaraṅgāḥ phenabudbudāḥ|
+AL48/ ātmano na tathā bhinnaṃ viśvamātmavinirgatam||2|4||
+AL49/ tantumātro bhavedeva paṭo yadvadvicārataḥ|
+AL50/ ātmatanmātramevedaṃ tadvadviśvaṃ vicāritam||2|5||
+AL51/ yathaivekṣurase kḷptā tena vyāptaiva śarkarā|
+AL52/ tathā viśvaṃ mayi kḷptaṃ mayā vyāptaṃ nirantaram||2|6||
+AL53/ ātmājñānājjagadbhāti hātmajñānānna bhāsate|
+AL54/ rajjvajñānādahirbhāti tajjñānādbhāsate na hi||2|7||
+AL55/ prakāśo me nijaṃ rūpaṃ nātirikto+asmyahaṃ tataḥ|
+AL56/ yadā prakāśate viśvaṃ tadā+ahambhāsa eva hi||2|8||
+AL57/ aho vikalpitaṃ viśvamajñānānmayi bhāsate|
+AL58/ rūpyaṃ śuktau phaṇī rajjau vāri sūryakare yathā||2|9||
+AL59/ matto vinirgataṃ viśvaṃ mayyeva layameṣyati|
+AL60/ mṛdi kumbho jale vīciḥ kanake kaṭakaṃ yathā||2|10||
+AL61/ aho ahaṃ namo mahyaṃ vināśo yasya nāsti me|
+AL62/ brahmādistambaparyantaṃ jagannāśe+api tiṣṭhataḥ||2|11||
+AL63/ aho ahaṃ namo mahyameko+ahaṃ dehavānapi|
+AL64/ kvacinna gantā nāgantā vyāpya viśvamavasthitaḥ||2|12||
+AL65/ aho ahaṃ namo mahyaṃ dakṣo nāstīha matsamaḥ|
+AL66/ asaṃspṛśya śarīreṇa yena viśvaṃ ciraṃ dhṛtam||2|13||
+AL67/ aho ahaṃ namo mahyaṃ yasya me nāsti kiñcana|
+AL68/ athavā yasya me sarvaṃ yadvāṅmanasagocaram||2|14||
+AL69/ jñānaṃ jñeyaṃ tathā jñātā tritayaṃ nāsti vāstavam|
+AL70/ ajñānādbhāti yatredaṃ so+ahamasmi nirañjanaḥ||2|15||
+AL71/ dvaitamūlamaho duḥkhaṃ nānyattasyā+asti bheṣajam|
+AL72/ dṛśyametanmṛṣā sarvameko+ahaṃ cidraso+amalaḥ||2|16||
+AL73/ bodhamātro+ahamajñānādupādhiḥ kalpito mayā|
+AL74/ evaṃ vimṛśato nityaṃ nirvikalpe sthitirmama||2|17||
+AL75/ aho mayi sthitaṃ viśvaṃ vastuto na mayi sthitam|
+AL76/ na me bandho+asti mokṣo vā bhrāntiḥ śāntā nirāśrayā||2|18||
+AL77/ saśarīramidaṃ viśvaṃ na kiñciditi niścitam|
+AL78/ śuddhacinmātra ātmā ca tatkasminkalpanādhunā||2|19||
+AL79/ śarīraṃ svarganarakau bandhamokṣau bhayaṃ tathā|
+AL80/ kalpanāmātramevaitatkiṃ me kāryaṃ cidātmanaḥ||2|20||
+AL81/ aho janasamūhe+api na dvaitaṃ paśyato mama|
+AL82/ araṇyamiva saṃvṛttaṃ kva ratiṃ karavāṇyaham||2|21||
+AL83/ nāhaṃ deho na me deho jīvo nāhamahaṃ hi cit|
+AL84/ ayameva hi me bandha āsīdyā jīvite spṛhā||2|22||
+AL85/ aho bhuvanakallolairvicitrairdrāksamutthitam|
+AL86/ mayyanantamahāmbhodhau cittavāte samudyate||2|23||
+AL87/ mayyanantamahāmbhodhau cittavāte praśāmyati|
+AL88/ abhāgyājjīvavaṇijo jagatpoto vinaśvaraḥ||2|24||
+AL89/ mayyanantamahāmbhodhāvāścaryaṃ jīvavīcayaḥ|
+AL90/ udyanti ghnanti khelanti praviśanti svabhāvataḥ||2|25||
+
+<B 3>
+
+Prakaraṇa 3
+AP5/ aṣṭāvakra uvāca||3||
+AL91/ avināśinamātmānamekaṃ vijñāya tattvataḥ|
+AL92/ tavātmajñānadhīrasya kathamarthārjane ratiḥ||3|1||
+AL93/ ātmā+ajñānādaho prītirviṣayabhramagocare|
+AL94/ śukterajñānato lobho yathā rajatavibhrame||3|2||
+AL95/ viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|
+AL96/ so+ahamasmīti vijñāya kiṃ dīna iva dhāvasi||3|3||
+AL97/ śrutvāpi śuddhacaitanyamātmānamatisundaram|
+AL98/ upasthe+atyantasaṃsakto mālinyamadhigacchati||3|4||
+AL99/ sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|
+AL100/ munerjānata āścaryaṃ mamatvamanuvartate||3|5||
+AL101/ āsthitaḥ paramādvaitaṃ mokṣārthe+api vyavasthitaḥ|
+AL102/ āścaryaṃ kāmavaśago vikalaḥ keliśikṣayā||3|6||
+AL103/ udbhūtaṃ jñānadurmitramavadhāryātidurbalaḥ|
+AL104/ āścaryaṃ kāmamākāṅkṣetkālamantamanuśritaḥ||3|7||
+AL105/ ihāmutra viraktasya nityānityavivekinaḥ|
+AL106/ āścaryaṃ mokṣakāmasya mokṣādeva vibhīṣikā||3|8||
+AL107/ dhīrastu bhojyamāno+api pīḍyamāno+api sarvadā|
+AL108/ ātmānaṃ kevalaṃ paśyanna tuṣyati na kupyati||3|9||
+AL109/ ceṣṭamānaṃ śarīraṃ svaṃ paśyatyanyaśarīravat|
+AL110/ saṃstave cāpi nindāyāṃ kathaṃ kṣubhyenmahāśayaḥ||3|10||
+AL111/ māyāmātramidaṃ viśvaṃ paśyanvigatakautukaḥ|
+AL112/ api sannihite mṛtyau kathaṃ trasyati dhīradhīḥ||3|11||
+AL113/ niḥspṛhaṃ mānasaṃ yasya nairāśye+api mahātmanaḥ|
+AL114/ tasyātmajñānatṛptasya tulanā kena jāyate||3|12||
+AL115/ svabhāvādeva jānāno dṛśyametanna kiñcana|
+AL116/ idaṃ grāhyamidaṃ tyājyaṃ sa kiṃ paśyati dhīradhīḥ||3|13||
+AL117/ antastyaktakaṣāyasya nirdvandvasya nirāśiṣaḥ|
+AL118/ yadṛcchayā+a+agato bhogo na duḥkhāya na tuṣṭaye||3|14||
+
+<B 4>
+
+Prakaraṇa 4
+AP6/ janaka uvāca||4||
+AL119/ hantātmajñasya dhīrasya khelato bhogalīlayā|
+AL120/ na hi saṃsāravāhīkairmūḍhaiḥ saha samānatā||4|1||
+AL121/ yatpadaṃ prepsavo dīnāḥ śakrādyāḥ sarvadevatāḥ|
+AL122/ aho tatra sthito yogī na harṣamupagacchati||4|2||
+AL123/ tajjñasya puṇyapāpābhyāṃ sparśo hyantarna jāyate|
+AL124/ na hyākāśasya dhūmena dṛśyamānā+api saṃgatiḥ||4|3||
+AL125/ ātmaivedaṃ jagatsarvaṃ jñātaṃ yena mahātmanā|
+AL126/ yadṛcchayā vartamānaṃ taṃ niṣeddhuṃ kṣameta kaḥ||4|4||
+AL127/ ābrahmastambaparyante bhūtagrāme caturvidhe|
+AL128/ vijñasyaiva hi sāmarthyamicchā+anicchāvivarjane||4|5||
+AL129/ ātmānamadvayaṃ kaścijjānāti jagadīśvaram|
+AL130/ yadvetti tatsa kurute na bhayaṃ tasya kutracit||4|6||
+
+<B 5>
+
+Prakaraṇa 5
+AP7/ aṣṭāvakra uvāca||5||
+AL131/ na te saṅgo+asti kenāpi kiṃ śuddhastyaktumicchasi|
+AL132/ saṅghātavilayaṃ kurvannevameva layaṃ vraja||5|1||
+AL133/ udeti bhavato viśvaṃ vāridheriva budbudaḥ|
+AL134/ iti jñātvaikamātmānamevameva layaṃ vraja||5|2||
+AL135/ pratyakṣamapyavastutvādviśvaṃ nāstyamale tvayi|
+AL136/ rajjusarpa iva vyaktamevameva layaṃ vraja||5|3||
+AL137/ samaduḥkhasukhaḥ pūrṇa āśānairāśyayoḥ samaḥ|
+AL138/ samajīvitamṛtyuḥ sannevameva layaṃ vraja||5|4||
+
+<B 6>
+
+Prakaraṇa 6
+AP8/ janaka uvāca||6||
+AL139/ ākāśavadananto+ahaṃ ghaṭavatprākṛtaṃ jagat|
+AL140/ iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|1||
+AL141/ mahodadhirivāhaṃ sa prapañco vīcisannibhaḥ|
+AL142/ iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|2||
+AL143/ ahaṃ sa śuktisaṃkāśo rūpyavadviśvakalpanā|
+AL144/ iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|3||
+AL145/ ahaṃ vā sarvabhūteṣu sarvabhūtānyatho mayi|
+AL146/ iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|4||
+
+<B 7>
+
+Prakaraṇa 7
+AP9/ janaka uvāca||7||
+AL147/ mayyanantamahāmbhodhau viśvapota itastataḥ|
+AL148/ bhramati svāntavātena na mamāstyasahiṣṇutā||7|1||
+AL149/ mayyanantamahāmbhodhau jagadvīciḥ svabhāvataḥ|
+AL150/ udetu vāstamāyātu na me vṛddhirna ca kṣatiḥ||7|2||
+AL151/ mayyanantamahāmbhodhau viśvaṃ nāma vikalpanā|
+AL152/ atiśānto nirākāra etadevāhamāsthitaḥ||7|3||
+AL153/ nātmā bhāveṣu no bhāvastatrānante nirañjane|
+AL154/ ityasakto+aspṛhaḥ śānta etadevāhamāsthitaḥ||7|4||
+AL155/ aho cinmātramevāhamindrajālopamaṃ jagat|
+AL156/ ato mama kathaṃ kutra heyopādeyakalpanā||7|5||
+
+<B 8>
+
+Prakaraṇa 8
+AP10/ aṣṭāvakra uvāca||8||
+AL157/ tadā bandho yadā cittaṃ kiñcidvāñchati śocati|
+AL158/ kiñcinmuñcati gṛhṇāti kiñciddhṛṣyati kupyati||8|1||
+AL159/ tadā muktiryadā cittaṃ na vāñchati na śocati|
+AL160/ na muñcati na gṛhṇāti na hṛṣyati na kupyati||8|2||
+AL161/ tadā bandho yadā cittaṃ saktaṃ kāsvapi dṛṣṭiṣu|
+AL162/ tadā mokṣo yadā cittamasaktaṃ sarvadṛṣṭiṣu||8|3||
+AL163/ yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā|
+AL164/ matveti helayā kiñcinmā gṛhāṇa vimuñca mā||8|4||
+
+<B 9>
+
+Prakaraṇa 9
+AP11/ aṣṭāvakra uvāca||9||
+AL165/ kṛtākṛte ca dvandvāni kadā śāntāni kasya vā|
+AL166/ evaṃ jñātveha nirvedādbhava tyāgaparo+avratī||9|1||
+AL167/ kasyāpi tāta dhanyasya lokaceṣṭāvalokanāt|
+AL168/ jīvitecchā bubhukṣā ca bubhutsopaśamaṃ gatāḥ||9|2||
+AL169/ anityaṃ sarvamevedaṃ tāpatritayadūṣitam|
+AL170/ asāraṃ ninditaṃ heyamiti niścitya śāmyati||9|3||
+AL171/ ko+asau kālo vayaḥ kiṃ vā yatra dvandvāni no nṛṇām|
+AL172/ tānyupekṣya yathāprāptavartī siddhimavāpnuyāt||9|4||
+AL173/ nānā mataṃ maharṣīṇāṃ sādhūnāṃ yogināṃ tathā|
+AL174/ dṛṣṭvā nirvedamāpannaḥ ko na śāmyati mānavaḥ||9|5||
+AL175/ kṛtvā mūrtiparijñānaṃ caitanyasya na kiṃ guruḥ|
+AL176/ nirvedasamatāyuktyā yastārayati saṃsṛteḥ||9|6||
+AL177/ paśya bhūtavikārāṃstvaṃ bhūtamātrānyathārthataḥ|
+AL178/ tatkṣaṇādbandhanirmuktaḥ svarūpastho bhaviṣyasi||9|7||
+AL179/ vāsanā eva saṃsāra iti sarvā vimuñca tāḥ|
+AL180/ tattyāgo vāsanātyāgātsthitiradya yathā tathā||9|8||
+
+<B 10>
+
+Prakaraṇa 10
+AP12/ aṣṭāvakra uvāca||10||
+AL181/ vihāya vairiṇaṃ kāmamarthaṃ cānarthasaṃkulam|
+AL182/ dharmamapyetayorhetuṃ sarvatrānādaraṃ kuru||10|1||
+AL183/ svapnendrajālavatpaśya dināni trīṇi pañca vā|
+AL184/ mitrakṣetradhanāgāradāradāyādisaṃpadaḥ||10|2||
+AL185/ yatra yatra bhavettṛṣṇā saṃsāraṃ viddhi tatra vai|
+AL186/ prauḍhavairāgyamāśritya vītatṛṣṇaḥ sukhī bhava||10|3||
+AL187/ tṛṣṇāmātrātmako bandhastannāśo mokṣa ucyate|
+AL188/ bhavāsaṃsaktimātreṇa prāptituṣṭirmuhurmuhuḥ||10|4||
+AL189/ tvamekaścetanaḥ śuddho jaḍaṃ viśvamasattathā|
+AL190/ avidyāpi na kiñcitsā kā bubhutsā tathāpi te||10|5||
+AL191/ rājyaṃ sutāḥ kalatrāṇi śarīrāṇi sukhāni ca|
+AL192/ saṃsaktasyāpi naṣṭāni tava janmani janmani||10|6||
+AL193/ alamarthena kāmena sukṛtenāpi karmaṇā|
+AL194/ ebhyaḥ saṃsārakāntāre na viśrāntamabhūnmanaḥ||10|7||
+AL195/ kṛtaṃ na kati janmāni kāyena manasā girā|
+AL196/ duḥkhamāyāsadaṃ karma tadadyāpyuparamyatām||10|8||
+
+<B 11>
+
+Prakaraṇa 11
+AP13/ aṣṭāvakra uvāca||11||
+AL197/ bhāvābhāvavikāraśca svabhāvāditi niścayī|
+AL198/ nirvikāro gatakleśaḥ sukhenaivopaśāmyati||11|1||
+AL199/ īśvaraḥ sarvanirmātā nehānya iti niścayī|
+AL200/ antargalitasarvāśaḥ śāntaḥ kvāpi na sajjate||11|2||
+AL201/ āpadaḥ saṃpadaḥ kāle daivādeveti niścayī|
+AL202/ tṛptaḥ svasthendriyo nityaṃ na vāñchati na śocati||11|3||
+AL203/ sukhaduḥkhe janmamṛtyū daivādeveti niścayī|
+AL204/ sādhyādarśī nirāyāsaḥ kurvannapi na lipyate||11|4||
+AL205/ cintayā jāyate duḥkhaṃ nānyatheheti niścayī|
+AL206/ tayā hīnaḥ sukhī śāntaḥ sarvatra galitaspṛhaḥ||11|5||
+AL207/ nāhaṃ deho na me deho bodho+ahamiti niścayī|
+AL208/ kaivalyamiva saṃprāpto na smaratyakṛtaṃ kṛtam||11|6||
+AL209/ ābrahmastambaparyantamahameveti niścayī|
+AL210/ nirvikalpaḥ śuciḥ śāntaḥ prāptāprāptavinirvṛtaḥ||11|7||
+AL211/ nānāścaryamidaṃ viśvaṃ na kiñciditi niścayī|
+AL212/ nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||11|8||
+
+<B 12>
+
+Prakaraṇa 12
+AP14/ janaka uvāca||12||
+AL213/ kāyakṛtyāsahaḥ pūrvaṃ tato vāgvistarāsahaḥ|
+AL214/ atha cintāsahastasmādevamevāhamāsthitaḥ||12|1||
+AL215/ prītyabhāvena śabdāderadṛśyatvena cātmanaḥ|
+AL216/ vikṣepaikāgryahṛdaya evamevāhamāsthitaḥ||12|2||
+AL217/ samādhyāsādivikṣiptau vyavahāraḥ samādhaye|
+AL218/ evaṃ vilokya niyamamevamevāhamāsthitaḥ||12|3||
+AL219/ heyopādeyavirahādevaṃ harṣaviṣādayoḥ|
+AL220/ abhāvādadya he brahmannevamevāhamāsthitaḥ||12|4||
+AL221/ āśramānāśramaṃ dhyānaṃ cittasvīkṛtavarjanam|
+AL222/ vikalpaṃ mama vīkṣyaitairevamevāhamāsthitaḥ||12|5||
+AL223/ karmānuṣṭhānamajñānādyathaivoparamastathā|
+AL224/ budhvā samyagidaṃ tattvamevamevāhamāsthitaḥ||12|6||
+AL225/ acintyaṃ cintyamāno+api cintārūpaṃ bhajatyasau|
+AL226/ tyaktvā tadbhāvanaṃ tasmādevamevāhamāsthitaḥ||12|7||
+AL227/ evameva kṛtaṃ yena sa kṛtārtho bhavedasau|
+AL228/ evameva svabhāvo yaḥ sa kṛtārtho bhavedasau||12|8||
+
+<B 13>
+
+Prakaraṇa 13
+AP15/ janaka uvāca||13||
+AL229/ akiñcanabhavaṃ svāsthyaṃ kaupīnatve+api durlabham|
+AL230/ tyāgādāne vihāyāsmādahamāse yathāsukham||13|1||
+AL231/ kutrāpi khedaḥ kāyasya jihvā kutrāpi khidyate|
+AL232/ manaḥ kutrāpi tattyaktvā puruṣārthe sthitaḥ sukham||13|2||
+AL233/ kṛtaṃ kimapi naiva syāditi saṃcintya tattvataḥ|
+AL234/ yadā yatkartumāyāti tatkṛtvā+a+ase yathāsukham||13|3||
+AL235/ karmanaiṣkarmyanirbandhabhāvā dehasthayoginaḥ|
+AL236/ saṃyogāyogavirahādahamāse yathāsukham||13|4||
+AL237/ arthānarthau na me sthityā gatyā na śayanena vā|
+AL238/ tiṣṭhangacchansvapantasmādahamāse yathāsukham||13|5||
+AL239/ svapato nāsti me hāniḥ siddhiryatnavato na vā|
+AL240/ nāśollāsau vihāyāsmādahamāse yathāsukham||13|6||
+AL241/ sukhādirūpā+aniyamaṃ bhāveṣvālokya bhūriśaḥ|
+AL242/ śubhāśubhe vihāyāsmādahamāse yathāsukham||13|7||
+
+<B 14>
+
+Prakaraṇa 14
+AP16/ janaka uvāca||14||
+AL243/ prakṛtyā śūnyacitto yaḥ pramādādbhāvabhāvanaḥ|
+AL244/ nidrito bodhita iva kṣīṇasaṃsaraṇo hi saḥ||14|1||
+AL245/ kva dhanāni kva mitrāṇi kva me viṣayadasyavaḥ|
+AL246/ kva śāstraṃ kva ca vijñānaṃ yadā me galitā spṛhā||14|2||
+AL247/ vijñāte sākṣipuruṣe paramātmani ceśvare|
+AL248/ nairāśye bandhamokṣe ca na cintā muktaye mama||14|3||
+AL249/ antarvikalpaśūnyasya bahiḥ svacchandacāriṇaḥ|
+AL250/ bhrāntasyeva daśāstāstāstādṛśā eva jānate||14|4||
+
+<B 15>
+
+Prakaraṇa 15
+AP17/ aṣṭāvakra uvāca||15||
+AL251/ yathātathopadeśena kṛtārthaḥ sattvabuddhimān|
+AL252/ ājīvamapi jijñāsuḥ parastatra vimuhyati||15|1||
+AL253/ mokṣo viṣayavairasyaṃ bandho vaiṣayiko rasaḥ|
+AL254/ etāvadeva vijñānaṃ yathecchasi tathā kuru||15|2||
+AL255/ vāgmiprājñamahodyogaṃ janaṃ mūkajaḍālasam|
+AL256/ karoti tattvabodho+ayamatastyakto bubhukṣubhiḥ||15|3||
+AL257/ na tvaṃ deho na te deho bhoktā kartā na vā bhavān|
+AL258/ cidrūpo+asi sadā sākṣī nirapekṣaḥ sukhaṃ cara||15|4||
+AL259/ rāgadveṣau manodharmau na manaste kadācana|
+AL260/ nirvikalpo+asi bodhātmā nirvikāraḥ sukhaṃ cara||15|5||
+AL261/ sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|
+AL262/ vijñāya nirahaṃkāro nirmamastvaṃ sukhī bhava||15|6||
+AL263/ viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|
+AL264/ tattvameva na sandehaścinmūrte vijvaro bhava||15|7||
+AL265/ śraddhatsva tāta śraddhatsva nātra mohaṃ kuruṣva bhoḥ|
+AL266/ jñānasvarūpo bhagavānātmā tvaṃ prakṛteḥ paraḥ||15|8||
+AL267/ guṇaiḥ saṃveṣṭito dehastiṣṭhatyāyāti yāti ca|
+AL268/ ātmā na gantā nāgantā kimenamanuśocasi||15|9||
+AL269/ dehastiṣṭhatu kalpāntaṃ gacchatvadyaiva vā punaḥ|
+AL270/ kva vṛddhiḥ kva ca vā hānistava cinmātrarūpiṇaḥ||15|10||
+AL271/ tvayyanantamahāmbhodhau viśvavīciḥ svabhāvataḥ|
+AL272/ udetu vā+astamāyātu na te vṛddhirna vā kṣatiḥ||15|11||
+AL273/ tāta cinmātrarūpo+asi na te bhinnamidaṃ jagat|
+AL274/ ataḥ kasya kathaṃ kutra heyopādeyakalpanā||15|12||
+AL275/ ekasminnavyaye śānte cidākāśe+amale tvayi|
+AL276/ kuto janma kuto karma kuto+ahaṃkāra eva ca||15|13||
+AL277/ yattvaṃ paśyasi tatraikastvameva pratibhāsase|
+AL278/ kiṃ pṛthagbhāsate svarṇātkaṭakāṅgadanūpuram||15|14||
+AL279/ ayaṃ so+ahamayaṃ nāhaṃ vibhāgamiti saṃtyaja|
+AL280/ sarvamātmeti niścitya niḥsaṃkalpaḥ sukhī bhava||15|15||
+AL281/ tavaivājñānato viśvaṃ tvamekaḥ paramārthataḥ|
+AL282/ tvatto+anyo nāsti saṃsārī nāsaṃsārī ca kaścana||15|16||
+AL283/ bhrāntimātramidaṃ viśvaṃ na kiñciditi niścayī|
+AL284/ nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||15|17||
+AL285/ eka eva bhavāmbhodhāvāsīdasti bhaviṣyati|
+AL286/ na te bandho+asti mokṣo vā kṛtakṛtyaḥ sukhaṃ cara||15|18||
+AL287/ mā saṃkalpavikalpābhyāṃ cittaṃ kṣobhaya cinmaya|
+AL288/ upaśāmya sukhaṃ tiṣṭha svātmanyānandavigrahe||15|19||
+AL289/ tyajaiva dhyānaṃ sarvatra mā kiñciddhṛdi dhāraya|
+AL290/ ātmā tvaṃ mukta evāsi kiṃ vimṛśya kariṣyasi||15|20||
+
+<B 16>
+
+Prakaraṇa 16
+AP18/ aṣṭāvakra uvāca||16||
+AL291/ ācakṣva śṛṇu vā tāta nānāśāstrāṇyanekaśaḥ|
+AL292/ tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|1||
+AL293/ bhogaṃ karma samādhiṃ vā kuru vijña tathāpi te|
+AL294/ cittaṃ nirastasarvāśamatyarthaṃ rocayiṣyati||16|2||
+AL295/ āyāsātsakalo duḥkhī nainaṃ jānāti kaścana|
+AL296/ anenaivopadeśena dhanyaḥ prāpnoti nirvṛtim||16|3||
+AL297/ vyāpāre khidyate yastu nimeṣonmeṣayorapi|
+AL298/ tasyālasyadhurīṇasya sukhaṃ nā+anyasya kasyacit||16|4||
+AL299/ idaṃ kṛtamidaṃ neti dvandvairmuktaṃ yadā manaḥ|
+AL300/ dharmārthakāmamokṣeṣu nirapekṣaṃ tadā bhavet||16|5||
+AL301/ virakto viṣayadveṣṭā rāgī viṣayalolupaḥ|
+AL302/ grahamokṣavihīnastu na virakto na rāgavān||16|6||
+AL303/ heyopādeyatā tāvatsaṃsāraviṭapāṅkuraḥ|
+AL304/ spṛhā jīvati yāvadvai nirvicāradaśāspadam||16|7||
+AL305/ pravṛttau jāyate rāgo nivṛttau dveṣa eva hi|
+AL306/ nirdvandvo bālavaddhīmānevameva vyavasthitaḥ||16|8||
+AL307/ hātumicchati saṃsāraṃ rāgī duḥkhajihāsayā|
+AL308/ vītarāgo hi nirduḥkhastasminnapi na khidyati||16|9||
+AL309/ yasyābhimāno mokṣe+api dehe+api mamatā tathā|
+AL310/ na ca jñānī na vā yogī kevalaṃ duḥkhabhāgasau||16|10||
+AL311/ haro yadyupadeṣṭā te hariḥ kamalajo+api vā|
+AL312/ tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|11||
+
+<B 17>
+
+Prakaraṇa 17
+AP19/ aṣṭāvakra uvāca||17||
+AL313/ tena jñānaphalaṃ prāptaṃ yogābhyāsaphalaṃ tathā|
+AL314/ tṛptaḥ svacchendriyo nityamekākī ramate tu yaḥ||17|1||
+AL315/ na kadācijjagatyasmiṃstattvajño hanta khidyati|
+AL316/ yata ekena tenedaṃ pūrṇaṃ brahmāṇḍamaṇḍalam||17|2||
+AL317/ na jātu viṣayāḥ ke+api svārāmaṃ harṣayantyamī|
+AL318/ sallakīpallavaprītamivebhaṃ nimbapallavāḥ||17|3||
+AL319/ yastu bhogeṣu bhukteṣu na bhavatyadhivāsitaḥ|
+AL320/ abhukteṣu nirākāṅkṣī tādṛśo bhavadurlabhaḥ||17|4||
+AL321/ bubhukṣuriha saṃsāre mumukṣurapi dṛśyate|
+AL322/ bhogamokṣanirākāṅkṣī viralo hi mahāśayaḥ||17|5||
+AL323/ dharmārthakāmamokṣeṣu jīvite maraṇe tathā|
+AL324/ kasyāpyudāracittasya heyopādeyatā na hi||17|6||
+AL325/ vāñchā na viśvavilaye na dveṣastasya ca sthitau|
+AL326/ yathājīvikayā tasmāddhanya āste yathāsukham||17|7||
+AL327/ kṛtārtho+anena jñānenetyevaṃ galitadhīḥ kṛtī|
+AL328/ paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||17|8||
+AL329/ śūnyā dṛṣṭirvṛthā ceṣṭā vikalānīndriyāṇi ca|
+AL330/ na spṛhā na viraktirvā kṣīṇasaṃsārasāgare||17|9||
+AL331/ na jāgarti na nidrāti nonmīlati na mīlati|
+AL332/ aho paradaśā kā+api vartate muktacetasaḥ||17|10||
+AL333/ sarvatra dṛśyate svasthaḥ sarvatra vimalāśayaḥ|
+AL334/ samastavāsanāmukto muktaḥ sarvatra rājate||17|11||
+AL335/ paśyañchṛṇvanspṛśañjighrannaśnangṛhṇanvadanvrajan|
+AL336/ īhitā+anīhitairmukto mukta eva mahāśayaḥ||17|12||
+AL337/ na nindati na ca stauti na hṛṣyati na kupyati|
+AL338/ na dadāti na gṛhṇāti muktaḥ sarvatra nīrasaḥ||17|13||
+AL339/ sānurāgāṃ striyaṃ dṛṣṭvā mṛtyuṃ vā samupasthitam|
+AL340/ avihvalamanāḥ svastho mukta eva mahāśayaḥ||17|14||
+AL341/ sukhe duḥkhe nare nāryāṃ saṃpatsu vipatsu ca|
+AL342/ viśeṣo naiva dhīrasya sarvatra samadarśinaḥ||17|15||
+AL343/ na hiṃsā naiva kāruṇyaṃ nauddhatyaṃ na ca dīnatā|
+AL344/ nāścaryaṃ naiva ca kṣobhaḥ kṣīṇasaṃsaraṇe nare||17|16||
+AL345/ na mukto viṣayadveṣṭā na vā viṣayalolupaḥ|
+AL346/ asaṃsaktamanā nityaṃ prāptāprāptamupāśnute||17|17||
+AL347/ samādhānāsamādhānahitāhitavikalpanāḥ|
+AL348/ śūnyacitto na jānāti kaivalyamiva saṃsthitaḥ||17|18||
+AL349/ nirmamo nirahaṃkāro na kiñciditi niścitaḥ|
+AL350/ antargalitasarvāśaḥ kurvannapi na lipyate [ karoti na ]||17|19||
+AL351/ manaḥprakāśasaṃmohasvapnajāḍyavivarjitaḥ|
+AL352/ daśāṃ kāmapi saṃprāpto bhavedgalitamānasaḥ||17|20||
+
+<B 18>
+
+Prakaraṇa 18
+AP20/ aṣṭāvakra uvāca||18||
+AL353/ yasya bodhodaye tāvatsvapnavadbhavati bhramaḥ|
+AL354/ tasmai sukhaikarūpāya namaḥ śāntāya tejase||18|1||
+AL355/ arjayitvākhilānarthānbhogānāpnoti puṣkalān|
+AL356/ na hi sarvaparityāgamantareṇa sukhī bhavet||18|2||
+AL357/ kartavyaduḥkhamārtaṇḍajvālādagdhāntarātmanaḥ|
+AL358/ kutaḥ praśamapīyūṣadhārāsāramṛte sukham||18|3||
+AL359/ bhavo+ayaṃ bhāvanāmātro na kiñcitparamārthataḥ|
+AL360/ nāstyabhāvaḥ svabhāvānāṃ bhāvābhāvavibhāvinām||18|4||
+AL361/ na dūraṃ na ca saṃkocāllabdhamevātmanaḥ padam|
+AL362/ nirvikalpaṃ nirāyāsaṃ nirvikāraṃ nirañjanam||18|5||
+AL363/ vyāmohamātraviratau svarūpādānamātrataḥ|
+AL364/ vītaśokā virājante nirāvaraṇadṛṣṭayaḥ||18|6||
+AL365/ samastaṃ kalpanāmātramātmā muktaḥ sanātanaḥ|
+AL366/ iti vijñāya dhīro hi kimabhyasyati bālavat||18|7||
+AL367/ ātmā brahmeti niścitya bhāvābhāvau ca kalpitau|
+AL368/ niṣkāmaḥ kiṃ vijānāti kiṃ brūte ca karoti kim||18|8||
+AL369/ ayaṃ so+ahamayaṃ nāhamiti kṣīṇā vikalpanā|
+AL370/ sarvamātmeti niścitya tūṣṇīṃbhūtasya yoginaḥ||18|9||
+AL371/ na vikṣepo na caikāgryaṃ nātibodho na mūḍhatā|
+AL372/ na sukhaṃ na ca vā duḥkhamupaśāntasya yoginaḥ||18|10||
+AL373/ svārājye bhaikṣyavṛttau ca lābhālābhe jane vane|
+AL374/ nirvikalpasvabhāvasya na viśeṣo+asti yoginaḥ||18|11||
+AL375/ kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|
+AL376/ idaṃ kṛtamidaṃ neti dvandvairmuktasya yoginaḥ||18|12||
+AL377/ kṛtyaṃ kimapi naivāsti na kā+api hṛdi rañjanā|
+AL378/ yathā jīvanameveha jīvanmuktasya yoginaḥ||18|13||
+AL379/ kva mohaḥ kva ca vā viśvaṃ kva taddhyānaṃ kva muktatā|
+AL380/ sarvasaṃkalpasīmāyāṃ viśrāntasya mahātmanaḥ||18|14||
+AL381/ yena viśvamidaṃ dṛṣṭaṃ sa nāstīti karotu vai|
+AL382/ nirvāsanaḥ kiṃ kurute paśyannapi na paśyati||18|15||
+AL383/ yena dṛṣṭaṃ paraṃ brahma so+ahaṃ brahmeti cintayet|
+AL384/ kiṃ cintayati niścinto dvitīyaṃ yo na paśyati||18|16||
+AL385/ dṛṣṭo yenātmavikṣepo nirodhaṃ kurute tvasau|
+AL386/ udārastu na vikṣiptaḥ sādhyā+abhāvātkaroti kim||18|17||
+AL387/ dhīro lokaviparyasto vartamāno+api lokavat|
+AL388/ na samādhiṃ na vikṣepaṃ na lepaṃ svasya paśyati||18|18||
+AL389/ bhāvābhāvavihīno yastṛpto nirvāsano budhaḥ|
+AL390/ naiva kiñcitkṛtaṃ tena lokadṛṣṭyā vikurvatā||18|19||
+AL391/ pravṛttau vā nivṛttau vā naiva dhīrasya durgrahaḥ|
+AL392/ yadā yatkartumāyāti tatkṛtvā tiṣṭhataḥ sukham||18|20||
+AL393/ nirvāsano nirālambaḥ svacchando muktabandhanaḥ|
+AL394/ kṣiptaḥ saṃskāravātena ceṣṭate śuṣkaparṇavat||18|21||
+AL395/ asaṃsārasya tu kvāpi na harṣo na viṣādatā|
+AL396/ sa śītalamanā nityaṃ videha iva rājate||18|22||
+AL397/ kutrāpi na jihāsāsti hāśā vāpi na kutracit|
+AL398/ ātmārāmasya dhīrasya śītalācchatarātmanaḥ||18|23||
+AL399/ prakṛtyā śūnyacittasya kurvato+asya yadṛcchayā|
+AL400/ prākṛtasyeva dhīrasya na māno nāvamānatā||18|24||
+AL401/ kṛtaṃ dehena karmedaṃ na mayā śuddharūpiṇā|
+AL402/ iti cintānurodhī yaḥ kurvannapi karoti na||18|25||
+AL403/ atadvādīva kurute na bhavedapi bāliśaḥ|
+AL404/ jīvanmuktaḥ sukhī śrīmānsaṃsarannapi śobhate||18|26||
+AL405/ nānāvicārasuśrānto dhīro viśrāntimāgataḥ|
+AL406/ na kalpate na jānāti na śṛṇoti na paśyati||18|27||
+AL407/ asamādheravikṣepānna mumukṣurna cetaraḥ|
+AL408/ niścitya kalpitaṃ paśyanbrahmaivāste mahāśayaḥ||18|28||
+AL409/ yasyāntaḥ syādahaṃkāro na karoti karoti saḥ|
+AL410/ nirahaṃkāradhīreṇa na kiñcidakṛtaṃ kṛtam||18|29||
+AL411/ nodvignaṃ na ca santuṣṭamakartṛ spandavarjitam|
+AL412/ nirāśaṃ gatasandehaṃ cittaṃ muktasya rājate||18|30||
+AL413/ nirdhyātuṃ ceṣṭituṃ vāpi yaccittaṃ na pravartate|
+AL414/ nirnimittamidaṃ kintu nirdhyāyati viceṣṭate||18|31||
+AL415/ tattvaṃ yathārthamākarṇya mandaḥ prāpnoti mūḍhatām|
+AL416/ athavā+a+ayāti saṃkocamamūḍhaḥ ko+api mūḍhavat||18|32||
+AL417/ ekāgratā nirodho vā mūḍhairabhyasyate bhṛśam|
+AL418/ dhīrāḥ kṛtyaṃ na paśyanti suptavatsvapade sthitāḥ||18|33||
+AL419/ aprayatnātprayatnādvā mūḍho nāpnoti nirvṛtim|
+AL420/ tattvaniścayamātreṇa prājño bhavati nirvṛtaḥ||18|34||
+AL421/ śuddhaṃ buddhaṃ priyaṃ pūrṇaṃ niṣprapañcaṃ nirāmayam|
+AL422/ ātmānaṃ taṃ na jānanti tatrābhyāsaparā janāḥ||18|35||
+AL423/ nāpnoti karmaṇā mokṣaṃ vimūḍho+abhyāsarūpiṇā|
+AL424/ dhanyo vijñānamātreṇa muktastiṣṭhatyavikriyaḥ||18|36||
+AL425/ mūḍho nāpnoti tadbrahma yato bhavitumicchati|
+AL426/ anicchannapi dhīro hi parabrahmasvarūpabhāk||18|37||
+AL427/ nirādhārā grahavyagrā mūḍhāḥ saṃsārapoṣakāḥ|
+AL428/ etasyānarthamūlasya mūlacchedaḥ kṛto budhaiḥ||18|38||
+AL429/ na śāntiṃ labhate mūḍho yataḥ śamitumicchati|
+AL430/ dhīrastattvaṃ viniścitya sarvadā śāntamānasaḥ||18|39||
+AL431/ kvātmano darśanaṃ tasya yo dṛṣṭamavalambate|
+AL432/ dhīrāstaṃ taṃ na paśyanti paśyantyātmānamavyayam||18|40||
+AL433/ kva nirodho vimūḍhasya yo nirbandhaṃ karoti vai|
+AL434/ svārāmasyaiva dhīrasya sarvadā+asāvakṛtrimaḥ||18|41||
+AL435/ bhāvasya bhāvakaḥ kaścinna kiñcidbhāvako+aparaḥ|
+AL436/ ubhayā+abhāvakaḥ kaścidevameva nirākulaḥ||18|42||
+AL437/ śuddhamadvayamātmānaṃ bhāvayanti kubuddhayaḥ|
+AL438/ na tu jānanti saṃmohādyāvajjīvamanirvṛtāḥ||18|43||
+AL439/ mumukṣorbuddhirālambamantareṇa na vidyate|
+AL440/ nirālambaiva niṣkāmā buddhirmuktasya sarvadā||18|44||
+AL441/ viṣayadvīpino vīkṣya cakitāḥ śaraṇārthinaḥ|
+AL442/ viśanti jhaṭiti kroḍaṃ nirodhaikāgryasiddhaye||18|45||
+AL443/ nirvāsanaṃ hariṃ dṛṣṭvā tūṣṇīṃ viṣayadantinaḥ|
+AL444/ palāyante na śaktāste sevante kṛtacāṭavaḥ||18|46||
+AL445/ na muktikārikāṃ dhatte niḥśaṅko yuktamānasaḥ|
+AL446/ paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||18|47||
+AL447/ vastuśravaṇamātreṇa śuddhabuddhirnirākulaḥ|
+AL448/ naivācāramanācāramaudāsyaṃ vā prapaśyati||18|48||
+AL449/ yadā yatkartumāyāti tadā tatkurute hyṛju|
+AL450/ śubhaṃ vāpyaśubhaṃ vāpi tasya ceṣṭā hi bālavat||18|49||
+AL451/ svātantryātsukhamāpnoti svātantryāllabhate param|
+AL452/ svātantryānnirvṛtiṃ gacchetsvātantryātparamaṃ padam||18|50||
+AL453/ akartṛtvamabhoktṛtvaṃ svātmano manyate yadā|
+AL454/ tadā kṣīṇā bhavantyeva samastāścittavṛttayaḥ||18|51||
+AL455/ ucchṛṅkhalāpyākṛtikā sthitirdhīrasya rājate|
+AL456/ na tu saṃspṛhacittasya śāntirmūḍhasya kṛtrimā||18|52||
+AL457/ vilasanti mahābhogairviśanti girigahvarān|
+AL458/ nirastakalpanā dhīrā abaddhā muktabuddhayaḥ||18|53||
+AL459/ śrotriyaṃ devatāṃ tīrthamaṅganāṃ bhūpatiṃ priyam|
+AL460/ dṛṣṭvā saṃpūjya dhīrasya na kāpi hṛdi vāsanā||18|54||
+AL461/ bhṛtyaiḥ putraiḥ kalatraiśca dauhitraiścāpi gotrajaiḥ|
+AL462/ vihasya dhikkṛto yogī na yāti vikṛtiṃ manāk||18|55||
+AL463/ santuṣṭo+api na santuṣṭaḥ khinno+api na ca khidyate|
+AL464/ tasyāścaryadaśāṃ tāṃ tāṃ tādṛśā eva jānate||18|56||
+AL465/ kartavyataiva saṃsāro na tāṃ paśyanti sūrayaḥ|
+AL466/ śūnyākārā nirākārā nirvikārā nirāmayāḥ||18|57||
+AL467/ akurvannapi saṃkṣobhādvyagraḥ sarvatra mūḍhadhīḥ|
+AL468/ kurvannapi tu kṛtyāni kuśalo hi nirākulaḥ||18|58||
+AL469/ sukhamāste sukhaṃ śete sukhamāyāti yāti ca|
+AL470/ sukhaṃ vakti sukhaṃ bhuṅkte vyavahāre+api śāntadhīḥ||18|59||
+AL471/ svabhāvādyasya naivārtirlokavadvyavahāriṇaḥ|
+AL472/ mahāhrada ivākṣobhyo gatakleśaḥ sa śobhate||18|60||
+AL473/ nivṛtterapi mūḍhasya pravṛttirupajāyate|
+AL474/ pravṛttirapi dhīrasya nivṛttiphaladāyinī||18|61||
+AL475/ parigraheṣu vairāgyaṃ prāyo mūḍhasya dṛśyate|
+AL476/ dehe vigalitāśasya kva rāgaḥ kva virāgatā||18|62||
+AL477/ bhāvanā+abhāvanāsaktā dṛṣṭirmūḍhasya sarvadā|
+AL478/ bhāvyabhāvanayā sā tu svasthasyādṛṣṭirūpiṇī||18|63||
+AL479/ sarvārambheṣu niṣkāmo yaścaredbālavanmuniḥ|
+AL480/ na lepastasya śuddhasya kriyamāṇe+api karmaṇi||18|64||
+AL481/ sa eva dhanya ātmajñaḥ sarvabhāveṣu yaḥ samaḥ|
+AL482/ paśyañchṛṇvanspṛśañjighrannaśnannistarṣamānasaḥ||18|65||
+AL483/ kva saṃsāraḥ kva cābhāsaḥ kva sādhyaṃ kva ca sādhanam|
+AL484/ ākāśasyeva dhīrasya nirvikalpasya sarvadā||18|66||
+AL485/ sa jayatyarthasaṃnyāsī pūrṇasvarasavigrahaḥ|
+AL486/ akṛtrimo+anavacchinne samādhiryasya vartate||18|67||
+AL487/ bahunātra kimuktena jñātatattvo mahāśayaḥ|
+AL488/ bhogamokṣanirākāṅkṣī sadā sarvatra nīrasaḥ||18|68||
+AL489/ mahadādi jagaddvaitaṃ nāmamātravijṛmbhitam|
+AL490/ vihāya śuddhabodhasya kiṃ kṛtyamavaśiṣyate||18|69||
+AL491/ bhramabhūtamidaṃ sarvaṃ kiñcinnāstīti niścayī|
+AL492/ alakṣyasphuraṇaḥ śuddhaḥ svabhāvenaiva śāmyati||18|70||
+AL493/ śuddhasphuraṇarūpasya dṛśyabhāvamapaśyataḥ|
+AL494/ kva vidhiḥ kva ca vairāgyaṃ kva tyāgaḥ kva śamo+api vā||18|71||
+AL495/ sphurato+anantarūpeṇa prakṛtiṃ ca na paśyataḥ|
+AL496/ kva bandhaḥ kva ca vā mokṣaḥ kva harṣaḥ kva viṣādatā||18|72||
+AL497/ buddhiparyantasaṃsāre māyāmātraṃ vivartate|
+AL498/ nirmamo nirahaṃkāro niṣkāmaḥ śobhate budhaḥ||18|73||
+AL499/ akṣayaṃ gatasantāpamātmānaṃ paśyato muneḥ|
+AL500/ kva vidyā kva ca vā viśvaṃ kva deho+ahaṃ mameti vā||18|74||
+AL501/ nirodhādīni karmāṇi jahāti jaḍadhīryadi|
+AL502/ manorathānpralāpāṃśca kartumāpnoti tatkṣaṇāt||18|75||
+AL503/ mandaḥ śrutvāpi tadvastu na jahāti vimūḍhatām|
+AL504/ nirvikalpo bahiryatnādantarviṣayalālasaḥ||18|76||
+AL505/ jñānādgalitakarmā yo lokadṛṣṭyāpi karmakṛt|
+AL506/ nāpnotyavasaraṃ kartuṃ vaktumeva na kiñcana||18|77||
+AL507/ kva tamaḥ kva prakāśo vā hānaṃ kva ca na kiñcana|
+AL508/ nirvikārasya dhīrasya nirātaṅkasya sarvadā||18|78||
+AL509/ kva dhairyaṃ kva vivekitvaṃ kva nirātaṅkatā+api vā|
+AL510/ anirvācyasvabhāvasya niḥsvabhāvasya yoginaḥ||18|79||
+AL511/ na svargo naiva narako jīvanmuktirna caiva hi|
+AL512/ bahunātra kimuktena yogadṛṣṭyā na kiñcana||18|80||
+AL513/ naiva prārthayate lābhaṃ nā+alābhamanuśocati|
+AL514/ dhīrasya śītalaṃ cittamamṛtenaiva pūritam||18|81||
+AL515/ na śāntaṃ stauti niṣkāmo na duṣṭamapi nindati|
+AL516/ samaduḥkhasukhastṛptaḥ kiñcitkṛtyaṃ na paśyati||18|82||
+AL517/ dhīro na dveṣṭi saṃsāramātmānaṃ na didṛkṣati|
+AL518/ harṣāmarṣavinirmukto na mṛto na ca jīvati||18|83||
+AL519/ niḥsnehaḥ putradārādau niṣkāmo viṣayeṣu ca|
+AL520/ niścintaḥ svaśarīre+api nirāśaḥ śobhate budhaḥ||18|84||
+AL521/ tuṣṭiḥ sarvatra dhīrasya yathāpatitavartinaḥ|
+AL522/ svacchandaṃ carato deśānyatrā+astamitaśāyinaḥ||18|85||
+AL523/ patatūdetu vā deho nāsya cintā mahātmanaḥ|
+AL524/ svabhāvabhūmiviśrāntivismṛtāśeṣasaṃsṛteḥ||18|86||
+AL525/ akiñcanaḥ kāmacāro nirdvandvaśchinnasaṃśayaḥ|
+AL526/ asaktaḥ sarvabhāveṣu kevalo ramate budhaḥ||18|87||
+AL527/ nirmamaḥ śobhate dhīraḥ samaloṣṭāśmakāñcanaḥ|
+AL528/ subhinnahṛdayagranthirvinirdhūtarajastamāḥ||18|88||
+AL529/ sarvatrānavadhānasya na kiñcidvāsanā hṛdi|
+AL530/ muktātmano vitṛptasya tulanā kena jāyate||18|89||
+AL531/ jānannapi na jānāti paśyannapi na paśyati|
+AL532/ bruvannapi na ca brūte ko+anyo nirvāsanādṛte||18|90||
+AL533/ bhikṣurvā bhūpatirvāpi yo niṣkāmaḥ sa śobhate|
+AL534/ bhāveṣu galitā yasya śobhanā+aśobhanā matiḥ||18|91||
+AL535/ kva svācchandyaṃ kva saṃkocaḥ kva vā tattvaviniścayaḥ|
+AL536/ nirvyājārjavabhūtasya caritārthasya yoginaḥ||18|92||
+AL537/ ātmaviśrāntitṛptena nirāśena gatārtinā|
+AL538/ antaryadanubhūyeta tatkathaṃ kasya kathyate||18|93||
+AL539/ supto+api na suṣuptau ca svapne+api śayito na ca|
+AL540/ jāgare+api na jāgarti dhīrastṛptaḥ pade pade||18|94||
+AL541/ jñaḥ sacinto+api niścintaḥ sendriyo+api nirindriyaḥ|
+AL542/ sabuddhirapi nirbuddhiḥ sāhaṃkāro+anahaṃkṛtiḥ||18|95|||
+AL543/ na sukhī na ca vā duḥkhī na virakto na saṅgavān|
+AL544/ na mumukṣurna vā mukto na kiñcinna ca kiñcana||18|96||
+AL545/ vikṣepe+api na vikṣiptaḥ samādhau na samādhimān|
+AL546/ jāḍye+api na jaḍo dhanyaḥ pāṇḍitye+api na paṇḍitaḥ||18|97||
+AL547/ mukto yathāsthitisvasthaḥ kṛtakartavyanirvṛtaḥ|
+AL548/ samaḥ sarvatra vaitṛṣṇyānna smaratyakṛtaṃ kṛtam||18|98||
+AL549/ na prīyate vandyamāno nindyamāno na kupyati|
+AL550/ naivodvijati maraṇe jīvane nābhinandati||18|99||
+AL551/ na dhāvati janākīrṇaṃ nāraṇyamupaśāntadhīḥ|
+AL552/ yathātathā yatratatra sama evāvatiṣṭhate||18|100||
+
+<B 19>
+
+Prakaraṇa 19
+AP21/ janaka uvāca||19||
+AL553/ tattvavijñānasandaṃśamādāya hṛdayodarāt|
+AL554/ nānāvidhaparāmarśaśalyoddhāraḥ kṛto mayā||19|1||
+AL555/ kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|
+AL556/ kva dvaitaṃ kva ca vā+advaitaṃ svamahimni sthitasya me||19|2||
+AL557/ kva bhūtaṃ kva bhaviṣyadvā vartamānamapi kva vā|
+AL558/ kva deśaḥ kva ca vā nityaṃ svamahimni sthitasya me||19|3||
+AL559/ kva cātmā kva ca vā+anātmā kva śubhaṃ kvāśubhaṃ tathā|
+AL560/ kva cintā kva ca vā+acintā svamahimni sthitasya me||19|4||
+AL561/ kva svapnaḥ kva suṣuptirvā kva ca jāgaraṇaṃ tathā|
+AL562/ kva turīyaṃ bhayaṃ vā+api svamahimni sthitasya me||19|5||
+AL563/ kva dūraṃ kva samīpaṃ vā bāhyaṃ kvābhyantaraṃ kva vā|
+AL564/ kva sthūlaṃ kva ca vā sūkṣmaṃ svamahimni sthitasya me||19|6||
+AL565/ kva mṛtyurjīvitaṃ vā kva lokāḥ kvāsya kva laukikam|
+AL566/ kva layaḥ kva samādhirvā svamahimni sthitasya me||19|7||
+AL567/ alaṃ trivargakathayā yogasya kathayā+apyalam|
+AL568/ alaṃ vijñānakathayā viśrāntasya mamātmani||19|8||
+
+<B 20>
+
+Prakaraṇa 20
+AP22/ janaka uvāca||20||
+AL569/ kva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ|
+AL570/ kva śūnyaṃ kva ca nairāśyaṃ matsvarūpe nirañjane||20|1||
+AL571/ kva śāstraṃ kvātmavijñānaṃ kva vā nirviṣayaṃ manaḥ|
+AL572/ kva tṛptiḥ kva vitṛṣṇatvaṃ gatadvandvasya me sadā||20|2||
+AL573/ kva vidyā kva ca vā+avidyā kvāhaṃ kvedaṃ mama kva vā|
+AL574/ kva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpatā||20|3||
+AL575/ kva prārabdhāni karmāṇi jīvanmuktirapi kva vā|
+AL576/ kva tadvidehakaivalyaṃ nirviśeṣasya sarvadā||20|4||
+AL577/ kva kartā kva ca vā bhoktā niṣkriyaṃ sphuraṇaṃ kva vā|
+AL578/ kvāparokṣaṃ phalaṃ vā kva niḥsvabhāvasya me sadā||20|5||
+AL579/ kva lokaṃ kva mumukṣurvā kva yogī jñānavānkva vā|
+AL580/ kva baddhaḥ kva ca vā muktaḥ svasvarūpe+ahamadvaye||20|6||
+AL581/ kva sṛṣṭiḥ kva ca saṃhāraḥ kva sādhyaṃ kva ca sādhanam|
+AL582/ kva sādhakaḥ kva siddhirvā svasvarūpe+ahamadvaye||20|7||
+AL583/ kva pramātā pramāṇaṃ vā kva prameyaṃ kva ca pramā|
+AL584/ kva kiñcitkva na kiñcidvā sarvadā vimalasya me||20|8||
+AL585/ kva vikṣepaḥ kva caikāgryaṃ kva nirbodhaḥ kva mūḍhatā|
+AL586/ kva harṣaḥ kva viṣādo vā sarvadā niṣkriyasya me||20|9||
+AL587/ kva caiṣa vyavahāro vā kva ca sā paramārthatā|
+AL588/ kva sukhaṃ kva ca vā duḥkhaṃ nirvimarśasya me sadā||20|10||
+AL589/ kva māyā kva ca saṃsāraḥ kva prītirviratiḥ kva vā|
+AL590/ kva jīvaḥ kva ca tadbrahma sarvadā vimalasya me||20|11||
+AL591/ kva pravṛttirnivṛttirvā kva muktiḥ kva ca bandhanam|
+AL592/ kūṭasthanirvibhāgasya svasthasya mama sarvadā||20|12||
+AL593/ kvopadeśaḥ kva vā śāstraṃ kva śiṣyaḥ kva ca vā guruḥ|
+AL594/ kva cāsti puruṣārtho vā nirupādheḥ śivasya me||20|13||
+AL595/ kva cāsti kva ca vā nāsti kvāsti caikaṃ kva ca dvayam|
+AL596/ bahunā+atra kimuktena kiñcinnottiṣṭhate mama||20|14||

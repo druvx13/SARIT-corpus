@@ -1,0 +1,2445 @@
+Rāvaṇavaho (Setubandha)
+A SARIT edition
+Pravarasena
+The Leverhulme Trust
+Michael Willis
+Eszter Berki
+Creation of machine-readable text up to verse 4.10
+Dániel Balogh
+Creation of machine-readable from verse 4.11, proofreading, markup
+SARIT: Search and Retrieval of Indic Texts
+Copyright Notice
+Copyright (C)
+Eszter Berki
+,
+Dániel Balogh
+, and
+SARIT
+.
+Distributed by
+SARIT
+under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Under this licence, you are free
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information and fuller details of this license are given on the Creative Commons website.
+SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown.
+2013-2016
+2013-09-25
+The
+Setubandha
+by
+Pravarasena
+transcribed by
+Eszter Berki
+and
+Dániel Balogh
+from the
+1880
+edition of
+Siegfried Goldschmidt
+.
+Râvaṇavaha oder Setubandha
+Siegfried Goldschmidt
+Karl J. Trübner / Trübner & Co.
+Strassburg / London
+1880
+Digital copy available via
+The published edition from which this e-text was transcribed is printed in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (
+The International Alphabet of Sanskrit Transliteration
+). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:
+ṛ -> r̥ and ṃ -> ṁ
+Diaereses are used to differentiate disyllabic aï and aü from monosyllabic ai and au.
+Completed input up to 4.10
+Version 0.1 beta
+Completed input from 4.10 to end
+Completed markup for verse structure
+Added TEI encoding.
+Version 0.9 beta
+Merged and homogenised the two text sections
+Completed proofreading and tagging Eszter's section
+Version 1.0
+Completed full proofreading
+Incorporated Goldschmidt's corrigenda
+Checked kulakas and a few suspect typos against other editions
+Modified TEI encoding for validation with tei_all.dtd.
+Moved Dániel's corrections into the main text and Goldschmidt's readings to comments.
+Version 1.1
+Collated the two pages missing from the archive.org scan of Goldschmidt
+Edited the TEI header to conform more closely to the present SARIT header template.
+Added a pointer to the digitized text.
+Minor changes to the text (when Goldschmidt has printed it incorrectly: see 4.24, 6.12, 8.32). Notes in comments.
+Corrected about 60 typos, submitted by Paul Dundas.
+Removed seg-elements and inserted caesura (most of the verses had no seg-elements anymore).
+Moved pb's inside div.
+
+<B 1>
+
+paḍhumo āsāsao
+PL1/ ahiṇava-rāāraddhā cukka-kkhaliesu vihaḍia-pariṭṭhaviā
+PL2/ metti vva pamuha-rasiā ṇivvoḍhuṃ hoi dukkaraṃ kavva-kahā
+PL3/ parivaḍḍhaï viṇṇāṇaṃ saṃbhāvijjaï jaso viḍhappanti guṇā
+PL4/ suvvaï suurisa-cariaṃ kiṃ taṃ jeṇa ṇa haranti kavvālāvā
+PL5/ icchāi va dhaṇariddhī jovvaṇa-laddha vva āhiāīa sirī
+PL6/ dukkhaṃ saṃbhāvijjaï bandhacchāāi ahiṇavā attha-gaī
+PL7/ taṃ tiasa-bandi-mokkhaṃ samattha-tellokka-hiaa-salluddharaṇaṃ
+PL8/ suṇaha aṇurāa-iṇhaṃ sīā-dukkha-kkhaaṃ dahamuhassa vahaṃ
+PL9/ aha paḍivaṇṇa-virohe rāhava-vammaha-sareṇa māṇabbhahie
+PL10/ viddhāi vāli-hiae rāa-sirīa ahisārie suggīve
+PL11/ vavasāa-raï-paoso rosa-gaïnda-diḍha-siṅkhalā-paḍibandho
+PL12/ kaha kaha vi dāsarahiṇo jaa-kesari-païjaro gao ghaṇa-samao
+PL13/ gamiā kalamba-vāā diṭṭhaṃ mehandhaāriaṃ gaaṇa-alaṃ
+PL14/ sahio gajjia-saddo taha vi hu se ṇatthi jīvie āsaṅgho
+PL15/ to hari-vaï-jasa-vantho rāhava-jīassa paḍhama-hatthālambo
+PL16/ sīā-bāha-vihāo dahamuha-vajjha-diaho uvagao sarao
+PL17/ raï-ara-kesara-ṇivahaṃ sohaï dhavalabbha-dala-sahassa-parigaaṃ
+PL18/ mahumaha-daṃsaṇa-joggaṃ piāmahuppatti-paṅkaaṃ va ṇaha-alaṃ
+PL19/ diṇamaṇi-moha-pphuriaṃ galiaṃ ghaṇa-lacchi-raaṇa-rasaṇā-dāmaṃ
+PL20/ udu-maaṇa-bāṇa-vattaṃ ṇaha-mandāra-ṇava-kesaraṃ inda-dhaṇuṃ
+PL21/ dhua-meha-mahuarāo ghaṇa-samaāaḍḍhioṇaa-vimukkāo
+PL22/ ṇaha-pāava-sāhāo ṇiaa-ṭṭhāṇaṃ va paḍigaāu disāo
+PL23/ ahiṇava-ṇiddhāloā uddesāsāra-dīsamāṇa-jala-lavā
+PL24/ ṇimmāa-majjaṇa-suhā dara-vasuāa-cchaviṃ vahanti va diahā
+PL25/ suha-saṃmāṇia-ṇiddo virahāluṅkhia-samudda-diṇṇukkaṇṭho
+PL26/ asuvanto vi vivuddho paḍhama-viuddha-siri-sevio mahumahaṇo
+PL27/ sohaï visuddha-kiraṇo gaaṇa-samuddammi raaṇi-velā-laggo
+PL28/ tārā-muttā-vaaro phuḍa-vihaḍia-meha-sippi-saṃpuḍa-mukko
+PL29/ sattacchaāṇa gandho laggaï khalaï hiae kalambāmoo
+PL30/ kalahaṃsāṇa kala-rao ṭhāi ṇa saṃṭhāi pariṇaaṃ sihi-viruaṃ
+PL31/ pīṇa-paohara-laggaṃ disāṇa pavasanta-jalaa-samaa-viiṇṇaṃ
+PL32/ sohagga-paḍhama-iṇhaṃ pavvāaï sarasa-ṇaha-vaaṃ inda-dhaṇuṃ
+PL33/ pajjatta-salila-dhoe dūrālokkanta-ṇimmale gaaṇa-ale
+PL34/ accāsaṇṇaṃ va ṭhiaṃ vimukka-para-bhāa-pāaḍaṃ sasi-bimbaṃ
+PL35/ cira-āla-paḍiṇiattaṃ disāsu gholanta-kumua-raa-vellaviaṃ
+PL36/ bhamaï aladdhāsāaṃ kamalāara-daṃsaṇūsuaṃ haṃsa-ulaṃ
+PL37/ candāava-dhavalāo phuranta-diasa-raaṇantaria-sohāo
+PL38/ somme saraassa ure mottāvali-vibbhamaṃ vahanti ṇisāo
+PL39/ bhamara-rua-diṇṇa-saṇṇaṃ ghaṇa-roha-vimukka-diṇaara-arāliddhaṃ
+PL40/ pharisa-suhāantaṃ miva paḍivujjhaï jala-ṇihitta-ṇālaṃ ṇaliṇam
+PL41/ vammaha-dhaṇu-ṇigghoso kamala-vaṇa-kkhalia-lacchi-ṇeura-saddo
+PL42/ suvvaï kalahaṃsa-rao mahuari-vāhitta-ṇaliṇi-paḍisaṃlāo
+PL43/ khuḍiuppaïa-muṇālaṃ daṭṭhūṇa piaṃ va siḍhila-valaaṃ ṇaliṇiṃ
+PL44/ mahuari-mahurullāvaṃ mahumaa-ambaṃ muhaṃ va gheppaï kamalaṃ
+PL45/ pajjatta-kamala-gandho mahu-taṇṇāosaranta-ṇava-kumua-rao
+PL46/ bhamira-bhamaroaïvvo sañcaraï sa-dāṇa-sībharo vaṇa-vāo
+PL47/ kaṇṭaïa-ṇūmiaṅgī thoa-tthoosaranta-muddha-sahāvā
+PL48/ raï-ara-cumbijjantaṃ ṇa ṇiattei ṇaliṇī muhaṃ miva kamalaṃ
+PL49/ parigholanta-kkhaliaṃ sattacchaa-kusuma-dhavala-reṇukkhaïaṃ
+PL50/ uppusaï dāṇa-vaṅkaṃ muhutta-gaa-kaṇṇa-cāmaraṃ bhamara-ulaṃ
+PL51/ ṇavari a jahā-samatthia-ṇivvattia-kajja-ṇivvalanta-cchāaṃ
+PL52/ pecchaï mārua-taṇaaṃ maṇorahaṃ cea cintia-suhovaṇaaṃ
+PL53/ paḍhamaṃ cia māruiṇā harisa-bharijjanta-loaṇeṇa muheṇa
+PL54/ jaṇaa-taṇaā-paüttī pacchā vāāi ṇiravasesaṃ siṭṭhā
+PL55/ diṭṭha tti ṇa saddahiaṃ jhīṇa tti sabāha-mantharaṃ ṇīsasiaṃ
+PL56/ soaï tumaṃ tti ruṇṇaṃ pahuṇā jiaï tti māruī uvaūḍho
+PL57/ cintā-haa-ppahaṃ miva taṃ ca kare khea-ṇīsahaṃ va ṇisaṇṇaṃ
+PL58/ veṇī-bandhaṇa-maïlaṃ soa-kilintaṃ va se paṇāmei maṇiṃ
+PL59/ so kara-alañjali-gao bāha-tthavaa-pahaosihanta-maūho
+PL60/ ṇaaṇehi dāsarahiṇā diṭṭho pīo ṇu pucchio ṇu paüttiṃ
+PL61/ soaï a ṇaṃ rahuvaī viralaṅguli-galia-kiraṇa-dhārā-vaaraṃ
+PL62/ vaaṇe vimalujjoaṃ dara rottūṇa salilañjaliṃ va ṇimento
+PL63/ taṃ daïāhiṇṇāṇaṃ jammi vi aṅgammi rāhaveṇa ṇa ṇimiaṃ
+PL64/ sīā-parimaṭṭheṇa va vūḍho teṇa vi ṇirantaraṃ romañco
+PL65/ bāha-maïlaṃ pi to se dahamuha-cintā-viambhamāṇāmarisaṃ
+PL66/ jāaṃ dukkhāloaṃ jaraḍhāanta-ravi-maṇḍalaṃ miva vaaṇaṃ
+PL67/ to se cira-majjhatthe kuvia-kaanta-bhumaā-laā-paḍirūe
+PL68/ diṭṭhī diṭṭha-tthāme kajja-dhura vva ṇiae dhaṇummi ṇisaṇṇā
+PL69/ khaṇa mūlāvaddhāe ṇivvaṇṇanta-masiṇaṃ samārūḍhāe
+PL70/ sajjīaṃ miva jāaṃ aṇoṇamantaṃ pi rāma-diṭṭhīa dhaṇuṃ
+PL71/ suggīassa vi hiaaṃ rāhava-sukaa-paḍimoaṇā-sattaṇhaṃ
+PL72/ agaṇia-dahamuha-dappaṃ ṇivvūḍha-bharaṃ va takkhaṇaṃ ūsasiaṃ
+PL73/ cintia-laddhatthaṃ miva bhumaā-vikkheva-sūiāmarisa-rasaṃ
+PL74/ gamaṇaṃ rāhava-hiae rakkhasa-jīvia-haraṃ visaṃ va ṇihittaṃ
+PL75/ soha vva lakkhaṇa-muhaṃ vaṇa-māla vva viaḍaṃ hari-vaïssa uraṃ
+PL76/ kitti vva pavaṇa-taṇaaṃ āṇa vva balāi se vilaggaï diṭṭhī
+PL77/ saṃkhohia-mahi-veḍho to so kaï-seṇṇa-vilulia-vaṇāhoo
+PL78/ khuhia-samuddāhimuho mahaṇārambhammi mandaro via calio
+PL79/ caliaṃ ca vāṇara-balaṃ calie tammi cala-kesara-saḍujjoaṃ
+PL80/ gahia-disā-pariṇāhaṃ maūha-jālaṃ va diṇaarassa phurantaṃ
+PL81/ verāraṇi-pajjalio to so rosa-pavaṇāhaüddhaa-muhalo
+PL82/ vaḍḍhaï maggāṇugao laṅkā-vaṇa-rāi-vaṇa-dao kaï-loo
+PL83/ vaccaï a caḍula-kesara-saḍujjalāloa-vāṇara-parikkhitto
+PL84/ savva-disā-āaḍḍhia-palaa-palitta-giri-saṃkulo vva samuddo
+PL85/ gholanti ṇimmalāo phuranta-diasaara-pāaḍia-rūāo
+PL86/ dāvia-maggammi vi se hiae soandhaāriammi disāo
+PL87/ āloei a viñjhaṃ dhaṇu-saṃṭḥāṇassa sāarassa bhara-sahaṃ
+PL88/ sandhia-ṇaï-sotta-saraṃ avahovāsa-ghaḍiaṃ va jīā-bandhaṃ
+PL89/ masiṇia-siharucchaṅgo vihua-ṇiamba-vaṇa-pāaḍia-tuṅga-aḍo
+PL90/ viñjheṇa bharia-kuharo helā-vāo vi vāṇarāṇa ṇa sahio
+PL91/ pattā a sībharāhaa-dhāu-silā-ala-ṇisaṇṇa-rāia-jalaaṃ
+PL92/ sajjhaṃ ojjhara-pahasia-dari-muha-ṇikkanta-vaüla-maïrāmoaṃ
+PL93/ bolanti a pecchantā paḍimā-saṃkanta-dhavala-ghaṇa-saṃghāe
+PL94/ phuḍa-phaḍiha-silā-saṅkula-khaliovari-patthie via ṇaï-ppavahe
+PL95/ taḍa-pabbhāra-bharantā dalanta-pāāla-galia-jala-païrikkā
+PL96/ āvāe ccia jāā pahaa-mahā-vaha-ṇihā mahā-ṇaï-sottā
+PL97/ jalahara-ṇiddāantaṃ pāava-gahaṇesu sisira-ṇiddāantaṃ
+PL98/ saï duddiṇa-sāmalaaṃ pattā bhagga-dhua-candaṇa-rasā malaaṃ
+PL99/ candaṇa-pāava-lagge khuḍiuvvelia-laā-parimala-cchāe
+PL100/ sandāṇia-ṇimmoe pecchanti mahā-bhuaṅga-veḍhaṇa-magge
+PL101/ sevanti tīra-vaḍḍhia-ṇiaa-bharovvatta-candaṇa-laāliddhe
+PL102/ ramma-ttaṇa-dippa-vahe vaṇa-gaa-dāṇa-kaḍue giri-ṇaï-ppavahe
+PL103/ to taruṇa-sippi-saṃpuḍa-dara-dāvia-jala-ṇihitta-muttā-vaaraṃ
+PL104/ pattā pattala-vaülaṃ gaa-dāṇa-sugandhi-raa-ṇavelaṃ velaṃ
+PL105/ viasia-tamāla-ṇīlaṃ puṇo puṇo cala-taraṅga-kara-parimaṭṭhaṃ
+PL106/ phullelā-vaṇa-surahiṃ uahi-gaïndassa dāṇa-lehaṃ va ṭhiaṃ
+PL107/ pheṇa-visamaṅgarāaṃ vidduma-danta-vvaṇāṇia-muha-cchāaṃ
+PL108/ malia-vaṇa-kesa-kusumaṃ parihutta-samudda-parimalaṃ va vahantiṃ
+PL109/ sippi-uḍa-maüliacchiṃ laā-harabbhantaresu parivaḍḍhantaṃ
+PL110/ aṇurāa-pariṭṭhaviaṃ āaṇṇantiṃ va kiṃṇaruggīa-ravaṃ
+
+<B 2>
+
+biio āsāsao
+PL111/ to ugghāḍia-mūlo pavaa-balakkanta-mahi-aluddhucchalio
+PL112/ diṭṭhīa diṭṭha-sāro ṇajjaï tulio tti rāhaveṇa samuddo
+PL113/ kālantara-parihuttaṃ daṭṭhūṇa vi appaṇo mahoahi-saaṇaṃ
+PL114/ jaṇaa-suā-baddha-maṇo rāmo palaa-ghariṇiṃ ṇa saṃbharaï siriṃ
+PL115/ īsi-jala-pesiacchaṃ vihasanta-viiṇṇa-pavaa-vaï-saṃlāvaṃ
+PL116/ addiṭṭhe vva ṇa mukkaṃ diṭṭhe uahimmi lakkhaṇeṇa vi dhīraṃ
+PL117/ harisa-ṇirāuṇṇāmia-pīṇaarāloa-pāaḍovaribhāaṃ
+PL118/ pavaāhivo-vi pekkhaï addhuppaïaṃ va rumbhiūṇa sarīraṃ
+PL119/ garuḍeṇa va jalaṇa-ṇihaṃ samudda-laṅghaṇa-maṇeṇa vāṇara-vaïṇā
+PL120/ avahovāsa-pasariaṃ pakkha-viāṇaṃ va pulaïaṃ kaï-seṇṇaṃ
+PL121/ sāara-daṃsaṇa-hitthā akkhittosaria-vevamāṇa-sarīrā
+PL122/ sahasā lihia vva ṭhiā ṇipphanda-ṇirāa-loaṇā kaï-ṇivahā
+PL123/ pecchantāṇa samuddaṃ caḍulo vi aüvva-vimhaa-rasa-tthimio
+PL124/ haṇumantammi ṇivaḍio sagāravaṃ vāṇarāṇa loaṇa-ṇivaho
+PL125/ uahiṃ alaṅghaṇijjaṃ daṭṭhūṇa gaāgaaṃ ca mārua-taṇaaṃ
+PL126/ mohandhaāriesu vi gūḍho bhamaï hiaesu siṃ ucchāho
+PL127/ to tāṇa haa-cchāaṃ ṇiccala-loaṇa-sihaṃ paüttha-paāvaṃ
+PL128/ ālekkha-paīvāṇa va ṇiaaṃ païi-caḍulattaṇaṃ pi vialiaṃ
+PL129/ kaha vi ṭhaventi pavaṅgā samudda-daṃsaṇa-visāa-vimuhijjantaṃ
+PL130/ galia-gamaṇāṇurāaṃ paḍivantha-ṇiatta-loaṇaṃ appāṇaṃ
+
+<B 3>
+
+taïo āsāsao
+PL131/ dharaṇi-dharaṇe bhua ccia mahaṇammi surāsurā khaammi samuddā
+PL132/ hantavvammi dahamuhe eṇhiṃ tumhe ttha mahumahassa sahāā
+PL133/ mā sāsaa-soḍīraṃ kaha vi ṇiattanta-samuha-saṃṭhavia-paaṃ
+PL134/ āaa-vitthakkantaṃ paṇaantaṃ va suaṇaṃ parumhāha jasaṃ
+PL135/ rakkhasa-vaha-duvvojjho kajjārambho samudda-laṅghaṇa-garuo
+PL136/ paḍhumaṃ cia rahuvaïṇā uvariṃ hiaa-tulio bharo vva vilaïo
+PL137/ tumha ccia esa bharo āṇā-metta-pphalo pahuttaṇa-saddo
+PL138/ aruṇo chāā-vahaṇo visaaṃ viasanti appaṇā kamala-sarā
+PL139/ tariuṃ ṇa hu ṇavara imaṃ velā-vaṇa-vaüla-kusuma-vāsia-surahiṃ
+PL140/ hattha-uḍehi samatthā tumhe pāuṃ pi phala-rasaṃ va samuddaṃ
+PL141/ cira-āla-kaṅkhiāṇaṃ dhuāvamāṇa-ṇialuṇṇamanta-suhāṇaṃ
+PL142/ eso ṇavara avasaro asarisa-samasīsa-bandhaṇa-vimokkhāṇaṃ
+PL143/ te viralā sappurisā je abhaṇantā ghaḍenti kajjālāve
+PL144/ thoa ccia te vi dumā je amuṇia-kusuma-ṇiggamā denti phalaṃ
+PL145/ khiṇṇaṃ cāvammi karaṃ cira-ālukkaṇṭhiaṃ amarisammi maṇaṃ
+PL146/ mā dā deu rahuvaī bāṇāhimuhiṃ ca bāha-garuiṃ diṭṭhiṃ
+PL147/ ovaggaü tumha jaso dahavaaṇa-paāva-patthiva-pariggahiaṃ
+PL148/ vilulia-samudda-rasaṇaṃ ṇaha-bhavaṇanteuraṃ disā-vahu-ṇivahaṃ
+PL149/ jaṃ sāhasaṃ ṇa koraï taṃ daamāṇeṇa jīviaṃ kira daïaṃ
+PL150/ jo apaḍimukka-sukaā so vi gaṇijjaï jaammi jīanta-muo
+PL151/ kiṃ va ṇa āṇaha eaṃ kajjaṃ paripelavaṃ pi jaha pariṇāme
+PL152/ dei paraṃ saṃmohaṃ kusumaṃ visa-pāavassa va malijjantaṃ
+PL153/ vihaḍantaṃ pi samatthā vavasāaṃ purisa-duggamaṃ ṇenti vahaṃ
+PL154/ bhuvaṇantara-vikkhambhaṃ diasaaro vihaḍiekka-cakkaṃ va rahaṃ
+PL155/ kaa-kajje tāla-same aïrā pecchaha bhue aṇuttāla-same
+PL156/ ṇihuo rāasa-hāo paḍivakkhassa a aveu rāa-sahāo
+PL157/ saṅkhohia-maaraharo saṃbhantuvvatta-diṭṭha-rakkhasa-loo
+PL158/ velā-aḍa-mujjhante aha ṇe hasaï hiaeṇa mārua-taṇao
+PL159/ avvocchiṇṇa-pasario ahiaṃ uddhāi phuria-sūra-cchāo
+PL160/ ucchāho subhaḍāṇaṃ visama-kkhalio mahā-ṇaīṇa va sotto
+PL161/ māṇeṇa pariṭṭhaviā kula-parivāḍi-ghaḍiā aṇoṇaa-uvvā
+PL162/ cinteuṃ pi ṇa tīraï ohuppantī pareṇa ṇiaa-cchāā
+PL163/ parivaḍḍhantucchāho vialia-raṇa-maccharehi appatta-guṇo
+PL164/ aasa-kkantosario kaḍḍhijjaï dukkaraṃ bhaḍattaṇa-saddo
+PL165/ āhia-samarāamaṇā vasaṇammi a ūsave a sama-rāa-maṇā
+PL166/ avasāaa-visamatthā dhīra ccia honti saṃsae vi samatthā
+PL167/ vavasāa-sappivāsā kaha te hattha-ṭṭhiaṃ ṇa pāhenti jasaṃ
+PL168/ je jīvia-sandehe visaṃ bhuaṅga vva uvvamanti amarisaṃ
+PL169/ sīhā sahanti bandhaṃ ukkhaa-dāḍhā ciraṃ dharenti visaharā
+PL170/ ṇa uṇa jianti paḍihaā akkhaṇḍia-vavasiā khaṇaṃ pi samatthā
+PL171/ akaattha-paḍiṇiattā kaha samuhāloa-metta-paḍisaṃkantaṃ
+PL172/ dappaṇa-alesu va ṭhiaṃ ṇiaaṃ decchiha piā-muhesu visāaṃ
+PL173/ ṇijjanti cira-paattā samudda-gahirā vi paḍivahaṃ ṇaï-sottā
+PL174/ tīrenti ṇiatteuṃ asamāṇia-pesaṇā ṇa uṇa sappurisā
+PL175/ jo laṅghijjaï raïṇā jo vi khavijjaï khaāṇaleṇa vi bahuso
+PL176/ kaha so uia-parihao duttāro tti pavaāṇa bhaṇṇaü uahī
+PL177/ cintijjaü dāva imaṃ kula-vavaesa-kkhamaṃ vahantāṇa jasaṃ
+PL178/ lajjāi samuddassa vi doṇha vi kiṃ hoi dukkaraṃ boleuṃ
+PL179/ kiraṇāsaṇiṃ rahu-sue suhassa kira ṇāsaṇiṃ vimuñcaü mā dā
+PL180/ sela-sasāraame ho tumhe jeūṇa canda-sāraa-meho
+PL181/ bandhava-ṇehabbhahio hoi paro vi viṇaeṇa sevijjanto
+PL182/ kiṃ uṇa kaovaāro ṇikkāraṇa-ṇiddha-bandhavo dāsarahī
+PL183/ aïra-parūḍha vva laā samarucchāhe udummi va vilambante
+PL184/ ajja vi dāva maha imā maülei ccia phalaṃ ṇa dāvei sirī
+PL185/ keccira-mettaṃ va ṭhiī ea visaṃvāiā ṇa mocchihi rāmaṃ
+PL186/ kamalammi samuppaṇṇā taṃ cia raaṇīsu kiṃ ṇa muñcaï lacchī
+PL187/ saalujjoia-vasuhe samattha-jia-loa-vittharanta-paāve
+PL188/ ṭhāi ṇa ciraṃ ravimmi va vihāṇa-paḍiā vi maïladā sappurise
+PL189/ sappurisa-pāaḍa-vahaṃ paḍhamaṃ jaṃ rāhaveṇa amhāsu-kaaṃ
+PL190/ hojja va ṇa hojja va samaṃ amhehi kaaṃ pi kiṃ uṇa akīrantaṃ
+PL191/ rāhava-patthijjanto uddho dīsihaï kecciraṃ va dahamuho
+PL192/ dūranta-pecchiavvo sihara-paḍanta-viaḍāsaṇi vva vaṇa-dumo
+PL193/ bālāavaṃ va entaṃ dhua-ambālāa-vaṃsu-ṇivaha-cchāaṃ
+PL194/ kaï-seṇṇaṃ raaṇiarā tama-raa-ṇiara vva pecchiuṃ pi aoggā
+PL195/ garuammi vi paḍivakkhe honti bhaḍā ahia-vāria-ppaḍiūlā
+PL196/ paḍigaa gandhāiddhā uddhaṅkusa-ruddha-manthaa vva gaïndā
+PL197/ visamammi vi avisaṇṇo dhārei dhuraṃ dhuraṃdharo ccia ṇavaraṃ
+PL198/ kiṃ diṇaarovarāe diṇassa hoi avalambaṇaṃ sasi-bimbaṃ
+PL199/ mukka-salilā jalaharā ahiṇava-diṇṇa-pphalā a pāava-ṇivahā
+PL200/ lahuā vi honti garuā samara-muhoharia-maṇḍalaggā a bhuā
+PL201/ dappaṃ ṇa sahanti bhuā paharaṇa-kajja-sulahā dharenti mahiharā
+PL202/ vitthiṇṇo gaaṇa-vaho ṇijjaï kīsa garuattaṇaṃ paḍivakkho
+PL203/ dhīraṃ parirakkhantā garuaṃ pi bharaṃ dharenti ṇavara suurisā
+PL204/ ṭhāṇaṃ cia amuantā ṇīsesaṃ tihuaṇaṃ khaventi ravi-arā
+PL205/ kāara-paḍimukka-dhuraṃ jiṇanti patthāṇa-laṅghiagga-kkhandhā
+PL206/ paḍhamaṃ tā ṇiaa-balaṃ pacchā paharehi suurisā paḍivakkhaṃ
+PL207/ aṇṇenti maṅgalāiṃ alliaï sirī jaso pavaḍḍhaï purao
+PL208/ paḍivaṇṇa-raṇucchāhe paḍivakkhuddharaṇa-patthiammi suurise
+PL209/ vaccantā aïbhūmiṃ kaḍḍhia-suhaḍāsi-vatta-vanthāvaḍiā
+PL210/ ṇavara ṇa calanti bīaṃ lua-vakkhā mahihara vva verāvandhā
+PL211/ tā soaï rahu-taṇao tāva a sīā vi hattha-palhattha-muhī
+PL212/ tāva a dharaï dahamuho jāva visāeṇa vo tulijjaï dhīraṃ
+PL213/ aṇṇo aṇṇassa maṇo tumha ṇa āṇe aṇāhio maha appā
+PL214/ ṇivvaṇṇantassa imaṃ dara-rūḍha-vaṇa-ppasāhaṇaṃ haṇumantaṃ
+PL215/ paḍivakkhassa a lacchiaṃ āsāentaeṇaṃ ṇiaa-kulassa a kittiaṃ āsāentaeṇaṃ
+PL216/ maraṇaṃ pi varaṃ laddhaaṃ ṇaa-ṇimmāṇaeṇaṃ puriseṇa ciraṃ jīviaṃ ṇa a ṇimmāṇaeṇaṃ
+PL217/ ea vi sirīa diṭṭhaā ke saralacchiāe kara-kamalassa a chikkaā kesara-lacchiāe
+PL218/ mujjhanti saviṇṇāṇaā samara-samāṇaammi ea mamammi bhaṇantae sama-rasa-māṇaammi
+PL219/ ia atthira-sāmatthe aṇṇassa vi pariaṇammi ko āsaṅgho
+PL220/ tattha vi ṇāma dahamuho tassa ṭhio esa paḍihaḍo majjha bhuo
+PL221/ avahoāsammi mahaṃ hattha-alāhaa-dalanta-patthia-salilo
+PL222/ jā ṇa ṇiattaï uahī bolīṇaṃ tāva hou vāṇara-seṇṇaṃ
+PL223/ ahiāṇaṃ tosi-hare dhariaṃ malaa-giriṇo hasanto sihare
+PL224/ guru-bhara-visaaṃseṇaṃ ṇejjāmi bhueṇa joaṇa-saaṃ seṇam
+PL225/ samuha-miliekkamekke ko ira āsaṇṇa-saṃsaammi sahāo
+PL226/ jāva ṇa dijjaï diṭṭhī kāavvaṃ dāva hoi cira-ṇivvūḍham
+PL227/ aha va mahaṇṇava-huttaṃ patthantassa gaaṇaṃ mahaṃ ṇa vahuttam
+PL228/ ruhira-vasāmisa-vattaṃ hantūṇa va ṇivvuo vasāmi savattam
+PL229/ ṇisuḍhijjanta-bhuaṅgaṃ mā mujjhaha maha sarosa-calaṇakkantam
+PL230/ jatto ṇamaï mahi-alaṃ tatto ṇāma saalo paaṭṭaü uahī
+PL231/ o jamala-kkhambhehi va dharieṇa bhuehi maha mahoahi-majjhe
+PL232/ ummūliāieṇaṃ samaïñchaü viñjha-saṃkameṇa kaï-balam
+PL233/ vivalāanta-bhuaṅgaṃ uvvattia-jalaaraṃ vihiṇṇa-mahiharam
+PL234/ muha-mārua-vihua-jalaṃ pecchaha raaṇāaraṃ karemi thala-vaham
+PL235/ majjha-kkhuḍiummūlia-bhuā-bhamāia-vimukka-sesaddhantam
+PL236/ etto-hutta-suvelaṃ tatto-hutta-malaaṃ karemi samuddam
+PL237/ aha va suvelālaggaṃ pecchaha ajjea bhagga-rakkhasa-viḍavam
+PL238/ sīā-kisalaa-sesaṃ majjha bhuāaḍḍhiaṃ laaṃ miva laṅkam
+PL239/ o bhagga-rakkhasa-dumaṃ ṇihaa-dasāṇaṇa-maïnda-suha-saṃcāram
+PL240/ rāmāṇurāa-matto malemi laṅkaṃ vaṇa-tthaliṃ va vaṇa-gao
+
+<B 4>
+
+caüttho āsāsao
+PL241/ aha paḍhama-vaaṇa-ṇihuaṃ pacchā umhaïa-lajjiaṃ kaï-seṇṇaṃ
+PL242/ sasi-daṃsaṇa-pāsuttaṃ kamala-vaṇaṃ va diasāgameṇa vivuddhaṃ
+PL243/ ṇavari a kaï-hiaāiṃ dhuandhaāra-viaḍāi gamaṇucchāho
+PL244/ ekko bahuāi samaṃ giri-siharāi aruṇāavo vva vilaggo
+PL245/ to dappa-muha-pasāo āḍhatto tāṇa hiaa-hasiujjoo
+PL246/ raṇa-vikkamagga-hattho ṇiaa-sahāo vva pahariso vitthariuṃ
+PL247/ bahaluddhua-dhāu-raaṃ risaheṇa dhuojjharāhaa-kapola-alaṃ
+PL248/ bhiṇṇaṃ vāma-bhua-sire ummūlia-valia-paṇṇaaṃ giri-siharaṃ
+PL249/ pulaübbheāambaṃ ṇīlo paripusaï visama-kasaṇa-cchāaṃ
+PL250/ hiaa-ṇihitta-paharisaṃ sasi-paḍibhiṇṇa-ghaṇa-saṃṇihaṃ vaccha-aḍaṃ
+PL251/ vihaḍantoṭṭha-uḍa-dalaṃ phuranta-danta-ara-bahala-kesara-vaaraṃ
+PL252/ paharisa-candāloe hasiaṃ kumueṇa surahi-gandhuggāraṃ
+PL253/ vihaḍanta-dharaṇi-bandho uhaa-bhua-kkheva-muhala-vevira-viḍavo
+PL254/ visama-paḍanta-visaharo velā-candaṇa-dumo maïndeṇa dhuo
+PL255/ dippanta-durāloā diviassa sadhūma-sihi-sihāvatta-ṇihā
+PL256/ sommattaṇaṃ ṇa pattā harisa-bharentī vi visaharassa va diṭṭhī
+PL257/ saraho vi dari-muhuggaa-paḍisadda-pphuḍia-malaa-aḍa-pabbhāraṃ
+PL258/ muñcaï visaaṃ ṇāaṃ malei aṅgaṃ ca rosa-visa-aṇṇāaṃ
+PL259/ aruṇāamba-cchāe takkhaṇa-metta-paḍivuddha-paṅkaa-sohe
+PL260/ phuraï ṇimaḍhassa vi phuḍaṃ diasassa muhammi diṇaaro vva amariso
+PL261/ viaḍāharantarālaṃ kaaṃ suseṇassa rosa-hasieṇa phuḍaṃ
+PL262/ uppāa-ruhira-ambaṃ majjha-pphuḍia-raï-maṇḍalaṃ miva vaaṇaṃ
+PL263/ harisa-pariambhieṇa a addhullasia-raï-bimba-amba-cchaviṇā
+PL264/ purao-huttārambho muheṇa divaso vva pāaḍo vāli-suo
+PL265/ ṇecchaï ṇivvūḍha-bharo lahuaṃ dappuddhaattaṇaṃ pavaṇa-suo
+PL266/ kaa-pesaṇassa sohaï dhīraṃ cia mahaï rakkhiuṃ vaaṇijjaṃ
+PL267/ ṇibbhacchioahi-ravaṃ phuḍiāhara-ṇivvaḍanta-dāḍhā-hīraṃ
+PL268/ hasaï kaï-dappa-pasamia-rosa-virajjanta-loaṇo suggīvo
+PL269/ ṇavari sumittā-taṇao āsaṅghanto gurussa ṇiaaṃ ca balaṃ
+PL270/ ṇa a cintei ṇa jampaï uahiṃ sadasāṇaṇaṃ taṇaṃ va gaṇento
+PL271/ rahuṇāhassa vi diṭṭhī vāṇara-vaïṇo phuranta-vidduma-ambaṃ
+PL272/ vaaṇaṃ vaaṇāhi calā kamalaṃ kamalāhi bhamara-panti vva gaā
+PL273/ saggaṃ apārijāaṃ kotthuha-lacchi-rahiaṃ mahumahassa uraṃ
+PL274/ sumirāmi mahaṇa-purao a-muddha-andaṃ ca hara-aḍā pabbhāraṃ
+PL275/ mahumaha-hatthammi mae ṇakkhukkhuḍia-sarasaṃ mahāsura-hiaaṃ
+PL276/ diṭṭhā aṇudhāvantī akkhittaṃ ṇiaa-hattha-kamalaṃ va sirī
+PL277/ taṃ ca hiraṇṇakkhassa vi sumarāmi mahā-varāha-dāḍhā-bhiṇṇaṃ
+PL278/ mahi-maṇḍalaṃ va tuliaṃ ukkhaa-hiaa-giri-bandhaṇaṃ vaccha-aḍaṃ
+PL279/ dhīraṃ haraï visāo viṇaaṃ jovvaṇa-mao aṇaṅgo lajjaṃ
+PL280/ ekkanta-gahia-vakkho kiṃ sīsaü jaṃ ṭhavei vaa-pariṇāmo
+PL281/ aṇuhūa-muṇeavve vihaḍia-visamakkhare vi saṃghaḍiatthe
+PL282/ jovvaṇa-mūḍha-pahasie mā avamaṇṇaha jarā-pariṇaüllāve
+PL283/ tujjha bhuāsu ṇisaṇṇo hari-sattho pabbalo surāṇa vi samare
+PL284/ mārua-laddha-tthāmo ovaggaï mahi-rao vi tā diasaaraṃ
+PL285/ kiṃ uṇa duppariallā majjāāikkamuppaha-valijjantā
+PL286/ uahi vva sāra-garuā ghaḍiā vi visaṃghaḍanti kajjālāvā
+PL287/ paccakkhāhi parokkhaṃ kaha vi tulagga-ghaḍiāhi āgama-suddhaṃ
+PL288/ saṃcālia-ṇikkampaṃ aṇuhūāhi vi mahaṃ suaṃ cia garuaṃ
+PL289/ jaṃ sohenti samatthā sama-sāra-parakkamā ṇa taṃ ṇivvaḍiā
+PL290/ ekko paavejja daḍhaṃ miliā uṇa diṇaarā khaventi tihuaṇaṃ
+PL291/ ovaggaï ahimāṇaṃ paḍivakkhassa vi ṇa tārisaṃ dei bhaaṃ
+PL292/ amarisa-gahio vva saro viddāi abhāa-saṃdhio ucchāho
+PL293/ ṇea tume mottavvaṃ suṭṭhu vi turieṇa dhīra-patthiva-cariaṃ
+PL294/ turavantassa ravissa vi maüijjaï dakkhiṇāaṇammi paāo
+PL295/ kiṃ aïrāeṇa imā amagga-samara-suha-cintia-kahāhi kaā
+PL296/ paharisa-paṇāmia-muhī gotta-kkhalaṇa-vimaṇa vva de jaa-lacchī
+PL297/ mā rajjaha rahasa ccia candassa vi dāva kumua-vaṇa-ṇipphaṇṇo
+PL298/ dūraṃ ṇivvalia-guṇo ekka-rasassa kamalesu viddāi jaso
+PL299/ kiṃ appaṇā pariaṇo parassa o pariaṇeṇa de paḍivakkho
+PL300/ sohaï patthijjanto jiāhimāṇassa kiṃ jaammi vi gahaṇaṃ
+PL301/ haṇumantāisaeṇa haṇumanta-muhāṇa vāṇarāṇa a vaïṇā
+PL302/ dhīra aṇivvalia-jasaṃ kāavvaṃ kiṃ tume vi mārui-sarisaṃ
+PL303/ kaha tammi vi lāijjaï jammi aiṇṇa-pphalā adūra-pasariā
+PL304/ paḍiammi dume vva laā sa ccia aṇṇaṃ puṇo vilaggaï āṇā
+PL305/ hantuṃ vimaggamāṇo hantuṃ turiassa appaṇā dahavaaṇaṃ
+PL306/ kiṃ icchasi kāuṃ je pavaa-vaï piaṃ ti vippiaṃ rahuvaïṇo
+PL307/ ia ṇiamia-suggīvo rāmanteṇa valio piāmaha-taṇao
+PL308/ parimaṭṭha-meru-siharo sūrāhimuho vva palaa-dhūmuppīḍo
+PL309/ jampaï a kiraṇa-pamhala-phuranta-danta-ppahā-ṇihāotthaïaṃ
+PL310/ viṇaa-paṇaaṃ vahanto samuhāgaa-dhavala-kesara-saḍaṃ va muhaṃ
+PL311/ rakkhijjaï tellokkaṃ palaa-samudda-vihurā dharijjaï vasuhā
+PL312/ uaraddhanta-pahutte vimuhijjaï sāare tti vimhaaṇijjaṃ
+PL313/ dhaṇu-vāvārassa raṇe kuvia-kaanta-ṇimisantara-ṇihassa tuhaṃ
+PL314/ phuḍa-vijju-vilasiassa va ārambho ccia ṇa hoi kiṃ avasāṇaṃ
+PL315/ ṇivvubbhaï palaa-bharo tīraï valavā-muhāṇalo vi visahiuṃ
+PL316/ diṇṇaṃ jeṇea tume kaha kāhii sāaro tahiṃ cia dhīraṃ
+PL317/ duttārammi samudde kaï-loe vimuhie mamammi visaṇṇe
+PL318/ hari-vaï tume ccia imā duvvojjhā vi avalambiā kajja-dhurā
+PL319/ dhīrāhi sāra-garuaṃ alaṅghaṇijjāhi sāsaa-jasujjoaṃ
+PL320/ ricchāhivāhi vaaṇaṃ raaṇaṃ raaṇāarāhi va samucchaliaṃ
+PL321/ jattha paramattha-garuā ṇa honti tumhārisā thira-vavaṭṭhambhā
+PL322/ mahihara-mukka vva mahī atthāaï tattha vittharā kajja-dhurā
+PL323/ paḍivatti-metta-sāraṃ kajjaṃ thoāvasesiaṃ māruiṇā
+PL324/ saṃpaï jo ccea uraṃ dei pavaṃgāṇa piaï so ccea jasaṃ
+PL325/ tā savve ccia samaaṃ duttāraṃ pi haṇumanta-suha-bolīṇaṃ
+PL326/ abbhatthemha surāsura-ṇivvūḍhabbhatthaṇāaraṃ maaraharaṃ
+PL327/ aha ṇikkāraṇa-gahiaṃ mae vi abbhatthio ṇa mocchihi dhīraṃ
+PL328/ tā pecchaha bolīṇaṃ vihuoahi-jantaṇaṃ thaleṇa kaï-balaṃ
+PL329/ jattha mahaṃ paḍiuttho vasihii aṇṇassa kaha tahiṃ cia roso
+PL330/ diṭṭhiṃ pāḍei jahiṃ diṭṭhi-viso taṃ puṇo ṇa pecchaï biio
+PL331/ tāva a sahasuppaṇṇā ṇavāavāliddha-kasaṇa-mihiāambā
+PL332/ maüla-ppahāṇuviddhā āḍhattā dīsiuṃ ṇisiara-cchāā
+PL333/ to gamaṇa-vea-mārua-muhala-paḍaddhanta-ṇaha-ṇirāia-jalae
+PL334/ pecchanti ravi-arantara-gholāvia-pihula-vijjule raaṇiare
+PL335/ to ṇaha-alāvaḍante palaüppāa vva ṇisiare ahileuṃ
+PL336/ uṇṇāmia-giri-siharaṃ caliaṃ mahi-maṇḍalaṃ va vāṇara-seṇṇaṃ
+PL337/ osumbhanta-jalaharaṃ visama-ṭṭhia-pavaa-bala-valantāloaṃ
+PL338/ dīsaï bhamanta-vihaḍaṃ thāṇa-pphiḍia-siḍhilaṃ paḍantaṃ va ṇahaṃ
+PL339/ ṇavari a laṅkā-diṭṭho diṭṭha-sahāo vihīsaṇo māruiṇā
+PL340/ ṇiameūṇa kaï-balaṃ bīodanto vva rāhavassa uvaṇio
+PL341/ calaṇoṇaa-ṇihuassa a māṇeṇa va kara-aleṇa se rahuvaïṇā
+PL342/ uṇṇāmiaṃ ṇaṇu siraṃ jāaṃ rakkhasa-ulāhi dūrabbhahiaṃ
+PL343/ vavasia-ṇiveiattho so mārui-laddha-paccaāgaa-harisaṃ
+PL344/ suggīveṇa ura-tthala-vaṇa-mālā-malia-mahuaraṃ uvaūḍho
+PL345/ to jampaï rahu-taṇao samaaṃ dasasu vi disā-muhesu kiranto
+PL346/ paaï-sukaassa dhavalaṃ ṇīsandaṃ va hiaassa dantujjoaṃ
+PL347/ ṭhāṇaṃ davaggi-bhīā vaṇammi vaṇa-hatthiṇi vva parimaggantī
+PL348/ pecchaha laddhāsāā mottuṃ rakkhasa-ulaṃ ṇa icchaï lacchī
+PL349/ ṇajjaï vihīsaṇa tuhaṃ somma-sahāva-parivaḍḍhiaṃ viṇṇāṇaṃ
+PL350/ diṭṭhi-visehi va amaaṃ uahissa ṇisāarehi vi aviddaviaṃ
+PL351/ suddha-sahāveṇa phuḍaṃ phuranta-pajjatta-guṇa-maūheṇa tume
+PL352/ candeṇa va ṇiaa-mao kaluso vi pasāhio ṇisāara-vaṃso
+PL353/ kaha ira sa-kajja-kusalā kajja-gaïṃ maï-guṇehi avalambantā
+PL354/ kula-māṇa-vavaṭṭhambhā ṇa honti rāa-siri-bhāaṇaṃ sappurisā
+PL355/ laddhāsāeṇa ciraṃ sura-bandi-pariggahe ṇisāara-vaïṇā
+PL356/ sīā rakkhasa-vasahiṃ diṭṭhi-visa-haraṃ visosahi vva uvaṇiā
+PL357/ phiḍiā sura-saṃkhohā bandi-aṇakkandiaṃ gaaṃ pariṇāmaṃ
+PL358/ jāā dahamuha-gahiā tihuvaṇa-ḍimbassa jāṇaī avasāṇaṃ
+PL359/ aha ṇaaṇesu paharisaṃ kaṇṇesu pavaṃga-vaḍḍhiaṃ jaa-saddaṃ
+PL360/ sīsammi a ahiseaṃ palhatthaï a hiaammi se aṇurāaṃ
+
+<B 5>
+
+pañcamo āsāsao
+PL361/ aha jalaṇihimmi ahiaṃ maaṇe a miaṅka-daṃsaṇa-viambhante
+PL362/ viraha-vihurassa ṇajjaï ṇisā vi rāmassa vaḍḍhiuṃ āḍhattā
+PL363/ uia-miaṅkaṃ ca ṇahaṃ ṇiama-ṭṭhia-rāhavaṃ ca sāara-puliṇaṃ
+PL364/ ṇenti paraṃ parivaḍḍhiṃ āliṅgia-candimaṃ mahoahi-salilaṃ
+PL365/ to se vioa-sulahā ṇiama-viiṇṇa-hiaa-kkhivaṇa-soḍīrā
+PL366/ khaürenti dhii-ggahaṇaṃ jāaṃ jāaṃ visūraṇā-vikkhevā
+PL367/ kāhii piaṃ samuddo galihii candāavo samappihii ṇisā
+PL368/ avi ṇāma dharejja piā o ṇe virahejja jīviaṃ ti visaṇṇo
+PL369/ ṇindaï miaṅka-kiraṇe khijjaï kusumāuhe juucchaï raaṇiṃ
+PL370/ jhīṇo vi ṇavara jhijjaï jīvejja pietti māruiṃ pucchanto
+PL371/ etto vasaï tti disā eṇaṃ sā ṇūṇa ṇindaï tti miaṅko
+PL372/ ettha ṇisaṇṇetti mahī eeṇa ṇia tti se ṇahaṃ pi bahu-maaṃ
+PL373/ dhīreṇa ṇisā-āmā hiaeṇa samaṃ aṇiṭṭhiā uvaesā
+PL374/ ucchāheṇa saha bhuā bāheṇa samaṃ galanti se ullāvā
+PL375/ dhīretti saṃṭhavijjaï mucchijjaï maaṇa-pelavetti gaṇento
+PL376/ dharaï pia tti dharijjaï vioa-taṇuetti āmuaï aṅgāiṃ
+PL377/ ubbhaḍa-hariṇa-kalaṅko malaa-laā-pallavuvvamanta-maūho
+PL378/ aruṇāhaa-vicchāo jāo suha-daṃsaṇo ṇavara tassa sasī
+PL379/ jaha jaha ṇisā samappaï taha taha vevira-taraṅga-paḍimā-vaḍiaṃ
+PL380/ kiṃkāavva-vimūḍhaṃ ghoḍaï hiaaṃ va uahiṇo sasi-bimbaṃ
+PL381/ ṇavari a malaa-guhā-muha-bhariuvvaria-phuḍa-ṇīharanta-paḍiravaṃ
+PL382/ pavaṇeṇa uahi-salilaṃ pahāa-tūraṃ va āhaaṃ rahuvaïṇo
+PL383/ haṃsa-ula-sadda-muhalaṃ ugghāḍijjanta-dasa-disā-vitthāraṃ
+PL384/ osaria-timira-salilaṃ jāaṃ puliṇaṃ va pāaḍaṃ diasa-muhaṃ
+PL385/ aha gamia-ṇisā-samaaṃ gambhīrattaṇa-daḍha-ṭṭhiammi samudde
+PL386/ roso rāhava-vaaṇaṃ uppāo canda-maṇḍalaṃ va vilaggo
+PL387/ to se tamāla-ṇīlaṃ ṇiḍāla-vaṭṭaṃ paloṭṭa-sea-jala-lavaṃ
+PL388/ bhiuḍī thira-vitthiṇṇaṃ kaḍaaṃ viñjhassa visa-laa vva vilaggā
+PL389/ aha jaṇia-bhiuḍi-bhaṅgaṃ jāaṃ dhaṇu-hutta-valia-loaṇa-jualaṃ
+PL390/ amarisa-viiṇṇa-kampaṃ siḍhila-jaḍā-bhāra-bandhaṇaṃ tassa muhaṃ
+PL391/ paṇaa-paḍibhaṅga-vimaṇo thoa-tthoa-paḍivaḍḍhiāmarisa-raso
+PL392/ taha sommo vi rahu-suo jāo palaa-raï-maṇḍala-durāloo
+PL393/ to sāhasa-ṇimmāṇaṃ amitta-dīsanta-lacchi-saṃkea-haraṃ
+PL394/ saṃṭhia-rosālāṇaṃ geṇhaï bhua-dappa-bīa-lakkhaṃ cāvaṃ
+PL395/ akkanta-dhaṇu-bharoṇaa-dharaṇi-ala-tthala-paloṭṭa-jala-pabbhāro
+PL396/ thoaṃ pi aṇārūḍhe uahī cāvammi saṃsaaṃ ārūḍho
+PL397/ dhūmāi dhūma-kaluse jalaï jalantāruhanta-jīā-bandhe
+PL398/ paḍirava-paḍiuṇṇa-disaṃ rasaï rasanta-sihare dhaṇummi ṇaha-alaṃ
+PL399/ bhijjaü mahi tti va phuḍaṃ ṇatthi samuddo tti dāruṇaṃ va païṇṇaṃ
+PL400/ ṇāsaü jaaṃ ti va maṇe ciraṃ tuleūṇa vilaïaṃ ṇeṇa dhaṇuṃ
+PL401/ to cira-vioa-taṇuo saï-bāhomaṭṭha-maüa-jīāghāo
+PL402/ jāo aṇṇo ccia se vilaïa-dhaṇu-metta-vāvaḍo vāma-bhuo
+PL403/ aha vāma-bhuapphālaṇa-paḍirava-paḍiuṇṇa-dasa-disā-vitthāraṃ
+PL404/ saṃbharaï jāa-saṅkaṃ palaa-ghaṇabbhahia-pellaṇaṃ tellokkaṃ
+PL405/ geṇhaï a so aṇāara-paraṃmuha-pasāriagga-hatthāvaḍiaṃ
+PL406/ khaa-sūra-maūhāṇa va ekkaṃ uahi-parivattaṇa-sahaṃ bāṇaṃ
+PL407/ to saṃdhanteṇa saraṃ rasantarolugga-bhiuḍi-bhaṅgeṇa ciraṃ
+PL408/ ṇīsasiūṇa pulaïo aṇuampā-dūmiāṇaṇeṇa samuddo
+PL409/ aha kaḍḍhiuṃ paütto ṇikkampa-ṇirāa-diṭṭhi-saccavia-saraṃ
+PL410/ valia-bhua-ruddha-majjhaṃ daḍha-ṇippīḍia-guṇaṃ dhaṇuṃ rahuṇāho
+PL411/ sara-muha-visama-pphaliā ṇamanta-dhaṇu-koḍi-vipphuranta-cchāā
+PL412/ ṇajjaï kaḍḍhijjantā jīā-sadda-gahiraṃ rasanti ravi-arā
+PL413/ phuḍa-jīā-rava-muhalaṃ tajjeï va bāṇa-muha-jalantaggi-sihaṃ
+PL414/ jalaṇihi-vaha-paḍiuddhaṃ āaṇṇāaḍḍhiaṃ viambhaï va dhaṇuṃ
+PL415/ khuhia-jala-siṭṭha-sāro muha-ṇiddhāvia-pasāriukkā-ṇivaho
+PL416/ āaḍḍhijjanto ccia ṇajjaï paḍio tti sāare rāma-saro
+PL417/ dhua-vijju-piṅgalāiṃ sara-muha-ṇiggiṇṇa-huavaha-palittāiṃ
+PL418/ uppāa-loaṇāi va phuṭṭanti disā-muhāṇa ghaṇa-bindāiṃ
+PL419/ to bhua-rahasāaḍḍhia-dhaṇu-vaṭṭha-pphulia-bahala-dhūmuppīḍaṃ
+PL420/ muaï muha-ṇiggaāṇala-sihā-samolugga-sūra-kiraṇaṃ bāṇaṃ
+PL421/ so jaliūṇa ṇaha-ale saliladdhatthamia-huavahāamba-muho
+PL422/ paḍhamoiṇṇa-diṇaaro dīho diaho vva sāarammi ṇivaḍio
+PL423/ gaaṇe vijju-ṇihāo khaanta-kālāṇalo samudducchaṅge
+PL424/ mahi-ampo pāāle hoi paḍanta-paḍia-ṭṭhio rāma-saro
+PL425/ tassa a maggālaggā aïnti ṇiddhūma-jalaṇa-amba-cchāā
+PL426/ uahiṃ bāṇa-ṇihāā addhatthamiassa diṇaarassa va kiraṇā
+PL427/ ṇavari a sara-ṇibbhiṇṇo valaā-muha-vihua-kesara-saḍugghāo
+PL428/ uddhāio rasanto vīsattha-pasutta-kesari vva samuddo
+PL429/ dūrāiddha-ṇiatte samuhāgaa-bahala-sara-ṇihāa-kkhuḍie
+PL430/ dohāijjaï va ṇahaṃ ṭaṅka-cchea-rahasuṭṭhiammi samudde
+PL431/ raaṇāara-para-bhāe majjha-cchiṇṇammi bāṇa-ghāukkhitte
+PL432/ ṇivaḍaï bīaddhanto phuḍiosario vva malaa-aḍa-pabbhāro
+PL433/ bhiṇṇa-giri-dhāu-ambā visama-cchiṇṇa-ppavanta-mahihara-vakkhā
+PL434/ khubbhanti khuhia-maarā āvāāla-gahirā samudduddesā
+PL435/ āamba-ravi-arāhaa-dara-vihaḍia-dhavala-kamala-maüla-cchāaṃ
+PL436/ bhamaï sara-pūria-muhaṃ ugghāḍia-paṇḍuroaraṃ saṅkha-ulaṃ
+PL437/ vevanti vihua-macchā sara-ghāukkhuḍia-maara-dāḍhā-dhavalā
+PL438/ maṇi-bhara-visamoṇāmia-lua-visahara-gholira-pphaṇā jala-ṇivahā
+PL439/ phuṭṭanta-vidduma-vaṇaṃ saṃkhohuvvatta-ṇinta-raaṇa-maūhaṃ
+PL440/ gholaï velāvaḍiaṃ pheṇa-ṇihucchalia-mottiaṃ uvahi-jalaṃ
+PL441/ jala-pabbāḍia-mukkā khaṇa-metta-tthaïa-pāaḍia-vitthārā
+PL442/ honti pasaṇṇa-kkhuhiā mūallaïa-muhalā samuddāvattā
+PL443/ valamāṇuvvattanto ekkaṃ cira-āla-pīḍiaṃ siḍhilento
+PL444/ bīeṇa va pāāle pāseṇa ṇisammiuṃ paütto uvahī
+PL445/ sara-vea-galatthallia-suvela-rubbhanta-sāaraddha-tthaïaṃ
+PL446/ osaria-dāhiṇa-disaṃ dīsaï ukkhaṇḍiekka-pāsaṃ va ṇahaṃ
+PL447/ āi-varāheṇa vi je addiṭṭhā mandareṇa vi aṇāliddhā
+PL448/ khuhiā te vi bhaaarā āvāāla-gahirā samudduddesā
+PL449/ ekkekkammi valanto bāṇa-ppahara-vivare ṇaha-ṇirālambe
+PL450/ khaa-kālāṇala-bhīo paḍaï rasanto rasāale vva samuddo
+PL451/ dīsanti diṭṭha-mahaṇā puṭṭhi-paḍiṭṭhia-paloṭṭa-mandara-siharā
+PL452/ āsāiāmaa-rasā bāṇa-daḍha-ppahara-mucchiā timi-macchā
+PL453/ ukkhitta-mahāvattā dara-daḍḍha-vivaṇṇa-vidduma-raa-kkhaürā
+PL454/ āvāāla-valantā dīsanti mahā-bhuaṃga-ṇīsāsa-vahā
+PL455/ vevaï pemma-ṇialiaṃ sara-saṃdaṭṭa-dhaṇiovaūhaṇa-suhiaṃ
+PL456/ jīeṇa ekkamekkaṃ parirakkhanta-valiaṃ bhuaṃgama-mihuṇaṃ
+PL457/ moḍia-vidduma-viḍavā dhāvanti jalammi maṇi-ṇihaṃsaṇa-ṇisiā
+PL458/ sippi-uḍa-majjha-ṇiggaa-muha-lagga-tthora-muttiā rāma-sarā
+PL459/ visa-veo vva pasario jaṃ jaṃ ahilei bahala-dhūmuppīḍo
+PL460/ kajjalaïjjaï taṃ taṃ ruhiraṃ va mahoahissa vidduma-veḍhaṃ
+PL461/ khuhia-samudduppaïā bāṇukkitta-paḍiekka-vitthaa-vakkhā
+PL462/ visama-bharoṇaa-siharā ṇahaddha-vantha-valiā paḍanti mahiharā
+PL463/ chiṇṇa-vivaïṇṇa-bhoā kaṇṭha-paḍiṭṭhavia-jīviāgaa-rosā
+PL464/ diṭṭhīhi bāṇa-ṇivahe ḍahiūṇa muanti jīviāi bhuaṃgā
+PL465/ āūrei rasanto ukkhaḍia-bhuaṃga-bhoa-pabbhārāiṃ
+PL466/ sara-muha-galatthaṇukkhaa-sela-ṭṭhāṇa-vivaroarāi huavaho
+PL467/ bhiṇṇuvvūḍha-jalaarā dara-diṇṇa-mahā-taraṅga-giri-aḍa-ghāā
+PL468/ chiṇṇa-paḍiuddha-viddhā phuḍanti māaṅga-maara-danta-pphaḍihā
+PL469/ jālāloa-vimuhiaṃ salila-taraṅga-parisakkaṇa-parikkhaliaṃ
+PL470/ pariharaï vidduma-vaṇaṃ dhūmāhaa-amba-loaṇaṃ mīṇa-ulaṃ
+PL471/ uvvattoara-dhavalā dara-ṇiggaha-ḍaḍḍha-jamala-jīhā-ṇivahā
+PL472/ saṃdhenti uppaantā thora-taraṃga-viaḍantarāi bhuaṃgā
+PL473/ dīsanti daruttiṇṇā huāsaṇuttatta-vāa-maa-ṇīsandā
+PL474/ pakkaggāha-ṇahaṅkusa-visama-samukkatta-matthaā kari-maarā
+PL475/ gholaï gaoṇiattaṃ visama-ṭṭhia-maṇi-silā-ala-paloṭṭantaṃ
+PL476/ jhijjanta-salila-vihalaṃ velā-puliṇa-gamaṇūsuaṃ saṅkha-ulaṃ
+PL477/ mukka-samudducchaṅgā pakkha-kkhevehi saṃbhama-samuppaïā
+PL478/ abbhuttenti mahiharā ekkakkama-sihara-saṃṭhiaṃ mihi-ṇivahaṃ
+PL479/ vihaluvvatta-bhuaṃgā chiṇṇa-mahāsura-siruppaaṇa-gambhīrā
+PL480/ mūlutthaṅghia-raaṇā ṇenti rasantā rasāala-jaluppīḍā
+PL481/ bāṇa-ṇihāucchittā huavaha-jālāhaüppavanta-ppheṇā
+PL482/ aṭṭanti ṇaha-ale ccia mārua-bhiṇṇa-lahuā salila-kallolā
+PL483/ ṇivvūḍha-visa-tthavaā bhoāaḍḍhaṇa-galanta-gamaṇucchāhā
+PL484/ tuṅga-taraṃga-kkhaliā visamuvvattoarā valanti bhuaṃgā
+PL485/ vevanti ṇiṇṇaāṇaṃ sara-ṇivaha-cchiṇṇa-saṅkha-vihaḍia-valaā
+PL486/ hattha vva uahi-ṇimiā mukka-ravakkanda-ṇivaḍiāṇa taraṃgā
+PL487/ huavaha-bharia-ṇiambā jalaara-saṃdaṭṭa-vakkha-uḍa-pabbhārā
+PL488/ cira-saṃṇiroha-masiṇā dukkheṇa ṇahaṃ samuppaanti mahiharā
+PL489/ jalaï jalanta-jalaaraṃ bhamaï bhamanta-maṇi-vidduma-laā-jālaṃ
+PL490/ rasaï rasantāvattaṃ bhijjaï bhijjanta-pavvaaṃ uahi-jalaṃ
+PL491/ āvatta-vivara-bhamiro malaa-maṇi-silā-ala-kkhalia-saṃcāro
+PL492/ gholira-taraṃga-visamo jaha dīsaï sāaro tahea huavaho
+PL493/ rahasa-palittucchalio je ccia paḍivei malaa-vaṇa-vitthāre
+PL494/ vijjhāa-ṇiattanto te ccea puṇo vi vijjhavei samuddo
+PL495/ utthambhia-maaraharo maara-vasāmisa-visaṅkhala-sihā-ṇivaho
+PL496/ ṇivaha-ṇisuddha-mahiharo mahihara-kūḍa-viaḍo viambhaï jalaṇo
+PL497/ jalaṇutthaṅghia-mūlā bāṇukkhitta-paḍiattaṇa-ṇisumbhantā
+PL498/ ṇivaḍanti jaluppīḍā paḍilomāgaa-paḍanta-viaḍāvattā
+PL499/ dhūmāi jalaï vihaḍaï ṭhāṇaṃ siḍhilei malaï malaücchaṅgaṃ
+PL500/ dhīrassa paḍhama-iṇhaṃ taha vi hu raaṇāaro ṇa bhañjaï pasaraṃ
+PL501/ bhuaïnda-loaṇāṇaṃ phuṭṭantāṇa a timīṇa sāara-majjhe
+PL502/ saṃvatta-jalaharāṇa va rāma-sarāṇala-haāṇa ṇīharaï rao
+PL503/ muha-puñjiaggi-ṇivahā dhūma-sihā-ṇiha-ṇirāa-aḍḍhia-salilā
+PL504/ ṇivaḍanti ṇahukkhittā palaükkā-daṇḍa-saṃṇihā ṇaï-sottā
+PL505/ aṭṭanta-salila-ṇivaho thoa-tthoa-paḍimukka-puliṇucchaṅgo
+PL506/ dīsaï osakkanto maggāhutto paaṃ paaṃ va samuddo
+PL507/ jalaṇa-ṇivahammi salilaṃ sāṇala-ṇivahucchalanta-salilammi ṇahaṃ
+PL508/ salila-ṇivahotthaammi a atthāaï ṇaha-ale dasa-disā-akkaṃ
+PL509/ sihiṇā paavijjante āaṭṭantammi vitthae jala-ṇivahe
+PL510/ jāā gimha-vilambia-ravi-raha-cakka-masiṇā samuddāvattā
+PL511/ ṇivvaḍia-dhūma-ṇivaho uddhāia-maragaa-ppahā-milia-siho
+PL512/ vitthiṇṇammi samudde seālomaïlio vva gholaï jalaṇo
+PL513/ jalaï valavāṇalo via phuṭṭaï selo vva rāma-bāṇāhihao
+PL514/ rasaï jalao vva uahī khuhio laṅghei māruo vva ṇaha-alaṃ
+PL515/ hoi thimiammi thimio valaï valantammi vihaḍaï visaṃghaḍie
+PL516/ parivaḍḍhiammi vaḍḍhaï salile jhīṇammi ṇavara jhijjaï jalaṇo
+PL517/ rāma-sarāṇala-paavia-jhijjantoahi-vihatta-taḍa-viccheā
+PL518/ te ccia taha-vitthārā tuṅgā dīsanti dīva-maṇḍali-bandhā
+
+<B 6>
+
+chaṭṭhao āsāsao
+PL519/ ālīṇo a rahuvaïṃ ṇiaa-cchāāṇulitta-malaa-maṇi-silaṃ
+PL520/ saṃsia-suhoaïvvaṃ dumaṃ laāe vva jāṇaīa virahiaṃ
+PL521/ sara-ghāa-ruhira-kusumo tivahaa-vallī-piṇaddha-maṇi-raaṇa-phalo
+PL522/ rāma-caraṇesu uahī daḍha-pavaṇāiddha-pāao vva ṇivaḍio
+PL523/ pacchā a hittha-hiaā jatto ccia ṇiggaā vivalhattha-muhī
+PL524/ hari-caraṇammi tahiṃ cia kamalāambammi tivahaā vi ṇivaḍiā
+PL525/ aha maüaṃ pi bhara-sahaṃ jampaï thoaṃ pi attha-sārabbhahiaṃ
+PL526/ paṇaaṃ pi dhīra-garuaṃ thui-saṃbaddhaṃ pi aṇaliaṃ salilaṇihī
+PL527/ duttārattaṇa-garuiṃ thira-dhīra-pariggahaṃ tume ccia ṭhaviaṃ
+PL528/ aṇuvālanteṇa thiiṃ piaṃ ti tuha vippiaṃ mae kaha vi kaaṃ
+PL529/ viasanta-raa-kkhaüraṃ maaranda-rasuddhumāa-muhala-mahuaraṃ
+PL530/ uduṇā dumāṇa dijjaï hīraï ṇa uṇo tamappaṇa ccia kusumaṃ
+PL531/ kiṃ pamhaṭṭha mhi ahaṃ tuha calaṇuppaṇṇa-tivahaā-paḍiuṇṇaṃ
+PL532/ khaa-kālāṇala-khaviaṃ dharaṇi-aluddharaṇa-viluliaṃ appāṇaṃ
+PL533/ calaṇehi muha-virohe dāḍhāghāehi dharaṇi-veḍhuddharaṇe
+PL534/ soa-kilinteṇa tume iṇhiṃ dahamuha-vahe sarehi vilulio
+PL535/ ṇiaāvatthāhi vi me eaṃ dhīreṇa vippiaṃ dhīra kaaṃ
+PL536/ jaṃ ṇeṇa paaï-sommā kaha vi visaṃvāiā tuha muha-cchāā
+PL537/ eaṃ tuha eārisa-sura-kajja-sahassa-khea-vīsāma-sahaṃ
+PL538/ jaa-pabbālaṇa-joggaṃ parirakkhasu palaa-rakkhiaṃ jala-ṇivahaṃ
+PL539/ apariṭṭhia-mūla-alaṃ jatto gammaï tahiṃ dalanta-mahi-alaṃ
+PL540/ ṇa hu salila-ṇibbharaṃ cia khavie vi mamammi duggamaṃ pāālaṃ
+PL541/ taṃ kālassa ṇisammaü kaha vi darukkitta-dasama-kaṇṭha-kkhaliaṃ
+PL542/ ghaḍia-giri-seu-bandhaṃ cira-ālāuñciaṃ dahamuhammi paaṃ
+PL543/ to harisa-paḍhama-tulie caliā phuṭṭanta-pamha-visamūsasie
+PL544/ veukkhaa-sīmante pavaā dhuṇiūṇa kesara-saḍugghāe
+PL545/ pavaa-kkhohia-mahi-ala-dhua-malaa-paḍanta-sihara-mukka-kalaalo
+PL546/ uddhāio aṇāgaa-ghaḍanta-dharaṇihara-saṃkamo vva samuddo
+PL547/ kampaï mahenda-selo hari-saṃkhoheṇa dalaï meiṇi-veḍhaṃ
+PL548/ saï-duddiṇa-taṇṇāo ṇavara ṇa uddhāi malaa-vaṇa-kusuma-rao
+PL549/ to saṃcālia-selaṃ kaha vi tulaggeṇa sama-ghaḍanta-kkampaṃ
+PL550/ dūraṃ pavaṃgama-balaṃ ṇaha-muha-lagga-vasuhaṃ ṇahaṃ uppaïaṃ
+PL551/ uppaaṇoṇaa-mahi-ala-ṇaï-muha-paḍisotta-patthio salilaṇihī
+PL552/ jala-ṇivahāhaa-siḍhile pavaücchevaṇa-sahe karei mahihare
+PL553/ phuramāṇa-jalaṇa-piṅgala-ṇirantaruppaïa-pavaa-pellijjanto
+PL554/ jatto dīsaï tatto ṇajjaï dhīma-ṇivaho tti gaaṇuddeso
+PL555/ dīsaï dūruppaïaṃ uahimmi ahomuhosaranta-cchāaṃ
+PL556/ pāālaṃ va aïntaṃ dharaṇiharuddharaṇa-kaṅkhiaṃ kaï-seṇṇaṃ
+PL557/ addiṭṭha-disā-ṇivahaṃ jāaṃ pavaa-bala-saṃṇiruddhāloaṃ
+PL558/ vicchiṇṇāava-kasaṇaṃ diasa-muhe vi diasāvasāṇe vva ṇahaṃ
+PL559/ ovaïā a sarahasaṃ taṃsa-ṭṭhia-puṭṭhi-ṇīsaranta-ravi-arā
+PL560/ selesu mukka-kalaala-paḍirava-bharia-kuharoaresu pavaṃgā
+PL561/ veovaïāṇa a siṃ jāaṃ dalia-mahi-saṃdhi-bandhaṇa-mukkaṃ
+PL562/ ukkhalia-tuleavvaṃ kaha vi bhuaṃga-dharia-ṭṭhiaṃ giri-ālaṃ
+PL563/ āḍhattā a tuleuṃ ura-paḍia-visaṭṭa-gaṇḍa-seladdhante
+PL564/ kuvia-maïndovaggia-saṃkhoha-pphiḍia-vaṇa-gae dharaṇihare
+PL565/ vacchutthaṅghia-kaḍaā to te kaḍaa-paḍiaṭṭalia-vaccha-aḍā
+PL566/ selesu sela-garuā pavaā pavaesu mahiharā a pahuttā
+PL567/ pavaa-bhua-ṇolliāṇia-mahihara-paḍipellaṇoṇaüṇṇaa-visamā
+PL568/ jāā paloṭṭioahi-vāraṃ-vāra-bhariā mahi-aladdhantā
+PL569/ visahia-vajja-ppaharā ukkhammanti khaa-mārua-paḍikkhambhā
+PL570/ agaṇia-varāha-ṇihasā palaa-jalutthaṅgha-pabbalā dharaṇiharā
+PL571/ jalaovaṭṭha-vimukkā aṇantaroiṇṇa-saraa-vanthāvaḍiā
+PL572/ ekka-kkhevuggāhia-dara-vasuāa-visaā visaṭṭanti girī
+PL573/ vihuṇanti vihuvvantā valenti selā pavaṃgama-valijjantā
+PL574/ ṇāmenti ṇamijjantā ukkhippantā a ukkhiventi mahi-alaṃ
+PL575/ dalia-mahi-veḍha-siḍhilā mūlālagga-bhuaïnda-kaḍḍhijjantā
+PL576/ saṃcālijjanta ccia aïnti garuā rasāalaṃ dharaṇiharā
+PL577/ ṇava-pallava-sacchāā jalaoara-sisira-mārua-viijjantā
+PL578/ vāanti takkhaṇukkhaa-hari-hatthukkhitta-bhembhalā malaa-dumā
+PL579/ kampijjanta-dharāhara-sihara-samāiḍḍha-jalahara-raüppitthā
+PL580/ gaa-suha-vatta-ṇisaṇṇā vevaï haṃsī sahassavatta-ṇisaṇṇā
+PL581/ pavaovaūḍha-kaḍḍhia-selabbhantara-bhamanta-visama-kkhaliā
+PL582/ gahiraṃ rasanti vitthaa-vaccha-tthala-ruddha-ṇiggamā ṇaï-sottā
+PL583/ addhukkhitta-pasiḍhile addha-vaha-bhuaṃga-kaḍḍhiaddhatthamie
+PL584/ ummūlenti rasāala-paṅka-kkhutta-sariā-muhe dharaṇihare
+PL585/ uvvellaï va ṇirāaṃ pāsallantesu sihara-paḍimuccantaṃ
+PL586/ ukkhippantesu puṇo saṃvellijjaï va mahiharesu ṇaha-alaṃ
+PL587/ ummūlenti pavaṃgā bhua-siharāruhaṇa-ṇiccala-pariggahie
+PL588/ kaḍaāvaḍaṇutthaṅghia-visama-vivatta-vivaraṃ-muhā dharaṇihare
+PL589/ hari-bhua-kaḍḍhia-mukkā bhuaṃga-daḍha-veḍhaṇāvalambaṇa-dhariā
+PL590/ bhijjantā vi mahi-ale oallanti ṇa paḍanti candaṇa-viḍavā
+PL591/ paḍisamaï ṇaha-ṇibaddho cireṇa bhariabbha-ṇāa-gambhīraaro
+PL592/ hari-bhua-vikkama-pisuṇo aaṇḍa-bhajjanta-dharaṇihara-ṇigghoso
+PL593/ pāsallanti mahiharā jatto-huttā pavaṃgama-bhua-kkhittā
+PL594/ dhuvvanta-dhāu-ambā tatto-huttā valanti sariā-sottā
+PL595/ dīsanti pavaa-valiā āvattesu va mahoahissa valantā
+PL596/ sariāṇa ghaḍia-patthia-valanta-salila-valaantaresu mahiharā
+PL597/ maaranda-garua-vakkhaṃ pāsoallanta-vaṇa-laā-vicchūḍhaṃ
+PL598/ ṇa muaï kusuma-ggocchaṃ āsāia-mahu-rasaṃ pi mahuara-mihuṇaṃ
+PL599/ uppua-surahi-gandha-maaranda-rañjiāiṃ ṭhia-parilenta-bhamira-bhamaroarañjiāiṃ
+PL600/ kamala-vaṇāi sūra-parimāsa-viasiāiṃ ucchalie sarāṇa salilammi via-siāiṃ
+PL601/ daḍha-saṃdāṇia-mūlā valanti vāṇara-bhuāvalambia-siharā
+PL602/ rosuppittha-bhuaṃgama-visamuddha-phaṇā-paṇolliā dharaṇiharā
+PL603/ sariā saranta-pavahā aṇṇoṇṇa-mahā-ṇaï-ppavaha-palhatthā
+PL604/ khohia-paṅka-kkhaürā valanta-sela-valiā muhuttaṃ vūḍhā
+PL605/ kaḍḍhijjanti samantā visamuvvattanta-dhavala-kasaṇa-cchāā
+PL606/ mahihara-mūlālaggā rasāaladdha-paḍigholirā bhuaïndā
+PL607/ galaï sarasaṃ pi kusumaṃ vāi aṇāliddha-bandhaṇaṃ pi kisalaaṃ
+PL608/ rahasummūlia-mahihara-bhaa-vivalāa-vaṇa-devaāṇa laāṇaṃ
+PL609/ ukkhippanti jaṃ disāsuṃ dharā samattā teṇa khaṇeṇa ṇajjaï vasuṃdharā samattā
+PL610/ kīraï mahiharehi gaaṇaṃ di-sāla-āṇaṃ vaḍḍhaï jalaa-sihara-paüṇaṃ disā-laāṇaṃ
+PL611/ ekkakkeṇa a selaṃ kara-ala-juala-dhariaṃ tulanteṇa kaaṃ
+PL612/ addhatthamiaṃ ca ṇahaṃ addhugghāḍia-rasāalaṃ ca mahi-alaṃ
+PL613/ sela-ṇiambālaggā pavirala-ṇaï-magga-pāaḍa-taḍa-ccheā
+PL614/ bhuaïnda-pphaṇa-dhariā ṇahaṃ vilagganti meiṇi-aladdhantā
+PL615/ dharaṇihareṇa a caliaṃ calia-kandareṇaṃ phuṭṭaï gaa-ulaṃ aṇāliddha-kaṃ dareṇaṃ
+PL616/ giri-siharāi sarasa-hariāla-vaṅkiāiṃ sama-visamaṃ ṇamanti hari-āla-vaṅkiāiṃ
+PL617/ pāava-siharuttiṇṇo malaa-vaṇa-pavitta-pavaṇa-raa-vitthario
+PL618/ saṃjhā-rāo vva ṇahaṃ apphundaï malia-ravi-araṃ kusuma-rao
+PL619/ kaḍḍhia-mūla-ṇirantara-rasāalukkhitta-salila-kaddama-ghaḍiā
+PL620/ vaḍḍhanti tti muṇijjaï ṇajjaï ṇa muanti mahi-alaṃ ti mahiharā
+PL621/ siharāi ṇiāi ṇahaṃ mahinda-laddhāiṃ malaassa a aïṇiāi mahiṃ daladdhāiṃ
+PL622/ viñjha-ṇiambāṇa kaī dappuṇṇāmāṇaṃ sajjha-aḍāṇa a bhariā dhua-puṇṇāmāṇaṃ
+PL623/ siharāṇa bhua-sirehiṃ kaḍaāṇa a māviaṃ urehi pamāṇaṃ
+PL624/ vaṇa-vivarehi darīṇaṃ tuliā pavaāṇa agga-hatthehi girī
+PL625/ paḍisanta-kaṇṇa-ālaṃ ovatta-muhaṃ pasāriolugga-karaṃ
+PL626/ jhāï ṇu soa-ṇimillaṃ vīsamaï ṇu bhamia-ṇīsahaṃ hatthi-ulaṃ
+PL627/ pāavā a pāsalla-sela-visamāṇiā cuṇṇiā dalijjanta-daluvvi-samāṇiā
+PL628/ jalaharā a vihaḍanta-mahinda-ravāviā vaṇa-laā a gholanti mahiṃ dara-vāviā
+PL629/ ṭuṭṭantā vi sasaddaṃ pavaa-bhua-kkheva-mūla-valiaddhantā
+PL630/ bhuaehi bhoa-bhārā sela-bharaṅkusaïa-pphaṇehi ṇa ṇāā
+PL631/ dara-dāvia-pāālaṃ dara ukkhitta-vihalosaranta-bhuaṃgaṃ
+PL632/ dīsaï hīrantaṃ miva kaīhi dara-tulia-mahiharaṃ mahi-veḍhaṃ
+PL633/ mīṇa-ulāi avi a siḍhilenti jīviaṃ ṇa a ṇadī harāiṃ viasante muanti dharaṇihara-saṃbhame ṇaaṇa-dīharāiṃ
+PL634/ mahisa-ulāṇa maṇi-silā-velliāṇa vaṇa-candaṇāsiāṇaṃ avaseso vi ṇatthi timiruggamāṇa jaha canda-ṇāsiāṇaṃ
+PL635/ addhe addha-pphuḍiā addhe addha-kaḍaükkhaa-silā-veḍhā
+PL636/ pavaa-bhuāhaa-visaḍhā addhe addha-siharā paḍanti mahiharā
+PL637/ jassa siharaṃ vivajjaï paḍiaṃ phuḍio a jo dharijjaï selo
+PL638/ so ccea visajjijjaï ukkhantūṇa vi apūramāṇammi bhare
+PL639/ loaṇa-vattantarie kaṇe ruantīo dhārenti bāhamaïe kaṇeru-antīo
+PL640/ maṇṇenti a āsāaṃ visaṃ ṇava-aṇassa virahammi jūha-vaïṇo visaṇṇa-vaaṇassa
+PL641/ seluddharaṇārosia-bhuaïnda-ṇirāaa-pphaṇa-ṇisammantī
+PL642/ jaha jaha saṃkhohijjaï taha taha kaï-deha-bhara-sahā hoi mahī
+PL643/ saṃcālia-ṇikkampā bhuā-ṇihāa-visamukkhaa-silā-veḍhā
+PL644/ khuḍiā siharaddhesu a pavaehi ṇiamba-bandhaṇesu a selā
+PL645/ uṇṇāmiaṃ miva ṇahaṃ dūraṃ osāriā viva disāhoā
+PL646/ ummūlantehi dhare pasāriaṃ miva pavaṃgamehi mahi-alaṃ
+PL647/ dīsaï kaï-ṇivahukkhaa-dharāhara-ṭṭhāṇa-gahira-vivaruttiṇṇo
+PL648/ uppāāava-ambo sesāhi-pphaṇa-maṇi-ppahā-vicchaḍḍo
+PL649/ kelāsa-diṭṭha-sāraṃ garuaṃ pi bhuā-balaṃ ṇisāara-vaïṇo
+PL650/ pavaehi pāḍiekkaṃ ekka-karukkhitta-mahiharehi lahuïaṃ
+PL651/ ukkhaa-giri-vivarovaia-diṇaarāava-milanta-tama-saṃghāaṃ
+PL652/ jāaṃ pavirala-timiraṃ āvaṇḍura-dhūma-dhūsaraṃ pāālaṃ
+PL653/ pavaehi a ṇiravekkhaṃ kao karantehi girisa-vāsuddharaṇaṃ
+PL654/ sāmia-kajjekka-raso aasa-muhe vi jasa-bhāaṇaṃ appāṇo
+PL655/ honti garuā vi lahuā pavaṃga-bhua-sihara-ṇimia-vitthaa-mūlā
+PL656/ rahasuddhāia-mārua-dūrukkhittojjharā dharāhara-ṇivahā
+PL657/ aha veeṇa pavaṃgā saalaṃ āaḍḍhiūṇa mahihara-ṇivahaṃ
+PL658/ ovaaṇāhi vi lahuaṃ vīsajjia-kalaalaṃ ṇahaṃ uppaïā
+PL659/ caḍulehi ṇippaampā uppaïavva-lahuehi vitthaa-garuā
+PL660/ ekka-kkheveṇa ṇahaṃ pakkhehi va mahiharā kaīhi vilaïā
+PL661/ pavaakkanta-vimukkaṃ visamuddha-pphuḍia-patthia-ṇiattantaṃ
+PL662/ ghaḍiaṃ ghaḍanta-ṇaï-muha-saṃdāṇia-sela-ṇiggamaṃ mahi-veḍhaṃ
+PL663/ hīranta-mahiharāhiṃ maīhi bhaa-hittha-patthia-ṇiattāhiṃ
+PL664/ mohanti khaṇa-vivattia-sasaṃbhamummuha-paloiāi vaṇāiṃ
+PL665/ ummūliāṇa khuḍiā ukkhippantāṇa ujjuaṃ osariā
+PL666/ ṇijjantāṇa ṇirāā girīṇa maggeṇa patthiā ṇaï-sottā
+PL667/ ummuha-sāraṅga-aṇaṃ apphundaï malia-meha-sāraṃ gaaṇaṃ
+PL668/ vivarabbhantara-vihaaṃ giri-ālaṃ sihara-paribhamanta-ravi-haaṃ
+PL669/ aṃsa-ṭṭhavia-mahiharā ubbhia-dāhiṇa-karāvalambia-siharā
+PL670/ uttāṇa-vāma-kara-ala-dharia-ṇiamba-pasarā ṇiattanti kaī
+PL671/ patthāṇa ccia paḍhamaṃ bhua-metta-pahāviāṇa jaṃ ṇa pahuttaṃ
+PL672/ kaha taṃ cia tāṇaṃ cia pahuppaï kaīṇa mahiharāṇa a gaaṇaṃ
+PL673/ vahaï pavaṃgama-loo sama-tuliukkhitta-milia-mūladdhante
+PL674/ ekkakkama-siharuggama-ṇihasuppusia-sariā-muhe dharaṇihare
+PL675/ ṇivvaṇṇeūṇa ciraṃ pavaā bolenti mahihara-bharakkantā
+PL676/ sāara-paḍirūāiṃ paḍhamukkhaa-viaḍa-mahihara-ṭṭhāṇāiṃ
+PL677/ khaṇa-saṃdhia-meha-aḍā veukkhippanta-giriṇirāa-ṭṭhaviā
+PL678/ parivaḍḍhantāāmā vahanti va ṇahaṅgaṇe mahā-ṇaï-sottā
+PL679/ selesu sela-tuṅgā ṇaha-ala-miliesu milia-danta-pphalihā
+PL680/ pavaa-vihuesu vihuā ṇivvaḍiesu vi ṇa ṇivvalanti vaṇa-gaā
+PL681/ vevira-paoharāṇaṃ disāṇa giri-vivara-diṭṭha-taṇu-majjhāṇaṃ
+PL682/ kusuma-raeṇa surahiṇā agghāeṇa va ṇimīliāi muhāiṃ
+PL683/ pavaā kara-ala-dharie ṇaha-muha-ṇibbhiṇṇa-vevamāṇa-visahare
+PL684/ gaï-vasa-visaṭṭa-sihare biïa-karehi parisaṃṭhaventi mahihare
+PL685/ ṇaha-ala-vea-pahāvia-pavaṃga-hīranta-sela-sihara-kkhaliā
+PL686/ maggāgaa-selāṇaṃ honti muhuttojjharā mahā-ṇaï-sottā
+PL687/ veukkhaa-duma-ṇivahe taḍa-pabbhāra-ṇiha-ṇivvalanta-jalahare
+PL688/ ṇenti jaraḍhāavāhaa-dari-vivara-ṇisaṇṇa-gaa-ule dharaṇihare
+PL689/ dhāvaï vea-pahāvia-pavaṃga-hīranta-sela-siharantario
+PL690/ chāāṇumagga-laggo turiaṃ chiṇṇāao vva malaücchaṅgo
+PL691/ āloiā ṇa diṭṭhā saccaviā ṇa gahiā samovaïehiṃ
+PL692/ ummūliā vi jehiṃ tehi ṇa uahiṃ ṇiā kaīhi mahiharā
+PL693/ bhagga-duma-bhaṅga-bhario ukkhitta-visaṭṭa-paḍia-mahihara-visamo
+PL694/ pavaāṇa uahi-laggo lakkhijjaï biia-saṃkamo vva gaï-vaho
+PL695/ veeṇa gahia-selaṃ velā-bolenta-paḍiṇiattovaïaṃ
+PL696/ jāaṃ rāmāhimuhaṃ aṇurāupphulla-loaṇaṃ kaï-seṇṇaṃ
+
+<B 7>
+
+sattamo āsāsao
+PL697/ aha te vikkama-ṇihasaṃ dahavaaṇa-paāva-laṅghaṇagga-kkhandhaṃ
+PL698/ āḍhattā viraeuṃ sāsaa-rāma-jasa-lañchaṇaṃ seu-vahaṃ
+PL699/ ṇavari a mahi-ala-dhariā mukkā uahimmi vāṇarehi mahiharā
+PL700/ āi-varāha-bhuehi va palaüvvahaṇa-daliā mahi-aladdhantā
+PL701/ ṇivaḍantammi ṇa diṭṭho dūrovaïammi kampio giri-ṇivahe
+PL702/ khaṇa-paḍiammi vilulio atthamiammi parivaḍḍhio salilaṇihī
+PL703/ ṇihaüvvatta-jalaaraṃ kaḍḍhia-kāṇaṇa-bhamanta-bhamirucchaṅgaṃ
+PL704/ jāaṃ kalasu-cchāaṃ paḍhamucchaliāgaaṃ mahoahi-salilaṃ
+PL705/ salilatthamia-mahiharo puṇo vi addiṭṭha-milia-giri-saṃghāo
+PL706/ taha-ghaḍia-pavvao via dīsaï ṇaha-sāarantarāluddeso
+PL707/ jaṇiaṃ paḍivakkha-bhaaṃ tuliā selā dhuo kaīhi samuddo
+PL708/ ṇa hu ṇavara hiaa-sārā ārambhā vi garuā mahā-lakkhāṇaṃ
+PL709/ jo dīsaï dharaṇiharo ṇajjaï eeṇa bajjhaï tti samuddo
+PL710/ uahimmi uṇa vaḍantā kattha gaa tti salileṇa ṇajjanti dharā
+PL711/ saala-mahi-veḍha-viaḍo sihara-sahassa-paḍiruddha-raï-raha-maggo
+PL712/ ia tuṅgo vi mahiharo timiṅgilassa vaaṇe taṇaṃ va paṇaṭṭho
+PL713/ pavvaa-siharucchittaṃ dhāvaï jaṃ jaṃ jalaṃ ṇahaṅgaṇa-huttaṃ
+PL714/ taṃ taṃ raaṇehi samaṃ dīsaï ṇakkhatta-maṇḍalaṃ va paḍantaṃ
+PL715/ vāṇara-veāiddhā pihula-valanta-ṇiaojjhara-parikkhittā
+PL716/ appatta ccia uahiṃ bhamanti āvatta-maṇḍalesu va selā
+PL717/ khaṇa-melia-ppaviddho siharantara-ṇinta-ritta-vāṇara-loo
+PL718/ pacchā paḍaï samudde aṇṇo milaï paḍhamaṃ ṇahe giri-ṇivaho
+PL719/ dīhā valanta-viaḍā rasanti uahimmi mārua-bharijjantā
+PL720/ pāāloara-gahirā rahasoviddhāṇa mahiharāṇa gaï-vahā
+PL721/ ukkhitta-vimukkāiṃ ṇahammi ekkekkamāvaḍaṇa-bhiṇṇāiṃ
+PL722/ vajja-bhaüppitthāi va paḍanti raaṇāare giri-sahassāiṃ
+PL723/ bhiṇṇa-silā-ala-siharā ṇiaa-dumosaria-kusuma-raa-dhūsariā
+PL724/ paḍhamaṃ paḍanti selā pacchā vāuddhuā mahā-ṇaï-sottā
+PL725/ ṇimmala-salilabbhantara-vihatta-dīsanta-visama-gaï-saṃcārā
+PL726/ ṇāsanti ṇiccala-ṭṭhia-pavaṃgamāloiā cireṇa mahiharā
+PL727/ pheṇa-kusumantaruttiṇṇa-kesarāāra-vevira-maūhāiṃ
+PL728/ sūenti pavantāiṃ mūlukkhuhiaṃ mahoahiṃ raaṇāiṃ
+PL729/ vihuṇaï velaṃ va mahiṃ bhindaï samaaṃ va dharaṇihara-saṃghāaṃ
+PL730/ geṇhaï bhaaṃ va gaaṇaṃ muaï sahāaṃ va sāaro pāālaṃ
+PL731/ palhatthanti valantā cala-viḍavantara-ṇiatta-taru-pārohā
+PL732/ mūluṇṇāmia-jalaā ahomuhandoliojjharā dharaṇiharā
+PL733/ aṭṭhia-paḍanta-mahihara-dūruṭṭhia-jala-raandhaāratthamie
+PL734/ sāhaï ṇavara paḍante pakkhuhia-samudda-paḍirao dharaṇihare
+PL735/ dara-dhoa-kesara-saḍā pāālumha-giri-dhāu-kaddamia-muhā
+PL736/ paḍisakkanti pavaṃgā palhatthia-mahiharūsasanta-kkhandhā
+PL737/ vialantojjhara-lahuā pavaṇa-vihuvvanta-pāavuddha-paallā
+PL738/ pavaehi uddha-mukkā siharehi paḍanti sāarammi mahiharā
+PL739/ atthamia-sela-maggā bhiṇṇa-ṇiattanta-salila-puñjia-kusumā
+PL740/ honti hariāla-kavilā dāṇa-suandhuppavanta-gaaduma-bhaṅgā
+PL741/ atthāanti sarosā salila-daratthamia-sela-siharāvaḍiā
+PL742/ ekkāvatta-valantā dhuvvantāamba-loaṇā vaṇa-mahisā
+PL743/ bhiṇṇa-miliaṃ pi bhijjaï puṇo vi ekkakkamāvaloaṇa-suhiaṃ
+PL744/ selatthamaṇa-ṇaüṇṇaa-taraṅga-hīranta-kāaraṃ hariṇa-ulaṃ
+PL745/ dāḍhā-vibhiṇṇa-kumbhā kari-maarāṇa thira-hattha-kaḍḍhijjantā
+PL746/ mottā-gabbhiṇa-soṇia-bheranta-muha-kandarā rasanti maïndā
+PL747/ uvvattia-kari-maarā paḍanti paḍia-giri-saṃbhamubbhaḍa-rosā
+PL748/ ovaïa-maara-ṇiddaa-lua-gattāvara-visaṃṭhulā māaṅgā
+PL749/ vihua-pavāla-kisalaaṃ sela-daratthamia-dari-muha-valantīhiṃ
+PL750/ āveḍha-pahuppantaṃ vīīhi dumesu vaṇa-laāhi va bhamiaṃ
+PL751/ giri-ṇivahehi rasantaṃ ukkhammantehi ṇivaḍiehi a samaaṃ
+PL752/ dharaṇīa sāarassa a ugghāḍijjaï ṇirantaraṃ pāālaṃ
+PL753/ veāviddha-valantā muhala-valantojjharāvali-parikkhittā
+PL754/ saṃvellia-ghaṇa-ṇivahā valia-laāliṅgiā paḍanti mahiharā
+PL755/ ekkakkamāvaḍantā ṇiaa-bhua-kkheva-bhiṇṇa-seladdhantā
+PL756/ ṇinti dhua-kesara-saḍā gaaṇucchalia-salilotthaā kaï-ṇivahā
+PL757/ dīsaï vāraṃ vāraṃ giri-ghāukkhitta-salila-reia-bhariaṃ
+PL758/ pāālaṃ va ṇaha-alaṃ ṇaha-vivaraṃ va viaḍoaraṃ pāālaṃ
+PL759/ saṃkhoha-bhiṇṇa-mahi-ala-galia-jalolugga-paṅkaa-vaṇucchaṅgā
+PL760/ vihala-gaïndālambia-phuḍia-paḍanta-siharā paḍanti mahiharā
+PL761/ rasaï giri-ghāa-bhiṇṇo tīraṃ laṅghei valaï visama-kkhalio
+PL762/ pāvaï mahaṇāvatthaṃ ṇavara ṇa ṇiddei sāaro amaa-rasaṃ
+PL763/ ukkhaa-ṇisuddha-selo saṃsaïa-samudda-ghora-mukkakkando
+PL764/ rakkhasa-purīa kaha ā gamaṇovāo vi dāruṇa-samārambho
+PL765/ veukkhaliuddhāia-ṇaha-bhamira-phuranta-kañcaṇa-silā-veḍhaṃ
+PL766/ kusuma-suandha-raālaṃ palhatthaï pavaa-ṇolliaṃ dhara-ālaṃ
+PL767/ vaḍḍhaï pavaa-kalaalo valaï valanta-valaā-muho salilaṇihī
+PL768/ pavaṇa-ṇirāia-rukkhā paḍanti uddha-ṭṭhiojjharā dharaṇiharā
+PL769/ dūrāiddha-ṇiattā moḍia-malia-hariandaṇa-maïjjantā
+PL770/ uahiṃ rahasukkhittā āsāenti virasaṃ mahā-ṇaï-macchā
+PL771/ āsīvisa-maṇi-ambā palhatthanti vihaḍanta-visama-ṇiambā
+PL772/ duma-ṇivahovari-hariā darīsu selā ravi-ppahā-varihariā
+PL773/ dhariaṃ veovattaṃ giri-ghāucchitta-pāṇiammi samudde
+PL774/ valiūṇa bhuaa-vaïṇā kaha vi tulagga-visamāaaṃ mahi-veḍhaṃ
+PL775/ vajja-bhaaṃ dharaṇiharā āi-varāha-khura-pellaṇāi vasumaī
+PL776/ samaaṃ cia pamhaṭṭhaṃ saṃbhario mahaṇa-saṃbhamaṃ ca samuddo
+PL777/ malaa-candaṇa-laā-hare saṃbharamāṇao ṇiaa-mahaṇa-dukkhaṃ miva saṃbharamāṇao
+PL778/ rasaï selā-siharāhihao sariā-vaī dahamuhassa doseṇa samosariāvaī
+PL779/ jala-vaṭṭhatthamiesu a uddhāi girīsu malia-vidduma-ambo
+PL780/ āvalia-cuṇṇiesuṃ dhua-dhāu-rao vva sīhara-raügghāo
+PL781/ sela-sihara-saṃkhohia-kallolantaaṃ galia-dhāu-rasa-rāia-ka-llolantaaṃ
+PL782/ rasaï uahi-salilaṃ dharesu valamāṇaaṃ bhagga-candaṇa-rasosahi-ṇivvalamāṇaaṃ
+PL783/ giri-ṇivvalia-paḍantā uddhaa-jala-mūla-milia-pattala-viḍavā
+PL784/ lahuattaṇuppavantā gaaṇam aṇāaḍḍhiā vi lagganti dumā
+PL785/ pavaa-balehi rāa-saṃjāa-maccharehiṃ gaaṇa-ṇirāa-bhiṇṇa-ghaṇa-bhesiaccharehiṃ
+PL786/ phuḍa-dhavalagga-danta-paḍipelliāharehiṃ bhijjaï sāarassa salilaṃ dharāharehiṃ
+PL787/ pavaṇa-bharanta-dari-muhaṃ pavaṇa-suakkanta-vihalia-silā-veḍhaṃ
+PL788/ paḍaï siharojjharuggaa-mahinda-dhaṇu-gabbhiṇaṃ mahinda-kkhaṇḍaṃ
+PL789/ gaaṇa-alammi sela-saṃghaṭṭa-vāriāṇaṃ otthariaṃ raveṇa jala-bharia-vāriāṇaṃ
+PL790/ bahumāṇaṃ laā-harāiṃ saandalāiṃ kiṃ paḍiaṃ ṇa hoi siharaṃ saaṃ dalāiṃ
+PL791/ lakkhijjanti samudde giri-ghāuvvatta-maara-visamukkittā
+PL792/ chea-pasaranta-ruhirā pheṇa-milantā vi camari-vāladdhantā
+PL793/ siddha-aṇo bhaeṇa muñcaï laā-harāiṃ suraa-visesa-jāa-seollaāharāiṃ
+PL794/ giri-sariā-muhāi ṇāsanti sāsaāiṃ bhamaï mahoahissa salilaṃ disā-saāiṃ
+PL795/ bhamaï samukkhitta-karaṃ gaa-vaï-vāria-pavitta-pakkaggāhaṃ
+PL796/ vihalutthaṅghia-kalahaṃ viaḍāvatta-muham āgaaṃ gaa-jūhaṃ
+PL797/ samuha-paḍanta-viaḍa-giri-sihara-velliāṇaṃ vīi-parikkhalanta-pavaṇa-vasa-velliāṇaṃ
+PL798/ diṭṭhiṃ dei rāhavo kaha vi jā ṇaīṇaṃ tā virahei ṇavara hiaammi jāṇaī ṇaṃ
+PL799/ dara-daḍḍha-vidduma-vaṇā uddhāanti sihi-kajjalia-saṅkha-ulā
+PL800/ pāāla-lagga-kaḍḍhia-rāma-sarolugga-pattaṇā jala-ṇivahā
+PL801/ bhīa-ṇisaṇṇa-jalaaraṃ paloṭṭa-ṇiaa-bhara-bhiṇṇa-vakkha-mahiharaṃ
+PL802/ dīsaï vihiṇṇa-salilaṃ kuviuddhāia-bhuaṃgamaṃ pāālaṃ
+PL803/ khuhia-samuddāhimuhā taṃsa-ṭṭhia-mahiharosaranta-kkhaliā
+PL804/ kari-maara-baddha-lakkhā kari-maara-paḍicchiā paḍanti gaïndā
+PL805/ ṇa vi taha pavaāviddhā viaḍa-ṇiamba-garuā rasāala-mūlaṃ
+PL806/ jaha ucchaliuddhāia-salila-bharovāhiā aïnti mahiharā
+PL807/ utthaṅghia-duma-ṇivahā giri-ghāuvvatta-mucchia-mahā-macchā
+PL808/ velā-sela-kkhaliā uddhaṃ bhijjanti uahi-jala-kallolā
+PL809/ addhatthamia-visaṃṭhula-gaa-jūhārūḍha-sihara-vihalassa ṇahaṃ
+PL810/ jīaṃ va jhatti ṇajjaï girissa kuharāhi uggaaṃ sura-mihuṇaṃ
+PL811/ dhariā bhuehi selā selehi dumā dumehi ghaṇa-saṃghāā
+PL812/ ṇa vi ṇajjaï kiṃ pavaā seuṃ bandhanti o miṇenti ṇaha-alaṃ
+PL813/ rahasa-visajjiekkamekkā valanta-dhua-paḍia-maṇi-silā sāarammi ṇivaḍanti dhara-ṇihāā malia-mahā-bhuaṃga-bhagga-pphaṇoarosaria-saṃpuḍaṃ rasāalaṃ dummenti dharaṇi-hāā
+PL814/ ṇāsaï jaṃ jalaṃ sāarassa cuṇṇia-maṇosilā-aḍa-paḍanta-sela-sandāruṇaṃ phalantaṃ daria-ṇisāarenda-hīranta-jāṇaī-bāha-ṇibbhara-puloiassa kira dāruṇaṃ phalaṃ taṃ
+PL815/ sela-silāhaā samuddoare maṇīṇaṃ cuṇṇijjanti vittharā raaṇa-gāmaṇīṇaṃ
+PL816/ bharaï ṇahaṅgaṇaṃ aṇivviṇṇa-meha-lāṇaṃ haṃsa-ulāvalīṇa vaṇa-rāi-mehalāṇaṃ
+PL817/ rasaï rasāalaṃ dalaï meiṇī ṇisubbhanti jalaa-ṇivahā parīi gaaṇaṅgaṇe kavi-aṇo osubbhanti mahiharā mahiharāhihao sāaro vi suiraṃ thalammi gholaï amukka-viaṇo
+PL818/ kusuma-pasāhaṇaṃ miva sa-muddha-pallavaṃ sāarammi paḍiāṇa viḍava-laggaṃ dumāvalīṇaṃ jāaṃ bhiṇṇa-sippi-uḍa-majjha-ṇiggaa-tthora-dhavala-mottā-vihūsaṇaṃ viddumāvalīṇaṃ
+PL819/ atthamiāṇa mahiharāṇa samaccharehiṃ parimaliāi vaṇa-gaehi samaccharehiṃ
+PL820/ sāhaï kusuma-reṇumaïo dhao vvaṇāiṃ aviraa-ṇimmahanta-mahu-gandha-ovvaṇāiṃ
+PL821/ vahaï pavaṃgama-loo pahuppaï ṇahaṅgaṇaṃ paḍicchaï uahī
+PL822/ dei mahī vi mahihare taha vi hu dūra-viaḍoaraṃ pāālaṃ
+PL823/ ia khohenti pavaṃgā thoa-virāa-giri-paṅka-ṇivvua-mahisaṃ
+PL824/ duma-milia-vidduma-vaṇaṃ thala-sāvaa-milia-jalaaraṃ maaraharaṃ
+PL825/ vaṇa-gaa-gandhārosia-jambhāanta-paḍiuddha-kesari-maaraṃ
+PL826/ samuha-paḍanta-dharāhara-bhīa-valanta-bhuaïnda-jaṇiāvattaṃ
+PL827/ atthāanta-vaṇa-tthali-pariṇāmolugga-paṇḍu-vatta-tthaïaṃ
+PL828/ maaṇa-duma-bhaṅga-ṇiggaa-kasāa-rasa-maïa-vihala-gholira-macchaṃ
+PL829/ dharaṇihara-bhāra-vellia-pallava-dala-muddha-vellia-laā-jālaṃ
+PL830/ visavaṇṇavāavāhaa-pavvāanta-visavaṇṇa-vāava-kusumaṃ
+PL831/ āvatta-bhamira-mahihara-siharojjhara-sīharandhaāria-gaaṇaṃ
+PL832/ paḍiosahi-gandhāhaa-pāāla-samucchalanta-vihala-visaharaṃ
+PL833/ āvatta-maṇḍaloara-valanta-sela-kaḍaa-ppahāmijjantaṃ
+PL834/ ṇinta-rasāala-visahara-vitthiṇṇa-phaṇā-maṇi-ppahā-mijjantaṃ
+PL835/ avvocchiṇṇa-visajjia-ṇirantarāāma-milia-pavvaa-ghaḍio
+PL836/ dīsaï ṇaha-ṇimmāo ṇāsaï uahimmi ṇivaḍio seu-vaho
+PL837/ to gheppiuṃ paüttā thoa-tthoaṃ parissameṇa pavaṃgā
+PL838/ aṇurāe vva virāe laṅkāṇattha-ghaḍaṇa-kkhame seu-vahe
+
+<B 8>
+
+aṭṭhamo āsāsao
+PL839/ giri-saṃkhoha-vimukkā jhīṇā appatta-paḍhama-gamaṇoāsā
+PL840/ mandandolaṇa-maüā gaāgaa ccia samudda-saliluppīḍā
+PL841/ bhiṇṇa-ghaḍantāvatto āvattantara-bhamanta-bhiṇṇa-mahiharo
+PL842/ mahihara-saṃbhama-vihuo vihua-ṇiatta-salilo ṇiattaï uahī
+PL843/ vocchijjanta-kalaalaṃ jahoia-ṭṭhāṇa-dara-paattāvattaṃ
+PL844/ dīsaï khaṇa-dullakkhaṃ taṃ cia thimia-salilattaṇaṃ jalaṇihiṇo
+PL845/ mottā-ghaḍanta-kusumaṃ sama-maragaa-vatta-bhaṅga-bhariāvattaṃ
+PL846/ vidduma-milia-kisalaaṃ sasaṅkha-dhavala-kamalaṃ pasammaï salilaṃ
+PL847/ dīsaï samosiantī khaṇa-ṇivvaliuttaranta-vilulia-kusumā
+PL848/ jhijjantāruṇa-ambā samudda-vaṭṭhammi dhāu-paṅka-cchāā
+PL849/ vaṇa-gaa-gandhuttiṇṇā puṇo ṇiattanti āavāhaa-vihalā
+PL850/ ṇiaa-kara-sīharollia-ṇivvāanta-muha-maṇḍalā kari-maarā
+PL851/ duma-bhaṅga-kalusiāiṃ kasāa-rasa-bhiṇṇa-paṇḍura-ppheṇāiṃ
+PL852/ jāāi ṇiṇṇaāṇaṃ utthala-valaṇa-raa-dhūsarāi muhāiṃ
+PL853/ khuhioahi-vicchūḍhā mahinda-kaḍaesu malaa-bhitti-ccheā
+PL854/ ghaḍiā malia-gaa-ulā malaa-aḍesu a mahinda-seladdhantā
+PL855/ dīsanti viaḍa-dhavalā thimia-ṇiattanta-jala-taraṃgia-vaṭṭhā
+PL856/ vāsui-ṇimmoa-ṇihā ṇirantarālagga-mottiā puliṇa-vahā
+PL857/ khohenti khuhia-ṇihuaṃ uahiṃ ṇaha-vantha-paḍiṇiattovaïā
+PL858/ pavvaa-ghāukkhittā cira-ālāloiā salila-saṃghāā
+PL859/ aha ṇala-viiṇṇa-ṇaaṇo jampaï vihaḍanta-maṇi-silāsaṇa-vaṭṭho
+PL860/ uvvattiāaa-ṭṭhia-vāma-arāruhia-tia-bharo pavaa-vaī
+PL861/ khavio vāṇara-loo dūra-ṭṭhia-virala-pavvaaṃ mahi-veḍhaṃ
+PL862/ ṇa a dīsaï seu-vaho mā hu ṇamejja garuaṃ puṇo rāma-dhaṇuṃ
+PL863/ maïrā muddha-miaṅko amaaṃ lacchī sakotthuhaṃ duma-raaṇaṃ
+PL864/ kiṃ seu-bandha-lahuaṃ jaṃ vottūṇa raaṇāareṇa ṇa diṇṇaṃ
+PL865/ dhūmāanti ccia se ajja vi pāāla-deha-dūrālaggā
+PL866/ āaṭṭanta-jalāhaa-sasadda-vijjhavia-huavahā rāma-sarā
+PL867/ taṃ bandhasu dhīra tumaṃ seuṃ ajjea jāva dūrantariā
+PL868/ ekkaṃ malaa-suvelā hontu duhā a viaḍā samuddaddhantā
+PL869/ tā pavaa-balāhi phuḍaṃ viṇṇāṇāsaṅgha-ṇivvalanta-cchāo
+PL870/ pavaa-vaï-saṃbhamummuha-viiṇṇa-bhaa-hittha-loaṇo bhaṇaï ṇalo
+PL871/ bhaṇṇaï pavaṃga-purao rahuṇāhassa a pavaṃga-vaï vīsatthaṃ
+PL872/ tuha seu-bandha-jaṇiā mamammi saṃbhāvaṇā ṇa hohiï aliā
+PL873/ khavio pavvaa-ṇivaho daliaṃ va rasāalaṃ dhuo vva samuddo
+PL874/ jīaṃ va pariccattaṃ ajja va saṃbhāvaṇā tuhaṃ ṇivvūḍhā
+PL875/ taṃ pekkhasu mahi-vialaṃ mahi-vaṭṭhammi va mahaṃ mahoahi-vaṭṭhe
+PL876/ ghaḍiaṃ ghaḍanta-mahihara-ghaḍia-suvela-malaantaraṃ seu-vahaṃ
+PL877/ kiṃ uttaraü ṇirantara-ghaḍanta-dharaṇihara-saṃkameṇa samuddaṃ
+PL878/ o boleu dhuoahi-thouttiṇṇa-mahi-maṇḍaleṇa kaï-balaṃ
+PL879/ taṃ pecchaha malao ccia patthanto paḍigaaṃ gao vva suvelaṃ
+PL880/ maha bhua-daḍha-saṃruddho āiddhaṃ dhuṇaü muha-vaḍaṃ va samuddaṃ
+PL881/ o viraemi ṇaha-ale turia-pahāvia-pavaṃga-saṃcaraṇa-sahaṃ
+PL882/ aṇuparivāḍi-pariṭṭhia-ghaṇa-kūḍa-ghaḍanta-mahiharaṃ seu-vahaṃ
+PL883/ o sāaroarabbhantarāṇiovari-pariṭṭhavia-ṇipphandā
+PL884/ jalahara-lambia-vakkhā ghaḍentu laṅkā-vahaṃ rasāala-selā
+PL885/ taṃ maha-maggālaggā viraeha jahā-ṇioa-mukka-mahiharā
+PL886/ aṇuvāa-diṭṭha-dosaṃ aïrā-honta-suha-bandhaṇaṃ seu-vahaṃ
+PL887/ ia ṇala-vaaṇa-harisiaṃ galia-parissama-ṇirāa-mukka-kalaalaṃ
+PL888/ caliaṃ tulia-dharāhara-kaa-ṇibbhara-dasa-disaṃ pavaṃgama-seṇṇaṃ
+PL889/ taha paḍhamaṃ cia mukko velā-aḍa-saṃṭhio ṇaleṇa mahiharo
+PL890/ jaha dīsiuṃ paüttaṃ laṅkāṇatthassa seu-bandhassa muhaṃ
+PL891/ bhamio a taha dharāhara-paharucchitta-salilo ṇahammi samuddo
+PL892/ mahihara-raa-maïlāiṃ jaha dhoāi samaaṃ disāṇa muhāiṃ
+PL893/ jala-taṇṇāa-ghaḍantā avibhāvijjanta-ghaḍaṇa-maggoāsā
+PL894/ ṇa muanti ekkamekkaṃ khuhia-samudda-visamāhaā vi mahiharā
+PL895/ paḍivaha-patthia-salilā velā-aḍa-paḍia-mahihara-samakkantā
+PL896/ je ccia ahigama-maggā jāā te ccea ṇiggamā vi ṇaīṇaṃ
+PL897/ ṇivaḍanti tuṅga-siharā pavaa-vimukkā ahomuhā vi ṇala-vahe
+PL898/ bhamiūṇa mūla-garuā jahea ummūliā tahea mahiharā
+PL899/ vihuṇenti vihuvvantā kari-maara-muhāi thira-ṇihitta-ṇaha-muhā
+PL900/ muha-pajjatta-daḍhukkhaa-kumbha-aḍa-bhamanta-kesarā kesariṇo
+PL901/ paḍigaa-gandha-pasāria-kari-maara-cchiṇṇa-galia-kara-pabbhāre
+PL902/ jāṇanti ṇavara kuviā lavaṇa-jalāliddha-vaṇa-muhe vaṇa-hatthī
+PL903/ dara-ghaḍia-seu-bandhā uppaïūṇa pavaā samudduppaïe
+PL904/ kaḍḍhanti jamala-kara-ala-saṃdāṇia-vakkha-saṃpuḍe dharaṇihare
+PL905/ bandhaï ṇalo vi takkhaṇa-visamucchalia-cala-kesara-saḍugghāo
+PL906/ tia-valia-kara-pasāria-hari-hatthukkhitta-mahiharo seu-vahaṃ
+PL907/ jaṃ bahu-pavvaa-jaṇiaṃ vicchūḍha-samudda-pāaḍaṃ mahi-vivaraṃ
+PL908/ taṃ ekko paḍirumbhaï vitthārabbhahia-saṃṭhio dharaṇiharo
+PL909/ sāara-laddha-tthāhaṃ ṇimenti jaṃ jaṃ dharāharaṃ kaï-ṇivahā
+PL910/ bajjhaï purao-huttā kāūṇa paaṃ tahiṃ tahiṃ seu-vaho
+PL911/ samaaṃ pavaa-vimukke seu-vahammi samaaṃ abhāa-paḍante
+PL912/ paripelleï raei a samaaṃ ca ṇalo paḍicchiūṇa mahihare
+PL913/ avalambaï ṇala-ghaḍie abhāa-valiāṇie ghaḍei mahihare
+PL914/ seu-vahassa samuddo uvvellanta-salilo pavaḍḍhaï purao
+PL915/ jaṃ jaṃ āṇei giriṃ raï-raha-akka-parimaṭṭha-siharaṃ haṇumā
+PL916/ taṃ taṃ līlāï ṇalo vāma-karutthaṅghiaṃ raei samudde
+PL917/ vitthaa-sara-kamala-sire sele dara-ghaḍia-seu-saṃkama-lasire
+PL918/ jalaṇihi-seā-laggā pāāla-dharā dharenti seālaggā
+PL919/ velā-aḍa-saṃbaddhā gaoṅiattanta-jala-raa-vihuvvantī
+PL920/ hallanta-kiraṇa-viḍavā andolaï maragaa-ppahā vaṇa-rāī
+PL921/ dantesu valia-laggā khohuppittha-gaa-saṃpahārukkhittā
+PL922/ kari-maarāṇa bhuaṃgā paḍanti kālāsa-maṇḍala-paḍicchandā
+PL923/ pavvaa-vaḍaṇāiddho jo ccia uahissa paḍiṇiattaï paḍhamaṃ
+PL924/ so ccia saliladdhanto aṇṇo-hutta-visamaṃ velaï ṇala-vahaṃ
+PL925/ khuhia-samuddatthamiā khuḍenti akkhuḍia-maa-jalojjhara-pasarā
+PL926/ calaṇālagga-bhuaṃge pāse vva ṇirāa-kaḍḍhie māaṅgā
+PL927/ raaṇa-cchavi-vimalaarā phala-rasa-bharia-dara-bhiṇṇa-maragaa-ṇivahā
+PL928/ odhuvvanti taraṃgā cuṇṇia-saṅkha-ula-paṇḍuraara-ppheṇā
+PL929/ ghaḍamāṇehi a samaaṃ jhijjaï selehi jettiaṃ cia uahī
+PL930/ ucchalaï tettiaṃ cia utthaṅghia-mūla-salila-paripūranto
+PL931/ uddha-pphuḍia-ṇaï-muhā ṇiaa-ṭṭhāṇa-siḍhilosaranta-mahiharā
+PL932/ andolanta-samuddā andolanti va ṇahaṃ dharaṇi-saṃkhohā
+PL933/ addhuṭṭhia-seu-vahaṃ hoi khaṇaṃ addha-diṇṇa-hari-hiaa-suhaṃ
+PL934/ addhovaïa-mahiharaṃ addhosāria-rasāalaṃ uahi-jalaṃ
+PL935/ ṇimmāo tti muṇijjaï dūrāiddhammi sāare seu-vaho
+PL936/ so ccia salila-bharanto thoāraddho vva dīsaï ṇiattante
+PL937/ avi pūraï pāālaṃ ṇa a kuvia-disā-gaïnda-gamaṇa-vihāā
+PL938/ uahi-viiṇṇoāsā pūrenti mahā-varāha-paa-ṇikkhevā
+PL939/ jāaṃ mahihara-mahiaṃ dhāu-aḍa-kkhalaṇa-sarasa-pallava-rāaṃ
+PL940/ duma-bhaṅga-tuvara-surahiṃ uppajjanta-maïraṃ va sāara-salilaṃ
+PL941/ saṃcālei samuddo jaha jaha virala-ṭṭhiaṃ dharāhara-ṇivahaṃ
+PL942/ taha taha virāa-siharo pūria-vivara-tthiro ghaḍaï seu-vaho
+PL943/ paḍaï ṇu ṇaha-ala-ghaḍio kaḍḍhijjaï ṇu malaāhi cira-ṇimmāo
+PL944/ ghaḍaï ṇu samudda-salile ghaḍio ṇīi ṇu rasāalāhi ṇala-vaho
+PL945/ gaaṇammi uahi-salilaṃ salila-vimukke rasāalammi ṇaha-alaṃ
+PL946/ dīsaï tīsu vi samaaṃ ṇaha-salila-rasāalesu pavvaa-jālaṃ
+PL947/ velālāṇa-ṇialio rasiūṇa rasāala-ṭṭhiaṃ pi samuddo
+PL948/ cālei seu-bandhaṃ khambhaṃ āraṇṇa-kuñjaro vva valanto
+PL949/ pellijjanti daḍhaaraṃ jaha jaha pavaehi khuhia-jala-taṇṇāā
+PL950/ ohaṭṭantāāmā taha taha ekkakkamaṃ aïnti mahiharā
+PL951/ pavaa-bhua-galatthalliā vippaïṇṇa-raaṇā dharaṇiharā paḍanti bhaa-cuṇṇa-iṃṇara-aṇā
+PL952/ khuhio sāaro rasaï uṇṇaaṃ ṇa īṇaṃ moanto vva tivva-bhaa-uṇṇaaṃ ṇaīṇaṃ
+PL953/ bharaï va dūrāiddho dhuvvaï va paḍanta-dharaṇihara-kaddamio
+PL954/ rumbhaï va paḍiṇiatto bhiṇṇo ghaḍaï va maṇi-ppahāhi samuddo
+PL955/ kari-maarāṇa khuhia-sāara-visāsiāṇaṃ seu-vahammi paḍia-giri-ṇivaha-visāsiāṇaṃ
+PL956/ samaaṃ vaṇa-gaāṇa ṇivahā dharosiāṇaṃ samuhaṃ āvaḍanti maa-gandha-rosiāṇaṃ
+PL957/ utthaṅghia-duma-ṇivahā suiraṃ parimalia-seu-vaha-pāsallā
+PL958/ dhāu-kalaṅka-kkhaürā dūraṃ gantūṇa uvvamanti taraṃgā
+PL959/ dīsaï maa-ulehi uahī ṇalo aṇehiṃ samaaṃ sela-paḍaṇa-bhaa-uṇṇa-loaṇehiṃ
+PL960/ jaṃ khaliaṃ aīi salilaṃ ṇaīṇa ūraṃ taṃ uddhāi pavaa-kalaala-viiṇṇa-ūraṃ
+PL961/ vittharaï seu-bandho vihuvvaï dharāharāhao salilaṇihī
+PL962/ diṭṭha-suvelucchaṅgaṃ rasaï disā-iṇṇa-paḍiravaṃ kaï-seṇṇaṃ
+PL963/ dīsanti bhiṇṇa-salile samudda-majjhammi seu-bandhakkantā
+PL964/ saṃbhama-kaḍḍhaṇa-luggā bhaa-cuṇṇa-palāa-sela-pakkhaddhantā
+PL965/ mahihara-pahara-kkhohia-salila-parikkhaa-virāa-mūla-mahiharaṃ
+PL966/ thoa-tthoosariaṃ bandhenti pavaṃgamā puṇo vi ṇala-vahaṃ
+PL967/ jaha jaha accāsaṇṇo uahiṃ jeūṇa hoi seu-vaha-varo
+PL968/ ucchalaï dharāhihaaṃ dūraṃ thoattaṇeṇa taha taha salilaṃ
+PL969/ mahihara-paharucchittā uariṃ seussa je paḍanti khalantā
+PL970/ te ccia saliluppīḍā honti valanta-visamā mahā-ṇaï-sottā
+PL971/ dei samatta-cchāaṃ dara-milia-suvela-mahihara-taḍaddhanto
+PL972/ bīoāsa-pahāvia-timi-pūria-sāarantaro seu-vaho
+PL973/ jāhe seu-ṇivaddhaṃ dhuṇaï ṇalo visama-saṃṭhia-mahā-selaṃ
+PL974/ tāhe cireṇa saalo saalakkanta-vasuho ṇiattaï uahī
+PL975/ lahuia-pesaṇa-harisia-kaï-ṇivaha-ṇisuddha-sela-pahara-valanto
+PL976/ ṇaï-sotto vva samuddo seu-suvelantare muhuttaṃ vūḍho
+PL977/ jaha jaha ṇimmāvijjaï vāṇara-vasahehi seu-saṃkama-siharaṃ
+PL978/ taha taha dahamuha-hiaaṃ phāḍijjaï sāarassa salileṇa samaṃ
+PL979/ pāāla-milia-mūlo avvocchiṇṇa-pasaranta-sariā-sotto
+PL980/ ṭhāṇa-ṭṭhio vi paḍio muhammi dharaṇihara-saṃkamassa suvelo
+PL981/ malaücchaṅga-gaeṇa vi rahuvaï-pāsa-ṭṭhieṇa vāṇara-vaïṇā
+PL982/ kaï-kalaaleṇa ṇāo ṇippacchima-sela-pūrio seu-vaho
+PL983/ ārambhante saalo tihāa-visamo daruṭṭhiammi ṇala-vahe
+PL984/ hoi duhā a samatte so ccia aṇṇo puṇo puṇo vi samuddo
+PL985/ malaücchaṅga-paütto calanta-vāṇara-bharoṇao seu-vaho
+PL986/ garuo tiūḍa-giriṇā palhatthanto dumo dumeṇa va dhario
+PL987/ dīsaï seu-mahā-vaha-dohāia-puvva-pacchima-disā-bhāaṃ
+PL988/ ovvattohaa-pāsaṃ majjhukkhitta-visamaṃ ṇamantaṃ va ṇahaṃ
+PL989/ malaa-suvelālaggo paḍiṭṭhio ṇaha-ṇihammi sāara-salile
+PL990/ uaatthamaṇa-ṇirāo ravi-raha-maggo vva pāaḍo seu-vaho
+PL991/ dīsaï pavaṇa-vihuvvanta-sāaroara-pariṭṭhia-mahā-siharo
+PL992/ viaḍa-pasāria-vakkho uppaamāṇo vva mahiharo seu-vaho
+PL993/ araī thorūsāsā ṇiddā-ṇāso vivaṇṇadā dobballaṃ
+PL994/ seummi raïjjante rāmādo rāvaṇammi saṃkantāiṃ
+PL995/ aha thora-tuṅga-viaḍo ṇeuṃ ṇihaṇaṃ sabandhavaṃ dahavaaṇaṃ
+PL996/ dohāia-salilaṇihī kaanta-hattho vva pasario seu-vaho
+PL997/ visameṇa paaï-visamaṃ mahihara-garueṇa samara-sāhasa-garuaṃ
+PL998/ dūrattheṇa vi bhiṇṇaṃ sūleṇa va seuṇā dasāṇaṇa-hiaaṃ
+PL999/ dīsanti khuhia-sāara-salilollia-kusuma-ṇivaha-lagga-mahuarā
+PL1000/ seussa pāsa-mahihara-paaḍantovvatta-kisalaā kaḍaa-dumā
+PL1001/ thimioahi-sacchāā kattha vi dīsanti mahiharantara-vaḍiā
+PL1002/ phaliha-silā-ala-ghaḍiā majjha-cchiṇṇa vva seu-bandhoāsā
+PL1003/ hima-paḍaṇotthaïāiṃ ghaḍiāi vi ṇala-vahammi ṇajjanti phuḍaṃ
+PL1004/ siharāi sihari-vaïṇo malaassa a malia-candaṇa-suandhāiṃ
+PL1005/ jāā phuḍa-vitthārā gaoṇiattanta-jala-raa-vihuvvantā
+PL1006/ pakkaggāha-samaggā seummi vi sāarassa velā-maggā
+PL1007/ selāiñchaṇa-paḍiā salilollia-garua-kesara-bharakkantā
+PL1008/ dīsanti daruttiṇṇā saṃkama-pāsalla-saṃṭhiā kesariṇo
+PL1009/ puvvāvaroahi-gaā daṭṭhuṃ puvvāvaroahi-samuppaṇṇā
+PL1010/ seu-paḍisiddha-pasarā puṇo ṇa pecchanti kula-harāi jalaarā
+PL1011/ dīsanti dhāu-ambā mārua-vihua-dhavalojjhara-paḍaddhantā
+PL1012/ seussa tuṅga-siharā uhaa-tala-pariṭṭhiā dhaa vva mahiharā
+PL1013/ aha ṇimmia-seu-vahaṃ seu-vahabbhahia-thala-païṇṇa-mahiharaṃ
+PL1014/ caliaṃ calanta-rāhava-hiaa-ṇihippanta-raṇa-suhaṃ kaï-seṇṇaṃ
+PL1015/ pecchanti a bolantā saṃkama-dohāia-kkhavia-vitthāraṃ
+PL1016/ valaā-muha-ṇiṭṭhaviekka-pāsa-vocchiṇṇa-pāṇiaṃ maaraharaṃ
+PL1017/ saṃcālei ṇiambaṃ dharei uariṃ taraṃga-kara-pabbhāraṃ
+PL1018/ khambhammi vaṇa-gao via āvaddho seu-saṃkamammi samuddo
+PL1019/ uttiṇṇā a pavaṃgā sela-bharuvvahaṇa-jaṇia-sea-tusārā
+PL1020/ dhāu-maïle kara-ale pāsa-ṭṭhia-mahiharojjharesu dhuvantā
+PL1021/ pattā a dahamuhāṇia-ṇandaṇa-vaṇa-pāavoia-vaṇuddesaṃ
+PL1022/ jala-bhara-ṇisaṇṇa-jalahara-bhara-moḍia-vaṇa-laaṃ suvelucchaṅgaṃ
+PL1023/ moūṇa samuttiṇṇaṃ uahim aviddavia-vikkamaṃ kaï-seṇṇaṃ
+PL1024/ jāo rakkhasa-loo rakkhasa-ṇāhassa pelavāṇatti-aro
+PL1025/ jāva a mahoahi-aḍe āvāsa-ggahaṇa-vāvaḍaṃ kaï-seṇṇaṃ
+PL1026/ tāva kaanteṇa kao rāvaṇa-sīsammi vāma-hattha-pphaṃso
+PL1027/ rāmassa rāvaṇassa a loāloantarāla-ṇīsāmaṇṇe
+PL1028/ vaḍḍhanta-ṇiattante pāārantara-duhāiammi paāve
+PL1029/ jāā lacchīa samaṃ sohā mahiassa sāarassa pasaṇṇā
+PL1030/ tiasa-jaṇiāṇurāe uttiṇṇammi maalañchaṇammi va rāme
+
+<B 9>
+
+ṇavamo āsāsao
+PL1031/ aha pecchanti pavaṃgā saala-jaakkamaṇa-vaḍḍhia-mahā-siharaṃ
+PL1032/ ṇiṭṭhavia-dāhiṇa-disaṃ sesa-disā-muha-vahāviaṃ va suvelaṃ
+PL1033/ bhuvaṇassa va mahumahaṇaṃ bhuvaṇa-bhara-jjhīṇa-mahumahassa va sesaṃ
+PL1034/ sesassa va salilaṇihiṃ sariā-vaïṇo visammiavva-bhara-sahaṃ
+PL1035/ dharaṇi-hareavva-sahaṃ uahi-bhareavva-pabbala-ṇaï-ppavahaṃ
+PL1036/ ṇaha-māavva-samatthaṃ khaa-mārua-rumbhiavva-jogga-ṇiambaṃ
+PL1037/ dūra-paripellia-disaṃ dūroṇāmia-samattha-pāāla-alaṃ
+PL1038/ dūraarukkhitta-ṇahaṃ ṇavara karāsaṇṇa-pāava-pphala-kusumaṃ
+PL1039/ pāsallāgaa-sariaṃ amukka-pāāla-sāara-jalucchaṅgaṃ
+PL1040/ āi-varāhuvvattaṇa-khaṇa-paḍiuddha-ṭṭhiaṃ va meiṇi-veḍhaṃ
+PL1041/ pāāla-bharia-mūlaṃ vajja-muhāoḍaṇa-ṭṭhavia-ṇikkampaṃ
+PL1042/ ālāṇa-kkhambhaṃ miva sura-hatthi-kkhandha-ṇihasa-masiṇia-pāsaṃ
+PL1043/ vimalia-rasāaleṇa vi visahara-vaïṇā adiṭṭha-mūla-ccheaṃ
+PL1044/ appatta-tuṅga-siharaṃ tihuaṇa-haraṇa-parivaḍḍhieṇa vi hariṇā
+PL1045/ vicchūḍhoahi-salilaṃ kaḍaa-bhamanta-bhuaïnda-diṇṇāveḍhaṃ
+PL1046/ pāsa-ṭṭhieṇa raïṇā karehi hariṇa vva mandaraṃ uvaūḍhaṃ
+PL1047/ sesa-sira-raaṇa-ghaṭṭia-maṇi-mūlujjoa-haa-rasāala-timiraṃ
+PL1048/ visamuddha-sihara-saṃkaḍa-paṇaṭṭha-ravi-maṇḍalandhaāria-gaaṇaṃ
+PL1049/ sasi-bimba-pāsa-ṇihasaṇa-kasaṇa-silā-bhitti-pasariāmaa-lehaṃ
+PL1050/ joṇhā-jala-pabbālia-visamumhāanta-muṇia-ravi-raha-maggaṃ
+PL1051/ siharālīṇa-miaṅkaṃ virala-ṭṭhia-gahia-salila-jalaa-kkhaṇḍaṃ
+PL1052/ khuḍiuvvūḍha-muṇālaṃ ṇisāsu visama-hia-kaddamaṃ va sura-gaaṃ
+PL1053/ haria-vaṇa-rāi-pisuṇia-dūraarāloa-sihara-sariā-maggaṃ
+PL1054/ pavaṇukkhuḍia-kilāmia-miaṅka-puṭṭhi-paḍiūsasanta-kisalaaṃ
+PL1055/ dūruddhāia-siharaṃ jalaṇihi-jala-diṭṭha-viaḍa-pāaḍa-paḍimaṃ
+PL1056/ uppāāsaṇi-pahaaṃ uddha-pphuḍia-paḍiekka-pāsaṃ va ṭhiaṃ
+PL1057/ guru-bhara-sesāhi-pphaṇa-vāraṃ-vāra-paḍiruddha-mūlucchaṅgaṃ
+PL1058/ khaa-māruukkhaāṇia-tuṅga-aḍāvaḍia-bhiṇṇa-sesa-mahiharaṃ
+PL1059/ gahia-jala-meha-pellia-ṇivvāanta-ṇihua-ṭṭhia-mahā-mahisaṃ
+PL1060/ ṇihaa-gaa-kumbha-lohia-silā-alosukkha-baddha-muttā-vaḍalaṃ
+PL1061/ lavaṇa-jala-sīharāhaa-daruvvamanta-duma-muddha-pallava-rāaṃ
+PL1062/ sīha-rava-bhīa-patthia-ṇiuñciekka-calaṇa-ṭṭhiukkaṇṇa-maaṃ
+PL1063/ kaḍaa-paripelliāṇaṃ raï-ara-pāaḍia-kandarā-bhariāṇaṃ
+PL1064/ abbhantara-ṭṭhiāṇaṃ parilla-pāsa-parisaṃṭhiaṃ va disāṇaṃ
+PL1065/ raaṇiāsu dūruggaa-siha-raaṇaṃ taaṃ suha-ṇisaṇṇa-maa-khaṇḍia-sihara-aṇantaaṃ
+PL1066/ kuvia-rāma-bhiṇṇoahi-daḍha-sara-ṇolliaṃ sihara-lagga-sasi-maṇḍala-ṇīsaraṇolliaṃ
+PL1067/ dūrovāhia-mūlaṃ ravi-ara-bolīṇa-sihara-ṇaṭṭhāloaṃ
+PL1068/ addhatthamiāāmaṃ jahea uahi-salile tahea ṇaha-ale
+PL1069/ pavaṇandolia-candaṇa-saṃghaṭṭuṭṭhia-suandhi-dhūmuppīḍaṃ
+PL1070/ dara-pīoahi-garuia-sesaddhanta-jalaāvalambia-siharaṃ
+PL1071/ tala-paḍihaa-sāaraaṃ uddhojjhara-vihua-sīha-rosāaraaṃ
+PL1072/ gaha-mālā-meliaaṃ sihara-ṭṭhia-canda-maṇḍalāmeliaaṃ
+PL1073/ sasi-purao pasariaaṃ kuharesu ṇivāa-ṇippaampa-sariaaṃ
+PL1074/ maṇimaa-pāsuttamaaṃ kaṇaa-silāsīṇa-suhia-pāsutta-maaṃ
+PL1075/ bhiṇṇukkhitta-paraṃmuha-valanta-saddūla-gahia-gaa-kumbha-aḍaṃ
+PL1076/ bila-pāsutta-bhuaṃgama-jala-dhārāāra-ṇiggaa-maṇi-cchāaṃ
+PL1077/ aṭṭhia-samudda-sīhara-dupparimāsa-ṇiha-kaṇṭaanta-maṇi-aḍaṃ
+PL1078/ ṇaha-lagga-mottiā-phala-gaa-sīsārūḍha-ṇīharanta-maïndaṃ
+PL1079/ ovaṭṭha-komalāiṃ vahamāṇaṃ meha-vimalia-vimukkāiṃ
+PL1080/ kappa-laā-vasuāia-pavaṇuddhua-dhavala-aṃsuāi vaṇāiṃ
+PL1081/ ārūḍhoahi-salile addhukkhaa-sarasa-visama-pāsalla-dume
+PL1082/ kusuma-bharie vahantaṃ phaliha-aḍuttāṇa-patthie ṇaï-sotte
+PL1083/ ravi-raha-turaṃgamāṇaṃ vāāiddha-siharojjharehi dhuvantaṃ
+PL1084/ thoolla-paggahāiṃ lālā-pheṇa-lava-gabbhiṇāi muhāiṃ
+PL1085/ dīhara-siharālaggaṃ pajjaliosahi-sihāhaaṃ vahamāṇaṃ
+PL1086/ pāaḍia-maa-kalaṅkaṃ ṇisāsu kajjalaïoaraṃ va miaṅkaṃ
+PL1087/ uddharia-dharaṇi-viaḍaṃ āi-varāha-hia-vaṅka-dūroāḍhaṃ
+PL1088/ ṇaï-sottehi bharantaṃ khaa-raï-saṃtāva-sosiaṃ maara-haraṃ
+PL1089/ aṇṇāāgamaṇa-dise purao-paḍisadda-bhesia-ṇiatta-mae
+PL1090/ vivara-bharie vahantaṃ ukkaṇṇia-vaṇa-gae maïnda-ṇiṇāe
+PL1091/ tāmarasa-raāambaṃ saresu suvvanta-mahura-sara-āambaṃ
+PL1092/ gahiāmisa-hari-aïaṃ velāṇila-sīharolla-vaṇa-hariaïaṃ
+PL1093/ milia-samuddaddhante pāaḍa-ṇaha-maṇḍale pahutta-dasa-dise
+PL1094/ uiatthamia-diṇaare bhuvaṇa-vihāe vva kandare vahamāṇaṃ
+PL1095/ ucchalioahi-bharie thoa-tthoosaranta-ṇivvūḍha-jale
+PL1096/ āi-mahure vahantaṃ purao-hutta-lavaṇe sihara-ṇīsande
+PL1097/ raaṇa-cchavi-huvvantaṃ valanta-sesa-pihula-pphaṇa-vihuvvantaṃ
+PL1098/ sara-parivaḍḍhia-kamalaṃ kaḍaa-laā-lagga-sūra-raha-akka-malaṃ
+PL1099/ ṇaha-ṇīle vahamāṇaṃ umhāhaa-mahisa-maggiovaraṇa-vahe
+PL1100/ pāsa-pasaranta-kiraṇe maa-taṇhāveḍhie sare vva maṇi-aḍe
+PL1101/ gaa-malia-tamāla-vaṇaṃ sīha-muhoruddha-raaa-sihara-kkhaṇḍaṃ
+PL1102/ mahisāhaa-kasaṇa-silaṃ aṇurūa-ṭṭhāṇa-mukka-vaṇaara-rosaṃ
+PL1103/ kesari-calaṇa-talāhaa-bhiṇṇa-païṇṇa-gaa-kumbha-mottā-raaṇaṃ
+PL1104/ vaṇa-dava-bhīa-pahāvia-gaa-ula-malia-ṇaï-saṃgamottāra-aṇaṃ
+PL1105/ kaḍaa-valanta-ravi-rahaṃ tala-vaṇa-rāi-paḍigholirubbhaḍa-tāraṃ
+PL1106/ pāsalla-ṇisaṇṇassa vi uariṃ bīa-bhuaṇassa va ṇisammantaṃ
+PL1107/ addha-cchiṇṇa-ravi-are asamatta-pahutta-saala-canda-maūhe
+PL1108/ chiṇṇa-kaḍae vahantaṃ uddhāa-ṇiatta-garuḍa-maggia-sihare
+PL1109/ sura-vahūṇa hiaa-ṭṭhia-raa-ṇava-sāraaṃ sāarassa raïaṃ miva raaṇa-vasāraaṃ
+PL1110/ ṇaliṇi-vatta-uḍa-jāa-mahura-sāmoaaṃ vaüla-vaṇa-ṇimmahanta-mahu-rasāmoaaṃ
+PL1111/ tivva-jaraḍhāavāhaa-hariālāmoa-vimharāia-hariṇaṃ
+PL1112/ saṃkhāoahi-sībhara-lavaṇa-rasāsāa-mahisa-libbhanta-silaṃ
+PL1113/ tuṅga-raaa-siharuggamehi tāraṃ gaaṃ sīha-ṇihaa-gaa-lohia-mottā-raṅgaaṃ
+PL1114/ garua-dhīra-ṇivvāhia-bahu-jua-saṃkhaaṃ uahi-salila-saṃkanta-sarujjua-saṅkhaaṃ
+PL1115/ maṇi-pahamma-sāmoaaṃ maṇipa-hamma-sāmoaaṃ
+PL1116/ sarasa-raṇṇa-ṇiddāvaaṃ sara-saraṇṇa-ṇiddā-vaaṃ
+PL1117/ daria-rakkhasāmoaaṃ dari-arakkha-sāmoaaṃ
+PL1118/ visaa-ruppa-hāantaaṃ visa-aru-ppahāantaaṃ
+PL1119/ jaraḍha-visosahi-veḍhia-bhuaṃga-pariharia-candaṇa-duma-kkhandhaṃ
+PL1120/ bolanta-visahara-pphaṇa-maṇi-ppahāhaa-virāïa-duma-cchāaṃ
+PL1121/ phaḍiha-kiraṇa-ṇivahehi dharaṇi-dhavalāaaṃ suvvamāṇa-sura-sundari-muddha-valāaaṃ
+PL1122/ palaa-samaa-salileṇa vi asaala-dhoaaṃ vivara-ṇinta-ṇava-canda-sarisa-aladhoaaṃ
+PL1123/ ramma-anda-rāa-cchaaṃ ramma-andarā-acchaaṃ
+PL1124/ sagga-ggaha-ṇisā-maggaaṃ sagga-ggahaṇi-sāmaggaaṃ
+PL1125/ paṅkuttaranta-laṅghia-parivatta-varāha-vañciāhaa-sīhaṃ
+PL1126/ sara-saliloara-ṇivaḍia-ṇiaa-bharatthamia-kaṇaa-pallava-gocchaṃ
+PL1127/ ṇaha-siriṃ saala-ṇīla-meha-lāvaṇṇiaṃ baddha-joisāuvva-mehalā-vaṇṇiaṃ
+PL1128/ siharehiṃ bāhūhi va pacchāantaaṃ maṇṇuaṃ disāṇaṃ miva pacchāantaaṃ
+PL1129/ a-sura-vandi-sāhāraṇaṃ asuravaṃ disā-hāraṇaṃ
+PL1130/ sūraaṃ tama-ṇivālaaṃ sūra-anta-maṇi-vālaaṃ
+PL1131/ hariṇā bali-mahi-haraṇe samae jalaehi jalaṇihīhi juante
+PL1132/ jaṃ ṇa caïaṃ bhareuṃ taṃ deheṇa bhuaṇaṃ bhareūṇa ṭhiaṃ
+PL1133/ atthāaṃ va vahantaṃ jālantara-ṇiggaüddha-amba-maūhaṃ
+PL1134/ āsaṇṇa-sihara-vaṇa-dava-bolīṇa-paṇaṭṭha-maṇḍalaṃ diasaaraṃ
+PL1135/ vaḍavā-muha-saṃtāve bhiṇṇa-aḍe a garue taraṃga-ppahare
+PL1136/ avirahia-kula-harāṇa va sariāṇa kaeṇa sāarassa sahantaṃ
+PL1137/ raaṇīsu uvvahantaṃ ekkakkāamba-maṇi-silā-saṃkantaṃ
+PL1138/ muddha-miaṅka-cchāaṃ khura-muha-maggaṃ va raï-turaṃgāṇa ṭhiaṃ
+PL1139/ visama-parisaṃṭhiehiṃ visamuddhāia-laā-harotthaïehiṃ
+PL1140/ kañcaṇa-silā-alehiṃ chiṇṇāava-maṇḍalehi va parikkhittaṃ
+PL1141/ appatta-diṇaarāiṃ āava-bhaa-sihara-saṃṭhia-bhuaṃgāiṃ
+PL1142/ kaḍaehi uvvahantaṃ vaṇāi uddha-parivaḍḍhia-cchāāiṃ
+PL1143/ tuṅgattaṇa-pajjatte vitthaa-vikkhambha-siṭṭha-muha-vitthāre
+PL1144/ tiasa-gaāṇa vahantaṃ danta-pphaliha-jualaṅkie kaḍaa-aḍe
+PL1145/ tiasa-gaāṇa vahantaṃ hatthumhāhaa-kilanta-pallava-rāe
+PL1146/ kaḍa-parigholaṇa-kavile cira-vūḍha-vimukka-pāriāaa-viḍave
+PL1147/ pāsāaaṃ vahantaṃ maṇi-kaḍaa-maūha-dhavalia-maa-cchāaṃ
+PL1148/ puṭṭhovaïa-mahojjhara-jala-ghāuvvatta-maṇḍalaṃ va miaṅkaṃ
+PL1149/ salila-dara-dhoa-kusumaṃ dīsantovari-parilla-jaraḍhāloaṃ
+PL1150/ maaraharassa vahantaṃ abbhāsabbhahia-sāmalaṃ vaṇa-rāiṃ
+PL1151/ tiasa-gaāṇa vahantaṃ dūruṇṇia-magga-ṇaha-ṇiatta-mahuare
+PL1152/ ovaaṇa-paattante uppaaṇa-paṇaṭṭha-ṇiggame gaï-magge
+PL1153/ thoāhaa-timirāiṃ vahamāṇaṃ thoa-ṇiggaa-maūhāiṃ
+PL1154/ ṇintaggi-gabbhiṇāi va thouttiṇṇa-raaṇaṅkura-ṭṭhāṇāiṃ
+PL1155/ moḍia-pavvāa-dume uvvellāveḍha-bhagga-puñjaïa-lae
+PL1156/ vaṇa-gaa-jujjha-parimale vahamāṇaṃ pahara-paḍia-danta-pphaḍihe
+PL1157/ mandara-paharucchalie ajja vi vitthiṇṇa-maṇi-pahamma-ṇihitte
+PL1158/ jalaṇihi-jala-vocchee aṇiggaāmaa-rase samuvvahamāṇaṃ
+PL1159/ jala-saṃkhohālaggaṃ vahamāṇaṃ visama-bhagga-pattaṇa-ṇivahaṃ
+PL1160/ rāhava-sara-saṃghāaṃ vajja-muha-kkhuḍia-pakkha-sesaṃ va ṭhiaṃ
+PL1161/ kumbhovaggaṇa-ṇivaḍia-kari-hatthukkhuḍia-sīha-kesara-bhāraṃ
+PL1162/ sahaari-viruāaṇṇaṇa-valanta-bhamara-parivattia-laā-kusumaṃ
+PL1163/ hima-sīale vahantaṃ pavaṇomāsa-visamosasia-seāle
+PL1164/ diasāsāra-kkhuḍie dara-vasuāa-salile sasi-maṇi-ppavahe
+PL1165/ visamullalia-parimale kamaliṇi-vatta-parigholira-jala-cchāe
+PL1166/ maragaa-silā-alovari-pavitta-pāraa-rase samuvvahamāṇaṃ
+PL1167/ āruhaï va divasa-muhe uddhāantuddha-maṇḍalāura-turao
+PL1168/ sama-maṇḍala-bolīṇo oaraï va jaṃ diṇāvasāṇammi raī
+PL1169/ chundanti jattha vanthe ṇisāsu visama-parihāra-pariattantā
+PL1170/ kaḍaesu kaüjjoā purao-bolanta-tāraāhi vaṇaarā
+PL1171/ piaama-vioiāṇaṃ jattha a sihara-miliaṃ cilāa-vahūṇaṃ
+PL1172/ bolei bāha-maïlia-kusumañjali-samuha-tāḍiaṃ sasi-bimbaṃ
+PL1173/ ṇaha-alaṃ va gaha-sohiaṃ savimāṇaaṃ sihara-ruddha-khaa-mārua-rahasa-vimāṇaaṃ
+PL1174/ raaṇa-sihara-kiraṇuggamehi ghaṇa-rāaaṃ dari-muhesu guppanta-sīha-ghaṇa-rāaaṃ
+PL1175/ jammi samatta vva disā jhīṇa vva mahī kaāvasāṇaṃ va ṇahaṃ
+PL1176/ atthamio vva samuddo ṇaṭṭhaṃ va rasāalaṃ ṇisaṇṇaṃ va jaaṃ
+PL1177/ jassa siharesu bahuso valanti valamāṇa-jua-valanta-kkhandhā
+PL1178/ bhīāruṇa-parivattia-ghoṇā-gholanta-cāmarā raï-turaā
+PL1179/ dīsanti joisa-vahe ṇisāsu voḍhūṇa kusuma-ṇivahaṃ va jahiṃ
+PL1180/ gahia-paḍhamuccaāi va pahāa-vocchiṇṇa-tāraāi vaṇāiṃ
+PL1181/ jattha a gamenti ṇiddaṃ ṇisāsu ṇīsāsa-vihua-pelava-jalaā
+PL1182/ canda-parimāsa-paaḍia-sasi-maṇi-salilojjharāhaā vaṇa-mahisā
+PL1183/ jattha a siharāvaḍiaṃ valaï silā-bhitti-visama-pāsallaïaṃ
+PL1184/ bhuaïnda-maṇi-ṇihaṃsaṇa-paṇaṭṭha-ujjoa-saṃcaaṃ sasi-bimbaṃ
+PL1185/ āmoia-pāālo jassa khaüppāa-kampa-ṇiddaa-vihuo
+PL1186/ pabbālei mahi-alaṃ avalicchia-sesa-sāaro maaraharo
+PL1187/ jattha bhamanti ṇahaṅkusa-sihara-samāsaṇṇa-muhala-kaḍḍhia-jalaā
+PL1188/ muha-paḍia-vijju-maṇḍala-dara-pajjalia-dhua-kesarā kesariṇo
+PL1189/ ojjhara-majjaṇa-suhiā jattha puṇo vi divasāava-kilimmantā
+PL1190/ ṇivvāanti ṇisaṇṇā khandhugghuṭṭha-hariandaṇa-dumesu gaā
+PL1191/ jattha a bhamira-mahuaraṃ kaḍaa-laā-lagga-dhavala-cāmara-pamhaṃ
+PL1192/ sasiuddhua-kusuma-raaṃ ṇajjaï turiāṇa raï-turaṃgāṇa gaaṃ
+PL1193/ añjaṇa-rāeṇa saï dhūsarantaāiṃ gaṇḍa-alesu khalia-visamosarantaāiṃ
+PL1194/ sura-bandīṇa ṇaaṇa-galiāiṃ aṃsuāiṃ kappa-laāṇa jattha maïlenti aṃsuāiṃ
+PL1195/ ekka-sihare samappaï jassa a sosavia-malia-duma-saṃghāo
+PL1196/ saï dakkhiṇuttarāaṇa-ṇaha-gamaṇāgamaṇa-vilulio raï-vantho
+PL1197/ jeṇa bhara-bhiṇṇa-vasuhaṃ apphuṇṇa-rasāalaṃ samotthaïa-ṇahaṃ
+PL1198/ savva-disā-vicchūḍhaṃ parivaḍḍhanteṇa vaḍḍhiaṃ va tihuaṇaṃ
+PL1199/ gandhāvaddha-mahuarā vasanti jattha samaaṃ sura-aṇāṇugaā
+PL1200/ aṇṇoṇṇaṃ-paḍiūlā ekka-kkhambhalliā sura-gaa vva udū
+PL1201/ dīsaï vivalāanto jattha samāsaṇṇa-dahamuha-bhaāviggo
+PL1202/ siharantarāla-paḍilagga-moiāṇikka-maṇḍalo diasaaro
+PL1203/ jattha a maāṇa maṇahara-kiṃṇara-gīa-suhioṇimillacchāṇaṃ
+PL1204/ visamia-romanthāṇaṃ ei viuddhaṃ cireṇa romaṃ thāṇaṃ
+PL1205/ tīra-parinta-muhala-kalahaṃsa-roaesuṃ kuvia-gaïnda-baddha-kalahaṃ saroaesuṃ
+PL1206/ kumua-vaṇāṇa jattha ṇaha-anda-laggaāṇaṃ ravi-ara-daṃsaṇe vi ṇa haaṃ dalaggaāṇaṃ
+PL1207/ valamāṇammi mahumahe jattha a pāucchalanta-raaṇujjoaṃ
+PL1208/ viaḍaṃ phaṇa-pabbhāraṃ gāḍha-bharuttāṇiaṃ ṇimei aṇanto
+PL1209/ dīsaï kaḍaallīṇo jassa a vivara-sarisubbhaḍa-maa-cchāo
+PL1210/ avahovāsa-maūho siharujjhara-bhiṇṇa-maṇḍalo vva miaṅko
+PL1211/ majjha-karālāï jahiṃ tiṇṇi vi samaaṃ ṇirantara-pahuttāiṃ
+PL1212/ thoruṇṇae hari-bhue valaāi va bhuaṇa-maṇḍalāi ṭhiāiṃ
+PL1213/ somia-dumā raï-vahā ṇava-vaṇa-rāi-suha-sīarā sasi-vanthā
+PL1214/ jattha vaṇantara-taṇuā ṇavara ṇa ṇajjanti tāraā-gaï-maggā
+PL1215/ alaa-paḍilagga-gandhaṃ tiasa-vahūṇaṃ silā-alotthaa-maliaṃ
+PL1216/ akkhivaï jattha pavaṇo osukkhanta-surahiṃ tamāla-kisalaaṃ
+PL1217/ pavaṇāhaa-palhatthā darīsu jassa a puṇo vi lagganti ṇahaṃ
+PL1218/ paḍisotta-patthiummuha-muhutta-pīa-salilojjharā salilaharā
+
+<B 10>
+
+dasamo āsāsao
+PL1219/ aha ṇiaa-mahiharesu va suvela-siharesu ṇivvaḍia-vīsatthaṃ
+PL1220/ parisaṃṭhiaṃ haammi va ahaammi vi dahamuhe pavaṃgama-seṇṇaṃ
+PL1221/ raïṇā vi aṇacchuṇṇā vīsatthaṃ mārueṇa vi aṇāliddhā
+PL1222/ tiasehi vi parihariā pavaṃgamehi maliā suvelucchaṅgā
+PL1223/ riu-ṇaari tti sarosaṃ jaṇaa-suā ettha ṇivasaï tti saharisaṃ
+PL1224/ pahuṇā laṅkāhimuhī uhaa-rasandoliā viiṇṇā diṭṭhī
+PL1225/ to sua-rāmāgamaṇo pavaakkanta-sihareṇa jāāmariso
+PL1226/ roseṇa galia-dhīro samaṃ suveleṇa kampio dahavaaṇo
+PL1227/ tāva a āsaṇṇa-ṭṭhia-kaï-bala-ṇigghosa-kalusiassa bhaaaraṃ
+PL1228/ dahavaaṇassa samosaria-pariaṇaṃ muaï diṭṭhi-vāaṃ diaso
+PL1229/ sura-gaa-ṇihassa raïṇo kaḍḍhantassa ṇaliṇiṃ va diasa-cchāaṃ
+PL1230/ valaï hariāla-kavilo kamala-raa-kkhaürio vva kara-pabbhāro
+PL1231/ olugga-ppharisāṇaṃ jhijjanta-pasāriāava-ṇirāāṇaṃ
+PL1232/ āāmijjantīṇa va jāaṃ taliṇattaṇaṃ duma-cchāāṇaṃ
+PL1233/ dīsaï vidduma-ambaṃ sindūrāhaa-gaïnda-kumbha-cchāaṃ
+PL1234/ mandara-dhāu-kalaṅkia-vāsuï-maṇḍala-ṇiakkalaṃ raï-bimbaṃ
+PL1235/ maülenti disāhoā chāā-sāmalaïoaraṃ mahi-veḍhaṃ
+PL1236/ diaso kalāvaseso siharālagga-taṇuāavā dharaṇiharā
+PL1237/ attha-ṇiamba-pariṇae hiāava-raammi sura-gaammi va diase
+PL1238/ dīsaï palhatthantaṃ vihaḍia-dhāu-siharaṃ va diṇaara-bimbaṃ
+PL1239/ kamalāṇa diasa-vigame saṃbajjhanti galiāava-kilintāiṃ
+PL1240/ maaranda-matta-mahuara-cala-pakkhuppusia-mahu-rasāi dalāiṃ
+PL1241/ dīsanti do vi sarisā kaï-calaṇāiddha-mahi-raa-samakkantā
+PL1242/ atthāanto a raī āsaṇṇa-viṇāsa-ṇippaho dahavaaṇo
+PL1243/ addhatthamia-diṇaaro tuṅgovāsa-parisaṃṭhiāava-seso
+PL1244/ gaaṇe mukka-mahi-alo parippavanta-taliṇo kilimmaï diaso
+PL1245/ diaseṇa vaṇa-gaeṇa va paraṃmuhāiddha-pāavassa va raviṇo
+PL1246/ dīsaï thora-karālo uddho mūla-ṇivaho vva kara-pabbhāro
+PL1247/ ṇavari a diṇaara-bimbaṃ saṃjhāmaïammi ṇiaa-ruhira-ppaṅke
+PL1248/ dahavaaṇassa bhaaaraṃ paḍhama-sira-cchea-maṇḍalaṃ va ṇiuḍḍaṃ
+PL1249/ bhamara-bharovattāiṃ pariṇaa-kesara-paloṭṭa-raa-garuāiṃ
+PL1250/ ravi-viraha-milantāi vi honti karālāi paṅkaāṇa dalāiṃ
+PL1251/ avara-disā-vitthiṇṇo dīha-maūha-visama-ppahā-saṃghāo
+PL1252/ raa-ṇibbharo vva dīsaï kāla-muha-kkhitta-diasa-kaḍḍhaṇa-maggo
+PL1253/ uddhovaanta-bimbe veeṇa mahiṃ va diṇaarammi aïgae
+PL1254/ ucchaliāava-ambā saṃjhā-rāa-mihiā ṇahammi ṇihittā
+PL1255/ attha-siharammi dīsaï meru-aḍugghuṭṭha-kaṇaa-kaddama-ambo
+PL1256/ valamāṇa-turia-ravi-raha-paḍiuṭṭhia-dhaa-vaḍo vva saṃjhā-rāo
+PL1257/ viasaï dhavalāambaṃ gaa-ruhirāliddha-kesari-saḍa-cchāaṃ
+PL1258/ pavaṇandolaṇa-caḍulaṃ saṃjhā-rajjanta-kesaraṃ kumua-vaṇaṃ
+PL1259/ hoi apāaḍa-dīhā dara-vocchijjanta-visama-saṃjhā-rāā
+PL1260/ odhūsaria-dasa-disā abaddha-timirā diṇāvasāṇa-cchāā
+PL1261/ saṃjhāava-muccantaṃ jalia-pasammanta-huavaha-ṭṭhāṇa-ṇihaṃ
+PL1262/ dūratthamia-diṇaaraṃ jāaṃ saṃvatta-sarasi-rūaṃ gaaṇaṃ
+PL1263/ saṃjhā-rāa-tthaïā dara-saṃrūḍhandhaāra-kaa-para-bhāā
+PL1264/ diasa-cchavi-parisese jhijjante ṇivvalanti dīvujjoā
+PL1265/ vihaḍanta-rāa-ṇialaṃ uhaa-taḍa-ṭṭhia-milanta-diṭṭhi-raï-suhaṃ
+PL1266/ avasaṃ cakkāa-juaṃ huṃkārāatta-jīviaṃ vochiṇṇaṃ
+PL1267/ tāva a tamāla-kasaṇo kañcaṇa-kaḍaaṃ va bahala-saṃjhā-rāaṃ
+PL1268/ paripelliūṇa a tamo hia-kaddama-sura-gaïnda-ṇihaso vva ṭhio
+PL1269/ āsaṇṇammi paviralaṃ bahalaṃ thoantarammi dūrammi ghaṇaṃ
+PL1270/ obhagga-diṭṭhi-pasaraṃ savvattha sama-ṭṭhiaṃ pi dīsaï timiraṃ
+PL1271/ ghaṇa-viḍava-ṭṭhia-timirā timirāliddha-maïlanta-muddha-kisalaā
+PL1272/ kisalaa-ṇisaṇṇa-kusumā kusumāmoeṇa ṇavara ṇajjanti dumā
+PL1273/ melāvia-savva-disaṃ āsaṇṇammi vi paṇaṭṭha-ṇaaṇāloaṃ
+PL1274/ sūeavva-mahi-alaṃ jāaṃ sūra-vaḍaṇāṇurūaṃ timiraṃ
+PL1275/ okkhaṇḍeavva-daḍho pasaraï ukkhammiavva-bahalugghāo
+PL1276/ avalambiavva-joggo sasiṇā bhettavva-saṃghao tama-ṇivaho
+PL1277/ vahaï va mahi-ala-bhario ṇolleï va pacchao dharei va purao
+PL1278/ pellei va pāsa-gao garuāi va uvari-saṃṭhio tama-ṇivaho
+PL1279/ dīsaï a timira-milio kasaṇa-silā-bhiṇṇa-salila-sībhara-dhavalo
+PL1280/ thoummillanta-diso uaantaria-taṇuo sasi-arujjoo
+PL1281/ dīsaï jua-kkhaammi va mahi-ala-para-bhāa-sasi-arāhaa-timirā
+PL1282/ ṇivvaḍia-dhūma-huavaha-ḍajjhanta-samudda-saṃṇihā puvva-disā
+PL1283/ ṇavari a acchāloā uaa-giri-kkhalia-bahala-joṇhā-ṇivahā
+PL1284/ jāā paṇaṭṭha-timirā muddha-miaṅka-paripaṇḍulā puvva-disā
+PL1285/ ṇava-kamaloara-ambaṃ kesara-somāra-saṃgalanta-maūhaṃ
+PL1286/ viralei samāsaṇṇaṃ ṇīsesei timiraṃ ṇa tā sasi-bimbaṃ
+PL1287/ to uaa-sihara-miliaṃ jāaṃ uppusia-timira-dhavala-cchāaṃ
+PL1288/ ia-hutta-ṭṭhia-sura-gaa-danta-cchea-parimaṇḍalaṃ sasi-bimbaṃ
+PL1289/ ṇavari a sasi-ara-ṇisuḍhia-vivalāia-timira-kalusa-tārā-ṇivahaṃ
+PL1290/ jāaṃ bahu-kusumotthaa-silā-alāāra-saṃṇihaṃ gaaṇa-alaṃ
+PL1291/ dara-milia-canda-kiraṇā dara-dhuvvanta-timira-kkhaüriāloā
+PL1292/ dara-pāaḍa-taṇu-viḍavā dara-baddha-cchāhi-maṇḍalā honti dumā
+PL1293/ hoi ṇaha-laṅghaṇa-sahaṃ jāa-tthāma-kiraṇāhaükkhaa-timiraṃ
+PL1294/ vialia-muddha-sahāaṃ jaraḍhāanta-dhavalaṃ ṇisāara-bimbaṃ
+PL1295/ taha-parisaṃṭhia-selaṃ vitthiṇṇa-disaṃ tahujjua-ṇaï-ppavahaṃ
+PL1296/ khantūṇa va ukkiṇṇaṃ sasiṇā tama-saṃcaaṃ puṇo vi mahi-alaṃ
+PL1297/ bahalammi vi tama-ṇivahe ṇivvāleūṇa saccavia-rūvāo
+PL1298/ aṇubandhanti sasi-arā ghettuṃ ṇa caanti pāava-cchāāo
+PL1299/ ṇavara karālei sasī muha-parihaṭṭaṇa-samūsasanta-dala-uḍaṃ
+PL1300/ avaḍicchiekkamekkā visaaṃ phālenti mahuara ccia kumuaṃ
+PL1301/ pusio ṇu ṇiravasesaṃ samaaṃ thora-kara-pellio ṇu virāo
+PL1302/ otthaïo ṇu samatto sasiṇā pīo ṇu ṇiddaaṃ tama-ṇivaho
+PL1303/ maṃsala-cikkhilla-ṇihaṃ hattha-ggejjhaṃ va maïlia-disā-akkaṃ
+PL1304/ khantūṇa va tama-ṇivahaṃ candujjoeṇa khaüriaṃ va ṇaha-alaṃ
+PL1305/ bhiṇṇa-tama-duddiṇāiṃ viḍavantara-virala-paḍia-canda-karāiṃ
+PL1306/ thoa-suhāloāiṃ paaḍanti va muddha-pallavāi vaṇāiṃ
+PL1307/ parimalia-dduma-kusumā uahutta-disā-gaïnda-maa-ṇīsandā
+PL1308/ ṇivviṭṭha-paṅkaa-vaṇā ovagganti kumuoarāi mahuarā
+PL1309/ hoi ṇirāaa-lambo gavakkha-paḍio disā-gaassa va sasiṇo
+PL1310/ kasaṇa-maṇi-kuṭṭima-ale geṇhanto sara-jalaṃ va kara-pabbhāro
+PL1311/ dīsanti gaa-ula-ṇihe sasi-dhavala-maïnda-viddue tama-ṇivahe
+PL1312/ bhavaṇa-cchāhi-samūhā dīhā ṇīsaria-kaddama-paa-cchāā
+PL1313/ taṃsuṇṇamanta-bimbo jālantara-ṇiggaosaranta-maūhā
+PL1314/ bhiṇṇa-vivarandhaāro bhagga-cchāhi-pasaro vilaggaï cando
+PL1315/ vicchaḍḍia-cuṇṇa-ṇihā āvīaṃsua-visesiabbha-cchāā
+PL1316/ viaḍa-gavakkhovaïā dīvujjoa-miliā kilimmaï joṇhā
+PL1317/ pariṇāma-darummillaṃ ovatteavva-bahala-joṇhā-bhariaṃ
+PL1318/ thoa-tthoa-maüliaṃ bhara-vitthāria-dalaṃ va vevaï kumuaṃ
+PL1319/ pavaṇāampia-siharā gaoṇiattanta-viḍava-vihua-cchāā
+PL1320/ sasi-kiraṇa-parikkhittā joṇhā-vea-vaḍiā pavanti va rukkhā
+PL1321/ gharamaṇi-maūha-bhiṇṇo salilāhaa-bahala-candaṇa-rasa-cchāo
+PL1322/ uddesullalia-tamo dīsaï vivara-visamo vva joṇhā-ṇivaho
+PL1323/ vialia-ṇiaa-cchāaṃ jāaṃ joṇhā-parippavanta-miaṅkaṃ
+PL1324/ vicchūḍhavva-maūhaṃ avibhāvia-saṇha-tāraaṃ gaaṇa-alaṃ
+PL1325/ ṇivvaḍia-tuṅga-siharā dhavalā dīsanti diṭṭha-mahi-ala-bandhā
+PL1326/ ṇaha-majjha-ṭṭhia-sasahara-vocchiṇṇa-cchāhi-maṇḍalā dharaṇiharā
+PL1327/ vivaraṃ ti pariharijjaï bahala-duma-cchāhi-maṇḍalāgaa-timiraṃ
+PL1328/ occhundaï vīsatthaṃ joṇhā-ṇivaha-bhariaṃ thalaṃ miva vivaraṃ
+PL1329/ laddha-galantāsāaṃ āvea-vihiṇṇa-vammahullalia-suhaṃ
+PL1330/ chiṇṇa-ghaḍijjanta-rasaṃ ṇāvajjhaï daïa-cumbaṇaṃ juvaīṇaṃ
+PL1331/ vevaï sasaï kilimmaï saaṇe āmuaï ṇīsaho aṅgāiṃ
+PL1332/ ṇa viṇajjaï kiṃ bhīo o maaṇa-paravvaso vilāsiṇi-sattho
+PL1333/ piaama-vacchesu vaṇe ovaïa-disā-gaïnda-dantullihie
+PL1334/ vevaï daṭṭhūṇa ciraṃ saṃbhāvia-samara-kāaro juaï-jaṇo
+PL1335/ suraa-suhaddha-maüliaṃ bhamara-darakkanta-mālaī-maüla-ṇihaṃ
+PL1336/ sāhaï samaruppesaṃ uppitthummilla-tāraaṃ ṇaaṇa-juaṃ
+PL1337/ rosa-pusiāharāṇaṃ daïa-balāmoli-cumbaṇa-paruṇṇāṇaṃ
+PL1338/ ṇivvalia-maṇṇu-garuaṃ haraï parā-hutta-jampiaṃ juaīṇaṃ
+PL1339/ ahisāraṇaṃ ṇa geṇhaï ṇa saṃṭhavei alaaṃ ṇa pucchaï dūiṃ
+PL1340/ candāloa-paḍihao vevaï mūḍha-hiao vilāsiṇi-sattho
+PL1341/ avamaṇṇia-rāma-kahaṃ jahā-pura-paaṭṭa-juaï-jaṇa-vāvāraṃ
+PL1342/ sohaï raaṇiarāṇaṃ āsaṅghia-dahamuhaṃ paosāgamaṇaṃ
+PL1343/ pia-pāsāhi ṇiatto samuhaṃ aliaṃ pi jaṃ bhaṇaï dūi-jaṇo
+PL1344/ taṃ cia kāmiṇi-sattho dūmentiṃ pi bahuso ṇiattei kahaṃ
+PL1345/ saaṇesu paṇaa-kalahe samuha-ṇisaṇṇa-pia-velavijjantīhiṃ
+PL1346/ parivattiuṃ ṇa caïaṃ ṇavaraṃ ṇaaṇesu vialiaṃ bāha-jalaṃ
+PL1347/ aṇuṇaa-khaṇa-laddha-suhe puṇo vi saṃbharia-maṇṇu-dūmia-vihale
+PL1348/ hiae māṇavaīṇaṃ cireṇa paṇaa-garuo pasammaï roso
+PL1349/ alaaṃ chivaï vilakkho paḍisāreï valaaṃ jamei ṇiatthaṃ
+PL1350/ mohaṃ ālavaï sahiṃ daïāloa-ṇaḍio vilāsiṇi-sattho
+PL1351/ abbhuṭṭhaṇa-turiāṇaṃ sohaï daïovaūhaṇa-virāāṇaṃ
+PL1352/ asamatta-maṇḍaṇāṇaṃ tahea saaṇa-gamaṇaṃ vilāsavaīṇaṃ
+PL1353/ avasāia-diṇṇa-suho sahīhi thira-diṭṭhi-ṇihua-vāria-viḍio
+PL1354/ hittha-hiao muṇijjaï piehi alia-kuvio vilāsiṇi-sattho
+PL1355/ saha vaḍḍhiaṃ sahiṃ miva vaḍḍhantiṃ piaamāhisāraṇa-vigghe
+PL1356/ vārei cireṇa mao lajjaṃ vicchuhaï vammaho ccia paḍhamaṃ
+PL1357/ sahi-aṇa-hatthāhi muhaṃ dara-raïa-visesaaṃ samakkhettūṇa
+PL1358/ juvaīhi valia-visamaṃ appāhijjaï sasaṃbhamaṃ dūi-jaṇo
+PL1359/ aṇṇaṃ sahi-aṇa-purao appāhento a aṇṇahā dūi-jaṇaṃ
+PL1360/ jampaï vimukka-dhīraṃ aṇṇaṃ cia daïa-daṃsaṇe juvaï-jaṇo
+PL1361/ kaha vi samuhāṇiaṅke kaha kaha vi valanta-cumbiovatta-muhe
+PL1362/ dei khalantullāve ṇava-vahu-satthe visūria-raaṃ pi dhiiṃ
+PL1363/ sāsaï vimukka-māṇo bahalubbhiṇṇa-pulaüggameṇa piāṇaṃ
+PL1364/ purao-hutta-ṇisaṇṇo gaoṇiatta-hiao vilāsiṇi-sattho
+PL1365/ ṇa piaï diṇṇaṃ pi muhaṃ ṇa paṇāmei aharaṃ ṇa moei balā
+PL1366/ kaha vi paḍivajjaï raaṃ paḍhama-samāgama-paraṃmuho juvaï-jaṇo
+PL1367/ avalambijjaü dhīraṃ ṇa a so ehii ihuggae vi paose
+PL1368/ ia dūīhi tulijjaï paḍhamāṇia-piaamo vilāsiṇi-sattho
+PL1369/ dei vilāsavaīṇaṃ suhe a dukkhe a pāaḍia-sabbhāvā
+PL1370/ aṇavekkhia-lajjāiṃ sahi vva vīsattha-jampiāi pasaṇṇā
+PL1371/ candujjoeṇa mao maeṇa candāavo ṇu vaḍḍhia-pasaro
+PL1372/ dohi vi tehi ṇu maaṇo maaṇeṇa ṇu do vi te ṇiā aïbhūmiṃ
+PL1373/ canda-areṇa paose ṇijjaï maaṇeṇa mahu-maeṇa a samaaṃ
+PL1374/ dūraṃ dūrārūḍho juvaīṇa piesu bahu-raso aṇurāo
+
+<B 11>
+
+eāraho āsāsao
+PL1375/ cintei sasaï jūraï bāhuṃ paripusaï dhuṇaï muha-saṃghāaṃ
+PL1376/ hasaï pariosa-suṇṇaṃ sīā-ṇippasara-vammaho dahavaaṇo
+PL1377/ bahu-maṇṇaï vaccha-aḍaṃ hīrantuvvatta-jaṇaa-taṇaāliddhaṃ
+PL1378/ ṇindaï a vaaṇa-ṇivahaṃ appatta-piā-muhāmaa-rasāsāaṃ
+PL1379/ paḍirumbhantassa vi se bhagga-ṇiatta-parisaṃṭhavia-bhijjante
+PL1380/ visamuddhāia-kampe hiae ullalaï alahuammi vi dhīraṃ
+PL1381/ to se visamuvvattia-virala-pasāria-karaṅguli-dara-tthaïaṃ
+PL1382/ khaliaṃ aṃsammi muhaṃ viambhiāāsa-galia-bāhuppīḍaṃ
+PL1383/ visamuggāhia-mahuraṃ dūmia-danta-vvaṇāhara-parikkhaliaṃ
+PL1384/ āaṇṇei piāṇaṃ valanta-hiaāvahīriaṃ jaa-saddaṃ
+PL1385/ āmuaï mahaï saaṇaṃ maggaï raaṇi-viramaṃ juucchaï diasaṃ
+PL1386/ ṇīi ṇiattei puṇo raï-lambhovāa-maggaṇāura-hiao
+PL1387/ pacchāantassa vi se bahuso hiaa-ṭṭhio piāṇa vi purao
+PL1388/ samaaṃ muha-ṇivahammi vi sīāmaïo paaṭṭaï samullāvo
+PL1389/ taṃ pulaïammi pecchaï ullāvanto a tīa geṇhaï gottaṃ
+PL1390/ ṭhāi a tassa samaaṇe aṇṇammi vi cintiammi sa ccia hiae
+PL1391/ sāhaï se saṃtāvaṃ vāsa-haraddhanta-visama-puñjia-kusumo
+PL1392/ āaa-ṇīsāsa-hao kilinta-sagga-taru-pallavo uvaāro
+PL1393/ deha-pariṇāha-viaḍe valaï bharovvatta-dalia-pāsaddhante
+PL1394/ dūroṇāmia-majjhe visamaṃ bhūmi-saaṇe paholira-hattho
+PL1395/ dakkhiṇṇa-metta-diṇṇo jaṇaa-suā-hutta-hiaa-diṇṇukkaṇṭho
+PL1396/ ullalaï khaṇa-vilakkho ṇiaanteura-muhesu se muha-ṇivaho
+PL1397/ jā aṇṇeṇa hasanto gamei ummaccharaṃ vilāsiṇi-satthaṃ
+PL1398/ tā dūsaha-saṃtāvaṃ aṇṇaṃ se soa-dummaṇaṃ hoi muhaṃ
+PL1399/ ṇiuṇa-hasiāṇuviddhaṃ sīā-lambhāvahāraṇa-visaṃvāaṃ
+PL1400/ suṇaï ṇa lakkhei phuḍaṃ aṇṇa-viiṇṇa-hiao piāṇa dahamuho
+PL1401/ īsā-macchara-garue sāhikkheva-parivaḍḍhiovālambhe
+PL1402/ kaha kaha vi gamei khaṇaṃ vilakkha-hasiehi kāmiṇi-samullāve
+PL1403/ tassa paḍiruddha-sesaṃ bāhotthaa-kaṇṭha-visama-paa-ṇikkhevaṃ
+PL1404/ saṅkijjaï vimaṇāhiṃ phuḍaṃ ṇa ṇajjaï piāhi gotta-kkhaliaṃ
+PL1405/ kaha vi ṭhavei dahamuho kiṃ ti aṇālavia-moha-diṇṇālāvaṃ
+PL1406/ daïāhi galia-bāhaṃ rosa-ṇiruttara-puloiaṃ appāṇaṃ
+PL1407/ aṇahiao vi piāṇaṃ ummaccha-pasāriagghavia-huṃkāraṃ
+PL1408/ ahiṇandaï dahavaaṇo samatta-ṇivvelliāharoṭṭha-pulaïaṃ
+PL1409/ duccintiāvaesaṃ piāhi ummaccha-saṃbhama-kaāloaṃ
+PL1410/ hasaï khaṇaṃ appāṇaṃ aṇahiaa-visajjiāsaṇa-ṇiattantaṃ
+PL1411/ taha sa gao aïbhūmiṃ jaha ṇa viṇijjantaṇaṃ piāhi ṇa ṇāo
+PL1412/ ṇa a ṇāūṇa ṇa hasio ṇa a hasiūṇa aṇusoiuṃ ṇa a tiṇṇo
+PL1413/ cinteuṃ ca paütto avahovāsa-pasaranta-ṇīsāsa-haaṃ
+PL1414/ dosu ṇimeūṇa samaṃ ekkaṃ āsaṇṇa-muha-kavolesu karaṃ
+PL1415/ aṅkāgaaṃ sahijjaï paosa-raï-viggha-saṅkieṇa kaï-balaṃ
+PL1416/ taṃ kassa vi soatthaṃ valaï aladdha-suraaṃ mahaṃ cia hiaaṃ
+PL1417/ kiṃ bhua-vivara-paholira-saṃkhoha-pphiḍia-gahia-kaḍḍhia-ṇihaaṃ
+PL1418/ atthakkāsaṇṇa-ṭhiaṃ ṇipphala-caḍula-muhalaṃ malemi kaï-balaṃ
+PL1419/ o sasi-karāhaümmilla-loaṇandolamāṇa-bāha-taraṃgaṃ
+PL1420/ āsāemi kaa-ggaha-ṇiruttaruttāṇiāṇaṇaṃ jaṇaa-suaṃ
+PL1421/ kaha viraha-ppaḍiūlā hohii samuha-hiaā païmmi uvagae
+PL1422/ ṇecchaï iarā vi sasiṃ kiṃ uṇa diṭṭhammi diṇaarammi kamaliṇī
+PL1423/ abbhatthaṇaṃ ṇa geṇhaï tīraï tihuaṇa-sirīa vi ṇa loheuṃ
+PL1424/ ṇa gaṇei sarīra-vahaṃ kaha maṇṇe hojja jāṇaī sāṇuṇaā
+PL1425/ paï-māhappa-ṇisaṇṇā avamaṇṇia-sesa-sappurisa-soḍīrā
+PL1426/ jaï ṇavara hojja va vasā lua-rāhava-sīsa-daṃsaṇā jaṇaa-suā
+PL1427/ addiṭṭha-lajjaṇijjo bhagga-parittāṇa-vialiāsā-bandhe
+PL1428/ avaso abandhu-lahuo bhaeṇa ṭhii-bhaṅga-sāhasaṃ kuṇaï jaṇo
+PL1429/ ṇavari a ṇaṃ kheālasa-jimbhāanta-valiuddha-muha-saṃghāaṃ
+PL1430/ bhumaā-bhaṅgāṇatto samaaṃ pāsesu pariaṇo allīṇo
+PL1431/ to ekka-hiaa-guṇiaṃ dasahi vi samaaṃ muhehi appāheuṃ
+PL1432/ ṇa pahuppaï dahavaaṇo cira-kaṅkhia-lambha-gabbhiṇakkhara-garuaṃ
+PL1433/ aṇṇeṇa samāraddhaṃ vaaṇaṃ aṇṇeṇa harisa-gahia-pphiḍiaṃ
+PL1434/ aṇṇeṇa addha-bhaṇiaṃ muheṇa aṇṇeṇa se kaha vi ṇimmaviaṃ
+PL1435/ to uggāhia-soaṃ teṇa bhaṇanteṇa muha-paholira-dhūmaṃ
+PL1436/ saṃtāviekka-hiaaṃ dasa-kaṇṭha-kkhalia-palahuaṃ ṇīsasiaṃ
+PL1437/ āhāsaï a ṇisiare āṇā-sama-kāla-diṇṇa-paḍisaṃlāve
+PL1438/ mahi-ṇimiohaa-kara-ala-taṃsa-ṭṭhia-tia-bharuṇṇamia-dehaddhe
+PL1439/ taṃ māā-ṇimmaviaṃ riu-daṃsaṇa-visama-valia-ṇiccala-ṇaaṇaṃ
+PL1440/ dāveha kaṇṭha-rahiaṃ sīāi vioa-paṇḍuraṃ rāma-siraṃ
+PL1441/ to amarisa-melāvia-bhumaüggāhia-taraṃgia-ṇilāḍa-aḍaṃ
+PL1442/ chiṇṇāṇiaṃ va taṃ cia tāhe ccia tehi ṇimmiaṃ rāma-siraṃ
+PL1443/ saṃpatthiā a saṃbhama-calaṇovaḍaṇa-visamuṭṭhiā pamaa-vaṇaṃ
+PL1444/ kaha vi samattappāhia-dahavaaṇāṇatti-vāvaḍā raaṇiarā
+PL1445/ pattā a phuḍia-maṇi-aḍa-vivaruṭṭhia-salila-baddha-paṅkaa-maülaṃ
+PL1446/ pavaṇa-sua-bhagga-pāava-bhaṅguggaa-bāla-kisalaaṃ pamaa-vaṇaṃ
+PL1447/ daṭṭhūṇa a ṇaṃ dūmia-hiaa-paholanta-saṃbharia-kāavvā
+PL1448/ allīṇā māāmaa-rāma-sirullaaṇa-kāarā raaṇiarā
+PL1449/ aha tehi tīa purao chea-samuvvatta-māsa-diṇṇāveḍhaṃ
+PL1450/ ṭhaviaṃ rāhava-vaaṇaṃ lua-majjha-vilagga-vāma-hatthaṃ ca dhaṇuṃ
+PL1451/ āloie visaṇṇā uvaṇijjantammi veviuṃ āḍhattā
+PL1452/ sīā raaṇiarehiṃ rāma-siraṃ ti bhaṇie gaa ccia mohaṃ
+PL1453/ paḍiā a hattha-siḍhilia-ṇiroha-paṇḍara-samūsasanta-kavolā
+PL1454/ pellia-vāma-paohara-visamuṇṇaa-dāhiṇa-tthaṇī jaṇaa-suā
+PL1455/ maraṇammi bandhavāṇaṃ jaṇassa kiṃ hoi bandhavo ccia saraṇaṃ
+PL1456/ taha guru-soa-kavaliā dharammi paḍiā vimucchiā dharaṇi-suā
+PL1457/ ṇa kao bāha-vimukkho ṇivvaṇṇeuṃ pi ṇa caïaṃ rāma-siraṃ
+PL1458/ ṇavara-paḍivaṇṇa-mohā gaa-jīvia-ṇīsahā mahimmi ṇisaṇṇā
+PL1459/ khaṇa-ṇiccala-ṇīsāsaṃ jāaṃ mohandhaāra-sāma-cchāaṃ
+PL1460/ virala-miliacchi-vattaṃ mucchā-hīranta-tāraaṃ tīa muhaṃ
+PL1461/ visaria-vioa-dukkhaṃ takkhaṇa-pabbhaṭṭha-rāma-maraṇāāsaṃ
+PL1462/ jaṇaa-taṇaāi ṇavaraṃ laddhaṃ mucchā-ṇimīliacchīa suhaṃ
+PL1463/ thaṇa-pariṇāhotthaïe tīe hiaammi paaṇuaṃ pi ṇa diṭṭhaṃ
+PL1464/ dīhaṃ pi samūsasiaṃ sūijjaï ṇavara vevire aharoṭṭhe
+PL1465/ aparipphuḍa-ṇīsāsā to sā moha-virame vi ṇīsaha-paḍiā
+PL1466/ aṇuvajjha-bāha-garuia-dukkha-samuvvūḍha-tāraaṃ ummillā
+PL1467/ taha ṇimia ccia diṭṭhī mukka-kavola-vihuro ura ccia hattho
+PL1468/ gaa-jīvia-ṇicceṭṭhā ṇavaraṃ sā mahi-alaṃ thaṇa-bhareṇa gaā
+PL1469/ to mucchiuṭṭhiāe kiṃ eaṃ ti gaaṇe disāsu a samaaṃ
+PL1470/ suṇṇa-parigholiacchaṃ jāaṃ mūḍha-parideviaṃ tīa muhaṃ
+PL1471/ ṇivvaṇṇeūṇa a ṇaṃ tatto-hutta-ṭṭhiosianta-ṇisaṇṇo
+PL1472/ kaṅkhantīa ṇa patto vaaṇaṃ maraṇaṃ ca se kaha vi appāṇo
+PL1473/ ṇavari a pasāriaṅgī raa-bhariuppaha-païṇṇa-veṇī-bandhā
+PL1474/ paḍiā ura-saṃdāṇia-mahi-ala-cakkalaïa-tthaṇī jaṇaa-suā
+PL1475/ savvaṅga-ṇisaṇṇāa vi ṇīsesa-kkhavia-vali-vibhaṅga-ṇirāo
+PL1476/ tīe majjha-paeso thaṇa-jahaṇa-karālio ṇa pāvaï vasuhaṃ
+PL1477/ sahasāloa-virāaṃ daïa-muhe tammi sāṇusaa-daṭṭhavve
+PL1478/ mohaṃ gantūṇa ciraṃ samaaṃ bāheṇa āgaaṃ se hiaaṃ
+PL1479/ to kaha vi laddha-saṇṇā bāhovaggia-kavola-ala-saṃdaṭṭaṃ
+PL1480/ maggaï saṃgoveuṃ alaaṃ tīa vihalo ṇa pāvaï hattho
+PL1481/ āvea-samukkhittaṃ to se kheāgamosiantovattaṃ
+PL1482/ paḍiaṃ ṇiaücchaṅge appattaṃ cia paohare kara-jualaṃ
+PL1483/ mūḍha-hiaāi daṭṭhuṃ acaantīa samuhaṃ kaha vi rāma-siraṃ
+PL1484/ taṃsoṇamanta-ṇīsaha-vaaṇa-cchanda-valiālaāi pulaïaṃ
+PL1485/ parideviuṃ paüttā ṇiaa-sarīra-paḍimukka-rāhava-dukkhaṃ
+PL1486/ kara-magguṭṭhia-soṇia-vivaṇṇa-uṇṇaa-paoharā jaṇaa-suā
+PL1487/ āvāa-bhaaaraṃ cia ṇa hoi dukkhassa dāruṇaṃ ṇivvahaṇaṃ
+PL1488/ jaṃ mahilā-bīhacchaṃ diṭṭhaṃ sahiaṃ ca tuha mae avasāṇaṃ
+PL1489/ bāhuṇhaṃ tujjha ure jaṃ mocchihimi tti saṃṭhiaṃ maha hiae
+PL1490/ dhara-ṇiggamaṇa-paattaṃ sāhasu taṃ kammi ṇivvavijjaü dukkhaṃ
+PL1491/ virahammi tujjha dhariaṃ dacchāmi tumaṃ ti jīviaṃ kaha vi mae
+PL1492/ taṃ esa mae diṭṭho phaliā vi maṇorahā ṇa pūrenti mahaṃ
+PL1493/ puhavīa hohii paī bahu-purisa-visesa-cañcalā rāa-sirī
+PL1494/ kaha tā mahaṃ cia imaṃ ṇīsāmaṇṇaṃ uatthiaṃ vehavvaṃ
+PL1495/ kiṃ eaṃ ti palattaṃ visaümmillehi loaṇehi a diṭṭhaṃ
+PL1496/ vialia-lajjāi mae hoi phuḍaṃ ṇāha tuha muhaṃ ti paruṇṇaṃ
+PL1497/ sahio tujjha vioo raaṇiarīhi samaaṃ sahīhi va vutthaṃ
+PL1498/ daṭṭhuṃ tumaṃ ti hontaṃ jaï ettāhe vi jīviaṃ vialantaṃ
+PL1499/ jāe para-loa-gae tumammi vavasāa-metta-suha-daṭṭhavve
+PL1500/ harisa-ṭṭhāṇe vi mahaṃ ijjhaï addiṭṭha-dahamuha-vahaṃ hiaaṃ
+PL1501/ bāhaṃ ṇa dharei muhaṃ āsā-bandho vi me ṇa rumbhaï hiaaṃ
+PL1502/ ṇavari a cintijjante ṇa viṇajjaï keṇa jīviaṃ saṃruddhaṃ
+PL1503/ bolīṇo maaraharo majjha kaeṇa maraṇaṃ pi de paḍivaṇṇaṃ
+PL1504/ ṇivvūḍhaṃ ṇāha tume ajja vi dharaï akaaṇṇuaṃ maha hiaaṃ
+PL1505/ uggāhia rāma tumaṃ guṇe gaṇeūṇa purisamaïo tti jaṇo
+PL1506/ galia-mahilā-sahāvaṃ saṃbhariūṇa a mamaṃ ṇiattihii kahaṃ
+PL1507/ tuha bāṇukkhaa-ṇihaaṃ dacchimi dahakaṇṭha-muha-ṇihāaṃ ti kaā
+PL1508/ maha bhāadhea-valiā vivarā-huttā maṇorahā palhatthā
+PL1509/ jaṃ taṇuammi vi virahe pemmāvandheṇa saṅkaï jaṇassa jaṇo
+PL1510/ taṃ jāaṃ ṇavara imaṃ pecchantīe a tārisaṃ majjha phalaṃ
+PL1511/ to vilavia-ṇipphandaṃ galanta-hiaa-parisuṇṇa-loaṇa-jualaṃ
+PL1512/ mahuraṃ āsāsantī hatthuṇṇāmia-muhī bhaṇaï ṇaṃ tiaḍā
+PL1513/ avarigalio visāo akhaṇḍiā muddhaā ṇa pecchaï pemmaṃ
+PL1514/ mūḍho juvaï-sahāo timirāhi vi diṇaarassa cintei bhaaṃ
+PL1515/ tihuaṇa-mūlāhāraṃ visaḍha-mahinda-paḍimukka-vūḍha-raṇa-dhuraṃ
+PL1516/ jāṇantī kīsa tumaṃ tulesi sesa-purisāṇumāṇeṇa païṃ
+PL1517/ amilia-sāara-salilā aṇaha-ṭṭhia-mahiharā aṇuvvatta-alā
+PL1518/ rāmassa chiṇṇa-paḍiaṃ kaha pattiasi dharaṇī dharei tti siraṃ
+PL1519/ mārua-moḍia-viḍavaṃ miaṅka-kiraṇa-paḍimāsa-maülia-kamalaṃ
+PL1520/ kaha hoi rāma-vaḍaṇe ia ṇicchāaṃ dasāṇaṇa-dharujjāṇaṃ
+PL1521/ mā ruasu pusasu bāhaṃ uaūheūṇa aṃsa-pariatta-muhaṃ
+PL1522/ saṃbharia viraha-dukkhaṃ rottavvaṃ de puṇo païssa vi aṅke
+PL1523/ aïrā a dacchihi tumaṃ tuha viraholugga-paṇḍura-muha-cchāaṃ
+PL1524/ gaa-rosa-suhāloaṃ oāria-cāva-ṇivvuaṃ dāsarahiṃ
+PL1525/ pattihi amarisa-bhariaṃ hareṇa vi apatthaṇijja-kaṇṭha-ccheaṃ
+PL1526/ phuṭṭantaṃ jaï hontaṃ chiṇṇaṃ pi kaa-ggahuggaaṃ rāma-siraṃ
+PL1527/ kiṃ ti samāsasiavve mujjhasi dahavaaṇa-dappa-bhaṅgupphālaṃ
+PL1528/ pecchantī pamaa-vaṇaṃ rāmāṇatti-ara-pavaa-āviddha-dumaṃ
+PL1529/ ṇihaükkhaa-sura-loaṃ daria-ṇisāara-ṇihāa-palhatthantaṃ
+PL1530/ kaha teṇa khaṇaṃ mi viṇā dharei jassa bhuaṇaṃ bhua-vavaṭṭhambhaṃ
+PL1531/ taha taṃ si gaā mohaṃ mucchā-gaa-paḍia-ṇīsaha-visaṇṇaṅgī
+PL1532/ rakkhasa-māetti phuḍaṃ jāṇantī jaha imaṃ ahaṃ pi visaṇṇā
+PL1533/ milia-ṇisāara-purao suvela-malaantarāla-ṇimmavia-vahe
+PL1534/ pellia-tiūḍa-sihare ajja vi kiṃ tujjha rāhave aggahaṇaṃ
+PL1535/ maliā malaa-ṇiambā thale vva caṅkammiaṃ mahoahi-salile
+PL1536/ vutthaṃ suvela-sihare ajja vi kiṃ tujjha rāhave aggahaṇaṃ
+PL1537/ to agahiovaesā gaoṇiattanta-jīvia-muhijjantī
+PL1538/ tiaḍāa jaṇaa-taṇaā sahi-sabbhāva-sarisaṃ urammi ṇisaṇṇā
+PL1539/ loaṇa-vaïara-laggaṃ taṃsa-ṇisaṇṇāa tīa tiaḍā-vacche
+PL1540/ galiaṃ kaola-pellaṇa-pīḍijjantālaüggaaṃ bāha-jalaṃ
+PL1541/ to jampiuṃ paüttā puṇo vi atthekka-uṭṭhia-samūsasiā
+PL1542/ ura-gholira-veṇī-muha-thaṇa-laggugghuṭṭha-mahi-raā jaṇaa-suā
+PL1543/ sāhasu ja ccia paḍhamaṃ daṭṭhūṇa ahaṃ imaṃ mahimmi ṇisaṇṇā
+PL1544/ sa ccia mohummillā pecchāmi a ṇaṃ puṇo dharemi a jīaṃ
+PL1545/ sahiā rakkhasa-vasahī diṭṭhaṃ tuha ṇāha erisaṃ avasāṇaṃ
+PL1546/ ajja vi vaaṇijja-haaṃ dhūmāi ccia ṇa pajjalaï me hiaaṃ
+PL1547/ purisa-sarisaṃ tuha imaṃ rakkhasa-sarisaṃ kaaṃ ṇisāara-vaïṇā
+PL1548/ kaha tā cintia-sulahaṃ mahilā-sarisaṃ ṇa saṃpaḍaï me maraṇaṃ
+PL1549/ pavaṇa-sua-siṭṭha-turiaṃ iha entassa avalambiuṃ maha jīaṃ
+PL1550/ viraha-lahuaṃ pi rāhava mae jiantīa jīviaṃ tujjha hiaṃ
+PL1551/ alaandhaāria-muhī samuhāgaa-kaṇṭha-bhamia-veṇī-bandhā
+PL1552/ moha-paḍivaṇṇa-hiaā dara-jampia-ṇīsahaṃ puṇo vi ṇisaṇṇā
+PL1553/ to phuḍia-veṇi-bandhaṇa-bhaṅguggaa-visama-kesa-palhattharaṇe
+PL1554/ paḍiā rāmora-tthala-saaṇa-ṇirāsa-hiaā mahi-alucchaṅge
+PL1555/ tīa ṇava-pallaveṇa va paharāamba-vihaleṇa hattheṇa muhaṃ
+PL1556/ parimajjiuṃ ṇa caïaṃ ekka-kavola-miliālaaṃ kaha vi kaaṃ
+PL1557/ samuha-miliaṃ pi jāhe rūaṃ bāha-vihalā ṇa geṇhaï diṭṭhī
+PL1558/ tāhe kaha kaha vi kaaṃ uhaa-karuppusia-loaṇaṃ tīa muhaṃ
+PL1559/ to sā bhamanta-mārua-visama-païṇṇālaüppusia-bāha-jalā
+PL1560/ pecchaï rāhava-vaaṇaṃ ṇisāarocchuṇṇa-mahi-ala-paholantaṃ
+PL1561/ lakkhijjanta-visāā abbhahiummilla-ṇiccala-ṭṭhia-ṇaaṇā
+PL1562/ rāma-sira-baddha-lakkhā dhuvvaï bāheṇa se ṇa rumbhaï diṭṭhī
+PL1563/ to taṃ daṭṭhūṇa puṇo maraṇekka-rasāi bāha-ṇīsāracchaṃ
+PL1564/ āucchasu maṃ ti kaaṃ tiaḍā-gaa-loaṇāi dīṇa-vihasiaṃ
+PL1565/ sahiammi rāma-virahe dāruṇa-hiaa-ppaḍicchie vehavve
+PL1566/ sahasu gaa-ṇeha-lahuaṃ maha ṇillajja-maraṇaṃ imaṃ ti paruṇṇā
+PL1567/ savvassa a esa gaī ṇa uṇo māṇuṇṇaāṇa imam avasāṇaṃ
+PL1568/ aṇusarisaṃ ti bhaṇantī āhantūṇa paḍiā thiraṃ thaṇa-alasaṃ
+PL1569/ taha jīva-lajjiāe vilavantīa vi visāa-ṇīsaha-maüaṃ
+PL1570/ dāsarahi tti palattaṃ pia tti sīāi ṇa caïaṃ vāhattuṃ
+PL1571/ aṇusoiuṃ ṇa icchaï ṇa dei aṅgammi sā parammi va paharaṃ
+PL1572/ bāhaṃ muaï ṇa rumbhaï mariavve laddha-paccaaṃ se hiaaṃ
+PL1573/ kim u jīantīa tume jaï aliaṃ sahi ṇa hojja rāhava-maraṇaṃ
+PL1574/ aṇahe uṇa rahuṇāhe tuha me maraṇa-vihuraṃ kilammaï hiaaṃ
+PL1575/ cinteuṃ pi ṇa labbhaï jaha saṃbhāvesi taha imaṃ jaï hontaṃ
+PL1576/ to dāṇi kiṃ jaṇammi va tumammi saṃṭhāvaṇā mahaṃ aṇurūvā
+PL1577/ saalā ṇisāara-purī ghara-parivāḍi-sama-ṇīharia-ruṇṇa-ravā
+PL1578/ ekkeṇa kaā kaïṇā kaha hohii aṇaha-rakkhasaṃ rahu-vaḍaṇaṃ
+PL1579/ ṇatthi ṇihammaï rāmo aïrā hohii arakkhasaṃ tellokkaṃ
+PL1580/ diṭṭhaṃ ti bhaṇāmi phuḍaṃ pattia kassa vi pio kulassa viṇāso
+PL1581/ uṭṭhesu muasu soaṃ pusa eaṃ bāha-maïliaṃ thaṇa-vaṭṭhaṃ
+PL1582/ suṇasu saüṇe ṇa vaṭṭaï samarāhimuhe païmmi aṃsu-ṇivāo
+PL1583/ mottūṇa a rahuṇāhaṃ lajjāgaa-sea-binduijjanta-muho
+PL1584/ keṇa va aṇṇeṇa kao pāārantaria-ṇippaho dahavaaṇo
+PL1585/ aïrā a de rahu-suo taṇṇāantagga-hattha-maüia-pamhaṃ
+PL1586/ mocchihi vevantaṅguli-guppantukkhitta-visama-bhāaṃ veṇiṃ
+PL1587/ vialia-lajjā-lahuaṃ ea karantassa rahuvaïmmi dharante
+PL1588/ ṇa a taha dukkhāmi tume jaha parivattammi dahamuhassa sahāve
+PL1589/ vāli-vaha-diṭṭha-sāraṃ bāṇa-galatthia-samudda-diṇṇa-thala-vahaṃ
+PL1590/ rohia-laṅkā-valaaṃ mā lahuaṃ peccha rāhavassa bhua-balaṃ
+PL1591/ diṭṭhā si mae siviṇe sasi-sūrālihaṇa-sohiummuha-paḍimā
+PL1592/ khandhuṭṭhia-sura-gaa-kaṇṇa-āla-vihua-dhavalaṃsua-dasaddhantā
+PL1593/ diṭṭho a me dahamuho daha-muha-parivāḍi-viaḍa-kaḍḍhaṇa-maggo
+PL1594/ kāla-daḍha-pāsa-kaḍḍhia-dara-ghaḍiugghaḍia-khalia-muha-saṃghāo
+PL1595/ taṃ avalambasu dhīraṃ ṇāsaü saṃpaï amaṅgalaṃ jāva imaṃ
+PL1596/ muṇia-paramattha-lahuī avahīria-ṇipphalā ṇiattaü māā
+PL1597/ hontaṃ jaï rāma-siraṃ eāvatthaṃ pi to samūsasamāṇaṃ
+PL1598/ amaaṃ miva ṇāa-rasaṃ āsāeūṇa tuha kara-ppharisa-suhaṃ
+PL1599/ ia rāma-pemma-kittaṇa-dūsaha-vajjāhighāa-dūmia-hiaā
+PL1600/ saṃbharia mukka-kaṇṭhaṃ aṇṇamaaṃ maraṇa-ṇiccaā vi paruṇṇā
+PL1601/ to tiaḍā-vaaṇehi vi ṇa saṃṭhiā jāva tīa pavaa-kalaalo
+PL1602/ raṇa-saṃṇāha-gabhīro ṇa suo rāhava-pahāa-maṅgala-paḍaho
+PL1603/ aha bahuviha-saṃṭhāvaṇa-paccāṇijjanta-jīviāsā-bandhaṃ
+PL1604/ tīa gaa-soa-visaaṃ dūruṇṇāmia-paoharaṃ ṇīsasiaṃ
+PL1605/ to āsāsia-suhie tīe puṇarutta-saccavia-vīsatthe
+PL1606/ vihaḍia-vehavva-bhae puṇo vi saṃghaḍaï viraha-dukkhaṃ hiae
+PL1607/ māā-mohammi gae sue a pavaāṇa samara-saṃṇāha-rave
+PL1608/ jaṇaa-taṇaāi diṭṭhaṃ tiaḍā-ṇehāṇurāa-bhaṇiassa phalaṃ
+
+<B 12>
+
+bāraho āsāsao
+PL1609/ tāva a dara-daliuppala-paloṭṭa-dhūli-maïlanta-kalahaṃsa-ulo
+PL1610/ jāo dara-saṃmīlia-hariāanta-kumuāaro paccūso
+PL1611/ aruṇāamba-cchāo ṇava-salilākalusa-candimāhaa-mūlo
+PL1612/ dhāu-kalaṅka-kkhaüro osaraï taḍo vva raaṇi-pacchima-bhāo
+PL1613/ ṇivvaṇṇijjaï rūaṃ aruṇa-siholugga-candimammi mahi-ale
+PL1614/ ovvatta-dhūsarāṇaṃ ṇavara calantīṇa pāava-cchāāṇaṃ
+PL1615/ saṃmīlaï kumua-vaṇaṃ addhatthamia-galia-ppahaṃ sasi-bimbaṃ
+PL1616/ vialaï raaṇi-cchāā aruṇāhaa-muddha-tāraā puvva-disā
+PL1617/ dīsaï a timira-reia-pallava-amba-taruṇāruṇāhaa-mihiaṃ
+PL1618/ visama-vihiṇṇa-maṇasilā-bhaṅga-ppharusa-maṇi-pavvaaddhaṃ va ṇahaṃ
+PL1619/ tāva a attha-ṇiambaṃ ṇava-salilāuṇṇa-gaa-paa-cchavi-kaluso
+PL1620/ patto aruṇuṇṇāmia-pāsallanta-gaaṇosaranto vva sasī
+PL1621/ honti pavaṇāhaāiṃ phuḍa-mahura-vihaṃga-ṇīharanta-ruāiṃ
+PL1622/ guñjanta-mahuarāiṃ dhua-silhā-lahua-kisalaāi vaṇāiṃ
+PL1623/ aruṇakkanta-vialiaṃ ṇiaaṅkāṇugaa-bahala-joṇhā-bhariaṃ
+PL1624/ attha-siharāhi paḍiaṃ ukkhaḍia-karāvalambaṇaṃ sasi-bimbaṃ
+PL1625/ piaama-vioa-dukkhaṃ kaha vi gameūṇa jāmiṇīa pahāe
+PL1626/ aṇudhāi paḍiruantī abbhuṭṭhāuṃ va sahaarī cakkāaṃ
+PL1627/ jāaṃ samalliante abbhahiosahi-sihā-karālia-pāsaṃ
+PL1628/ attha-siharaṃ miaṅke aṇṇamaa-paaṭṭa-canda-maṇi-ṇīsandaṃ
+PL1629/ dūroṇaa-ṇakkhattaṃ aruṇa-sihāhaa-galatthioṇaa-joṇhaṃ
+PL1630/ atthamaï va sasi-sahiaṃ uṭṭhei va uaa-pavvaāhi ṇaha-alaṃ
+PL1631/ paï-lambheṇa paoso jāo diṇṇa-pphalo raï-suheṇa ṇisā
+PL1632/ āṇia-virahukkaṇṭho galaï aṇivviṇṇa-vammaho paccūso
+PL1633/ vīsambha-vaḍḍhia-rasaṃ aïrāa-kkhalia-sesa-saṃṭhia-rasaṇaṃ
+PL1634/ vialia-maeṇa ṇiuṇaṃ paccūsa-raaṃ paosa-dūrabbhahiaṃ
+PL1635/ saṃkantāhara-rāaṃ thoa-surā-saṃṭhiuppaladdha-tthaïaṃ
+PL1636/ casaaṃ kāmiṇi-mukkaṃ kilinta-vaüla-taṇuo ṇa muñcaï gandho
+PL1637/ pasiḍhila-kesa-kalāo uvvattia-mehalāvaruddha-ṇiambo
+PL1638/ chāā-lagga-parimalo piaama-mukka-taṇuo vilāsiṇi-sattho
+PL1639/ duṇṇimia-vāma-calaṇaṃ valanta-pīṇoru-visama-pāuddhāraṃ
+PL1640/ dukkheṇa saṃṭhavijjaï pia-hutta-ṇiatta-patthiaṃ juvaīhiṃ
+PL1641/ saṃkhohia-kamala-saro saṃjhāava-amba-dhāu-kaddamia-muho
+PL1642/ ṭhāṇa-pphiḍio vva gao rattiṃ bhamiūṇa paḍiṇiatto diaso
+PL1643/ aruṇa-paḍivohiāe abbhutthantīa āaaṃ va diṇaaraṃ
+PL1644/ sāhenti vihaḍiāiṃ ṇimiaṃ kamalāi diasa-lacchīa paaṃ
+PL1645/ ekkekkama-vocchiṇṇaṃ paosa-vīsattha-vihaḍiaṃ uahi-jale
+PL1646/ jaṇaṇiṃ va canda-paḍimaṃ alliaï vihāa-kāaraṃ saṅkha-ulaṃ
+PL1647/ hoi kamalāarāṇaṃ samūsasantāṇa cira-ṇirohekkamuho
+PL1648/ saṃcālia-mahu-mahuro mārua-bhiṇṇo vi maṃsalo ccia gandho
+PL1649/ jaṃ cia kāmiṇi-satthaṃ āucchantāṇa mukka-bāha-tthavaaṃ
+PL1650/ rakkhasa-bhaḍāṇa taṃ cia jāaṃ ṇippacchimovaūhaṇa-sokkhaṃ
+PL1651/ aha samarantaria-suho dahamuha-vera-paḍimuñcaṇāaa-diaho
+PL1652/ laddhāmarisāvasaro aladdha-ṇiddo vi rāhao paḍiuddho
+PL1653/ sīā-vioa-dukkhaṃ visahantassa caü-jāma-mettantariaṃ
+PL1654/ dīho a gao kālo ṇa samā ekkā a sā ṇisā rahuvaïṇo
+PL1655/ ummillanti ccia se ṇiddā-sesoṇaacchi-vatta-kkhaliā
+PL1656/ garuolaïa-raṇa-bhare diṭṭhī diṭṭha-samare dhaṇummi ṇisaṇṇā
+PL1657/ muaï a kilinta-kusumaṃ avahovāsa-maliovahāṇaddhantaṃ
+PL1658/ saï-pariattaṇa-visamaṃ hiaāvea-pisuṇaṃ silā-saaṇīaṃ
+PL1659/ to taṃ mahi-ala-ṇiviaṃ vāma-karāveḍha-ṇiṭṭhura-pariggahiaṃ
+PL1660/ dāhiṇa-hattheṇa kaaṃ valanta-deha-bhara-ṇāmiaṃ sajjīaṃ
+PL1661/ kāūṇa sasia-manthara-garua-siro-ampa-tajjiaṃ paḍivakkhaṃ
+PL1662/ calio calanta-pavvaa-vilaïa-dhaṇu-metta-sāhaṇo rahuṇāho
+PL1663/ caliaṃ ca tulia-pavvaa-milanta-sihara-ṇaha-ṇimmiekka-mahiharaṃ
+PL1664/ aṇurūa-bhua-pariṭṭhia-viḍava-muṇijjanta-pāavaṃ kaï-seṇṇaṃ
+PL1665/ saṃṇajjhanti kuurisā saṃṇāha-bhareṇa kiṃ karenti samatthā
+PL1666/ ṇiaa-balaṃ cia kavaaṃ kaīṇa appaḍihaā bhuā a paharaṇaṃ
+PL1667/ ṇāa-ṇisāara-sāraṃ māā-ṇikkalusa-jujjha-gaï-pabbuddhaṃ
+PL1668/ agga-kkhandhammi kaaṃ laṅkā-magga-ṇiuṇaṃ vihīsaṇa-seṇṇaṃ
+PL1669/ samara-turiassa-sukaaṃ kaha mottavvaṃ ti dūmio suggīvo
+PL1670/ gahiāuhammi rāme soaï a vihīsaṇo ṇisāara-vaṃsaṃ
+PL1671/ apphālie dhaṇummi a khohia-giri-vihua-sāare rahuvaïṇā
+PL1672/ kampia-ghara-pāārā aṅga-kkhivaṇa-visamaṃ va vevaï laṅkā
+PL1673/ jhīṇa-pulaāiaṅgī aüvva-harisa-miliāṇaṇā jaṇaa-suā
+PL1674/ soūṇa samāsatthā paḍhamullāvaṃ va rāhavassa dhaṇu-ravaṃ
+PL1675/ mucchāvia-juvaï-jaṇo rakkhasa-vaï-hiaa-mahiharāsaṇi-ghāo
+PL1676/ vāmohei puri-aṇaṃ sīā-kaṇṇa-suhao pavaṃga-kalaalo
+PL1677/ kaï-vara-rahasuddhāia-dhua-samaa-pahāvioahi-samakkanto
+PL1678/ salila-bharenta-dari-muho rasaï pasammanta-paḍiravaṃ dharaṇiharo
+PL1679/ ṇijjia-sesa-kalaalo paḍhamapphālia-rasanta-dhaṇu-ṇigghoso
+PL1680/ sāmarisa-vimbhiāṇaṇa-dahavaaṇāaṇṇio cireṇa pasanto
+PL1681/ tāva a rakkhasa-ṇāho pāārantaria-kaḍaïaṃ kaï-seṇṇaṃ
+PL1682/ raṇa-mahiaṃ agaṇento ṇiae ṇiddā-parikkhaammi viuddho
+PL1683/ vahaï vivalāa-ṇiddaṃ biiovāsa-pariattaṇāvaddha-suhaṃ
+PL1684/ visama-sua-maṅgala-ravaṃ ohīanta-paalāiaṃ dahavaaṇo
+PL1685/ to mahu-maa-muccantāmasiṇohīranta-lohiacchi-ṇihāaṃ
+PL1686/ dhaṇu-saddāmarisa-haaṃ ṇiddā-sesaṃ dasāṇaṇassa vialiaṃ
+PL1687/ tuṅga-maṇi-toraṇāi va ekkakkama-laṅghiaṅguli-karālāiṃ
+PL1688/ uddhaṃ bhua-jualāiṃ muaï valeūṇa ṇiaa-saaṇucchaṅge
+PL1689/ aha bhaa-calierāvaṇa-bhajjanta-kkhambha-diṇṇa-sura-saṃkhohaṃ
+PL1690/ āhammiuṃ paattaṃ raṇa-saṃṇāha-pisuṇaṃ dasāṇaṇa-tūraṃ
+PL1691/ raṇa-saṇṇā-paḍiuddhā gahia-jahāsaṇṇa-paharaṇā raaṇiarā
+PL1692/ mīlanta-kaṇṭha-laggaṃ thoaṃ ghettūṇa ṇiggaā juvaï-jaṇaṃ
+PL1693/ āucchamāṇa-gahiā suammi atthekka-samara-saṇṇā-vaḍahe
+PL1694/ juaï-muhāhi piāṇaṃ ṇenti amukka-siḍhila-ṭṭhiā aharoṭṭhā
+PL1695/ piaama-kaṇṭholaïaṃ juaīṇa suammi samara-saṃṇāha-rave
+PL1696/ īsi-ṇihaṃ ṇavara bhaaṃ suraa-kkheeṇa galaï bāhā-jualaṃ
+PL1697/ sua-saṇṇā-rava-turiā paḍivaṇṇāuha-vihattha-valia-kara-alā
+PL1698/ uvvellanti ṇisiarā vaccha-valanta-tthaṇaṃ piāveḍha-suhaṃ
+PL1699/ rumbhantīṇa piaame akkaa-uvve vi paṇaa-bhaṅgammi kae
+PL1700/ juaīṇa cira-parūḍho bhaa-hitthammi hiae ṇa laggaï māṇo
+PL1701/ jaha jaha piāi rubbhaï saṃbhāvia-sāmiāvamāṇabbhahiaṃ
+PL1702/ taha taha bhaïssa vaḍḍhaï saṃmāṇia-macchareṇa samarucchāho
+PL1703/ daïā-karehi dhariā khaliā paṇaeṇa pemma-rāeṇa hiā
+PL1704/ māṇeṇa vavaṭṭhaviā raṇa-parioseṇa ṇiggaā raaṇiarā
+PL1705/ sura-samarucca-cchandā kaï-samasīsa-lahuāiammi raṇa-bhare
+PL1706/ lajjanti a saṃṇahiuṃ ṇa a visahanti pasaraṃ parassa ṇisiarā
+PL1707/ vaṇa-vivaresu karālaṃ vaṇa-veḍhesu muhalaṃ khalantaddhantaṃ
+PL1708/ hoi ura-tthala-visamaṃ puṭṭhi-ṇirāa-ṭṭhiaṃ mahoara-kavaaṃ
+PL1709/ sura-samara-diṭṭha-sāro rakkhasa-ṇāhassa jaṅgamo pāāro
+PL1710/ sara-mokkhesu suhattho saṃṇajjhaï harisio kameṇa pahattho
+PL1711/ tisirassa samukkhitto bahu-kaṇṭhantara-karālio saṃṇāho
+PL1712/ siḍhilaṃ cia osario ekkamuhukkhitta-hattha-taṇuammi ure
+PL1713/ diṇṇa-mahi-ampa-garuaṃ saṃcālente mahoare appāṇaṃ
+PL1714/ vaccha-tthala-puñjaïo osaraï bhareṇa appaṇo saṃṇāho
+PL1715/ ṇīsarierāvaṇa-danta-musala-dīsanta-masiṇa-ṇihasa-cchāaṃ
+PL1716/ kavaaṃ majjha-karālaṃ uttambhijjaï ura-tthale indaïṇo
+PL1717/ aïkāassa vi kavae cireṇa ūrūsu ṭhia-palambosāre
+PL1718/ deha-ppahā-vimukkaṃ jāaṃ vocchiṇṇa-kasaṇa-mihiaṃ va ṇahaṃ
+PL1719/ samara-turio visūraï ura-tthaluvvatta-dāviaṃsovāsaṃ
+PL1720/ āvandhiūṇa kavaaṃ vajja-muha-cchiṇṇa-bandhaṇaṃ dhummakkho
+PL1721/ roseṇa cira-parūḍhe phuḍie asaṇippahassa vaṇa-saṃghāe
+PL1722/ kavaa-vivarehi galiaṃ suiraṃ uppāa-jalaharassa va ruhiraṃ
+PL1723/ ukkhippanta-ṇirāā amarisa-vea-valie ṇiumbhassa ure
+PL1724/ phuḍa-dāvia-sīmantā vialia-loha-valaā visaṭṭaï māḍhī
+PL1725/ sura-paharaṇa-ghāa-sahaṃ suo vi suparicchaaṃ ṇivandhaï kavaaṃ
+PL1726/ samuha-ṭṭhiaṃ ṇa āṇaï purao duvvāra-rāma-sara-dujjāaṃ
+PL1727/ turiāucchia-kāmiṇi-valanta-dhaṇiovaūhaṇāhiṇṇāṇaṃ
+PL1728/ thaṇa-parimalaṃ daanto ṇīa ccia sāraṇo ṇa bandhaï kavaaṃ
+PL1729/ juttā kumbhassa rahe māā-baddha-muhalandhaāra-dhaa-vaḍe
+PL1730/ sura-ruhira-daṭṭha-kesara-guppanta-bhuaṃga-paggahā kesariṇo
+PL1731/ ṇimmāei amarisaṃ paḍihatthei garuaṃ pi sāmia-sukaaṃ
+PL1732/ vihuṇaï parāhimāṇaṃ ṇimio muṭṭhimmi maṇḍalaggassa karo
+PL1733/ saṃṇajjhanti samatthā ṇa sahijjaï kalaalo visūraï hiaaṃ
+PL1734/ viraei sura-vahu-jaṇo vimāṇa-toraṇa-gaāgao ṇevacchaṃ
+PL1735/ ia jā samara-saaṇho saṃṇajjhaï harisio ṇisāara-loo
+PL1736/ tā rahuvaï-dīsantaṃ allīṇaṃ cia samantao kaï-seṇṇaṃ
+PL1737/ bhaggārāma-violaṃ daliujjāṇa-bhavaṇovaṇiggama-lahuiṃ
+PL1738/ ovagganti pavaṃgā sohā-viṇiaṃsaṇaṃ ṇisāara-ṇaariṃ
+PL1739/ aṅkāaa-raaṇiaraṃ dhīrāanta-pavaāhiva-dharijjantaṃ
+PL1740/ rasaï visamāaa-paaṃ rosuddhāia-pariṭṭhiaṃ pavaa-balaṃ
+PL1741/ rahasallianta-gavvia-kaï-seṇṇa-cchanda-ṇaha-alallīṇa-suraṃ
+PL1742/ bandittaṇa-daṭṭhavvaṃ pecchaï sura-vahu-jaṇo ṇisāara-ṇaariṃ
+PL1743/ raṇa-rahasa-patthiāṇaṃ uru-vea-visaṭṭa-sela-sihara-kkhaliā
+PL1744/ pavaāṇa paḍhama-bhaggā paḍanti samaïñchiāṇa maggeṇa dumā
+PL1745/ ṇaha-ala-samuṭṭhiehiṃ pāārantaria-dhaa-vaḍehi pavaṃgā
+PL1746/ sūenti guḍia-vāraṇa-raïa-ghaḍā-bandha-saṃṭhie raaṇiare
+PL1747/ bhamaï pavaṇāṇusārī pavaa-balassa khaliuṭṭhia-paücchalio
+PL1748/ duma-bhaṅga-sadda-visamo mahi-ṇīharia-garuo samullavaṇa-rao
+PL1749/ ṇiddalia-maṇi-aḍāṇaṃ denti jahāsaṇṇa-vivara-palhatthāṇaṃ
+PL1750/ vihaḍia-suvela-lambia-disā-valantojjharattaṇaṃ phaḍihāṇaṃ
+PL1751/ je cira-āla-parūḍhā samarāiñchia-mahinda-paa-ṇikkhevā
+PL1752/ te ṇavara gourantara-vihaḍaṇa-caḍulehi vāṇarehi vihaḍiā
+PL1753/ jāā ṇisāara-purī pāārabbhantarāvasesa-dhaa-vaḍā
+PL1754/ khaṇa-vāṇara-saṃvellia-phalihā-vijjhavia-rakkhasenda-paāvā
+PL1755/ viaḍa-giri-ūḍa-saṃṇiha-ṇirantarāsaṇṇa-vāṇara-parikkhittā
+PL1756/ jāā pāārohaa-majjha-vvūḍha-phaḍiha vva rakkhasa-ṇaarī
+PL1757/ to taṃ valanta-viaḍaṃ vāṇara-seṇṇaṃ vihatta-dārāhoaṃ
+PL1758/ jāaṃ ṇivaha-ṇirantara-laṅkā-pāāra-ghaḍia-maṇḍali-bandhaṃ
+PL1759/ biioahi-gambhīre phalihāvattammi biia-baddha-giri-vahā
+PL1760/ āḍhattā laṅgheuṃ biia-suvelaṃ va vāṇarā pāāraṃ
+PL1761/ ṇavari a mukka-kalaalaṃ vāṇara-tuliammi dahamuhāhiṭṭhāṇe
+PL1762/ caliaṃ raaṇiara-balaṃ khaaggi-vihue vva mahi-ale uahi-jalaṃ
+PL1763/ ārūḍho ṇīi rahaṃ āsaṇṇa-gaïnda-laṅghaṇa-valantehiṃ
+PL1764/ sarahehi samara-tulio juttaṃ jua-bhagga-kesarehi ṇiumbho
+PL1765/ kaha vi paḍivaddha-kavao samarāsaṅghia-samattha-vāṇara-loo
+PL1766/ ṇīi dhaṇu-koḍi-tāḍaṇa-tūravia-turaṃgamo raheṇa paaṅgho
+PL1767/ caḍula-vaḍāā-ṇivaho kañcaṇa-ghara-bhitti-viaḍa-kūvara-bandho
+PL1768/ indaïṇo vi pasario ekkuddeso vva rakkhasa-urīa raho
+PL1769/ khaṇa-pariatta-maïndā khaṇa-lakkhia-kuñjarā khaṇantara-mahisā
+PL1770/ tassa khaṇa-metta-mehā rahaṃ vahanti khaṇa-pavvaā a turaṃgā
+PL1771/ avisajjia-ṇikkante atthāṇa-kkhoha-halahaluṭṭhia-muhale
+PL1772/ dahavaaṇassa suhāvaï āṇā-bhaṅgo vi takkhaṇaṃ ṇiaa-bale
+PL1773/ guḍia-guḍijjanta-bhaḍaṃ sohaï raṇa-turia-jutta-jujjanta-rahaṃ
+PL1774/ ghaḍia-ghaḍenta-gaa-ghaḍaṃ calia-calanta-turaaṃ ṇisāara-seṇṇaṃ
+PL1775/ hatthi-gaa-varia-rāmaṃ raha-gaa-saccavia-pavaa-vaï-somettiṃ
+PL1776/ āsa-gaa-varia-haṇumaṃ bhūmī-gaa-varia-kaï-balaṃ ṇīi balaṃ
+PL1777/ raha-saṃghaṭṭa-kkhaliaṃ goura-muha-puñjaïjjamāṇa-gaa-ghaḍaṃ
+PL1778/ bhavaṇantara-guppantaṃ aghaḍentekkamuha-ṇiggamaṃ valaï balaṃ
+PL1779/ dukkheṇa gourāiṃ valanta-jua-koḍi-vihaḍia-kavāḍāiṃ
+PL1780/ bolanti rakkhasa-rahā taṃsoṇāmia-dhaāhaovari-taḍimā
+PL1781/ ṇisuḍhia-disā-gaïndaṃ bhagga-bhuaṃga-pphaṇaṃ dalia-pāālaṃ
+PL1782/ garuaṃ pi rakkhasāṇaṃ aïrā-honta-lahuaṃ bharaṃ sahaï mahī
+PL1783/ agga-kkhandhāvaḍiaṃ majjhe dāra-muha-ruddha-puñjia-pihulaṃ
+PL1784/ ūsāsia-sāhi-muhaṃ kūlābharia-bhavaṇaṅgaṇaṃ ṇīi balaṃ
+PL1785/ ia dāra-kaa-tthambhaṃ ṇīi vihiṇṇa-viaḍaṃ ṇisāara-seṇṇaṃ
+PL1786/ ekkamuha-dari-viṇiggaa-sama-tthaluttāṇa-patthia-ṇaï-cchāaṃ
+PL1787/ jāāi taṃ muhuttaṃ puṇṇa-jjhīṇa-sariā-puliṇa-sohāiṃ
+PL1788/ rakkhasa-gharaṅgaṇāiṃ gaa-samarāhimuha-joha-païrikkāiṃ
+PL1789/ laṅkā-veḍhaṇa-turio āloia-dāra-ṇinta-rakkhasa-loo
+PL1790/ rasiūṇa pavaa-ṇivaho khara-pavaṇāiddha-vaṇa-dao vva pacalio
+PL1791/ paharujjua-pāikkaṃ parivaḍḍhaï pakkha-pasariāsārohaṃ
+PL1792/ mukkaṅkusa-māaṅgaṃ siḍhilia-raha-paggahaṃ ṇisāara-seṇṇaṃ
+PL1793/ to ekkāaa-veaṃ ekkakkama-diṇṇa-mahi-alabbhahia-paaṃ
+PL1794/ ṭhāi aṇohīṇa-bhaḍaṃ taha parimaṇḍala-pahāviaṃ kaï-seṇṇaṃ
+PL1795/ patthanti jāa-rosā patthijjanti a mahaggha-raṇa-soḍīrā
+PL1796/ ṇihaṇanti ṇihammanti a aṇurāeṇa ṇavaraṃ ṇa bhajjanti bhaḍā
+
+<B 13>
+
+teraho āsāsao
+PL1797/ aha ṇiggaa-miliehiṃ allīṇa-samāgaehi a vimukka-ravaṃ
+PL1798/ raaṇiara-vāṇarehiṃ diṇṇaṃ sahiaṃ ca garua-raṇa-patthāṇaṃ
+PL1799/ taha a purilla-ṇivāia-dehovari-ṇimia-calaṇa-patthaṇa-turiā
+PL1800/ ekkakkamaṃ ahigaā thoaṃ jaha pahara-lālasā osariā
+PL1801/ jaha hiaehi vavasiaṃ raa-kalusehi ṇaaṇehi jaha saccaviaṃ
+PL1802/ raaṇiarehi raṇa-muhe taha paḍivakkhammi paharaṇaṃ ohariaṃ
+PL1803/ paa-lambhabbhahia-javā muṭṭhi-pariṭṭhavia-ṇippaampa-kkhaggā
+PL1804/ saccavia-laddha-lakkhā paḍhama-pahāra-visaā ṇa bhajjanti bhaḍā
+PL1805/ vihuṇanti calia-viḍave muha-maṇḍala-gholaṇuppusia-sindūre
+PL1806/ pavaa-sa-hatthāiddhe kumbha-aḍukkhutta-pāave māaṅgā
+PL1807/ rosassa dāsarahiṇo maaṇassa a dūsahassa rakkhasa-vaïṇo
+PL1808/ samaaṃ cia aḍḍhatto doṇha vi aṇurūa-dāruṇo pariṇāmo
+PL1809/ ṇihaṇanti gaehi gae turaehi turaṃgame rahehi a rahiṇo
+PL1810/ jāaṃ pavaṃgamāṇaṃ paḍivakkho paharaṇaṃ ca rakkhasa-seṇṇaṃ
+PL1811/ sara-vikkiṇṇa-mahiharā sara-vihaḍia-sesa-muggarāhaa-selā
+PL1812/ paharaṇa-maggāiñcia-bhua-cuṇṇia-pavvaā bhamanti ṇisiarā
+PL1813/ bhāa-paḍio vi vitthaa-giri-pariṇāha-viaḍe pavaṃga-kkhandhe
+PL1814/ apahuppantāveḍho ullalaï gaassa thora-kara-pabbhāro
+PL1815/ raaṇiarora-tthala-cuṇṇiassa-kaï-rosa-pesiassa sihariṇo
+PL1816/ uddhaṃ uddhāi rao osaraï ahomuho silā-saṃghāo
+PL1817/ riu-bala-majjha-ṇirāā ṇihaa-ṇirantara-ṇisuddha-ṇajjanta-bhaḍā
+PL1818/ vikkama-ṇīsāmaṇṇā daṭṭhuṃ pi bhaḍāṇa dukkarā gaï-maggā
+PL1819/ ṇivvubbhaï soḍīraṃ appaḍihattha-lahuo hasijjaï paharo
+PL1820/ vaḍḍhaï verāvandho aïsaṃdhijjanti sāhasesu samatthā
+PL1821/ ṇa paḍaï paḍie vi sire sūla-vihiṇṇaṃ pi ṇea bhijjaï hiaaṃ
+PL1822/ duppariiaṃ ṇa laggaï lāvijjantaṃ pi paḍibhaḍāṇa raṇa-bhaaṃ
+PL1823/ sahaï paharesu dappo dappa-ṭṭhāṇesu sahaï purisāsaṅgho
+PL1824/ ṇiddosesu bhaḍāṇaṃ osāresu vi ṇa osaraï rosa-raso
+PL1825/ riu-gaa-bhiṇṇukkhittā rosa-vihuvvanta-caḍula-kesara-ṇivahā
+PL1826/ daḍha-daṭṭha-danta-mūlā rasiūṇa samaccharaṃ ṇimillanti kaī
+PL1827/ avahīraṇā ṇa kijjaï sumarijjaï saṃsae vi sāmia-sukaaṃ
+PL1828/ ṇa gaṇijjaï viṇivāo diṭṭhe vi bhaammi saṃbharijjaï lajjā
+PL1829/ paḍhumāṇiāhi suiraṃ je jīvia-saṃsaammi vi paricchūḍhā
+PL1830/ te ccia ahimuha-ṇihaā sura-bandīhi ahisāriā raaṇiarā
+PL1831/ raaṇiara-baddha-lakkho abaddha-ruhira-paripaṇḍuraṅga-ccheo
+PL1832/ agaṇia-vaṇa-saṃtāvo uṇha-pahāra-saraso samalliaï kaī
+PL1833/ ṇa paḍikkhanti avasaraṃ occhundanti jaṇiaṃ pareṇa paāvaṃ
+PL1834/ bolenti jahā-bhaṇiaṃ sāhukkāra-purao aïnti samatthā
+PL1835/ aṭṭanti asahaṇāiṃ khaṇḍijjanta-paḍisāriaddhantāiṃ
+PL1836/ vocchijjanta-muhāiṃ bhijjantosaria-paḍibhaḍāi balāiṃ
+PL1837/ vāṇara-paharukkhuḍiā aṇirūvia-lakkha-pesiāsi-paharaṇā
+PL1838/ mucchā-ṇimīliacchā ohīrantā vi allianti ṇisiarā
+PL1839/ cuṇṇia-garua-paḍibhaḍo phuraï aṇallīṇa-rakkhasāhaa-vihalo
+PL1840/ khaṇḍijjanta-paaṭṭo oli-cchiṇṇa-paḍio pavaṃgama-joho
+PL1841/ soḍīreṇa paāvo chāā paharehi vikkamehi pariaṇo
+PL1842/ jīeṇa a ahimāṇo rakkhijjaï a garuo sarīreṇa jaso
+PL1843/ bhijjaï uro ṇa hiaaṃ giriṇā bhajjaï raho ṇa uṇa ucchāho
+PL1844/ chijjanti sira-ṇihāā tuṅgā ṇa uṇa raṇa-dohalā suhaḍāṇaṃ
+PL1845/ selojjharehi gaaṇe dhua-lohia-sībharehi dhārā-magge
+PL1846/ maa-salilehi ghaḍāsu a vocchijjaï pasariaṃ mahi-raüṭṭhāṇaṃ
+PL1847/ visahia-khagga-ppaharā gaïnda-danta-lihiaggalā-paḍirūā
+PL1848/ selāiñchaṇa-valiā visamaṃ bhajjanti pavaa-bāhu-pphaḍihā
+PL1849/ teṇhāio vi suiraṃ saṃṇāha-cchea-gabbhiṇammi vaṇa-muhe
+PL1850/ ṇivvalia-loha-virasaṃ ṇa piaï āmuaï cakkhiūṇa vihaṃgo
+PL1851/ vevaï paḍio vi bhuo osuddhammi vaaṇammi dharaï amariso
+PL1852/ lua-sīsaṃ pi kavandhaṃ dhāvaï ukkhitta-kaṇṭha-lohia-dhāraṃ
+PL1853/ dei rasaṃ riu-paharo vahaï dhuraṃ vikkamassa verāvandho
+PL1854/ āaḍḍhia-raṇa-rahaso dappaṃ vaḍḍhei āao aïbhāro
+PL1855/ sāhei riuṃ va jasaṃ ṇa sahaï āāriaṃ va kāla-kkhevaṃ
+PL1856/ lahaï suhaṃ miva ṇāsaṃ jīaṃ muaï samuhaṃ paharaṇaṃ va bhaḍo
+PL1857/ visahia-khagga-ppaharā vialia-lohia-kilinta-ṇīsāra-bhuā
+PL1858/ mucchijjantoallā akkantā ṇiaa-mahiharehi pavaṃgā
+PL1859/ daaï kusuaṃ va māṇaṃ vaḍḍhantaṃ pi aṇahaṃ ṇa pattiaï jasaṃ
+PL1860/ ṇa karei loa-garue jīa ccia ṇavara āaraṃ bhaḍa-sattho
+PL1861/ ṇihaālakkhia-johe jāe lahuammi ṇiaa-dhārā-magge
+PL1862/ parivaḍḍhantāi-bharaṃ garuaṃ para-saṃkulaṃ aïnti samatthā
+PL1863/ dhārenti jasassa dhuraṃ entaṃ ṇa sahanti vikkamassa parihavaṃ
+PL1864/ rosassa karenti dhiiṃ māṇaṃ vaḍḍhenti sāhasassa samatthā
+PL1865/ paharāsāia-harisaṃ khaṇa-mucchā-galia-raṇa-maṇoraha-sokkhaṃ
+PL1866/ jīa-viḍhattaccharasaṃ sira-parivattia-jasaṃ viambhaï samaraṃ
+PL1867/ saṃdehesu hasijjaï rajjijjaï sāhase ramijjaï vasaṇe
+PL1868/ mucchāsu vīsamijjaï ṇivvūḍhaṃ ti ṇavaraṃ gaṇijjaï maraṇe
+PL1869/ calio a caraṇa-pahao aüvva-diṇṇa-raï-maṇḍala-gahāsaṅko
+PL1870/ atthekka-kaḍḍhia-ṇiso abhāa-bhagga-diaso mahi-raügghāo
+PL1871/ mūle bahalugghāo majjhoāse pasāriattaṇa-taḍiṇo
+PL1872/ ṇaha-puñjia-vitthario paḍaï disāsu garuattaṇeṇa mahi-rao
+PL1873/ muaï bharei ṇu vasuhaṃ ṇīi disāhiṃ thaei ṇu disā-akkaṃ
+PL1874/ addiṭṭha-ṇiggama-vaho paḍaï ṇahāhi gaaṇaṃ vilaggaï ṇu rao
+PL1875/ dīsaï raaṇiara-balaṃ pavaṃga-johehi māsala-raantariaṃ
+PL1876/ osāa-haassa ṭhiaṃ purao maṇi-pavvaassa va haa-cchāaṃ
+PL1877/ odhūsaria-ghaa-vaḍo pasaraï maïlia-turaṃgama-muha-ppheṇo
+PL1878/ kasaṇa-mihia vva taṇuo ṇahammi sāmalaïāavo raa-ṇivaho
+PL1879/ vāṇara-rahasa-visajjia-ṇahaṅgaṇovaïa-sela-magga-ṇirāo
+PL1880/ raïṇo kalusa-cchāo paḍaï paṇālojjharo vva kiraṇujjoo
+PL1881/ kuvioharia-ṇisāara-pavaa-daḍha-kkhandha-pūriaddhantāsuṃ
+PL1882/ maṃsala-mahu-kosa-ṇiho bajjhaï baddha-ruhirāsi-dhārāsu rao
+PL1883/ raṇa-parisakkaṇa-vihalā raï-kiraṇāhaa-kilinta-maülia-ṇaaṇā
+PL1884/ ṇivvāanti gaïndā sībhara-saṃvalia-reṇu-kaddamia-muhā
+PL1885/ mūlāhoa-karālā soṇia-sotta-ṇivahantarāla-pasariā
+PL1886/ ekkakkameṇa samaaṃ saṃbajjhanti uariṃ mahi-laüppīḍā
+PL1887/ ṇivvāleūṇa ṇahe gaa-sukkāria-valanta-dhaa-vaḍa-taṇuiṃ
+PL1888/ pavaṇo kaḍḍhaï visamaṃ chāā-vaha-paṭṭha-dhūsaraṃ raa-lehaṃ
+PL1889/ saṃrumbhaï diṭṭhi-vahaṃ gaāṇa ahimuha-pahāviāṇa raṇa-muhe
+PL1890/ mārua-kampijjanto vaaṇabbhāsammi muha-vaḍo vva mahi-rao
+PL1891/ ṇavari a bhaḍa-vaccha-tthala-vaṇa-magga-ṇirāa-patthiucchaliāe
+PL1892/ ruhira-ṇaīa mahi-rao ummūlia-kūla-pāavo vva ṇisuddho
+PL1893/ palahua-ṇīhāra-ṇihaṃ saṃghāia-kamala-ṇāla-tantu-cchāaṃ
+PL1894/ gholaï dara-vocchiṇṇaṃ mārua-bhiṇṇa-taliṇa-ṭṭhiaṃ raa-sesaṃ
+PL1895/ rumbhantujjua-maggaṃ dharāharantara-valanta-ṇaï-sotta-ṇihaṃ
+PL1896/ valaï valanta-dhaa-vaḍaṃ paḍia-gaïnda-ṇivahantarālesu balaṃ
+PL1897/ dūsaha-sahia-ppaharā duvvojjha-vilagga-samara-ṇivvūḍha-bharā
+PL1898/ occhuṇṇa-duggama-pahā kaa-dukkara-pesaṇā paḍanti pavaṃgā
+PL1899/ bandhu-vaha-baddha-veraṃ sahassa-pūraṇa-kavandha-jaṇiāmoaṃ
+PL1900/ vaḍḍhaï bhaḍa-diṇṇa-rasaṃ bhuja-pabbala-pahua-vīra-paḍaṇaṃ jujjhaṃ
+PL1901/ maṇibandhāgaa-puñjia-saṃṇāha-cchea-valaa-diṇṇāveḍhaṃ
+PL1902/ ṇeuṃ ṇa caei siā mūlucchiṇṇa-garuaṃ ṇisiarassa bhuaṃ
+PL1903/ āvattantara-valiā ruhira-ṇihāesu pāsa-baddha-ppheṇā
+PL1904/ ollanta-pamha-garuā atthāanti paḍiūṇa camaruppīḍā
+PL1905/ uddha-muha-mukka-ṇāā puvvaddha-bharosianta-pacchima-bhāā
+PL1906/ kumbhe pavaa-silāhaa-khuppantuddhaṅkuse dhuṇanti gaïndā
+PL1907/ aha pavaa-bharubbhantā paharujjua-tiasa-bhaṅga-dāṇa-samuiā
+PL1908/ jāā rakkhasa-johā paḍhamuggaa-dukkaraṃ paḍivahāhimuhā
+PL1909/ bhaggoṇiattia-gaaṃ bhamiaṃ ṭhāṇa-parivattiobhagga-rahaṃ
+PL1910/ ekka-paa-valia-johaṃ maṇḍali-diṇṇa-turaaṃ ṇisāara-seṇṇaṃ
+PL1911/ amarisa-vitthakkantā vivalāanti bhamiūṇa galiāmarisā
+PL1912/ īsi-viatta-cchūḍhā ṇibbhīallīṇa-vāṇarā raaṇiarā
+PL1913/ raha-saṃdāṇia-turaaṃ turaṃgamora-tthala-kkhalia-pāikkaṃ
+PL1914/ pāikkāvalia-gaaṃ gaa-bhajjanta-raha-saṃkulaṃ valaï balaṃ
+PL1915/ sasaï visamuddha-kampaṃ garuāanta-bhua-lambiobhagga-dumaṃ
+PL1916/ vihalosaria-paḍibhaḍaṃ saṇṇovāhia-ṇisāaraṃ pavaa-balaṃ
+PL1917/ akkhaṇḍia-soḍīrā pavaāṇia-paḍhama-māṇa-bhaṅgāvasarā
+PL1918/ bhaggā vi bhamanti puṇo ṇīsesaṃ rakkhasā ṇa geṇhanti bhaaṃ
+PL1919/ aha hia-macchara-lahuā ekkakkama-cakkhu-rakkhaṇāhia-hiaā
+PL1920/ hiaāvaḍia-dahamuhā valiā paḍimukka-raṇa-bhaā raaṇiarā
+PL1921/ vocchiṇṇa-saṃdhia-jasā honti ṇiatta-samuha-ṭṭhavia-soḍīrā
+PL1922/ kaï-bala-duppariallā siḍhilia-paḍivaṇṇa-raṇa-dhurā raaṇiarā
+PL1923/ to bhaṅga-lajjiāṇaṃ parivaḍḍhia-pasara-harisiāṇa a garuaṃ
+PL1924/ raaṇiara-vāṇarāṇaṃ variāāria-bhaḍaṃ pavaṭṭaï jujjhaṃ
+PL1925/ suggīveṇa paaṅgho sattacchaa-pāaveṇa diṇṇa-raṇa-suho
+PL1926/ vaṇa-gaa-dāṇa-surahiṇā vacchucchalia-kusumaṭṭahāseṇa hao
+PL1927/ diviāhaassa samare surahiṃ ura-paḍia-sarasa-candaṇa-gandhaṃ
+PL1928/ asaṇippahassa jīaṃ agghāanta-suhioṇimillassa gaaṃ
+PL1929/ hantūṇa vajjamuṭṭhiṃ hasaï maïndo vi muṭṭhi-ghāa-ṇisuddhaṃ
+PL1930/ āhittha-diṭṭhi-ṇiggaa-jalaṇa-sihāamba-phuḍia-loaṇa-jualaṃ
+PL1931/ kuvieṇa vijjumālī cira-jujjhia-harisio suseṇeṇa kao
+PL1932/ calaṇa-jualāvalambia-ṇakkhukkhitta-khuḍiohaa-bhua-pphaḍiho
+PL1933/ sahia-paharaṃ ṇaleṇa vi tavaṇassa talāhighāa-moḍia-kaṇṭhaṃ
+PL1934/ ṇihiaṃ dehammi siraṃ deho addha-ṇimio mahi-alammi kao
+PL1935/ hantūṇa jambumāliṃ jhatti vihiṇṇo aïñcio pavaṇa-suo
+PL1936/ saala-tala-gāḍha-tāḍaṇa-bhiṇṇucchalia-sira-mea-sitta-dasa-disaṃ
+PL1937/ aha geṇhaï aïbhūmiṃ indaï-vāli-taṇaāṇa raṇa-soḍīraṃ
+PL1938/ ṇihaekkamekka-pariaṇa-sa-hattha-paḍivaṇṇa-saṃsaa-tulārohaṃ
+PL1939/ bāṇandhaāria-disaṃ dhaṇu-maṇḍala-parigaaṃ visesei paraṃ
+PL1940/ āloiukkhaāṇia-mukka-paḍantehi giri-sahassehi kaī
+PL1941/ ṇivaḍanti kusuma-ṇibbhara-milia-valanta-viḍavovaūḍha-mahuarā
+PL1942/ vivaïṇṇa-pphala-lahuā dhua-majjha-kkhuḍia-pallavā duma-ṇivahā
+PL1943/ vāli-taṇaaṃ ṇa pāvaï gaaṇe guppaï dumehi sara-saṃghāo
+PL1944/ chijjanti addha-vanthe entā dahamuha-suaṃ ṇa laṅghanti dumā
+PL1945/ vikkhitta-loddha-kusumaṃ sara-daliuddhāamāṇa-candaṇa-gandhaṃ
+PL1946/ uddhua-mandāra-raaṃ sarasa-lavaṅga-dala-gabbhiṇaṃ hoi ṇahaṃ
+PL1947/ aha indaïmmi vāli-taṇaeṇa samarāṇurāa-bhaggucchāhe
+PL1948/ ṇihao tti hasanti kaī māāi ṭhia tti harisiā raaṇiarā
+
+<B 14>
+
+caüddaho āsāsao
+PL1949/ aha ṇipphala-gaa-diaso jahicchiāsaṃpaḍanta-dahamuha-lambho
+PL1950/ jūraï laṅkāhimuho alasāanta-haa-rakkhaso rahuṇāho
+PL1951/ eesu suha-ṇisaṇṇo ṇa ṇīi samaraṃ dasāṇaṇo tti gaṇento
+PL1952/ icchaï diṇṇāāse raaṇiaresu paḍimuñciuṃ sara-ṇivahe
+PL1953/ diṭṭhimmi patthiammi a āvaḍiammi a pare sara-ṇisumbhante
+PL1954/ samarammi visūrantā mohukkarisia-dumā bhamanti pavaṃgā
+PL1955/ bhettūṇa turia-mukke aṇuloma-pahāvie silā-saṃghāe
+PL1956/ paḍhamaṃ sāhenti paraṃ vihaḍia-vāṇara-maṇorahā rāma-sarā
+PL1957/ chijjaï kareṇa samaaṃ pavae ṇalliaï rakkhasāṇa paharaṇaṃ
+PL1958/ pāvaï turia-vimukkaṃ aṇahaṃ ṇa a rakkhasaṃ pavaṃga-paharaṇaṃ
+PL1959/ bhiṇṇe vacchammi silā giri-siharaṃ chiṇṇa-pāḍia-sira-ṭṭhāṇe
+PL1960/ ṇivaḍaï sarāhisaṃdhia-parakkamehi pavaehi rosa-vimukkaṃ
+PL1961/ saï saṃdhio ccia saro rahuṇāhassa saï cakkalaïaṃ ca dhaṇuṃ
+PL1962/ acchijjaï a sarāhaa-saï-palhatthanta-rakkhasa-sirehi mahī
+PL1963/ visamālagga-huavahā visahara-reavia-bila-muha-paḍicchandā
+PL1964/ dīsanti bāṇa-maggā rakkhasa-dehesu se ṇa dīsanti sarā
+PL1965/ ukkarisantassa kare patthantassa hiae rasantassa muhe
+PL1966/ dīsanti ṇavara paḍiā ṇivaddha-sira-paḍaṇa-sūiā rāma-sarā
+PL1967/ jo jattha ccia diṭṭho suo jahiṃ jassa vialio vi ṇiṇāo
+PL1968/ calio a jo jahiṃ cia tassa tahiṃ cea ṇivaḍiā rāma-sarā
+PL1969/ haa-hatthi-bhaḍa-turaṃgā dīhā dīsanti tammi rakkhasa-seṇṇe
+PL1970/ agga-kkhandha-paattā kūlaṃ bhettūṇa ṇiggaā rāma-sarā
+PL1971/ jaṃ cia ualaddha-bhaaṃ kāhii samaaṃ paḍāiavvārambhaṃ
+PL1972/ taṃ rāma-sarāhihaaṃ diṭṭhaṃ ṇavara paḍiaṃ ṇisāara-seṇṇaṃ
+PL1973/ ia taṃ bāṇukkittaṃ paḍanta-sama-kāla-diṭṭha-sira-saṃghāaṃ
+PL1974/ sua-sāraṇāvasesaṃ khaṇeṇa rakkhasa-balaṃ kaaṃ rahuvaïṇā
+PL1975/ tāva a salohiāruṇa-rakkhasa-bala-ṇivvisesa-saṃjhā-timiro
+PL1976/ paramatthao cirassa va ṇivvāo galia-rakkhasa-bhao diaho
+PL1977/ aha uggāhia-cāo ekko vāli-sua-moḍia-rahuppaïo
+PL1978/ saṃcaraï mehaṇāo ṇiaa-cchavi-meliandhaārammi ṇahe
+PL1979/ to ṇiṭṭhavia-ṇisiarā indaïṇā garua-vera-mūlāhārā
+PL1980/ samaaṃ cia saccaviā addiṭṭheṇa vihiṇevva daharaha-taṇaā
+PL1981/ muaï a saaṃbhu-diṇṇe tāṇa bhuaṃga-muha-ṇiggaāṇala-jīhe
+PL1982/ ṇīsesa-ṇihaa-rakkhasa-vīsattha-palambiohaa-bhuāṇa sare
+PL1983/ to bhiṇṇaṅgaa-desā ṇiddāria-bīa-bāhu-pāaḍia-muhā
+PL1984/ rāhava-dehammi ṭhiā tia-saṃdāṇia-bhuā bhuaṃgama-bāṇā
+PL1985/ ṇiddhoāasa-ṇīlā ṇinti visāṇala-phuliṅga-pajjalia-muhā
+PL1986/ dhaṇu-saṃdhāṇa-vimukkā aüvva-ṇārāa-vibbhamā bhuaïndā
+PL1987/ ṇivaḍanti vijju-muhalā tāra-samabbhahia-loha-laṭṭhi-cchāā
+PL1988/ kasaṇa-jalaoarāhi va rakkhasa-māandhaāria-ṇahāhi sarā
+PL1989/ paḍhumaṃ ravi-bimba-ṇihā palaükkā-saṃṇihā ṇahaddha-paḍantā
+PL1990/ bhindantā honti sarā dara-ṇibbhiṇṇa-bhamiā bhuāsu bhuaṃgā
+PL1991/ bajjhanti daharaha-suā dara-bhagga-maṇorahā kilimmanti surā
+PL1992/ addiṭṭha-mehaṇāā uṇṇāmia-pavvaā bhamanti pavaṃgā
+PL1993/ rasaï ṇahammi ṇisiaro bhiṇṇamabhiṇṇa-hiaaṃ disāsu kaï-balaṃ
+PL1994/ bhijjanto vi ṇa bhijjaï riu-daṃsaṇa-diṇṇa-loaṇo dāsarahī
+PL1995/ rosāṇala-pajjaliaṃ jalanta-vaḍavā-muhāṇala-paḍicchandaṃ
+PL1996/ aṅgesu laddha-pasarā hiaaṃ se ṇavara pariharanti bhuaṃgā
+PL1997/ tāṇa bhuaṃga-parigaā dukkha-pahuppanta-viaḍa-bhogāveḍhā
+PL1998/ jāā thira-ṇikkampā malaa-aḍuppaṇṇa-candaṇa-duma vva bhuā
+PL1999/ taha paḍivaṇṇa-dhaṇu-sarā sara-ṇibbhijjanta-ṇiccala-bhua-pphalihā
+PL2000/ daṭṭhoṭṭha-metta-lakkhia-ṇipphala-rosa-lahuā kaā rahu-taṇaā
+PL2001/ sara-ṇibbhiṇṇa-sarīrā jāā āloa-maggiavvāvaavā
+PL2002/ dari-diṭṭha-pattaṇantara-ṇihitta-saṃkhāa-lohiā rahu-taṇaā
+PL2003/ sara-sīvioru-jualaṃ saṃkīlia-vihala-ṇiccala-ṭṭhia-calaṇaṃ
+PL2004/ ṇialia-dehāvaavaṃ saṃcariavvaṃ pi rahu-suāṇa avahaaṃ
+PL2005/ to sura-hiaehi samaṃ paḍiaṃ vihalanta-paḍhama-saṃṭhia-bāṇaṃ
+PL2006/ addiṭṭha-riu-visajjia-sara-paharaṅkusia-vāma-hatthāhi dhaṇuṃ
+PL2007/ uddhāio a sahasā vivalāa-vimāṇa-taḍima-pacchima-dese
+PL2008/ sura-vahu-visamakkando ekkamuhāhaa-rasanta-tanti-cchāo
+PL2009/ to paḍio rahuṇāho bhañjanto tihuvaṇassa āsā-bandhaṃ
+PL2010/ sīha-ṇahaṅkusa-pahao tuṅgaṃ āsaṇṇa-pāavaṃ va vaṇa-gao
+PL2011/ paḍiassa a rahuvaïṇo paḍio aṇumaggaaṃ sumittā-taṇao
+PL2012/ uddha-ṭṭhiassa paṇao palhatthassa va dumassa chāā-ṇivaho
+PL2013/ dharaṇi-paḍiesu tesu a ṇivvaṇṇanta-samuhoṇaa-bharuvvattā
+PL2014/ uttāṇiekka-cakkā surāṇa taṃsa-taḍimā ciraṃ āsi rahā
+PL2015/ hiaa-paḍaṇe vva mūḍhaṃ raï-paḍaṇe vva sahasā tamammi ṇivaḍiaṃ
+PL2016/ rāma-paḍaṇammi jāaṃ sira-paḍaṇe vva gaa-jīviaṃ tellokkaṃ
+PL2017/ aha rāma-parittāṇaṃ suṇṇa-disā-muha-paloaṇa-ṇirucchāhaṃ
+PL2018/ bhaa-ṇiccala-puñjaïaṃ ṇa muaï paḍiaṃ pi rāhavaṃ kaï-seṇṇaṃ
+PL2019/ dīṇaṃ bhaggucchāhaṃ uvvigga-maṇaṃ visāa-pellia-hiaaṃ
+PL2020/ rāhava-viiṇṇa-ṇaaṇaṃ ālekkha-gaaṃ va saṃṭhiaṃ kaï-seṇṇaṃ
+PL2021/ paḍiassa vi rahuvaïṇo dīsanto dei pavaa-vaï-saṃlāvaṃ
+PL2022/ avisāa-mahagghavio sāsaa-dhīra-dhario muhassa pasāo
+PL2023/ ṇavari a vihīsaṇa-jalāhaacchiṇā vāṇarāhiveṇa ṇaha-aro
+PL2024/ pāsammi dhaṇu-sahāo diṭṭho kaa-pesaṇo dasāṇaṇa-taṇao
+PL2025/ to rosa-tulia-pavvaa-sahasuddhāia-pahāvio suggīo
+PL2026/ laṅkaṃ bhaa-vivalāaṃ ahileūṇa ṇavaraṃ ṭhio raaṇiaraṃ
+PL2027/ indaïṇā viṇiveia-rāhava-ṇihaṇa-suhio ṇisāara-ṇāho
+PL2028/ āsāia-jaṇaa-suā-samāgamovāa-ṇivvuo ūsasio
+PL2029/ aha ṇisiarīhi dahamuha-vaaṇāṇia-diṭṭha-sarasa-khaṇa-vehavvā
+PL2030/ mukkakkanda-visaṃṭhula-dara-vilavia-mucchiā kaā jaṇaa-suā
+PL2031/ to gaa-mohummillo pecchanto rāhavo sumittā-taṇaaṃ
+PL2032/ parideviuṃ paütto takkhaṇa-pabbhaṭṭha-saala-sīā-dukkho
+PL2033/ jassa saalaṃ tihuaṇaṃ āruhaï dhaṇummi saṃsaaṃ ārūḍhe
+PL2034/ so vi hao somittī ṇatthi vaṇe jaṃ ṇa ei vihi-pariṇāmo
+PL2035/ aha vāaṃ kaa-kajjo majjha kae mukka-jīvio somittī
+PL2036/ ṇipphala-vūḍha-bhua-bharo ṇavara mae ccea lahuio appāṇo
+PL2037/ aha jampaï suggīvaṃ mahuraṃ ucchāha-dāvia-pariccheaṃ
+PL2038/ vaaṇaṃ sahasovatthia-maraṇāvatthā-vavaṭṭhavia-gambhīraṃ
+PL2039/ ṇivvūḍhaṃ dhīra tume imo vi uahutta-bhua-balo kaï-loo
+PL2040/ kammaṃ imeṇa vi kaaṃ jaa-ṇivvaḍia-jasa-dukkaraṃ māruiṇā
+PL2041/ āvaddha-bandhu-veraṃ jaṃ me ṇa ṇiā vibhīsaṇaṃ rāa-sirī
+PL2042/ dukkheṇa eṇa a mahaṃ avihāvia-bāṇa-veaṇa-rasaṃ hiaaṃ
+PL2043/ tā vaccasu mā mujjhasu turiaṃ teṇea seu-bandheṇa tumaṃ
+PL2044/ pecchasu bandhava-vaggaṃ dukkhaṃ kālassa jāṇiuṃ pariṇāmaṃ
+PL2045/ to tivva-rosa-laṅghia-vihuāṇaṇa-dukkha-dharia-bāhuppīḍo
+PL2046/ rahuvaïṇo paḍivaaṇaṃ bhaṇaï adāūṇa vāṇare pavaa-vaī
+PL2047/ vaccaha lakkhaṇa-sahiaṃ ṇava-pallava-raïa-vīra-saaṇattharaṇaṃ
+PL2048/ pāveha vāṇara-uriṃ avihāvia-bāṇa-veaṇaṃ rahuṇāhaṃ
+PL2049/ ia ajjaṃ cea mae ṇihaammi dasāṇaṇe ṇiā kikkindhaṃ
+PL2050/ aṇumarihii va marantaṃ dacchihi va jianta-rāhavaṃ jaṇaa-suā
+PL2051/ visahara-bāṇa tti ime vihīsaṇeṇa viṇivārie suggīe
+PL2052/ āḍhatto cinteuṃ mantaṃ hiaeṇa gāruḍaṃ rahuṇāho
+PL2053/ ṇavari a sahasucchippanta-sāaraddhanta-dhuvvamāṇa-suvelaṃ
+PL2054/ jāaṃ khara-vāāhaa-kiranta-rakkhasa-kalevaraṃ dharaṇi-alaṃ
+PL2055/ to kaa-rāma-paṇāme garuḍe ovaïa-samuha-saṃṭhia-diṭṭhe
+PL2056/ doṇha vi mukka-sarīrā ṇa viṇajjaï te kahiṃ gaā sara-ṇivahā
+PL2057/ aha sara-bandha-vimukko viṇaā-taṇaovaūhaṇa-kkhaa-rahio
+PL2058/ appāhiattha-manto jāo gaa-garuḍa-dāruṇo rahuṇāho
+PL2059/ aha sara-bandha-vimukke soūṇa ṇisāarāhivo rahuṇāhe
+PL2060/ āaa-garuḍāsaṅko dhummakkhammi saalaṃ ṇimei raṇa-bharaṃ
+PL2061/ so roseṇa raheṇa va ucchāheṇa va ṇisāara-baleṇa samaṃ
+PL2062/ ṇīi bhuaṃ va paharisaṃ vahamāṇo vikkamaṃ va verāvandhaṃ
+PL2063/ to so rakkhasa-ṇivaho saha dhummakkheṇa sāaraddhanta-ṇiho
+PL2064/ vaḍavā-muhāṇalassa va saṃcaraṇa-pahammi mārua-suassa ṭhio
+PL2065/ aha dāruṇāvasāṇe kaï-rakkhasa-seṇṇa-vaïarammi paatte
+PL2066/ saṃbhāriakkha-ṇihaṇo ottharaï sarehi māruiṃ dhummakkho
+PL2067/ to tassa sara-ṇighāe romantara-lagga-ṇipphale dhuamāṇo
+PL2068/ akkamaṇa-moḍia-raho hia-dhummakkha-dhaṇu-saṃṭhio hasaï kaī
+PL2069/ bhaggo bhuammi phaliho vacchucchalia-daliaṃ ṇa iṭṭhaṃ musalaṃ
+PL2070/ dhummakkha-rosa-mukkaṃ pavaassa jahiṃ tahiṃ virāi paharaṇaṃ
+PL2071/ aha paḍie dhummakkhe haa-sesammi a gae ṇisāara-seṇṇe
+PL2072/ dahamuha-samuhāṇattaṃ ṇintaṃ pecchaï akampaṇaṃ pavaṇa-suo
+PL2073/ taṃ pi viiṇṇora-tthala-vīsatthoharia-ṇiṭṭhiāuha-ṇivahaṃ
+PL2074/ osumbhaï haṇumanto ekkekka-kkhuḍia-vippaïṇṇāvaavaṃ
+PL2075/ aha dahamuha-saṃdiṭṭho haṇumantāghāa-sama-tulagga-pphiḍio
+PL2076/ paḍio ṇīlassa muhe aladdha-samara-suha-dūmiassa pahattho
+PL2077/ ṇavari a patthāṇe ccia bāṇo kālāaso pahattha-vimukko
+PL2078/ paḍio ṇīlassa ure vaṇa-paḍibhiṇṇa-ruhiruggameṇa pisuṇio
+PL2079/ veovattia-viḍavaṃ muaï kaī vi sura-hatthi-parimala-surahiṃ
+PL2080/ gaï-magga-lagga-bhamaraṃ paḍisotta-pasāriaṃsuaṃ kappa-dumaṃ
+PL2081/ bolanta-jalaharassa va to se āsāra-jala-lava-tthavaa-ṇiho
+PL2082/ āgama-maggammi ṭhio dhua-viḍava-kkhalia-mottiā-phala-ṇivaho
+PL2083/ to tassa bhua-vimukko bhaggo vaṇa-bharia-mottia-pphala-vaaro
+PL2084/ bhajjanta-viḍava-vialia-siaṃsuāvīa-pahara-ruhirammi ure
+PL2085/ samaaṃ vañcei sare thaei samaaṃ kaī dumehi ṇaha-alaṃ
+PL2086/ samaaṃ teṇa vimukko caüddisaṃ pāaḍo silā-saṃghāo
+PL2087/ vialanta-duma-ccheā sara-ghāa-dalanta-vialia-silā-ṇivahā
+PL2088/ dīsanti dalia-pavvaa-vocchijjantojjharā ṇaha-aluddesā
+PL2089/ giri-dhāu-raa-kkhaüro aṃsa-vipalhattha-bahala-kesara-ṇivaho
+PL2090/ saṃjhāava-vicchurio sajalo vva ghaṇo ṇahammi dīsaï ṇīlo
+PL2091/ ṇavari a gaaṇaddhante ovaḍaṇakkhitta-dhaṇu-ṇiatta-tthimio
+PL2092/ taha dhario via dīsaï paḍhama-vimukkehi sara-samūhehi kaī
+PL2093/ aha ṇisiareṇa musalaṃ ṇīlassa lalāṭa-vaṭṭa-paccupphaliaṃ
+PL2094/ majjhammi dharenta-ravaṃ samuhāgaa-turia-vañciaṃ paḍivaṇṇaṃ
+PL2095/ geṇhaï a jalaṇa-taṇao suvela-siharaddha-lagga-meha-cchāaṃ
+PL2096/ viaḍa-pahatthora-tthala-sama-vitthāra-kaḍhiṇattaṇaṃ kasaṇa-silaṃ
+PL2097/ dūra-samuppaïeṇa a ṇīleṇa silā-alotthaammi diṇaare
+PL2098/ jāo ṇahammi diaso takkhaṇa-baddha-timirā mahi-alammi ṇisā
+PL2099/ aha ṇīlassa pahattho raṇāṇurāeṇa sahia-gāḍha-ppaharo
+PL2100/ ghāabbhantara-bhiṇṇo galanta-jīa-ruhiro gao dharaṇi-alaṃ
+
+<B 15>
+
+pañcaraho āsāsao
+PL2101/ aha ṇihaammi pahatthe bandhu-vahāmarisa-ṇinta-bāhuppīḍo
+PL2102/ calio sihi-paccuggaa-huṃkāra-bharenta-dasa-diso dahavaaṇo
+PL2103/ taha kuvieṇa pahasiaṃ karāla-muha-kandarā-bharenta-dasa-disaṃ
+PL2104/ jaha se bhaa-tuṇhikko bhavaṇa-kkhambhesu pariaṇo vi ṇilukko
+PL2105/ to rakkhasa-parivāraṃ ṇia-pāa-bharoṇamanta-pacchima-taḍimaṃ
+PL2106/ sārahiṇā rubbhantaṃ caḍula-turaṃgama-dhaaṃ rahaṃ ārūḍho
+PL2107/ huṃkāreṇa sahāe khuhia-mahā-kalaaleṇa laṅkā-majjhe
+PL2108/ pura-seṇṇa-kalaaleṇa a ṇāo calio tti vāṇarehi dahamuho
+PL2109/ ṇavari a muha-ṇivahovari-dukkha-pahutta-dhavalāavatta-cchāo
+PL2110/ ṇiggantūṇa purīo bhañjaï bhagga-raṇa-maccharaṃ kaï-seṇṇaṃ
+PL2111/ to muha-metta-valantā pacchima-kesara-saḍāhaagga-kkhandhā
+PL2112/ bhaggāṇumagga-laggā pecchanti dasāṇaṇaṃ pavaṃgama-ṇivahā
+PL2113/ to te bhiṇṇa-paaṭṭe dahavaaṇakkanta-diṇṇa-viddavia-pae
+PL2114/ pamhaṭṭha-jahā-bhaṇie bhaṇaï samuppaṇṇa-raṇa-bhae jalaṇa-suo
+PL2115/ mā muñcaha samara-dhuraṃ esa samukkhitta-malaa-siharaddhanto
+PL2116/ jassa kaeṇa paḍāaha taṃ cia vo haraï jīviaṃ pavaa-vaī
+PL2117/ sīāhia-hiaeṇa a aha so tti dasāṇaṇeṇa sārahi-siṭṭho
+PL2118/ ṇa vi taha rāmo tti ciraṃ jaha tīa pio tti sabahumāṇaṃ diṭṭho
+PL2119/ aha rāma-sarāhihao pavaehi paraṃmuhohasijjanta-raho
+PL2120/ chiṇṇa-paḍiāavatto laṅkāhimuho gao ṇisāara-ṇāho
+PL2121/ to teṇa lahuia-jasaṃ patta-viṇāseṇa mukka-soḍīra-paaṃ
+PL2122/ paḍivohaṇaṃ aāle suhovasuttassa kumbhaaṇṇassa kaaṃ
+PL2123/ so vi a jambhāanto aāla-paḍivoha-garuia-siraddhanto
+PL2124/ ṇīa hasiūṇa suiraṃ lahuaṃ soūṇa rāma-vaha-saṃdesaṃ
+PL2125/ occhuṇṇa-raï-raha-vaho jāo dehassa se kaṇaa-pāāro
+PL2126/ ūru-paesālaggo dara-khalio vva tavaṇijja-rāa-pariaro
+PL2127/ laṅghia-pāārassa a to se vivalāa-maara-pakkaggāhā
+PL2128/ jāṇu-ppamāṇa-salilā jāā phaḍihā-gaā samuddaddhantā
+PL2129/ to taṃ pecchanta ccia pacchāhuttā ṇiatta-raṇa-vāvārā
+PL2130/ hattha-paḍanta-dharāhara-visamakkantā paḍāiā kaï-ṇivahā
+PL2131/ aha selehi tarūhi a phalihehi a moggarehi hantūṇa daḍhaṃ
+PL2132/ daḍha-daṇḍāuha-maggaṇa-musalehi khaṇeṇa vāṇara-balaṃ saalaṃ
+PL2133/ to pavaāi gaāiṃ turaāi a rakkhasāi lohia-matto
+PL2134/ rāma-sarāghāa-dhuo ṇiaa-bale para-bale paatto khattuṃ
+PL2135/ cira-jujjhiassa to se doṇha vi rāma-dhaṇu-ṇiggaa-sarāhihaā
+PL2136/ paḍhamaṃ dharaṇīa bhuā pacchā chea-ruhirojjharā palhatthā
+PL2137/ ekko ruddha-ṇaï-muho aṇuvelaṃ ṇivaḍio suvelo vva bhuo
+PL2138/ sāara-laddhatthāmo bīo se bīa-seu-bandha vva ṭhio
+PL2139/ āaṇṇa-kaḍḍhieṇa a to se cakkalia-sihi-siheṇa raṇa-muhe
+PL2140/ rahuvaï-sareṇa tuṅgaṃ cakkeṇa va rāhuṇo siraṃ ukkhuḍiaṃ
+PL2141/ gaaṇuṇṇaeṇa teṇa a pavaṇa-bharenta-muha-kandarā-muhaleṇaṃ
+PL2142/ chiṇṇa-paḍieṇa vi kao caüttha-tuṅga-siharuggamo vva tiūḍo
+PL2143/ paḍie a kumbhaaṇṇe dūra-palāa-dara-bhagga-pakkaggāho
+PL2144/ deha-bharantucchaṅgo pabbālei vaḍavā-muhaṃ maaraharo
+PL2145/ to kumbhaaṇṇa-ṇihaṇaṃ soūṇa dasāṇaṇo pahatthabbhahiaṃ
+PL2146/ rosāava-rajjantaṃ puṇo vi hasiūṇa dhuṇaï muha-saṃghāaṃ
+PL2147/ ṇintassa a taṃ velaṃ amarisa-parivaḍḍhiassa bhavaṇucchaṅge
+PL2148/ khambhantara-vitthārā te ccia vaccha-tthalassa se ṇa pahuttā
+PL2149/ dara-ṇiggaassa ṇavari a ugghāḍia-vaccha-bharia-bhavaṇucchaṅgo
+PL2150/ jāṇu-paḍiuṭṭhio se jampaï hasiūṇa mehaṇāo tti suo
+PL2151/ ṇimmāviammi kajje sāhasa-garue vi appaṇa ccia guruṇā
+PL2152/ putteṇa putta-sarisaṃ putta-ppharisaṃ ṇa pāvio hoi piā
+PL2153/ kīsa mamammi dharente māṇusa-mettassa daharaha-suassa kae
+PL2154/ ia ṇīsi appaṇa ccia lahuanto amha rakkhasa-ulassa jasaṃ
+PL2155/ ukkhaa-bhuaṃga-raaṇaṃ ṇisuḍhia-ṇandaṇa-vaṇaṃ paloṭṭia-selaṃ
+PL2156/ appāṇaṃ va ṇa āṇasi samaṃ samatthassa tihuaṇassa bhara-sahaṃ
+PL2157/ kiṃ ṇihaṇemi raṇa-muhe sarekka-sosavia-sāaraṃ rahuṇāhaṃ
+PL2158/ o satta vi ajjaṃ cia valanta-vaḍavā-muhe malemi samudde
+PL2159/ ia vāria-dahavaaṇo dahavaaṇāṇatti-vilaïukkhitta-bharo
+PL2160/ ṇīi rahaṃ ārūḍho rakkhasa-parivārio dasāṇaṇa-taṇao
+PL2161/ jo dahamuhagga-dāre turia-pahāvia-rahassa jo ṇaari-muhe
+PL2162/ khohentassa kaï-balaṃ so ccia veo a se paatta-halahalo
+PL2163/ aha rāma-baddha-lakkho paḍhamuddhāia-pavaṃgama-kkhavia-balo
+PL2164/ vāṇara-johehi samaṃ jalaṇa-sueṇa vario dasāṇaṇa-taṇao
+PL2165/ ṇīleṇa gaṇḍa-selaṃ divieṇa dumaṃ silā-alaṃ māruiṇā
+PL2166/ dārei sarehi samaṃ ṇaleṇa mukkaṃ ca malaa-sihara-kkhaṇḍaṃ
+PL2167/ to bhagga-pavaa-seṇṇaṃ ṇiumbhilā-hutta-saccavia-patthāṇaṃ
+PL2168/ vāreha mehaṇāaṃ vibhīsaṇeṇa bhaṇio sumittā-taṇao
+PL2169/ to māāhi sarehi a selehi a jujjhiassa rakkhasa-sarisaṃ
+PL2170/ somittiṇā ṇisuddhaṃ piāmahattheṇa mehaṇāassa siraṃ
+PL2171/ soūṇa indaï-vahaṃ muaï sarosaṃ dasāṇaṇo bāha-jalaṃ
+PL2172/ abbhuttia-dīvāṇaṃ ṇivaḍaï tuppaṃ va takkhaṇaṃ sahuāsaṃ
+PL2173/ ṇihae a mehaṇāe pariattanteṇa takkhaṇaṃ cia vihiṇā
+PL2174/ rosa-visāehi samaṃ hatthehi va dohi āhao dahavaaṇo
+PL2175/ ṇīsesa-ṇihaa-bandhū to so ekko vi bahu-bhuā-duppeccho
+PL2176/ bhīsaṇa-muha-saṃghāo rakkhasa-loo vva ṇiggao dahavaaṇo
+PL2177/ daṭṭhūṇa a taṃ ṇintaṃ pīā maṅgala-maṇāhi raaṇiarīhiṃ
+PL2178/ jatto ccia uppaṇṇā tehiṃ cia loaṇehi bāha-tthavaā
+PL2179/ to teṇa kara-ala-ṭṭhia-selojjhara-salila-ṇivvaria-vaccha-aḍaṃ
+PL2180/ diṭṭhīhi a bāṇehi a tuliaṃ jāi lahuaṃ pavaṃgama-seṇṇaṃ
+PL2181/ pāsāvaḍiammi vi se vihīsaṇe pavaa-seṇṇa-kaa-parivāre
+PL2182/ dīṇo tti soaro tti a amarisa-rasa-saṃdhio vi ullalaï saro
+PL2183/ visahia-paḍhama-ppaharo ṇavari a roseṇa saṃdhiubbhaḍa-bāṇo
+PL2184/ indāsaṇīa va dumo sattīa urammi lakkhaṇo ṇibbhiṇṇo
+PL2185/ so vi a pavaṇa-suāṇia-dharāharosahi-viiṇṇa-jīabbhahio
+PL2186/ taha-saṃdhia-cāva-saro ṇisāarehi saha jujjhiuṃ āḍhatto
+PL2187/ to rāmo māaḍiṇā paḍhama-darābhāsaṇummuha-pasaṇṇa-muho
+PL2188/ tiasa-bahumāṇa-garuaṃ dūraaroṇāmiāṇaṇeṇa paṇamio
+PL2189/ dei a raha-puñjaïaṃ uhaa-kara-kkhivaṇa-pāaḍia-vitthāraṃ
+PL2190/ kavaaṃ tihuaṇa-vaïṇo abbhantara-lagga-ṇimmahanta-parimalaṃ
+PL2191/ taṃ ca kavaaṃ surāhiva-savvaṅga-pahutta-loaṇa-suha-ppharisaṃ
+PL2192/ sīā-viraholugge jāaṃ thoa-siḍhilaṃ rahuvaïssa ure
+PL2193/ mahi-alam oiṇṇeṇa a sura-vaï-hattha-parimāsa-saï-dullaliaṃ
+PL2194/ ārūḍhassa rahaṃ se kavaaṃ savvaṅgiaṃ kaaṃ māaḍiṇā
+PL2195/ to ṇīla-ravi-suehiṃ samallio rāhavaṃ sumittā-taṇao
+PL2196/ bhaṇaï dharaṇīa takkhaṇa-vilaïa-dhaṇu-gabbhiṇaṃ ṇimeūṇa karaṃ
+PL2197/ vīsamaü tumha cāvaṃ aḍaṇi-muha-pphiḍia-siḍhila-jīā-bandhaṃ
+PL2198/ aïrā peccha virāaṃ mamammi ṇīle vva ravi-sue vva dahamuhaṃ
+PL2199/ garuammi kuṇasu kovaṃ lahue dahamuha-vahammi muasu amarisaṃ
+PL2200/ tuṅgaṃ taḍaṃ ṇisumbhaï ṇa a ṇaï-vappaṃ sama-tthaliṃ va vaṇa-gao
+PL2201/ pajjattassa samatthaṃ dahiuṃ addhacchi-pecchieṇa vi tiuraṃ
+PL2202/ rahuvaï kiṃ va ṇa suvvaï āṇattī tiṇaaṇassa tiasehi kaā
+PL2203/ to dahavaaṇāloaṇa-rosuggaa-sea-laṅghia-ṇilāḍa-aḍo
+PL2204/ pulaïa-ṇīla-ravi-suo paṇaaṃ paḍibhaṇaï lakkhaṇaṃ rahuṇāho
+PL2205/ ṇivvūḍha-jampiāṇaṃ āsaṅghaï tumha vavasiaṃ maha hiaaṃ
+PL2206/ kiṃ uṇa bharo vva hohii saaṃ-aṇiṭṭhavia-dahamuho majjha bhuo
+PL2207/ kumbhassa pahatthassa a dūsaha ṇihaṇeṇa indaïssa a samare
+PL2208/ dasakaṇṭhaṃ muha-vaḍiaṃ kesariṇo vaṇa-gaaṃ va mā haraha mahaṃ
+PL2209/ tāṇa a kahaṃ paattaṃ vocchindantassa dahamuhassa raṇa-muhe
+PL2210/ ummūliuṃ paatto agga-kkhandhammi kaï-balaṃ sara-ṇivaho
+PL2211/ to doṇha vi sama-sāraṃ bāṇa-vaha-pphiḍia-tiasa-pekkhijjantaṃ
+PL2212/ ekkaara-maraṇa-garuaṃ jāaṃ rāmassa dahamuhassa a jujjhaṃ
+PL2213/ to kaḍḍhiūṇa cāvaṃ kuṇḍala-maṇi-kiraṇa-ghaḍia-jīā-bandhaṃ
+PL2214/ mukko rāmassa ure paḍhamaṃ haa-bandhuṇā dahamuheṇa saro
+PL2215/ vea-paḍieṇa teṇa a taha dhīro vi parikampio rahuṇāho
+PL2216/ appāṇa-ṇivvisesaṃ saalaṃ jaha ṇeṇa kampiaṃ tellokkaṃ
+PL2217/ rahuṇāhassa vi bāṇo aṇuparivāḍi-ghaḍia-pphuḍia-keūraṃ
+PL2218/ dahavaaṇa-bhua-ṇihāaṃ tāla-vaṇa-kkhandha-pariaeṇa aïgao
+PL2219/ aṇṇaṃ saṃdhia-bāṇaṃ rahasāaḍḍhia-ṇirāa-vaṭṭhaṃ aṇṇaṃ
+PL2220/ samaaṃ rakkhasa-vaïṇo aṇṇaṃ sara-lahuioaraṃ hoi dhaṇuṃ
+PL2221/ saï-saṃdhia-ṇinta-saraṃ avaṅga-desa-saï-lagga-jīā-bandhaṃ
+PL2222/ dīsaï saï-mukka-saraṃ saï-maṇḍalia-viaḍoaraṃ rāma-dhaṇuṃ
+PL2223/ vāmo pasāria ccia dāhiṇa-hattho avaṅga-desa-ṇivaḍio
+PL2224/ cāvesu a taha ṇimiā tāṇaṃ dīsanti antarālesu sarā
+PL2225/ dahamuha-visajjieṇa a sareṇa sīā-vioa-saï-saṃtattaṃ
+PL2226/ hiaaṃ amukka-dhīraṃ ṇihāa-bhiṇṇaṃ pi rāhaveṇa ṇa ṇāaṃ
+PL2227/ rahuṇāha-pesieṇa a sareṇa samuhāgaassa rakkhasa-vaïṇo
+PL2228/ bhiṇṇo ṇiḍāla-vaṭṭo ṇa a se phuḍa-bhiuḍi-viraaṇā viddaviā
+PL2229/ to se mucchā-vihalo lohia-ṇīsanda-bharia-loaṇa-ṇivaho
+PL2230/ vāraṃ-vāra-paaṭṭo bhamio bāhu-siharesu muha-saṃghāo
+PL2231/ to gaa-mohummillo ṇaaṇa-huāsaṇa-païtta-pattaṇa-pamhaṃ
+PL2232/ muaï sarosāaḍḍhia-biia-muhāvaṅga-milia-puṅkhaṃ bāṇaṃ
+PL2233/ to so khaāṇala-ṇiho kiraṇa-sahassehi ṇibbharenta-dasa-diso
+PL2234/ rahuvaï-sara-rāhu-muhe panthaddhe sūra-maṇḍalo vva ṇiuḍḍo
+PL2235/ rahuṇāho vi sadhīraṃ ukkariseūṇa agga-hattheṇa saraṃ
+PL2236/ āsaṇṇa-lāiavvaṃ pecchaï phulla-kamalāaraṃ va dahamuhaṃ
+PL2237/ rāmo saṃdhei saraṃ vibhīsaṇanteṇa valaï rakkhasa-lacchī
+PL2238/ dahamuha-viṇāsa-pisuṇaṃ phuraï a sīāi takkhaṇaṃ vāmacchaṃ
+PL2239/ vāmaṃ ṇisiara-ṇaaṇaṃ rahuvaïṇo dāhiṇaṃ ca phundaï ṇaaṇaṃ
+PL2240/ bandhu-vaha-rajja-pisuṇaṃ papphuraï vihīsaṇassa loaṇa-jualaṃ
+PL2241/ vaccha-bharantucchaṅge saṃdhia-bāṇe dhaṇummi kaḍḍhijjante
+PL2242/ rāma-sara-pattaṇehi va uppusiā sura-vahūṇa bāha-tthavaā
+PL2243/ ṇavari a so rahuvaïṇā vāraṃ vāreṇa candahāsa-cchiṇṇo
+PL2244/ ekkeṇa sareṇa luo ekkamuho dahamuhassa muha-saṃghāo
+PL2245/ avihatta-kaṇṭha-garuo chiṇṇo vi dasāṇaṇassa hoi bhaaaro
+PL2246/ dharaṇi-aluttiṇṇassa va ṇiaa-cchea-paḍiuṭṭhio muha-ṇivaho
+PL2247/ tassa haassa raṇa-muhe rakkhasa-ṇāhassa ahimuhaṃ appāṇo
+PL2248/ dasahi vi muhehi samaaṃ sihā-karālo vva huavaho ṇikkanto
+PL2249/ aha ṇihaammi dahamuhe ūsasiammi a samantao tellokke
+PL2250/ vaaṇammi a uppusiā bhiuḍī oāriaṃ ca rāmeṇa dhaṇuṃ
+PL2251/ ṇiddaa-bandhuppitthā jāṇantī vikkamaṃ ṇisāara-vaïṇo
+PL2252/ māa tti parigaṇentī ṇa muaï ṇihaaṃ pi rāvaṇaṃ rāa-sirī
+PL2253/ tāhe vibhīsaṇassa vi anto-hiaammi bandhu-ṇehuppaṇṇo
+PL2254/ dāsarahiṇo vi purao mukko ccia loaṇehi bāha-tthavao
+PL2255/ ṇihaammi a dahavaaṇe vihīsaṇo ṇindiāmarattaṇa-saddo
+PL2256/ parideviuṃ paütto maraṇa-samabbhahia-dukkha-diṇṇāāso
+PL2257/ jo ccia jeūṇa jamaṃ diṭṭho icchā-suhaṃ tume jama-loo
+PL2258/ dīsihisi kaha ṇu patthiva iṇhiṃ taṃ cea sesa-jaṇa-sāmaṇṇaṃ
+PL2259/ ekkeṇa rakkhasāhiva puvvaṃ avahīriovaeseṇa vi te
+PL2260/ sama-ṇihaṇeṇa raṇa-muhe paḍimukkaṃ ṇavara kumbhaaṇṇeṇa tuhaṃ
+PL2261/ patthiva tumaṃ muanto sama-suha-dukkhehi bandhavehi amukkaṃ
+PL2262/ jaï haṃ dhamma-pahāṇo dhamma-pahāṇāṇa ko gaṇijjaü purao
+PL2263/ āhāsaï a rahuvaïṃ maraṇa-samobbhahia-ruddha-bāhuppīḍo
+PL2264/ bandhu-vahāgaa-dukkho gimhumhā-sukkha-ṇaï-muho vva mahiharo
+PL2265/ pahu vīsajjehi mahaṃ tā dahamuha-kumbhaaṇṇa-calaṇa-ṇivaḍio
+PL2266/ pacchā para-loa-gaaṃ chivāmi sīsammi mehaṇāaṃ ca suaṃ
+PL2267/ mahi-ala-paḍia-visaṃṭhula-vihīsaṇa-vilāva-jāaaṇuampeṇa
+PL2268/ rāmeṇa vi pavaṇa-suo āṇatto rakkhasāhivaï-sakkāre
+PL2269/ ṇihaammi a dahavaaṇe āsaṅghanteṇa jaṇaa-taṇaā-lambhaṃ
+PL2270/ suggīveṇa vi diṭṭho paccuvaārassa sāarassa va anto
+PL2271/ kāūṇa a sura-kajjaṃ rahuvaï-vīsajjieṇa kaï-aṇa-purao
+PL2272/ jalahara-guppanta-dhao saggāhimuho raho kao māaḍiṇā
+PL2273/ ghettūṇa jaṇaa-taṇaaṃ kañcaṇa-laṭṭhiṃ va huavahammi visuddhaṃ
+PL2274/ patto puriṃ rahuvaī kāuṃ bharahassa sapphalaṃ aṇurāaṃ
+PL2275/ ettha samappaï eaṃ sīā-lambheṇa jaṇia-rāmabbhuaaṃ
+PL2276/ rāvaṇavaha tti kavvaṃ aṇurāaṅkaṃ samattha-jaṇa-ṇivvesaṃ
+
+<B 16>
+
+athādhikāni skandhakāni
+PL2277/ saṃjhā-paṇāma-ghaḍio giri-taṇaā-vihua-vāma-hattha-vihaḍio
+PL2278/ hasiūṇa mukka-salilo ekka-kareṇa ṇiamañjalī jeṇa kao
+PL2279/ garue vi samara-kajje viasanti ccia rasaṃ lihanti samatthā
+PL2280/ baddha-pphalammi kusume bolīṇo hoi mahuarāṇa avasaro
+PL2281/ enti valanti valantā rāma-sarāghāa-laṅghia-ṇahāhoā
+PL2282/ thorā-sarisā tuṅgā maṇi-pavvaa vva
+PL2283/ jalaṇa-ppahāṇuviddhaṃ āvatta-bhamanta-pavvaa-dumālaggaṃ
+PL2284/ saṃbandha-raaṇa-pupphaṃ phuraï phuranta-ppahaṃ pavāla-kisalaaṃ
+PL2285/ masiṇia-mīṇa-kkhandhā aïnti ṇibbhiṇṇa-mahiharantara-sariā
+PL2286/ bhijjanta-rosa-laṅghia-muha-lagga-bhuaṃgama-pphaṇā rāma-sarā
+PL2287/ palaa-ghaṇehi va khubbhaï vevaï uppāa-māruehi va uahī
+PL2288/ khaa-sūrehi va jhijjaï rasaï sarehi tiasehi va mahijjanto
+PL2289/ bāṇosāria-salilā thoaṃ bhijjanta-pāaḍia-sippi-uḍā
+PL2290/ viasanti viasiāava-oaṭṭanta-maṇi-gabbhiṇā puliṇa-vahā
+PL2291/ sīsa-raïañjali-uḍo sara-viaṇā-dūmiāṇaṇo salilaṇihī
+PL2292/ pāesu dāsarahiṇo pavaṇa-vasa-kkhitta-pāavo vva ṇivaḍio
+PL2293/ vāṇara-caraṇakkantaṃ uccalia-samudda-salila-gahioāsaṃ
+PL2294/ calaï cala-pāava-laaṃ kampaï kampia-dharāharaṃ mahi-veḍhaṃ
+PL2295/ visama-visaṭṭanta-silā-ala-siharuppaïa-bhīa-kiṃṇara-mihuṇā
+PL2296/ ojjhara-mukkakkandā ummūlijjanti vāṇarehi mahiharā
+PL2297/ āiddha-mahihara-ṇihaṃ uahi-jala-paloṭṭa-meha-aḍa-pabbhāraṃ
+PL2298/ paḍaï va purao-huttaṃ ṭaṅka-ccheammi seu-bandhassa muhaṃ
+PL2299/ bajjhantammi samudde soūṇa vi kalaalaṃ mahā-kaï-seṇṇaṃ
+PL2300/ jāaṃ takkhaṇa-vihalaṃ bhaa-bhīa-visaṃṭhulaṃ dasāṇaṇa-hiaaṃ
+PL2301/ raaṇīa sāmala-muhaṃ daṃsaṇa-galia-timiraṃsua-suhāloaṃ
+PL2302/ vikkhitta-kiraṇa-hāraṃ candaṃ ṇava-jovvaṇe thaṇaṃ va malentaṃ
+PL2303/ pulaaṃ jaṇenti dasakandharassa sarahasa-rāma-sarā sarīrammi
+PL2304/ jaṇaa-taṇaā-thaṇa-pphaṃsa-mahaggha-kara-ala-kaḍḍhia-dhaṇu-vimukkā

@@ -1,0 +1,3631 @@
+Buddhacarita
+A SARIT edition
+Aśvaghoṣa
+Peter Schreiner
+Creation of machine-readable version.
+SARIT: Search and Retrieval of Indic Texts
+Copyright Notice
+Copyright 2017-2018 SARIT and Peter Schreiner
+Distributed by
+SARIT
+under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Under this licence, you are free
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information and fuller details of this license are given on the Creative Commons website.
+SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown.
+2017
+The Buddhacarita: Or, Acts of the Buddha. Part I -- Sanskrit Text
+E. H. Johnston
+Baptist Mission Press
+Calcutta
+1935
+Panjab University Oriental Publications No. 31
+The Buddha--Karita or Live of Buddha by Asvaghosha, Indian poet of the early second century after Christ. Sanskrit text, edited from a Devanagari and two Nepalese manuscripts with variant readings, a preface, notes and in index of names.
+Edward B. Cowell
+Reprint
+Amsterdam
+1970
+Anecdota Oxoniensia, Aryan Series,Part VII
+First published in Oxford, 1893
+The text of the Johnston edition was transliterated on the basis of a cursory reading; the typed input was compared with the edition by Cowell, partly as a routine of proof--reading, partly in order to be able to add variant readings from the older edition. (The conventions for inputting variants are described below.) Proof--reading and insertion of variants was done "manually" and I (Peter Schreiner) do not guarantee completeness. The additional passages in Cowell at the beginning of the poem were not transliterated completely, and the additional chapters at the end were not transliterated at all.
+The published edition from which this e-text was transcribed is printed in the Devanāgarī script. The electronic text below is in a lossless transliteration using the Latin alphabet. The transliteration scheme used is the IAST (
+The International Alphabet of Sanskrit Transliteration
+). IAST differs in small ways from ISO 15919, but is preferred by most working Sanskrit scholars. Conversion of this file to ISO 15919 can be achieved by performing the following replacements throughout the file:
+ṛ -> r̥ and ṃ -> ṁ
+Annotations, remarks etc. by the editor of the transliteration are enclosed in square brackets.
+Annotations by the editor(s) of the edition which served as source of the transliteration (e..g. conjectures, markers for lacunae etc.) which are part of the printed edition are enclosed in pointed parentheses.
+Colophons which are part of the printed edition are enclosed by double square brackets.
+Sandhi
+The "principle of transliteration" has been that the input format should reproduce the letters of the printed text as closely as possible, i.e., that one types what one sees. However, markers are added (in the transliteration) to what is printed (in Devanāgarī) to indicate that fact that a printed (and consequently typed) letter has undergone some sandhi change.
+A sandhi change is defined with regard to the "pausa form" of a word, i..e. the form a word would take at the end of a line or out of context (vigraha). Note that this pausa form need not be identical with the stem which would be entered in a dictionary.
+Thus, (final and initial) consonants which have undergone a sandhi change in the text are marked by "*". Similarly, final vowels which have changed due to sandhi are marked by "*" (e.g., "āsīd* rājā nalo* nāma").
+In case of vowel sandhi the sandhi is dissolved and marked (e.g., na*asti, ca*eva). Similarly, avagraha is reconstituted, the originally omitted initial "a" being marked as sandhi vowel (e.g., devo* *api).
+In some special cases the marking of sandhi has to be extended to include some disambiguating information:
+-- to half--vowels which substitute for a long vowel the diacritic for "long vowel" (-) is added (e.g., devy-* api);
+-- if final -ā in sandhi does not stand for -āḥ (with visarga), then the original vowel which has been substituted by the -ā is added (e.g., lokae* eva, where "loka eva" is printed, which is the sandhi form for "loke eva").
+In case of "double sandhi" the sandhi is marked by double "**", e.g., sa**eva in case of "saiva" instead of "sa* eva").
+Blank is inserted between words wherever this is possible in transliteration (though not necessarily in Devanāgarī), e.g., "hy* api", "nalo* *api".
+Compounds
+Another feature which exceeds what might be expected from a straightforward transliteration is the separation of nominal compounds. Separation of compounds is marked by inserting + between the members of a compound (e.g., brahma+purāṇa, buddha+carita). In case of sandhi, the + functions also as sa.mdhi--marker, i..e. no additional sandhi--marker is added (e.g., tapo+vane, mahā+ātmanaḥ).
+Separation of compounds is restricted to nominal compounds (including upapāda--compounds like ura+ga, go+pī) and does not include grammatical analysis. For details, special cases etc. see the introduction to Sanskrit Indices and Text of the Brahmapurāṇa, Wiesbaden 1987, p. xvi--xvii, by P. Schreiner and R. So"hnen.
+Variae lectiones
+Variants
+The beginning of the passage for which a variant exists is marked by opening parenthesis. In deciding about the extension of the text thus marked, the changes generated for the text format had to be taken into consideration. This meant that occasionally words which are identical in the base text and in the variant are included in the parentheses, since in the text format (sa.mhita) the beginning of a variant could not be printed if that word is joined to the preceding word in vowel sandhi. Thus we write "... (mahā+ātmā Xmahā+puruṣaḥ) ...", even though the "mahā+" is identical in both versions.
+The beginning of the variant is marked by a siglum, viz. by a single capital letter (capital letters are used exclusively for that purpose in the transliteration). Several sigla are separated by a comma (no blank) -- which does not occur in this file of course. There is no blank between the siglum and the variant.
+If there are several variants for the same passage of the base text, they are listed sequentially. The variant (or the last variant if there is more than one) is closed by the closing parenthesis. The blank before the next word is considered to belong to the variant and is put inside the parentheses. The continuation of the base text follows without intermediate blank.
+Schematic pattern:
+(... A... )...
+(... A,B... )...
+(... A... B... )...
+Interpolations
+Interpolations are treated as "variants without base text", i..e. siglum follows immediately upon the opening parenthesis. The siglum is repeated before the closing parenthesis which marks the end of the interpolation. This allows for the input of variants within interpolations which are attested in more than one source.
+Long interpolations may be entered as a sequence of separate interpolations (e.g., verse by verse). Interpolated lines are (may be) marked by "X" at the beginning of the line (which is meant to mark "star"--passages as e.g., in the criticial edition of the MBh).
+Omissions
+Passages from the base text which are omitted in any of the variant texts are marked by double parentheses plus siglum enclosing the omitted passage (which may also be individual words).
+Schematic patterns:
+((S... S))
+... ((S... S))...
+The full reference (chapter and verse) is given at the end of the verse to which it refers. (While transliterating the full reference needs to be typed only for the first verse of each chapter.) The reference consists of two figures separated by a (single) dot. The first number refers to the chapter, the second number refers to the verse--number within the chapter.
+The beginning of references is marked by double exclamation mark (i..e. daṇḍa) and the end is marked by a single exclamation mark. Always after a reference a new line begins.
+Application information
+The input and processing of the transliterated text has been done with TUSTEP, the Tuebingen System of Text--Processing Programs.
+The TUSTEP format includes a reference number in front of every record; this machine reference has been calculated in such a way that it agrees with the textual reference. In the ASCII--format of the input file this machine reference is lost.
+Some of the tools for textual analysis which can be produced from the input format have been published for the Brahmapurāṇa: Peter Schreiner, Renate Soehnen: Sanskrit Indices and Text of the Brahmapurāṇa. Wiesbaden: Otto Harrassowitz, 1987.
+The following list gives a survey of programs (German names in parentheses) developed for the processing of our input:
+Any of the transliterated versions (i..e. ed. Johnston or ed. Cowell) can be extracted (GRUNDTEXTKOP, VARTEXTKOP)
+The machine references in TUSTEP are calculated from the references in the text (REFRECHNEN).
+The text format (i..e. the conventionally transliterated text without markers; with compounds and sandhis reconstituted) can be generated (TEXTFORM). This version can be processed for output in Devanāgarī with programs which work on the basis of transliterated input (e.g., TeX).
+The pausa format of the text is generated by changing all the characters marked by * or + according to the sandhi rules of Sanskrit grammar. Each word appears in the phonetic form which it would assume at the end of a line (e.g., ādibhir*, ādibhiṣ*, ādibhiś*, ādhibhis* all become ādibhiḥ). Members of compounds are separated. (PAUSAFORM)
+Indexes:
+-- KWIC-Index (from modified input format)
+-- Pāda-Index (from modified text format) -- wordforms (from pausa format)
+-- reverse index of wordforms (from pausa format)
+All indexes are sorted according to the Devanāgarī alphabet and may include frequencies (absolute and relative) and formatting commands for the output.
+Those interested in any version or output other than the transliterated input format with variants may contact:
+Peter Schreiner, Indologisches Seminar, Universität Zürich, Rämistr. 68, CH--8001 Zürich, Switzerland.
+I would appreciate if those who in using this electronic text change it or add to it would inform me about their views and intentions and methods and results; those who use this text for their research while preparing a publication should feel morally obliged to send me an offprint. (I hope I am not asking too much!)
+Completed the first TEI version of this text between October 1989 and February 1990, with ransliteration, entry of variants; cursory proof--reading.
+Updated the file to conform with the SARIT guidelines.
+Added div-, head-. trailer, and lg-elements. Wrapped notes in note-elements and added an xml:lang-attribute.
+
+<B 1>
+
+prathamaḥ sargaḥ |1|
+AL1/ X(C śriyaṃ* para+ardhyāṃ* vidadhad* vidhātṛ+jit |
+AL2/ Xtamo* nirasyann* abhibhūta+bhānu+bhṛt |
+AL3/ Xnudan nidāghaṃ* jita+cāru+candra+māḥ |
+AL4/ Xsa* vandyate *arhann* iha yasya na*upamā |1.1| C)
+AL5/ X(Cāsīd* viśāla+unnata+sānu+lakṣmyā |
+AL6/ Xpayo+da+paṅktyā*iva parīta+pārśvaṃ* |
+AL7/ Xud+agra+dhiṣṇyāṃ* gagane *avagāḍhaṃ* |
+AL8/ Xpuraṃ* mahā+ṛṣeḥ kapilasya vastu |1.2| C)
+AL9/ X(Csita+unnatena*iva nayena hṛtvā |kailāsa+śailasya yad* abhra+śobhām |
+AL10/ Xbhramād upetān vahad+ambu+vāhān |saṃbhāvanāṃ* vā sa+phalī+cakāra |1.3| C)
+AL11/ X(Cratna+prabhā+udbhāsini yatra lebhe |
+AL12/ Xtamo* na dāridryam iva*avakāśam |
+AL13/ Xpara+ardhya+pauraiḥ saha+vāsa+toṣāt |
+AL14/ Xkṛta+smitā*iva*atirarāja lakṣmīḥ |1.4| C)
+AL15/ tasmin vane śrīmati rāja+patnī |
+AL16/ prasūti+kālaṃ* samavekṣamāṇā |
+AL17/ śayyāṃ* vitāna+upahitāṃ* prapede |
+AL18/ nārī+sahasrair* abhinandyamānā ||1.8|
+AL19/ tataḥ prasannaś* ca babhūva puṣyas* |
+AL20/ tasyāś* ca devyā* vrata+saṃskṛtāyāḥ |
+AL21/ pārśvāt suto* loka+hitāya jajñe |
+AL22/ nir+vedanaṃ* ca*eva nir+āmayaṃ* ca ||1.9|
+AL23/ X
+AL24/ ūror* yathā*aurvasya pṛthoś* ca hastān* |
+AL25/ māndhātur* indra+pratimasya mūrdhnaḥ |
+AL26/ kakṣīvataś* ca*eva bhuja+aṃsa+deśāt |
+AL27/ tathā+vidhaṃ* tasya babhūva janma ||1.10|
+AL28/ X(Cprātaḥ payo+dād* iva tigma+bhānuḥ |
+AL29/ Xsamudbhavan so* *api ca ma-tṛ+kukṣeḥ |
+AL30/ Xsphuran mayūkhair* vihata+andha+kāraiś* |
+AL31/ Xcakāra lokaṃ* kanaka+avadātam |1.26| C)
+AL32/ X(Ctaṃ* jāta+mātram atha kāñcana+yūpa+gauraṃ* |
+AL33/ Xprītaḥ sahasra+nayaṇaḥ śanakair* gṛhṇāt |
+AL34/ Xmandāra+puṣpa+nikaraiḥ saha tasya mūrdhni |
+AL35/ Xkhān* nir+male ca vinipetatur* ambu+dhāre |1.27| C)
+AL36/ X(Csura+pradhānaiḥ paridhāryamāṇo |
+AL37/ Xdeha+aṃśu+jālair* anurañjayaṃs* tān |
+AL38/ Xsaṃdhyā+abhra+jāla+upari+saṃniviṣṭaṃ* |
+AL39/ Xnava+uḍu+rājaṃ* vijigāya lakṣmyā |1.28| C)
+AL40/ krameṇa garbhād* abhiniḥsṛtaḥ san |
+AL41/ babhau (cyutaḥ Cgataḥ )khād* iva yony+a+jātaḥ |
+AL42/ kalpeṣv* an+(ekeṣu ca Cekeṣv* iva )bhāvita+ātmā |
+AL43/ yaḥ saṃprajānan suṣuve na mūḍhaḥ ||1.11|
+AL44/ dīptyā ca dhairyeṇa (ca yo* Cśriyā )rarāja |
+AL45/ bālo* ravir* bhūmim iva*avatīrṇaḥ |
+AL46/ tathā*ati+dīpto* *api nirīkṣyamāṇo* |
+AL47/ jahāra cakṣūṃṣi yathā śaśa+aṅkaḥ ||1.12|
+AL48/ sa* hi sva+gātra+prabhayā*ujjvalantyā* |
+AL49/ dīpa+prabhāṃ* bhās+karavan* mumoṣa |
+AL50/ mahā+arha+jāmbūnada+cāru+varṇo* |
+AL51/ vidyotayām āsa diśaś* ca sarvāḥ ||1.13|
+AL52/ (an+ākula+a+nyubja+Can+ākulāny* ab+ja+)samudgatāni |
+AL53/ (niṣpeṣavad+vyāyata+Cniṣpeṣavanty* āyata+)vikramāṇi |
+AL54/ tathā*eva dhīrāṇi padāni sapta |
+AL55/ sapta+ṛṣi+tārā+sa+dṛśo* jagāma ||1.14|
+AL56/ bodhāya jāto* *asmi jagad+dhita+artham |
+AL57/ antyā (bhava+utpattir* Ctathā*utpattir* )iyaṃ* mama*iti |
+AL58/ catur+diśaṃ* siṃha+gatir* vilokya |
+AL59/ vāṇīṃ* ca bhavya+artha+karīm uvāca ||1.15|
+AL60/ khāt prasrute candra+marīci+śubhre |
+AL61/ dve vāri+dhāre śiśira+uṣṇa+vīrye |
+AL62/ (śarīra+saṃsparśa+sukha+antarāya Cśarīra+saukhya+artham an+uttarasya )|
+AL63/ nipetatur* mūrdhani tasya saumye ||1.16|
+AL64/ śrīmad+vitāne kanaka+ujjvala+aṅge |
+AL65/ vaiḍūrya+pāde śayane śayānam |
+AL66/ yad+gauravāt kāñcana+padma+hastā* |
+AL67/ yakṣa+adhipāḥ saṃparivārya tasthuḥ ||1.17|
+AL68/ ([[xxxxxś*] ca Cmāyā+tanū+jasya )diva+okasaḥ khe |
+AL69/ yasya prabhāvāt praṇataiḥ śirobhiḥ |
+AL70/ ādhārayan pāṇdaram ātapa+traṃ* |
+AL71/ bodhāya jepuḥ parama+āśiṣaś* ca ||1.18|
+AL72/ mahā+ura+gā* dharma+viśeṣa+tarṣād* |
+AL73/ buddheṣv* atīteṣu kṛta+adhikārāḥ |
+AL74/ yam avyajan bhakti+viśiṣṭa+netrā* |
+AL75/ mandāra+puṣpaiḥ samavākiraṃś* ca ||1.19|
+AL76/ tathā+gata+utpāda+guṇena tuṣṭāḥ |
+AL77/ śuddha+adhivāsāś* ca viśuddha+sattvāḥ |
+AL78/ devā* nanandur* vigate *api rāge |
+AL79/ magnasya duḥkhe jagato* hitāya ||1.20|
+AL80/ (yasya prasūtau Cyasmin prasūte )giri+rāja+kīlā |
+AL81/ vāta+āhatā naur* iva bhūś* cacāla |
+AL82/ sa+candanā ca*utpala+padma+garbhā |
+AL83/ papāta vṛṣṭir* (gaganād* Cgagaṇād* )an+abhrāt ||1.21|
+AL84/ vātā* vavuḥ sparśa+sukhā* mano+jñā* |
+AL85/ divyāni vāsāṃsy* avapātayantaḥ |
+AL86/ sūryaḥ sa* eva*abhy+adhikaṃ* cakāśe |
+AL87/ jajvāla saumya+arcir* an+īrito* *agniḥ ||1.22|
+AL88/ prāg+uttare ca*avasatha+pradeśe |
+AL89/ kūpaḥ svayaṃ* prādur* abhūt sita+ambuḥ |
+AL90/ antaḥ+purāṇy* āgata+vismayāni |
+AL91/ yasmin kriyās* tīrthae* iva pracakruḥ ||1.23|
+AL92/ dharma+arthibhir* bhūta+gaṇaiś* ca divyais* |
+AL93/ tad+darśana+arthaṃ* (vanam āpupūre Cbalam āpa pūraḥ )|
+AL94/ kautūhalena*eva ca pāda+(pebhyaḥ Cpaiś* ca )|
+AL95/ (puṣpāṇy* a+kāle *api [[xxxxx]] Cprapūjayām āsa sa+gandha+puṣ.paiḥ )||1.24|
+AL96/ [[xxxx]] |
+AL97/ nidarśanāny* atra ca no* nibodha ||1.40|
+AL98/ yad* rāja+śāstraṃ* bhṛgur* aṅgirā* vā |
+AL99/ na cakratur* vaṃśa+karāv* ṛṣī tau |
+AL100/ tayoḥ sutau saumya sasarjatus* tat |
+AL101/ kālena śukraś* ca bṛhas+patiś* ca ||1.41|
+AL102/ sārasvataś* ca*api jagāda naṣṭaṃ* |
+AL103/ vedaṃ* punar* yaṃ* dadṛśur* na pūrve |
+AL104/ vyāsas* tathā*enaṃ* bahudhā cakāra |
+AL105/ na yaṃ* vasiṣṭhaḥ kṛtavān a+śaktiḥ ||1.42|
+AL106/ vālmīkir* ādau ca sasarja padyaṃ* |
+AL107/ jagrantha yan* na cyavano* mahā+ṛṣiḥ |
+AL108/ cikitsitaṃ* yac* ca cakāra na*atriḥ |
+AL109/ paścāt tad* ātreya* ṛṣir* jagāda ||1.43|
+AL110/ yac* ca dvi+jatvaṃ* kuśiko* na lebhe |
+AL111/ tad* gādhinaḥ sūnur* avāpa rājan |
+AL112/ velāṃ* samudre sagaraś* ca dadhre |
+AL113/ na*ikṣvākavo* yāṃ* prathamaṃ* babandhuḥ ||1.44|
+AL114/ ācāryakaṃ* yoga+vidhau dvi+jānām |
+AL115/ a+prāptam anyair* janako* jagāma |
+AL116/ khyātāni karmāṇi ca yāni śaureḥ |
+AL117/ śūra+ādayas* teṣv* a+balā* babhūvuḥ ||1.45|
+AL118/ tasmāt pramāṇaṃ* na vayo* na (vaṃśaḥ Ckālaḥ )|
+AL119/ kaś+cit kva+cic* *chraiṣṭhyam upaiti loke |
+AL120/ rājñām ṛṣīṇāṃ* ca (hi tāni Chitāni )tāni |
+AL121/ kṛtāni putrair* a+kṛtāni pūrvaiḥ ||1.46|
+AL122/ evaṃ* nṛ+paḥ pratyayitair* dvi+jais* tair* |
+AL123/ āśvāsitaś* ca*apy* abhinanditaś* ca |
+AL124/ śaṅkām an+iṣṭāṃ* vijahau manastaḥ |
+AL125/ praharṣam eva*adhikam āruroha ||1.47|
+AL126/ prītaś* ca tebhyo* dvi+ja+sattamebhyaḥ |
+AL127/ sat+kāra+pūrvaṃ* pradadau dhanāni |
+AL128/ bhūyād* ayaṃ* bhūmi+patir* yathā+ukto* |
+AL129/ yāyāj* jarām etya vanāni ca*iti ||1.48|
+AL130/ atha*u nimittaiś* ca tapo+balāc* ca |
+AL131/ taj* janma janma+anta+karasya buddhvā |
+AL132/ śākya+īśvarasya*ālayam ājagāma |
+AL133/ sad+dharma+tarṣād* asito* mahā+ṛṣiḥ ||1.49|
+AL134/ taṃ* brahma+vid+brahma+(vidaṃ* Cvidāṃ* )jvalantaṃ* |
+AL135/ brāhmyā śriyā ca*eva tapaḥ+śriyā ca |
+AL136/ rājño* gurur* gaurava+sat+kriyābhyāṃ* |
+AL137/ praveśayām āsa nara+indra+sadma ||1.50|
+AL138/ sa* pārthiva+antaḥ+pura+saṃnikarṣaṃ* |
+AL139/ kumāra+janma+āgata+harṣa+(vegaḥ Cvegaṃ* )|
+AL140/ viveśa dhīro* (vana+saṃjñayā*iva Cbala+saṃjñayā*eva )|
+AL141/ tapaḥ+prakarṣāc* ca jarā+āśrayāc* ca ||1.51|
+AL142/ tato* nṛ+pas* taṃ* munim āsana+sthaṃ* |
+AL143/ pādya+arghya+pūrvaṃ* pratipūjya samyak |
+AL144/ nimantrayām āsa yathā+upacāraṃ* |
+AL145/ purā vasiṣṭhaṃ* sa* iva*anti+devaḥ ||1.52|
+AL146/ dhanyo* *asmy* anugrāhyam idaṃ* kulaṃ* me |
+AL147/ yan* māṃ* didṛkṣur* bhagavān upetaḥ |
+AL148/ ājñāpyatāṃ* kiṃ* karavāṇi saumya |
+AL149/ śiṣyo* *asmi viśrambhitum arhasi*iti ||1.53|
+AL150/ evaṃ* nṛ+peṇa*upamantritaḥ san |
+AL151/ sarveṇa bhāvena munir* yathāvat |
+AL152/ (sa* vismaya+utphulla+Csa+vismaya+utphulla+)viśāla+dṛṣṭir* |
+AL153/ gambhīra+dhīrāṇi vacāṃsy* uvāca ||1.54|
+AL154/ mahā+ātmani tvayy* upapannam etat |
+AL155/ priya+atithau tyāgini dharma+kāme |
+AL156/ sattva+anvaya+jñāna+vayo+anu+rūpā |
+AL157/ snigdhā yad* evaṃ* mayi te matiḥ syāt ||1.55|
+AL158/ etac* ca tad* yena nṛ+pa+ṛṣayas* te |
+AL159/ dharmeṇa (sūkṣmeṇa dhanāny* avāpya Csūkṣmāṇi dhanāny* apāsya )|
+AL160/ nityaṃ* tyajanto* vidhivad* babhūvus* |
+AL161/ tapobhir* āḍhyā* vibhavair* daridrāḥ ||1.56|
+AL162/ prayojanaṃ* yat tu mama*upayāne |
+AL163/ tan* me śṛṇu prītim upehi ca tvam |
+AL164/ divyā (mayā*āditya+Cmayā*divya+)pathe śrutā vāg* |
+AL165/ bodhāya jātas* tanayas* tava*iti ||1.57|
+AL166/ śrutvā vacas* tac* ca manaś* ca yuktvā |
+AL167/ jñātvā nimittaiś* ca tato* *asmy* upetaḥ |
+AL168/ didṛkṣayā śākya+kula+dhvajasya |
+AL169/ śakra+dhvajasya*iva samucchritasya ||1.58|
+AL170/ ity* etad* evaṃ* vacanaṃ* niśamya |
+AL171/ praharṣa+saṃbhrānta+gatir* nara+indraḥ |
+AL172/ ādāya dhātry-+aṅka+gataṃ* kumāraṃ* |
+AL173/ saṃdarśayām āsa tapo+dhanāya ||1.59|
+AL174/ cakra+aṅka+pādaṃ* sa* (tato* Ctathā )mahā+ṛṣir* |
+AL175/ jāla+avanaddha+aṅguli+pāṇi+pādam |
+AL176/ sa+ūrṇa+bhruvaṃ* vāraṇa+vasti+kośaṃ* |
+AL177/ sa+vismayaṃ* rāja+sutaṃ* dadarśa ||1.60|
+AL178/ dhātry-+aṅka+saṃviṣṭam avekṣya ca*enaṃ* |
+AL179/ devy-+aṅka+saṃviṣṭam iva*agni+sūnum |
+AL180/ babhūva (pakṣma+anta+vicañcita+aśrur* Cpakṣma+antar* iva añcita+aśrur* )|
+AL181/ niśvasya ca*eva tri+diva+un+mukho* *abhūt ||1.61|
+AL182/ dṛṣṭvā*asitaṃ* tv* aśru+paripluta+akṣaṃ* |
+AL183/ snehāt (tanū+jasya Ctu putrasya )nṛ+paś* cakampe |
+AL184/ sa+gadgadaṃ* bāṣpa+kaṣāya+kaṇṭhaḥ |
+AL185/ papraccha (sa* Cca )pra+añjalir* ānata+aṅgaḥ ||1.62|
+AL186/ alpa+antaraṃ* yasya vapuḥ (surebhyo* Cmuneḥ syād* )|
+AL187/ bahv+adbhutaṃ* yasya ca janma dīptam |
+AL188/ yasya*uttamaṃ* bhāvinam āttha ca*arthaṃ* |
+AL189/ taṃ* prekṣya kasmāt tava dhīra bāṣpaḥ ||1.63|
+AL190/ api sthira+āyur* bhagavan kumāraḥ |
+AL191/ kac+cin* na śokāya mama prasūtaḥ |
+AL192/ (labdhā Clabdhaḥ )kathaṃ+cit salila+añjalir* me |
+AL193/ na khalv* imaṃ* pātum upaiti kālaḥ ||1.64|
+AL194/ apy* a+kṣayaṃ* me yaśaso* nidhānaṃ* |
+AL195/ kac+cid* dhruvo* me kula+hasta+sāraḥ |
+AL196/ api prayāsyāmi sukhaṃ* paratra |
+AL197/ (supto* *api Csupte *api )putre *a+nimiṣa+eka+cakṣuḥ ||1.65|
+AL198/ kac+cin* na me jātam a+phullam eva |
+AL199/ kula+(pravālaṃ* Cprabālaṃ* )pariśoṣa+bhāgi |
+AL200/ kṣipraṃ* vibho brūhi na me *asti śāntiḥ |
+AL201/ snehaṃ* sute vetsi hi bāndhavānām ||1.66|
+AL202/ ity* āgata+āvegam an+iṣṭa+buddhyā |
+AL203/ buddhvā nara+indraṃ* sa* munir* babhāṣe |
+AL204/ mā bhūn* matis* te nṛ+pa kā+cid* |
+AL205/ anyā niḥ+saṃśayaṃ* tad* yad* avocam asmi ||1.67|
+AL206/ na*asya*anyathātvaṃ* prati vikriyā me |
+AL207/ svāṃ* vañcanāṃ* tu prati viklavo* *asmi |
+AL208/ kālo* hi me yātum ayaṃ* ca jāto* |
+AL209/ jāti+kṣayasya*a+su+labhasya boddhā ||1.68|
+AL210/ vihāya rājyaṃ* viṣayeṣv* an+āsthas* |
+AL211/ tīvraiḥ prayatnair* adhigamya tattvam |
+AL212/ jagaty* ayaṃ* moha+tamo* nihantuṃ* |
+AL213/ jvaliṣyati jñānamayo* hi sūryaḥ ||1.69|
+AL214/ duḥkha+arṇavād* vyādhi+vikīrṇa+phenāj* |
+AL215/ jarā+taraṅgān* maraṇa+ugra+vegāt |
+AL216/ uttārayiṣyaty* ayam uhyamānam |
+AL217/ (ārtaṃ* Cārttaṃ* )jagaj* jñāna+mahā+plavena ||1.70|
+AL218/ prajñā+ambu+vegāṃ* sthira+śīla+vaprāṃ* |
+AL219/ samādhi+śītāṃ* vrata+cakra+vākām |
+AL220/ asya*uttamāṃ* dharma+nadīṃ pravṛttāṃ |
+AL221/ tṛṣṇā+ārditaḥ pāsyati jīva+lokaḥ ||1.71|
+AL222/ duḥkha+ārditebhyo* viṣaya+āvṛtebhyaḥ |
+AL223/ saṃsāra+kāntāra+patha+sthitebhyaḥ |
+AL224/ ākhyāsyati hy* eṣa* vimokṣa+mārgaṃ* |
+AL225/ mārga+pranaṣṭebhya* iva*adhva+gebhyaḥ ||1.72|
+AL226/ vidahyamānāya janāya loke |
+AL227/ rāga+agninā*ayaṃ* viṣaya+indhanena |
+AL228/ prahlādam ādhāsyati dharma+vṛṣṭyā |
+AL229/ vṛṣṭyā mahā+megha* iva*ātapa+ante ||1.73|
+AL230/ tṛṣṇā+argalaṃ* moha+tamaḥ+kapāṭaṃ* |
+AL231/ dvāraṃ+ prajānām apayāna+hetoḥ |
+AL232/ vipāṭayiṣyaty* ayam uttamena |
+AL233/ sad+dharma+tāḍena dur+āsadena ||1.74|
+AL234/ svair* moha+pāśaiḥ pariveṣṭitasya |
+AL235/ duḥkha+abhibhūtasya nir+āśrayasya |
+AL236/ lokasya saṃbudhya ca dharma+rājaḥ |
+AL237/ kariṣyate bandhana+mokṣam eṣaḥ ||1.75|
+AL238/ tan* mā kṛthāḥ śokam imaṃ* prati tvam |
+AL239/ (asmin sa* śocyo* *asti Ctat saumya śocye hi )manuṣya+loke |
+AL240/ mohena vā kāma+sukhair* madād* vā |
+AL241/ yo* naiṣṭhikaṃ* śroṣyati na*asya dharmam ||1.76|
+AL242/ bhraṣṭasya tasmāc* ca guṇād* ato* me |
+AL243/ dhyānāni labdhvā*apy* a+kṛta+arthatā*eva |
+AL244/ dharmasya tasya*ā śravaṇād* ahaṃ* hi |
+AL245/ manye vipattiṃ* tri+dive *api vāsam ||1.77|
+AL246/ iti śruta+arthaḥ sa+su+hṛt sa+dāras* |
+AL247/ tyaktvā viṣādaṃ* mumude nara+indraḥ |
+AL248/ evaṃ+vidho* *ayaṃ* tanayo* mama*iti |
+AL249/ mene sa* hi svām api (sāravattām Csāramattām )||1.78|
+AL250/ (ārṣeṇa Cāryeṇa )mārgeṇa tu yāsyati*iti |
+AL251/ cintā+vidheyaṃ* hṛdayaṃ* cakāra |
+AL252/ na khalv* asau na priya+dharma+pakṣaḥ |
+AL253/ saṃtāna+nāśāt tu bhayaṃ* dadarśa ||1.79|
+AL254/ atha munir* asito* nivedya tattvaṃ* |
+AL255/ suta+niyataṃ* suta+viklavāya rājñe |
+AL256/ sa+bahu+matam udīkṣyamāṇa+rūpaḥ |
+AL257/ pavana+pathena yathā+āgataṃ jagāma ||1.80|
+AL258/ kṛta+(mitir* Cmatir* )anujā+sutaṃ* ca dṛṣṭvā |
+AL259/ muni+vacana+śravaṇe ca tan+matau ca |
+AL260/ bahu+vidham anukampayā sa* sādhuḥ |
+AL261/ priya+sutavad* viniyojayāṃ* cakāra ||1.81|
+AL262/ nara+patir* api putra+janma+tuṣṭo* |
+AL263/ viṣaya+(gatāni Cmatāni )vimucya bandhanāni |
+AL264/ kula+sa+dṛśam acīkarad* yathāvat |
+AL265/ priya+(tanayas* Ctanayaṃ* )tanayasya jāta+karma ||1.82|
+AL266/ daśasu pariṇateṣv* ahaḥsu (ca*eva Cca*evaṃ* )|
+AL267/ prayata+manāḥ parayā mudā parītaḥ |
+AL268/ akuruta japa+homa+maṅgala+ādyāḥ |
+AL269/ (parama+bhavāya Cparamatamāḥ sa* )sutasya devatā+ijyāḥ ||1.83|
+AL270/ api ca śata+sahasra+pūṛna+saṃkhyāḥ |
+AL271/ sthira+balavat+tanayāḥ sa+hema+śṛṅgīḥ |
+AL272/ an+upagata+jarāḥ payasvinīr* gāḥ |
+AL273/ svayam adadāt suta+vṛddhaye dvi+jebhyaḥ ||1.84|
+AL274/ bahu+vidha+viṣayās* tato* yata+ātmā |
+AL275/ sva+hṛdaya+toṣa+karīḥ kriyā vidhāya |
+AL276/ guṇavati (niyate Cdivase )śive muhūrte |
+AL277/ matim akaron* muditaḥ pura+praveśe ||1.85|
+AL278/ dvi+rada+radamayīm atha*u mahā+arhāṃ* |
+AL279/ sita+sita+puṣpa+bhṛtāṃ* maṇi+pradīpām |
+AL280/ abhajata śivikāṃ* śivāya devī |
+AL281/ tanayavatī praṇipatya devatābhyaḥ ||1.86|
+AL282/ puram atha purataḥ praveśya patnīṃ* |
+AL283/ sthavira+jana+anugatām apatya+nāthām |
+AL284/ nṛ+patir* api jagāma paura+saṃghair* |
+AL285/ divam a+marair* maghavān iva*arcyamānaḥ ||1.87|
+AL286/ bhavanam atha vigāhya śākya+rājo* |
+AL287/ bhava* iva ṣaṇ+mukha+janmanā pratītaḥ |
+AL288/ idam idam iti harṣa+pūrṇa+vaktro* |
+AL289/ bahu+vidha+puṣṭi+yaśas+karaṃ* vyadhatta ||1.88|
+AL290/ iti nara+pati+putra+janma+vṛddhyā |
+AL291/ sa+jana+padaṃ* kapila+āhvayaṃ* puraṃ* tat |
+AL292/ dhana+da+puram iva*apsaraso* *avakīrṇaṃ* |
+AL293/ muditam abhūn* nala+(kūbara+Ckūvara+)prasūtau ||1.89|
+
+<B 2>
+
+dvitīyaḥ sargaḥ |2|
+AL294/ ā janmano* janma+(jarā+anta+gasya Cjarā+antakasya )|
+AL295/ tasya*atma+jasya*ātma+jitaḥ sa* rājā |
+AL296/ ahany* ahany* artha+gaja+aśva+mitrair* |
+AL297/ vṛddhiṃ* yayau sindhur* iva*ambu+vegaiḥ ||2.1|
+AL298/ dhanasya ratnasya ca tasya tasya |
+AL299/ kṛta+a+kṛtasya*eva ca kāñcanasya |
+AL300/ tadā hi (na*ekān sa* nidhīn avāpa Cna*eka+ātma+nidhīn avāpi )|
+AL301/ mano+rathasya*apy* ati+bhāra+bhūtān ||2.2|
+AL302/ ye padma+kalpair* api ca dvi+pa+indrair* |
+AL303/ na maṇḍalaṃ* śakyam iha*abhinetum |
+AL304/ mada+utkaṭā* haimavatā* gajās* te |
+AL305/ vinā*api yatnād* upatasthur* enam ||2.3|
+AL306/ nānā+aṅka+cihnair* nava+hema+bhāṇḍair* |
+AL307/ (vibhūṣitair* Ca+bhūṣitair* )lamba+saṭais* tathā*anyaiḥ |
+AL308/ saṃcukṣubhe ca*asya puraṃ* turaṃ+gair* |
+AL309/ balena maitryā ca dhanena ca*āptaiḥ ||2.4|
+AL310/ puṣṭāś* ca tuṣṭāś* ca (tathā*asya Ctadā*asya )rājye |
+AL311/ sādhvyo* *a+rajaskā* guṇavat+payaskāḥ |
+AL312/ ud+agra+vatsaiḥ sahitā* babhūvur* |
+AL313/ bahvyo* bahu+kṣīra+duhaś* ca gāvaḥ ||2.5|
+AL314/ madhya+sthatāṃ* tasya ripur* jagāma |
+AL315/ madhya+(stha+Csva+)bhāvaḥ prayayau su+hṛttvam |
+AL316/ viśeṣato dārḍhyam iyāya mitraṃ* |
+AL317/ dvāv* asya pakṣāv* a+paras tu (na*āsa Cnāśam )||2.6|
+AL318/ tathā*asya manda+anila+megha+śabdaḥ |
+AL319/ saudāminī+kuṇḍala+(maṇḍita+abhraḥ Cmaṇḍita+aṅgaḥ )|
+AL320/ vinā*aśma+varṣa+aśani+pāta+doṣaiḥ |
+AL321/ kāle ca deśe pravavarṣa devaḥ ||2.7|
+AL322/ ruroha (sasyaṃ* Csaṃyak )phalavad* yathā+ṛtu |
+AL323/ tadā*a+kṛtena*api kṛṣi+śrameṇa |
+AL324/ tā* eva (ca*asya*oṣadhayo* Cca*eva*oṣadhayo* )rasena |
+AL325/ sāreṇa ca*eva*abhy+adhikā* babhūvuḥ ||2.8|
+AL326/ śarīra+saṃdeha+kare *api kāle |
+AL327/ saṃgrāma+saṃmardae* iva pravṛtte |
+AL328/ sva+sthāḥ sukhaṃ* ca*eva nir+āmayaṃ* ca |
+AL329/ prajajñire (kāla+vaśena Cgarbha+dharāś* ca )nāryaḥ ||2.9|
+AL330/ (pṛthag* vratibhyo* Cyac* ca pratibhvo* )vibhave *api (garhye Cśakye )|
+AL331/ na prārthayanti sma narāḥ parebhyaḥ |
+AL332/ abhyarthitaḥ sūkṣma+dhano* *api (ca*āryas* Cca*ayaṃ* )|
+AL333/ tadā na kaś+cid* vi+mukho* babhūva ||2.10|
+AL334/ (na*a+gauravo* Cnāśa* vadho* )bandhuṣu na*apy* a+dātā |
+AL335/ na*eva*a+vrato* na*an+ṛtiko* na hiṃsraḥ |
+AL336/ āsīt tadā kaś+cana tasya rājye |
+AL337/ rājño* yayāter* iva nāhus.asya ||2.11|
+AL338/ udyāna+deva+āyatana+āśramāṇāṃ* |
+AL339/ kūpa+prapā+puṣkariṇī+vanānām |
+AL340/ cakruḥ kriyās* tatra ca dharma+kāmāḥ |
+AL341/ praty+akṣataḥ svargam iva*upalabhya ||2.12|
+AL342/ muktaś* ca dur+bhikṣa+bhaya+āmayebhyo* |
+AL343/ hṛṣṭo* janaḥ (svargae* Csvargam )iva*abhireme |
+AL344/ patnīṃ* patir* vā mahiṣī patiṃ* vā |
+AL345/ paras+paraṃ* na vyabhiceratuś* ca ||2.13|
+AL346/ kaś+cit siṣeve rataye na kāmaṃ* |
+AL347/ kāma+artham arthaṃ* na jugopa kaś+cit |
+AL348/ kaś+cid* dhana+arthaṃ na cacāra dharmaṃ* |
+AL349/ dharmāya kaś+cin* na cakāra hiṃsām ||2.14|
+AL350/ steya+ādibhiś* ca*apy* (aribhiś* Cabhitaś* )ca naṣṭaṃ* |
+AL351/ sva+sthaṃ* sva+cakraṃ* para+cakra+muktam |
+AL352/ kṣemaṃ* su+bhikṣaṃ* ca babhūva tasya |
+AL353/ (purā*an+araṇyasya Cpurāṇy* araṇyāni )yathā*eva rāṣṭre ||2.15|
+AL354/ tadā hi taj+janmani tasya rājño* |
+AL355/ manor* iva*āditya+sutasya rājye |
+AL356/ cacāra harṣaḥ praṇanāśa pāpmā |
+AL357/ jajvāla dharmaḥ kaluṣaḥ śaśāma ||2.16|
+AL358/ evaṃ+vidhā rāja+(kulasya saṃpat Csutasya tasya )|
+AL359/ sarva+artha+siddhiś* ca yato* babhūva |
+AL360/ tato* nṛ+pas* tasya sutasya nāma |
+AL361/ sarva+artha+siddho* *ayam iti pracakre ||2.17|
+AL362/ devī tu māyā vibudha+ṛṣi+kalpaṃ* |
+AL363/ dṛṣṭvā viśālaṃ* tanaya+prabhāvam |
+AL364/ jātaṃ* praharṣaṃ* na śaśāka soḍhuṃ* |
+AL365/ tato* (nivāsāya C*a+vināśāya )divaṃ* jagāma ||2.18|
+AL366/ tataḥ kumāraṃ* sura+garbha+kalpaṃ* |
+AL367/ snehena bhāvena ca nir+viśeṣam |
+AL368/ mātṛ+ṣvasā mātṛ+sama+prabhāvā |
+AL369/ saṃvardhayām ātma+javad* babhūva ||2.19|
+AL370/ tataḥ sa* bāla+arka* iva*udaya+sthaḥ |
+AL371/ samīrito* vahnir* iva*anilena |
+AL372/ krameṇa samyag* vavṛdhe kumāras* |
+AL373/ tāra+adhipaḥ pakṣae* iva*a+tamaske ||2.20|
+AL374/ tato* mahā+arhāṇi ca candanāni |
+AL375/ ratna+āvalīś* ca*oṣadhibhiḥ sa+garbhāḥ |
+AL376/ mṛga+prayuktān rathakāṃś* ca haimān |
+AL377/ ācakrire *asmai su+hṛd+ālayebhyaḥ ||2.21|
+AL378/ vayo+anu+rūpāṇi ca bhūṣaṇāni |
+AL379/ (hiraṇmayān Chiraṇmayā* )hasti+(mṛga+aśvakāṃś* Cmṛga+aśvakāś* )ca |
+AL380/ (rathāṃś* Crathāś* )ca (go+putraka+saṃprayuktān Cgāvo* vasana+prayuktā* )|
+AL381/ (putrīś* Cgantrīś* )ca cāmīkara+rūpya+citrāḥ ||2.22|
+AL382/ evaṃ* sa* tais* tair* viṣaya+upacārair* |
+AL383/ vayo+anu+rūpair* upacaryamāṇaḥ |
+AL384/ bālo* *apy* a+bāla+pratimo* babhūva |
+AL385/ dhṛtyā ca śaucena dhiyā śriyā ca ||2.23|
+AL386/ vayaś* ca kaumāram atītya (samyak Cmadhyaṃ* )|
+AL387/ saṃprāpya (kāle pratipatti+karma Cbālaḥ sa* hi rāja+sūnuḥ )|
+AL388/ alpair* ahobhir* bahu+varṣa+gamyā* |
+AL389/ jagrāha vidyāḥ sva+kula+anu+rūpāḥ ||2.24|
+AL390/ naiḥśreyasaṃ* tasya tu bhavyam arthaṃ* |
+AL391/ śrutvā purastād* asitān* mahā+ṛṣeḥ |
+AL392/ kāmeṣu saṅgaṃ* janayāṃ* babhūva |
+AL393/ (vanāni yāyād* iti śākya+rājaḥ Cvṛddhir* bhavac+chākya+kulasya rājñaḥ )||2.25|
+AL394/ kulāt tato* *asmai sthira+śīla+(yuktāt Csaṃyutāt )|
+AL395/ sādhvīṃ* vapur+hrī+vinaya+upapannām |
+AL396/ yaśo+dharāṃ* nāma yaśo+viśālāṃ* |
+AL397/ (vāma+abhidhānaṃ* Ctulya+abhidhānaṃ* )śriyam ājuhāva ||2.26|
+AL398/ (vidyotamāno* vapuṣā pareṇa Catha*a+paraṃ* bhūmi+pateḥ priyo* *ayaṃ* )|
+AL399/ sanat+kumāra+pratimaḥ kumāraḥ |
+AL400/ sa+ardhaṃ* tayā śākya+nara+indra+vadhvā |
+AL401/ śacyā sahasra+akṣa* iva*abhireme ||2.27|
+AL402/ kiṃ+cin* manaḥ+kṣobha+karaṃ* pratīpaṃ* |
+AL403/ (kathaṃ* na Ckathaṃ+ca )paśyed* iti so* *anucintya |
+AL404/ vāsaṃ* nṛ+po* (vyādiśati Chy* ādiśati )sma tasmai |
+AL405/ harmya+udareṣv* eva na bhū+pracāram ||2.28|
+AL406/ tataḥ śarat+toya+da+pāṇḍareṣu |
+AL407/ bhūmau vimāneṣv* iva rāñjiteṣu |
+AL408/ harmyeṣu sarva+ṛtu+sukha+āśrayeṣu |
+AL409/ strīṇām udārair* vijahāra tūryaiḥ ||2.29|
+AL410/ kalair* hi cāmīkara+baddha+kakṣair* |
+AL411/ nārī+kara+agra+abhihatair* mṛd+aṅgaiḥ |
+AL412/ vara+apsaro+nṛtya+samaiś* ca nṛtyaiḥ |
+AL413/ kailāsavat tad* bhavanaṃ* rarāja ||2.30|
+AL414/ vāgbhiḥ kalābhir* lalitaiś* ca (hāvair* Chārair* )|
+AL415/ madaiḥ sa+khelair* madhuraiś* ca hāsaiḥ |
+AL416/ taṃ* tatra nāryo* ramayāṃ* babhūvur* |
+AL417/ bhrū+vañcitair* ardha+nirīkṣitaiś* ca ||2.31|
+AL418/ (tataḥ sa* Ctataś* ca )kāma+āśraya+paṇḍitābhiḥ |
+AL419/ strībhir* gṛhīto* rati+karkaśābhiḥ |
+AL420/ vimāna+pṛṣṭhān* na mahīṃ* jagāma |
+AL421/ vimāna+pṛṣthād* iva puṇya+karmā ||2.32|
+AL422/ nṛ+pas* tu tasya*eva vivṛddhi+hetos* |
+AL423/ tad+bhāvinā*arthena ca codyamānaḥ |
+AL424/ śame *abhireme virarāma pāpād* |
+AL425/ bheje damaṃ* saṃvibabhāja sādhūn ||2.33|
+AL426/ na*a+dhīravat kāma+sukhe sasañje |
+AL427/ na saṃrarañje vi+ṣamaṃ* jananyām |
+AL428/ dhṛtyā*indriya+aśvāṃś* capalān vijigye |
+AL429/ bandhūṃś* ca paurāṃś* ca guṇair* jigāya ||2.34|
+AL430/ na*adhyaiṣṭa duḥkhāya parasya vidyāṃ* |
+AL431/ jñānaṃ* śivaṃ* yat tu tad* adhyagīṣṭa |
+AL432/ svābhyaḥ prajābhyo* hi yathā tathā*eva |
+AL433/ sarva+prajābhyaḥ śivam āśaśaṃse ||2.35|
+AL434/ (bhaṃ* Ctaṃ* )bhāsuraṃ* ca*aṅgirasa+adhi+devaṃ* |
+AL435/ yathāvad* ānarca tad+āyuṣe saḥ |
+AL436/ juhāva havyāny* a+kṛśe kṛśānau |
+AL437/ dadau dvi+jebhyaḥ kṛśanaṃ* ca gāś* ca ||2.36|
+AL438/ sasnau śarīraṃ* pavituṃ* manaś* ca |
+AL439/ tīrtha+ambubhiś* ca*eva guṇa+ambubhiś* ca |
+AL440/ veda+upadiṣṭaṃ* samam ātma+jaṃ* ca |
+AL441/ somaṃ* papau śānti+sukhaṃ* ca hārdam ||2.37|
+AL442/ sāntvaṃ* babhāṣe na ca na*arthavad* yaj* |
+AL443/ jajalpa tattvaṃ* na ca vi+priyaṃ* yat |
+AL444/ sāntvaṃ* hy* a+tattvaṃ* paruṣaṃ* ca tattvaṃ* |
+AL445/ hriyā*aśakan* na*ātmana* eva vaktum ||2.38|
+AL446/ iṣṭeṣv* an+iṣṭeṣu ca kāryavatsu |
+AL447/ na rāga+doṣa+āśrayatāṃ* prapede |
+AL448/ śivaṃ* siṣeve (vyavahāra+śuddhaṃ* C*a+vyavahāra+labdhaṃ* )|
+AL449/ yajñaṃ* hi mene na tathā (yathā tat Cyathāvat )||2.39|
+AL450/ āśāvate ca*abhigatāya sadyo* |
+AL451/ deya+ambubhis* tarṣam (acechidiṣṭa Cacecchidiṣṭa )|
+AL452/ yuddhād* ṛte vṛtta+paraśvadhena |
+AL453/ dviḍ+darpam udvṛttam abebhidiṣṭa ||2.40|
+AL454/ ekaṃ* vininye sa* jugopa sapta |
+AL455/ sapta*eva tatyāja rarakṣa pañca |
+AL456/ prāpa tri+vargaṃ* bubudhe tri+vargaṃ* |
+AL457/ jajñe dvi+vargaṃ* prajahau dvi+vargam ||2.41|
+AL458/ kṛta+agaso* *api pratipādya vadhyān |
+AL459/ na*ajīghanan* na*api ruṣā dadarśa |
+AL460/ babandha sāntvena phalena ca*etāṃs* |
+AL461/ tyāgo* *api teṣāṃ* hy* (a+nayāya dṛṣṭaḥ Can+apāya+dṛṣṭaḥ )||2.42|
+AL462/ ārṣāṇy* acārīt parama+vratāni |
+AL463/ vairāṇy* ahāsīc* cira+saṃbhṛtāni |
+AL464/ yaśāṃsi ca*āpad+guṇa+gandhavanti |
+AL465/ rajāṃsy* (ahārṣīn* Cahāsīn* )malinī+karāṇi ||2.43|
+AL466/ na ca*ajihīrṣīd* balim a+pravṛttaṃ* |
+AL467/ na ca*acikīrṣīt para+vastv+abhidhyām |
+AL468/ na ca*avivakṣīd* dviṣatām a+dharmaṃ* |
+AL469/ na (ca*avivakṣīd* Cca*adidhakṣīd* )*dhṛdayena manyum ||2.44|
+AL470/ tasmiṃs* tathā bhūmi+patau pravṛtte |
+AL471/ bhṛtyāś* ca paurāś* ca tathā*eva ceruḥ |
+AL472/ śama+ātmake cetasi viprasanne |
+AL473/ prayukta+yogasya yathā+indriyāṇi ||2.45|
+AL474/ kāle tataś* cāru+payo+dharāyāṃ* |
+AL475/ yaśo+dharāyāṃ* (sva+Csu+)yaśo+dharāyām |
+AL476/ śauddhodane rāhu+sapatna+vaktro* |
+AL477/ jajñe suto* rāhula* eva nāmnā ||2.46|
+AL478/ atha*iṣṭa+putraḥ parama+pratītaḥ |
+AL479/ kulasya vṛddhiṃ* prati bhūmi+pālaḥ |
+AL480/ yathā*eva putra+prasave nananda |
+AL481/ tathā*eva pautra+prasave nananda ||2.47|
+AL482/ (putrasya Cpautrasya )me putra+gato* (mama*iva Cmama*eva )|
+AL483/ snehaḥ kathaṃ* syād* iti jāta+harṣaḥ |
+AL484/ kāle sa* taṃ* taṃ* vidhim ālalambe |
+AL485/ putra+priyaḥ svargam iva*ārurukṣan ||2.48|
+AL486/ sthitvā pathi prāthamakalpikānāṃ* |
+AL487/ rāja+ṛṣabhāṇāṃ* yaśasā*anvitānām |
+AL488/ śuklāny* a+muktvā*api tapāṃsy* atapta |
+AL489/ (yajñaiś* Cyajñe )ca hiṃsā+rahitair* ayaṣṭa ||2.49|
+AL490/ ajājvaliṣṭa*atha sa* puṇya+karmā |
+AL491/ nṛ+pa+śriyā ca*eva tapaḥ+śriyā ca |
+AL492/ kulena vṛttena dhiyā ca dīptas* |
+AL493/ tejaḥ sahasra+aṃśur* iva*utsisṛkṣuḥ ||2.50|
+AL494/ svāyaṃbhuvaṃ* ca*ārcikam arcayitvā |
+AL495/ jajāpa putra+sthitaye sthita+śrīḥ |
+AL496/ cakāra karmāṇi ca duṣ+karāṇi |
+AL497/ prajāḥ sisṛkṣuḥ ka* iva*ādi+kāle ||2.51|
+AL498/ tatjyāja śastraṃ* vimamarśa śāstraṃ* |
+AL499/ śamaṃ* siṣeve niyamaṃ* viṣehe |
+AL500/ vaśī*iva kaṃ+cid* viṣayaṃ* na bheje |
+AL501/ pitā*iva sarvān viṣayān dadarśa ||2.52|
+AL502/ babhāra rājyaṃ* sa* hi putra+hetoḥ |
+AL503/ putraṃ* kula+arthaṃ* yaśase kulaṃ* tu |
+AL504/ svargāya śabdaṃ* divam ātma+hetor* |
+AL505/ dharma+artham ātma+sthitim ācakāṅkṣa ||2.53|
+AL506/ evaṃ* sa* dharmaṃ* vi+vidhaṃ* cakāra |
+AL507/ sadbhir* nipātaṃ* śrutitaś* ca siddham |
+AL508/ dṛṣṭvā kathaṃ* putra+mukhaṃ* suto* me |
+AL509/ vanaṃ* na yāyād* iti nāthamānaḥ ||2.54|
+AL510/ rirakṣiṣantaḥ śriyam ātma+(saṃsthāṃ* Csaṃsthā )|
+AL511/ rakṣanti putrān bhuvi bhūmi+pālāḥ |
+AL512/ putraṃ* nara+indraḥ sa* tu dharma+kāmo* |
+AL513/ rarakṣa dharmād* (viṣayeṣu muñcan Cviṣayeṣv* amuñcat )||2.55|
+AL514/ vanam an+upama+sattvā* bodhi+sattvās* tu sarve |
+AL515/ viṣaya+sukha+rasa+jñā* jagmur* utpanna+putrāḥ |
+AL516/ ata* upacita+karmā rūḍha+mūle *api hetau |
+AL517/ sa* ratim upasiṣeve bodhim (āpan* na yāvat Cāpanna+yāvat )||2.56|
+
+<B 3>
+
+tṛtīyaḥ sargaḥ |3|
+AL518/ tataḥ kadā+cin* mṛdu+śādvalāni |
+AL519/ puṃs+kokila+unnādita+pāda+pāni |
+AL520/ śuśrāva padma+ākara+maṇḍitāni |
+AL521/ (gītair* Cśīte )nibaddhāni sa* kānanāni ||3.1|
+AL522/ śrutvā tataḥ strī+jana+vallabhānāṃ* |
+AL523/ mano+jña+bhāvaṃ* pura+kānanānām |
+AL524/ bahiḥ+prayāṇāya cakāra buddhim |
+AL525/ antar+gṛhe nāga* iva*avaruddhaḥ ||3.2|
+AL526/ tato* nṛ+pas* tasya niśamya bhāvaṃ* |
+AL527/ putra+abhidhānasya mano+rathasya |
+AL528/ snehasya lakṣmyā vayasaś* ca yogyām |
+AL529/ ājñāpayām āsa vihāra+yātrām ||3.3|
+AL530/ nivartayām āsa ca rāja+mārge |
+AL531/ saṃpātam ārtasya pṛthag+janasya |
+AL532/ mā bhūt kumāraḥ su+kumāra+cittaḥ |
+AL533/ saṃvigna+cetā* (iti Civa )manyamānaḥ ||3.4|
+AL534/ praty+aṅga+hīnān vikala+indriyāṃś* ca |
+AL535/ jīrṇa+ātura+ādīn kṛpaṇāṃś* ca (dikṣu Cbhikṣūn )|
+AL536/ tataḥ samutsārya pareṇa sāmnā |
+AL537/ śobhāṃ* (parāṃ* Cparā* )rāja+pathasya cakruḥ ||3.5|
+AL538/ tataḥ kṛte śrīmati rāja+mārge |
+AL539/ śrīmān vinīta+anucaraḥ kumāraḥ |
+AL540/ prāsāda+pṛṣṭhād* avatīrya kāle |
+AL541/ kṛta+abhyanujño* nṛ+pam abhyagacchat ||3.6|
+AL542/ atha*u nara+indraḥ sutam āgata+aśruḥ |
+AL543/ śirasy* upāghrāya ciraṃ* nirīkṣya |
+AL544/ gaccha*iti ca*ājñāpayati sma vācā |
+AL545/ snehān* na ca*enaṃ* manasā mumoca ||3.7|
+AL546/ tataḥ sa* jāmbūnada+bhāṇḍa+bhṛdbhir* |
+AL547/ yuktaṃ* caturbhir* nibhṛtais* turaṃ+gaiḥ |
+AL548/ a+klība+(vidvac+Cvidyuc+)chuci+raśmi+dhāraṃ* |
+AL549/ hiraṇmayaṃ* syandanam āruroha ||3.8|
+AL550/ tataḥ prakīrṇa+ujjvala+puṣpa+jālaṃ* |
+AL551/ viṣakta+mālyaṃ* pracalat+patākam |
+AL552/ mārgaṃ* prapede sa+dṛśa+anuyātraś* |
+AL553/ candraḥ sa+nakṣatra* iva*antarīkṣam ||3.9|
+AL554/ kautūhalāt sphītataraiś* ca netrair* |
+AL555/ (nīla+utpala+ardhair* Cnīla+utpala+ābhair* )iva (kīryamāṇam Ckīryamāṇaḥ )|
+AL556/ śanaiḥ śanai* rāja+pathaṃ* jagāhe |
+AL557/ pauraiḥ sam+antād* abhivīkṣyamāṇaḥ ||3.10|
+AL558/ taṃ* tuṣṭuvuḥ saumya+guṇena ke+cid* |
+AL559/ vavandire dīptatayā tathā*anye |
+AL560/ saumukhyatas* tu śriyam asya ke+cid* |
+AL561/ vaipulyam āśaṃsiṣur āyuṣaś* ca ||3.11|
+AL562/ niḥsṛtya kubjāś* ca mahā+kulebhyo* |
+AL563/ vyūhāś* ca kairātaka+vāmanānām |
+AL564/ nāryaḥ kṛśebhyaś* ca niveśanebhyo* |
+AL565/ deva+anuyāna+dhvajavat praṇemuḥ ||3.12|
+AL566/ tataḥ kumāraḥ khalu gacchati*iti |
+AL567/ śrutvā striyaḥ preṣya+janāt pravṛttim |
+AL568/ didṛkṣayā harmya+talāni jagmur* |
+AL569/ janena mānyena kṛta+abhyanujñāḥ ||3.13|
+AL570/ tāḥ srasta+kāñcī+guṇa+vighnitāś* ca |
+AL571/ supta+prabuddha+ākula+locanāś* ca |
+AL572/ vṛtta+anta+vinyasta+vibhūṣaṇāś* ca |
+AL573/ (kautūhalena*a+nibhṛtāḥ Ckautūhalena*api bhṛtāḥ )parīyuḥ ||3.14|
+AL574/ prāsāda+sopāna+tala+praṇādaiḥ |
+AL575/ kāñcī+ravair* nūpura+nisvanaiś* ca |
+AL576/ (vitrāsayantyo* Cvibhrāmayantyo* )gṛha+pakṣi+saṃghān |
+AL577/ anyo+anya+vegāṃś* ca samākṣipantyaḥ ||3.15|
+AL578/ kāsāṃ+cid* āsāṃ* tu vara+aṅganānāṃ* |
+AL579/ jāta+tvarāṇām api sa+utsukānām |
+AL580/ gatiṃ* gurutvāj jagṛhur* viśālāḥ |
+AL581/ śroṇī+rathāḥ pīna+payo+dharāś* ca ||3.16|
+AL582/ śīghraṃ* sam+arthā*api tu gantum anyā |
+AL583/ gatiṃ* nijagrāha yayau na tūrṇam |
+AL584/ (hriyā*a+pragalbhā vinigūhamānā Chriyā pragalbhāni nigūhamānā )|
+AL585/ (rahaḥ+prayuktāni Crahaḥ prayuktāni )vibhūṣaṇāni ||3.17|
+AL586/ paras+para+utpīḍana+piṇḍitānāṃ* |
+AL587/ saṃmarda+(saṃkṣobhita+Csaṃśobhita+)kuṇḍalānām |
+AL588/ tāsāṃ tadā sa+svana+bhūṣaṇānāṃ* |
+AL589/ vāta+ayaneṣv* a+praśamo* babhūva ||3.18|
+AL590/ vāta+ayanebhyas* tu viniḥsṛtāni |
+AL591/ paras+(para+āyāsita+Cpara+upāsita+)kuṇḍalāni |
+AL592/ strīṇāṃ* virejur* mukha+paṅka+jāni |
+AL593/ saktāni harmyeṣv* iva paṅka+jāni ||3.19|
+AL594/ tato* vimānair* yuvatī+(karālaiḥ Ckalāpaiḥ )|
+AL595/ kautūhala+udghāṭita+vāta+yānaiḥ |
+AL596/ śrīmat sam+antān* nagaraṃ* babhāse |
+AL597/ viyad+vimānair* iva sa+apsarobhiḥ ||3.20|
+AL598/ vāta+ayanānām a+viśāla+bhāvād* |
+AL599/ anyo+anya+gaṇḍa+arpita+kuṇḍalānām |
+AL600/ mukhāni rejuḥ pramada+uttamānāṃ* |
+AL601/ baddhāḥ kalāpā* iva paṅka+jānām ||3.21|
+AL602/ (taṃ* tāḥ Ctasmin )kumāraṃ* pathi vīkṣamāṇāḥ |
+AL603/ striyo* babhur* gām iva gantu+kāmāḥ |
+AL604/ ūrdhva+un+mukhāś* ca*enam udīkṣamāṇā* |
+AL605/ narā* babhur* dyām iva gantu+kāmāḥ ||3.22|
+AL606/ dṛṣṭvā ca taṃ* rāja+sutaṃ* striyas* tā* |
+AL607/ jājvalyamānaṃ* vapuṣā śriyā ca |
+AL608/ dhanyā*asya bhāryā*iti śanair* avocañ* |
+AL609/ śuddhair* manobhiḥ khalu na*anya+bhāvāt ||3.23|
+AL610/ ayaṃ* kila vyāyata+pīna+bāhū* |
+AL611/ rūpeṇa sa+akṣād* iva puṣpa+ketuḥ |
+AL612/ tyaktvā śriyaṃ* dharmam upaiṣyati*iti |
+AL613/ tasmin (hi tā* Chitā* )gauravam eva cakruḥ ||3.24|
+AL614/ kīrṇaṃ* tathā rāja+pathaṃ* kumāraḥ |
+AL615/ paurair* vinītaiḥ śuci+dhīra+veṣaiḥ |
+AL616/ tat pūrvam ālokya jaharṣa kiṃ+cin* |
+AL617/ mene punar+bhāvam iva*ātmanaś* ca ||3.25|
+AL618/ puraṃ* tu tat svargam iva prahṛṣṭaṃ* |
+AL619/ śuddha+adhivāsāḥ samavekṣya devāḥ |
+AL620/ jīrṇaṃ* naraṃ* nirmamire prayātuṃ* |
+AL621/ saṃcodana+arthaṃ* kṣiti+pa+ātma+jasya ||3.26|
+AL622/ tataḥ kumāro* jarayā*abhibhūtaṃ* |
+AL623/ dṛṣṭvā narebhyaḥ pṛthag+ākṛtiṃ* tam |
+AL624/ uvāca saṃgrāhakam āgata+āsthas* |
+AL625/ tatra*eva niṣkampa+niviṣṭa+dṛṣṭiḥ ||3.27|
+AL626/ ka* eṣa* bhoḥ sūta naro* *abhyupetaḥ |
+AL627/ keśaiḥ sitair* yaṣṭi+viṣakta+hastaḥ |
+AL628/ bhrū+saṃvṛta+akṣaḥ śithila+ānata+aṅgaḥ |
+AL629/ kiṃ* vikriyā*eṣā prakṛtir* yad+ṛcchā ||3.28|
+AL630/ ity* evam uktaḥ sa* ratha+praṇetā |
+AL631/ nivedayām āsa nṛ+pa+ātma+jāya |
+AL632/ saṃrakṣyam apy* artham a+doṣa+darśī |
+AL633/ tair* eva devaiḥ kṛta+buddhi+mohaḥ ||3.29|
+AL634/ rūpasya (hantrī Chartrī )vyasanaṃ* balasya |
+AL635/ śokasya yonir* nidhanaṃ* ratīnām |
+AL636/ nāśaḥ smṛtīnāṃ* ripur* indriyāṇām |
+AL637/ eṣā jarā nāma yayā*eṣa bhagnaḥ ||3.30|
+AL638/ pītaṃ* hy* anena*api payaḥ śiśutve |
+AL639/ kālena bhūyaḥ (parisṛptam Cparimṛṣṭam )urvyām |
+AL640/ krameṇa bhūtvā ca yuvā vapuṣmān |
+AL641/ krameṇa tena*eva jarām upetaḥ ||3.31|
+AL642/ ity* evam ukte calitaḥ sa* kiṃ+cid* |
+AL643/ rāja+ātma+jaḥ sūtam idaṃ* babhāṣe |
+AL644/ kim eṣa* doṣo* bhavitā mama*api*ity* |
+AL645/ asmai tataḥ sārathir* abhyuvāca ||3.32|
+AL646/ āyuṣmato* *apy* eṣa* vayaḥ+(prakarṣo* Cprakarṣān* )|
+AL647/ niḥ+saṃśayaṃ* kāla+vaśena bhāvī |
+AL648/ evaṃ* jarāṃ* rūpa+vināśayitrīṃ* |
+AL649/ jānāti ca*eva*icchati (ca*eva Cca*eṣa* )lokaḥ ||3.33|
+AL650/ tataḥ sa* pūrva+āśaya+śuddha+buddhir |
+AL651/ vistīrṇa+kalpa+ācita+puṇya+karmā |
+AL652/ śrutvā jarāṃ* saṃvivije mahā+ātmā |
+AL653/ mahā+aśaner* ghoṣam iva*antike gauḥ ||3.34|
+AL654/ niḥśvasya dīrghaṃ* (sva+śiraḥ Csa* śiraḥ )prakampya |
+AL655/ tamiṃś* ca jīrṇe viniveśya cakṣuḥ |
+AL656/ tāṃ* ca*eva dṛṣṭvā janatāṃ* sa+harṣāṃ* |
+AL657/ vākyaṃ* sa* (saṃvigna* Csaṃvignam )idaṃ* jagāda ||3.35|
+AL658/ evaṃ* jarā hanti ca nir+viśeṣaṃ* |
+AL659/ smṛtiṃ* ca rūpaṃ* ca parākramaṃ* ca |
+AL660/ na ca*eva saṃvegam upaiti lokaḥ |
+AL661/ praty+akṣato* *api*ī+dṛśam īkṣamāṇaḥ ||3.36|
+AL662/ evaṃ* gate sūta nivartaya*aśvān |
+AL663/ śīghraṃ* gṛhāṇy* eva bhavān prayātu |
+AL664/ udyāna+bhūmau hi kuto* ratir* me |
+AL665/ jarā+(bhaye Cbhave )cetasi vartamāne ||3.37|
+AL666/ atha*ājñayā bhartṛ+sutasya tasya |
+AL667/ nivartayām āsa rathaṃ* niyantā |
+AL668/ tataḥ kumāro* bhavanaṃ* tad* eva |
+AL669/ cintā+vaśaḥ śūnyam iva prapede ||3.38|
+AL670/ yadā tu tatra*eva na śarma lebhe |
+AL671/ jarā jarā*iti praparīkṣamāṇaḥ |
+AL672/ tato* nara+indra+anumataḥ sa* bhūyaḥ |
+AL673/ krameṇa tena*eva bahir* jagāma ||3.39|
+AL674/ atha*a+paraṃ* vyādhi+parīta+dehaṃ* |
+AL675/ tae* eva devāḥ sasṛjur* manuṣyam |
+AL676/ dṛṣṭvā ca taṃ* sārathim ābabhāṣe |
+AL677/ śauddhodanis* tad+gata+dṛṣṭir* eva ||3.40|
+AL678/ sthūla+udaraḥ śvāsa+calac+charīraḥ |
+AL679/ srasta+aṃsa+bāhuḥ kṛśa+pāṇdu+gātraḥ |
+AL680/ ambā*iti vācaṃ* karuṇaṃ* bruvāṇaḥ |
+AL681/ paraṃ* (samāśritya Csamāśliṣya )naraḥ ka* eṣaḥ ||3.41|
+AL682/ tato* *abravīt sārathir* asya saumya |
+AL683/ dhātu+prakopa+prabhavaḥ pravṛddhaḥ |
+AL684/ roga+abhidhānaḥ su+mahān an+arthaḥ |
+AL685/ (śakto* Cśakro* )*api yena*eṣa* kṛto* *a+sva+tantraḥ ||3.42|
+AL686/ ity* ūcivān rāja+sutaḥ sa* bhūyas* |
+AL687/ taṃ* sa+anukampo* naram īkṣamāṇaḥ |
+AL688/ asya*eva (jāto* Cjātaḥ )pṛthag* eṣa* doṣaḥ |
+AL689/ sāmānyato* roga+bhayaṃ* prajānām ||3.43|
+AL690/ tato* babhāṣe sa* ratha+praṇetā |
+AL691/ kumāra sādhāraṇa* eṣa* doṣaḥ |
+AL692/ evaṃ* hi rogaih paripīḍyamāno* |
+AL693/ rujā+āturo* harṣam upaiti lokaḥ ||3.44|
+AL694/ iti śruta+arthaḥ sa* viṣaṇṇa+cetāḥ |
+AL695/ prāvepata+ambu+ūrmi+gataḥ śaśī*iva |
+AL696/ idaṃ* ca vākyaṃ* karuṇāyamānaḥ |
+AL697/ provāca kiṃ+cin+mṛdunā svareṇa ||3.45|
+AL698/ idaṃ* ca roga+vyasanaṃ* prajānāṃ* |
+AL699/ paśyaṃś* ca viśrambham upaiti lokaḥ |
+AL700/ (vistīrṇam a+jñānam Cvistīrṇa+vijñānam )aho narāṇāṃ* |
+AL701/ hasanti ye roga+bhayair* a+muktāḥ ||3.46|
+AL702/ nivartyatāṃ* sūta (bahiḥ+Cvahiḥ+)prayāṇān* |
+AL703/ nara+indra+sadma*eva rathaḥ prayātu |
+AL704/ śrutvā ca me roga+bhayaṃ* ratibhyaḥ |
+AL705/ pratyāhataṃ* saṃkucati*iva cetaḥ ||3.47|
+AL706/ tato* nivṛttaḥ sa* nivṛtta+harṣaḥ |
+AL707/ pradhyāna+yuktaḥ praviveśa (veśma Csadma )|
+AL708/ taṃ* dvis* tathā prekṣya ca saṃnivṛttaṃ* |
+AL709/ (paryeṣaṇaṃ* Cpury* āgamaṃ* )bhūmi+patiś* cakāra ||3.48|
+AL710/ śrutvā nimittaṃ* tu nivartanasya |
+AL711/ saṃtyaktam ātmānam anena mene |
+AL712/ mārgasya śauca+adhikṛtāya ca*eva |
+AL713/ cukrośa ruṣṭo* *api ca na*ugra+daṇḍaḥ ||3.49|
+AL714/ bhūyaś* ca tasmai vidadhe sutāya |
+AL715/ viśeṣa+yuktaṃ* viṣaya+(pracāram Cprakāram )|
+AL716/ cala+indriyatvād* api (nāma sakto* Cna*api śakto* )|
+AL717/ na*asmān vijahyād* iti nāthamānaḥ ||3.50|
+AL718/ yadā ca śabda+ādibhir* indriya+arthair* |
+AL719/ antaḥ+pure na*eva suto* *asya reme |
+AL720/ tato* (bahir* Cvahir* )vyādiśati sma yātrāṃ* |
+AL721/ rasa+antaraṃ* syād* iti manyamānaḥ ||3.51|
+AL722/ snehāc* ca bhāvaṃ* tanayasya buddhvā |
+AL723/ (sa* rāga+Csaṃvega+)doṣān a+vicintya kāṃś+cit |
+AL724/ yogyāḥ samājñāpayati sma tatra |
+AL725/ kalāsv* abhijñā* iti vāra+mukhyāḥ ||3.52|
+AL726/ tato* viśeṣeṇa nara+indra+mārge |
+AL727/ sv+alaṃkṛte ca*eva parīkṣite ca |
+AL728/ (vyatyasya Cvyatyāsya )sūtaṃ* ca rathaṃ* ca rājā |
+AL729/ prasthāpayām āsa bahiḥ kumāram ||3.53|
+AL730/ tatas* tathā gacchati rāja+putre |
+AL731/ tair* eva devair* vihito* gata+asuḥ |
+AL732/ taṃ* ca*eva mārge mṛtam uhyamānaṃ* |
+AL733/ sūtaḥ kumāraś* ca dadarśa na*anyaḥ ||3.54|
+AL734/ atha*abravīd* rāja+sutaḥ sa sūtaṃ* |
+AL735/ naraiś* caturbhir* hriyate ka* eṣaḥ |
+AL736/ dīnair* manuṣyair anugamyamāno* |
+AL737/ ([[x]] bhūṣitaś* ca*apy* Cyo* bhūṣito* *a+śvāsy-* )avarudyate ca ||3.55|
+AL738/ tataḥ sa* śuddha+ātmabhir* eva devaiḥ |
+AL739/ śuddha+adhivāsair* abhibhūta+cetāḥ |
+AL740/ a+vācyam apy* artham imaṃ* niyantā |
+AL741/ (pravyājahāra*arthavad+īśvarāya Cpravyājahāra*artha+vid* īśvarāya )||3.56|
+AL742/ buddhi+indriya+prāṇa+guṇair* viyuktaḥ |
+AL743/ supto* vi+saṃjñas* tṛṇa+kāṣṭha+bhūtaḥ |
+AL744/ (saṃvardhya Csaṃbadhya )saṃrakṣya ca yatnavadbhiḥ |
+AL745/ (priya+priyais* Cpriya+a+priyais* )tyajyatae* eṣa* ko* *api ||3.57|
+AL746/ iti praṇetuḥ sa* niśamya vākyaṃ* |
+AL747/ saṃcukṣubhe kiṃ+cid* uvāca ca*enam |
+AL748/ kiṃ* (kevalo* *asya*eva Ckevalasya*eva )janasya dharmaḥ |
+AL749/ sarva+prajānām ayam ī+dṛśo* *antaḥ ||3.58|
+AL750/ tataḥ praṇetā vadati sma tasmai |
+AL751/ sarva+prajānām (idam Cayam )anta+(karma Ckarmā )|
+AL752/ hīnasya madhyasya mahā+ātmano* vā |
+AL753/ sarvasya loke niyato* vināśaḥ ||3.59|
+AL754/ tataḥ sa* dhīro* *api nara+indra+sūnuḥ |
+AL755/ śrutvā*eva mṛtyuṃ* viṣasāda sadyaḥ |
+AL756/ aṃsena saṃśliṣya ca kūbara+agraṃ* |
+AL757/ provāca nihrādavatā svareṇa ||3.60|
+AL758/ iyaṃ* ca niṣṭhā (niyatā Cniyataṃ* )prajānāṃ* |
+AL759/ pramādyati tyakta+bhayaś* ca lokaḥ |
+AL760/ manāṃsi śaṅke kaṭhināni n-ṛṇāṃ* |
+AL761/ sva+sthās* tathā hy* adhvani vartamānāḥ ||3.61|
+AL762/ tasmād* (rathaḥ Crathaṃ* )sūta nivartyatāṃ* no* |
+AL763/ vihāra+(bhūmer* Cbhūmau )na hi deśa+kālaḥ |
+AL764/ jānan vināśaṃ* katham (ārti+Cārtti+)kāle |
+AL765/ sa+cetanaḥ syād* iha hi pramattaḥ ||3.62|
+AL766/ iti bruvāṇe *api nara+adhipa+ātma+je |
+AL767/ nivartayām āsa sa* na*eva taṃ* ratham |
+AL768/ viśeṣa+yuktaṃ* tu nara+indra+śāsanāt |
+AL769/ sa* padma+ṣaṇḍaṃ* vanam eva niryayau ||3.63|
+AL770/ tataḥ śivaṃ* kusumita+bāla+pāda+paṃ* |
+AL771/ paribhramat+pramudita+matta+kokilam |
+AL772/ vimānavat (sa* kamala+Csa+kamala+)cāru+dīrghikaṃ* |
+AL773/ dadarśa tad* vanam iva nandanaṃ* vanam ||3.64|
+AL774/ vara+aṅganā+gaṇa+kalilaṃ* nṛ+pa+ātma+jas* |
+AL775/ tato* balād* vanam (atinīyate Cabhinīyate )sma tat |
+AL776/ vara+apsaro+(vṛtam Cnṛtyam )alakā+adhipa+ālayaṃ* |
+AL777/ nava+vrato* munir* iva vighna+kātaraḥ ||3.65|
+
+<B 4>
+
+caturthaḥ sargaḥ |4|
+AL778/ tatas* tasmāt pura+udyānāt |kautūhala+cala+īkṣaṇāḥ |
+AL779/ pratyujjagmur* nṛ+pa+sutaṃ* |prāptaṃ* varam iva striyaḥ ||4.1|
+AL780/ abhigamya ca tās* tasmai |vismaya+utphulla+locanāḥ |
+AL781/ cakrire samudācāraṃ* |padma+kośa+nibhaiḥ karaiḥ ||4.2|
+AL782/ tasthuś* ca parivārya*enaṃ* |manmatha+ākṣipta+cetasaḥ |
+AL783/ niś+calaiḥ priti+vikacaiḥ |pibantya* iva locanaiḥ ||4.3|
+AL784/ taṃ* hi tā* menire nāryaḥ |kāmo* vigrahavān iti |
+AL785/ śobhitaṃ* lakṣaṇair* dīptaiḥ |saha+jair* bhūṣaṇair* iva ||4.4|
+AL786/ saumyatvāc* ca*eva dhairyāc* ca |kāś+cid* enaṃ* prajajñire |
+AL787/ avatīrṇo* mahīṃ* sa+akṣād* |(gūḍha+aṃśuś* Csudhā+aṃśuś* )candra+mā* (iti Civa )||4.5|
+AL788/ tasya tā* vapuṣā*ākṣiptā* |(nigṛhītaṃ* Cnirgrahītuṃ* )jajṛmbhire |
+AL789/ anyo+anyaṃ* dṛṣṭibhir* (hatvā Cgatvā )|śanaiś* ca viniśaśvasuḥ ||4.6|
+AL790/ evaṃ* tā* dṛṣṭi+mātreṇa |nāryo* dadṛśur* eva tam |
+AL791/ na vyājahrur* na jahasuḥ |prabhāveṇa*asya yantritāḥ ||4.7|
+AL792/ tās* tathā tu nir+ārambhā* |dṛṣṭvā praṇaya+viklavāḥ |
+AL793/ puro+hita+suto* dhīmān |udāyī vākyam abravīt ||4.8|
+AL794/ sarvāḥ sarva+kalā+jñāḥ stha |bhāva+grahaṇa+paṇḍitāḥ |
+AL795/ rūpa+cāturya+saṃpannāḥ |sva+guṇair* mukhyatāṃ* gatāḥ ||4.9|
+AL796/ (śobhayeta Cśobhayeta )guṇair* ebhir* |api tān uttarān kurūn |
+AL797/ kuverasya*api (ca*ākrīḍaṃ* Cca krīḍaṃ* )|prāg* eva vasu+dhām imām ||4.10|
+AL798/ śaktāś* cālayituṃ* yūyaṃ* |vīta+rāgān ṛṣīn api |
+AL799/ apsarobhiś* ca kalitān |grahītuṃ* vibudhān api ||4.11|
+AL800/ bhāva+jñānena hāvena |(rūpa+cāturya+Ccāturyā* rūpa+)saṃpadā |
+AL801/ strīṇām eva ca śaktāḥ stha |saṃrāge kiṃ* punar* nṛṇām ||4.12|
+AL802/ tāsām evaṃ+vidhānāṃ* vo* |(viyuktānāṃ* Cniyuktānāṃ* )sva+go+care |
+AL803/ iyam evaṃ+vidhā ceṣṭā |na tuṣṭo* *asmy* ārjavena vaḥ ||4.13|
+AL804/ idaṃ* nava+vadhūnāṃ* vo* |hrī+nikuñcita+cakṣuṣām |
+AL805/ sa+dṛśaṃ ceṣṭitaṃ* hi syād* |api vā go+pa+yoṣitām ||4.14|
+AL806/ (yad* Cyady* )api syād* ayaṃ* (dhīraḥ Cvīraḥ )|śrī+prabhāvān* mahān iti |
+AL807/ strīṇām api mahat teja* |itaḥ kāryo* *atra niścayaḥ ||4.15|
+AL808/ purā hi kāśi+sundaryā* |veśa+vadhvā* mahān ṛṣiḥ |
+AL809/ tāḍito* *abhūt (padā vyāso* Cpada+nyāsād* )|dur+dharṣo* (devatair* Cdaivatair* )api ||4.16|
+AL810/ manthāla+gautamo* bhikṣur* |jaṅghayā (vāra+Cbāla+)mukhyayā |
+AL811/ piprīṣuś* ca tad+artha+arthaṃ* |vy+asūn niraharat purā ||4.17|
+AL812/ gautamaṃ* dīrgha+tapasaṃ |mahā+ṛṣiṃ* dīrgha+jīvinam |
+AL813/ yoṣit saṃtoṣayām āsa |varṇa+sthāna+avarā satī ||4.18|
+AL814/ ṛṣyaśṛṅgaṃ* muni+sutaṃ* |tathā*eva strīṣv* a+paṇḍitam |
+AL815/ upāyair* vi+vidhaiḥ śāntā |jagrāha ca jahāra ca ||4.19|
+AL816/ viśvā+mitro* mahā+ṛṣiś* ca |vigāḍho* *api (mahat tapaḥ Cmahat+tapāḥ )|
+AL817/ (daśa varṣāṇy* ahar* mene Cdaśa+varṣāṇy* araṇya+stho* )|ghṛtācyā*apsarasā hṛtaḥ ||4.20|
+AL818/ evam+ādīn ṛṣīṃs* tāṃs* tān |anayan vikriyāṃ* striyaḥ |
+AL819/ lalitaṃ* pūrva+vayasaṃ* |kiṃ punar* nṛ+pateḥ sutam ||4.21|
+AL820/ tad* evaṃ* sati viśrabdhaṃ* |prayatadhvaṃ* tathā yathā |
+AL821/ iyaṃ* nṛ+pasya vaṃśa+śrīr* |ito* na syāt parāṅ+mukhī ||4.22|
+AL822/ yā* hi kāś+cid* yuvatayo* |haranti sa+dṛśaṃ* janam |
+AL823/ nikṛṣṭa+utkṛṣṭayor* bhāvaṃ* |yā* gṛhṇanti (tā* tu Ctu tāḥ )striyaḥ ||4.23|
+AL824/ ity* udāyi+vacaḥ śrutvā |tā* viddhā* iva yoṣitaḥ |
+AL825/ samāruruhur* ātmānaṃ* |kumāra+grahaṇaṃ* prati ||4.24|
+AL826/ tā* bhrūbhiḥ prekṣitair* (hāvair* Cbhāvair* )|hasitair* (laḍitair* Clalitair* )gataiḥ |
+AL827/ cakrur* ākṣepikāś* ceṣṭā* |bhīta+bhītā* iva*aṅganāḥ ||4.25|
+AL828/ rājñas* tu viniyogena |kumārasya ca mārdavāt |
+AL829/ (jahuḥ Cjahruḥ )kṣipram a+viśrambhaṃ* |madena madanena ca ||4.26|
+AL830/ atha nārī+jana+vṛtaḥ |kumāro* vyacarad* vanam |
+AL831/ vāsitā+yūtha+sahitah |karī*iva himavad* vanam ||4.27|
+AL832/ sa* tasmin kānane ramye |jajvāla strī+puraḥ+saraḥ |
+AL833/ ākrīḍae* iva (vibhrāje Cbabhrāje )|vivasvān apsaro+vṛtaḥ ||4.28|
+AL834/ madena*a+varjitā* nāma |taṃ* kāś+cit tatra yoṣitaḥ |
+AL835/ kaṭhinaiḥ paspṛśuḥ pīnaiḥ |(saṃhatair* Csaṃghaṭṭair* )valgubhiḥ stanaiḥ ||4.29|
+AL836/ srasta+aṃsa+komala+ālamba+ |mṛdu+bāhu+latā*a+balā |
+AL837/ an+ṛtaṃ* skhalitaṃ* kā+cit |kṛtvā*enaṃ* sasvaje balāt ||4.30|
+AL838/ kā+cit tāmra+adhara+oṣṭhena |mukhena*āsava+gandhinā |
+AL839/ viniśaśvāsa karṇe *asya |rahasyaṃ* śrūyatām iti ||4.31|
+AL840/ kā+cid* ājñāpayantī*iva |provāca*ārdra+anulepanā |
+AL841/ iha bhaktiṃ* kuruṣva*iti |(hasta+saṃśleṣa+lipsayā Chastaṃ* saṃśliṣya lipsayā )||4.32|
+AL842/ muhur* muhur* mada+vyāja+ |srasta+nīla+aṃśukā*a+parā |
+AL843/ ālakṣya+raśanā reje |sphurad+vidyud* iva kṣapā ||4.33|
+AL844/ kāś+cit kanaka+kāñcībhir* |mukharābhir* itas* tataḥ |
+AL845/ babhramur* darśayantyo* *asya |śroṇīs* tanv+aṃśuka+āvṛtāḥ ||4.34|
+AL846/ cūta+śākhāṃ* kusumitāṃ* |pragṛhya*anyā* lalambire |
+AL847/ su+varṇa+kalaśa+prakhyān |darśayantyaḥ payo+dharān ||4.35|
+AL848/ kā+cit padma+vanād* etya |sa+padmā padma+locanā |
+AL849/ padma+vaktrasya pārśve *asya |padma+śrīr* iva tasthuṣī ||4.36|
+AL850/ madhuraṃ* gītam anv+arthaṃ* |kā+cit sa+abhinayaṃ* jagau |
+AL851/ taṃ* sva+sthaṃ* codayantī*iva |vañcito* *asi*ity* avekṣitaiḥ ||4.37|
+AL852/ śubhena vadanena*anyā |bhrū+kārmuka+vikarṣiṇā |
+AL853/ prāvṛtya*anucakāra*asya |ceṣṭitaṃ* (dhīra+Cvīra+)līlayā ||4.38|
+AL854/ pīna+valgu+stanī kā+cid* |(*dhāsa+āghūrṇita+Cvāta+āghūrṇita+)kuṇḍalā |
+AL855/ uccair* avajahāsa*enaṃ* |samāpnotu bhavān iti ||4.39|
+AL856/ apayāntaṃ* tathā*eva*anyā* |babandhur* mālya+dāmabhiḥ |
+AL857/ kāś+cit sa+ākṣepa+madhurair* |jagṛhur* vacana+aṅkuśaiḥ ||4.40|
+AL858/ pratiyoga+arthinī kā+cid* |gṛhītvā cūta+vallarīm |
+AL859/ idaṃ* puṣpaṃ* tu kasya*iti |papraccha mada+viklavā ||4.41|
+AL860/ kā+cit puruṣavat kṛtvā |gatiṃ* saṃsthānam eva ca |
+AL861/ uvāca*enaṃ* jitaḥ strībhir* |jaya bho* pṛthivīm imām ||4.42|
+AL862/ atha lola+īksaṇā kā+cij* |jighrantī nīlam utpalam |
+AL863/ kiṃ+cin+mada+kalair* vākyair* |nṛ+pa+ātma+jam abhāṣata ||4.43|
+AL864/ paśya bhartaś* citaṃ* cūtaṃ* |kusumair* madhu+gandhibhiḥ |
+AL865/ hema+pañjara+ruddho* vā |kokilo* yatra kūjati ||4.44|
+AL866/ a+śoko* dṛśyatām eṣa* |kāmi+śoka+vivardhanaḥ |
+AL867/ ruvanti bhramarā* yatra |dahyamānā* iva*agninā ||4.45|
+AL868/ cūta+yaṣṭyā samāśliṣṭo* |dṛśyatāṃ* tilaka+drumaḥ |
+AL869/ śukla+vāsā* iva naraḥ |striyā pīta+aṅga+rāgayā ||4.46|
+AL870/ phullaṃ* (kurubakaṃ* Ckuruvakaṃ* )paśya |(nirbhukta+alaktaka+Cnirmukta+alaktaka+)prabham |
+AL871/ yo* nakha+prabhayā strīṇāṃ* |nirbhartsita* iva*ānataḥ ||4.47|
+AL872/ bāla+a+śokaś* ca nicito* |dṛśyatām eṣa* pallavaiḥ |
+AL873/ yo* *asmākaṃ* hasta+śobhābhir* |lajjamāna* iva sthitaḥ ||4.48|
+AL874/ dīrghikāṃ* prāvṛtāṃ* paśya |tīra+jaiḥ sindu+vārakaiḥ |
+AL875/ pāṇḍura+aṃśuka+saṃvītāṃ* |śayānāṃ* pramadām iva ||4.49|
+AL876/ dṛśyatāṃ* strīṣu māhātmyaṃ* |cakravāko* hy* asau jale |
+AL877/ pṛṣṭhataḥ preṣyavad* bhāryām |anuvarty-* anugacchati ||4.50|
+AL878/ mattasya para+puṣṭasya |ruvataḥ śrūyatāṃ* dhvaniḥ |
+AL879/ a+paraḥ kokilo* (*anv+akṣaṃ* |pratiśrutkā*iva C*an+utkaḥ |pratiśrutya*iva )kūjati ||4.51|
+AL880/ api nāma vihaṃ+gānāṃ* |(vasantena*āhṛto* Cvasantena*āhito* )madaḥ |
+AL881/ na tu (cintayato* *a+cintyaṃ* Ccintayataś* cittaṃ* )|janasya prājña+māninaḥ ||4.52|
+AL882/ ity* evaṃ* tā* yuvatayo* |manmatha+uddāma+cetasaḥ |
+AL883/ kumāraṃ* vi+vidhais* tais* tair* |upacakramire nayaiḥ ||4.53|
+AL884/ evam ākṣipyamāṇo* *api |sa* tu dhairya+āvṛta+indriyaḥ |
+AL885/ martavyam iti sa+udvego* |na jaharṣa na (vivyathe Csismiye )||4.54|
+AL886/ tāsāṃ* (tattve *an+avasthānaṃ* Ctattvena vasthānaṃ* )|dṛṣṭvā sa* puruṣa+uttamaḥ |
+AL887/ (samaṃ* vignena Csa+saṃvignena )dhīreṇa |cintayām āsa cetasā ||4.55|
+AL888/ kiṃ* (v* imā Cvinā )na*avagacchanti |capalaṃ* yauvanaṃ* striyaḥ |
+AL889/ yato* rūpeṇa (saṃmattaṃ* |jarā yan* Csaṃpannaṃ* |jarā*iyaṃ* )nāśayiṣyati ||4.56|
+AL890/ nūnam etā* na paśyanti |kasya+cid* roga+saṃplavam |
+AL891/ tathā hṛṣṭā* bhayaṃ* tyaktvā |jagati vyādhi+dharmiṇi ||4.57|
+AL892/ an+abhijñāś* ca su+vyaktaṃ* |mṛtyoḥ sarva+apahāriṇaḥ |
+AL893/ (tataḥ Ctathā )sva+sthā* nir+(udvignāḥ Cudvegāḥ )|krīḍanti ca hasanti ca ||4.58|
+AL894/ jarāṃ* (vyādhiṃ* ca mṛtyuṃ* Cmṛtyuṃ* ca vyādhiṃ* )ca |ko* hi jānan sa+cetanaḥ |
+AL895/ sva+sthas* tiṣṭhen* niṣīded* vā |(śayed* Csuped* )vā kiṃ* punar* haset ||4.59|
+AL896/ yas* tu dṛṣṭvā paraṃ* jīrṇaṃ* |vyādhitaṃ* mṛtam eva ca |
+AL897/ sva+stho* bhavati na*udvigno* |yathā*a+cetās* tathā*eva saḥ ||4.60|
+AL898/ viyujyamāne (hi C*api )tarau |puṣpair* api phalair* api |
+AL899/ patati *cchidyamāne vā |tarur* anyo* na śocate ||4.61|
+AL900/ iti dhyāna+paraṃ* dṛṣṭvā |viṣayebhyo* gata+spṛham |
+AL901/ udāyī nīti+śāstra+jñas* |tam uvāca su+hṛttayā ||4.62|
+AL902/ ahaṃ* nṛ+patinā dattaḥ |sakhā tubhyaṃ* kṣamaḥ kila |
+AL903/ yasmāt tvayi vivakṣā me |tayā praṇayavattayā ||4.63|
+AL904/ a+hitāt pratiṣedhaś* ca |hite ca*anupravartanam |
+AL905/ vyasane ca*a+parityāgas* |tri+vidhaṃ* mitra+lakṣaṇam ||4.64|
+AL906/ so* *ahaṃ* maitrīṃ* pratijñāya |puruṣa+arthāt parāṅ+(mukhaḥ Cmukham )|
+AL907/ yadi (tvā samupekṣeya Ctvāṃ* samupekṣeyaṃ* )|na bhaven* mitratā mayi ||4.65|
+AL908/ tad* bravīmi su+hṛd* bhūtvā |taruṇasya vapuṣmataḥ |
+AL909/ idaṃ* na prati+rūpaṃ* te |strīṣv* a+dākṣiṇyam ī+dṛśam ||4.66|
+AL910/ an+ṛtena*api nārīṇāṃ* |yuktaṃ* samanuvartanam |
+AL911/ tad+vrīḍā+parihāra+artham |ātma+raty+artham eva ca ||4.67|
+AL912/ saṃnatis* ca*anuvṛttiś* ca |strīṇāṃ* hṛdaya+bandhanam |
+AL913/ snehasya hi guṇā* yonir* |māna+kāmāś* ca yoṣitaḥ ||4.68|
+AL914/ tad* arhasi viśāla+akṣa |hṛdaye* *api parāṅ+mukhe |
+AL915/ rūpasya*asya*anu+rūpeṇa |dākṣiṇyena*anuvartitum ||4.69|
+AL916/ dākṣiṇyam auṣadhaṃ* strīṇāṃ* |dākṣiṇyaṃ* bhūṣaṇaṃ* param |
+AL917/ dākṣiṇya+rahitaṃ* rūpaṃ* |niṣ+puṣpam iva kānanam ||4.70|
+AL918/ kiṃ vā dākṣiṇya+mātreṇa |bhāvena*astu parigrahaḥ |
+AL919/ viṣayān dur+labhāṃl* labdhvā |na hy* avajñātum arhasi ||4.71|
+AL920/ kāmaṃ* param iti jñātvā |devo* *api hi puraṃ+daraḥ |
+AL921/ gautamasya muneḥ patnīm |ahalyāṃ* cakame purā ||4.72|
+AL922/ agastyaḥ prārthayām āsa |soma+bhāryāṃ* ca rohiṇīm |
+AL923/ tasmāt tat+sa+(dṛśīṃ* Cdṛśaṃ* )lebhe |lopā+mudrām iti śrutiḥ ||4.73|
+AL924/ (utathyasya Cautathyasya )ca bhāryāyāṃ* |mamatāyāṃ* mahā+(tapaḥ Ctapāḥ )|
+AL925/ mārutyāṃ* janayām āsa |bharad+vājaṃ* (bṛhas+Cvṛhas+)patiḥ ||4.74|
+AL926/ (bṛhas+Cvṛhas+)pater* mahiṣyāṃ* ca |juhvatyāṃ* juhvatāṃ* varaḥ |
+AL927/ budhaṃ* vibudha+(karmāṇaṃ* Cdharmāṇaṃ* )|janayām āsa candra+māḥ ||4.75|
+AL928/ kālīm* ca*eva purā kanyāṃ* |jala+prabhava+saṃbhavām |
+AL929/ jagāma yamunā+tīre |jāta+rāgaḥ parāśaraḥ ||4.76|
+AL930/ mātaṅgyām akṣa+mālāyāṃ* |garhitāyāṃ* riraṃsayā |
+AL931/ kapiñjala+adaṃ* tanay.am* |vasiṣṭho* *ajanayan* muniḥ ||4.77|
+AL932/ yayātiś* ca*eva rāja+ṛṣir* |vayasy* api vinirgate |
+AL933/ viśvācyā*apsarasā sa+ardhaṃ* |reme caitrarathe vane ||4.78|
+AL934/ strī+saṃsargaṃ* vināśa+antaṃ* |pāṇḍur* jñātvā*api kauravaḥ |
+AL935/ mādrī+rūpa+guṇa+ākṣiptaḥ |siṣeve kāma+jam sukham ||4.79|
+AL936/ karāla+janakaś* ca*eva |hṛtvā brāhmaṇa+kanyakām |
+AL937/ avāpa bhraṃśam apy* (evaṃ* Ceva )|na tu (seje na Ctyajec* ca )manmatham ||4.80|
+AL938/ evam+ādyā* mahā+ātmāno* |viṣayān garhitān api |
+AL939/ rati+hetor* bubhujire |prāg* eva guṇa+saṃhitān ||4.81|
+AL940/ tvaṃ* punar* nyāyataḥ prāptān |balavān rūpavān yuvā |
+AL941/ viṣayān avajānāsi |yatra saktam idaṃ* jagat ||4.82|
+AL942/ iti śrutvā vacas* tasya |ślakṣṇam āgama+saṃhitam |
+AL943/ megha+stanita+nirghoṣaḥ |kumāraḥ pratyabhāṣata ||4.83|
+AL944/ upapannam idaṃ* vākyaṃ* |sauhārda+vyañjakaṃ* tvayi |
+AL945/ atra ca tvā*anuneṣyāmi |yatra mā duṣṭhu manyase ||4.84|
+AL946/ na*avajānāmi (viṣayān Cviṣayāñ* )|jāne lokaṃ* tad+ātmakam |
+AL947/ a+nityaṃ* tu jagan* matvā |na*atra me ramate manaḥ ||4.85|
+AL948/ jarā vyādhiś* ca mṛtyuś* ca |yadi na syād* idaṃ* trayam |
+AL949/ mama*api hi mano+jñeṣu |viṣayeṣu ratir* bhavet ||4.86|
+AL950/ nityaṃ* yady* api hi strīṇām |etad* eva vapur* bhavet |
+AL951/ (doṣavatsv* api Csa+saṃvitkasya )kāmeṣu |(kāmaṃ* rajyeta me manaḥ Ctathā*api na ratiḥ kṣamā )||4.87|
+AL952/ yadā tu (jarayā*āpītaṃ* Cjarayā pītaṃ* )|rūpam āsāṃ* bhaviṣyati |
+AL953/ ātmano* *apy* an+abhipretaṃ* |mohāt tatra ratir* bhavet ||4.88|
+AL954/ mṛtyu+vyādhi+jarā+(dharmā* Cdharmo* )|mṛtyu+vyādhi+jarā+ātmabhiḥ |
+AL955/ ramamāṇo* (hy* C*apy* )a+saṃvignaḥ |samāno* mṛga+pakṣibhiḥ ||4.89|
+AL956/ yad* apy* āttha mahā+ātmānas* |te* *api kāma+ātmakā* iti |
+AL957/ saṃvego* (*atra*eva C*atra na )kartavyo* |yadā teṣām api kṣayaḥ ||4.90|
+AL958/ māhātmyaṃ* na ca tan* manye |yatra sāmānyataḥ kṣayaḥ |
+AL959/ viṣayeṣu prasaktir* vā |yuktir* vā na*ātmavattayā ||4.91|
+AL960/ yad* apy* āttha*an+ṛtena*api |strī+jane vartyatām iti |
+AL961/ an+ṛtaṃ* na*avagacchāmi |dākṣiṇyena*api kiṃ+cana ||4.92|
+AL962/ na ca*anuvartanaṃ* tan* me |rucitaṃ* yatra na*ārjavam |
+AL963/ sarva+bhāvena saṃparko* |yadi na*asti dhig* astu tat ||4.93|
+AL964/ (a+dhrṭeḥ Can+ṛte )śraddadhānasya |saktasya*a+doṣa+darśinaḥ |
+AL965/ kiṃ* hi vañcayitavyaṃ* syāj* |jāta+rāgasya cetasaḥ ||4.94|
+AL966/ vañcayanti ca yady* (evaṃ* Ceva )|jāta+rāgāḥ paras+param |
+AL967/ nanu na*eva kṣamaṃ* draṣṭuṃ* |narāḥ strīṇāṃ* nṛṇām* striyaḥ ||4.95|
+AL968/ tad* evaṃ* sati duḥkha+ārtaṃ* |jarā+maraṇa+(bhāginam Cbhoginam )|
+AL969/ na māṃ* kāmeṣv* an+āryeṣu |pratārayitum arhasi ||4.96|
+AL970/ aho *ati+dhīraṃ* balavac* ca te manaś* |
+AL971/ caleṣu kāmeṣu ca sāra+darśinaḥ |
+AL972/ bhaye (*ati+tīvre C*api tīvre )viṣayeṣu sajjase |
+AL973/ nirīkṣamāṇo* maraṇa+adhvani prajāḥ ||4.97|
+AL974/ ahaṃ* punar* bhīrur* ati+iva+viklavo* |
+AL975/ jarā+vipad+vyādhi+bhayaṃ* vicintayan |
+AL976/ labhe na śāntiṃ* na dhṛtiṃ* kuto* ratiṃ* |
+AL977/ niśāmayan dīptam iva*agninā jagat ||4.98|
+AL978/ a+saṃśayaṃ* mṛtyur* iti prajānato* |
+AL979/ narasya rāgo* hṛdi yasya jāyate |
+AL980/ ayomayīṃ* tasya paraimi cetanāṃ* |
+AL981/ mahā+bhaye (rajyati Crakṣati )yo* na roditi ||4.99|
+AL982/ atha*u kumāraś* ca viniścaya+ātmikāṃ* |
+AL983/ cakāra kāma+āśraya+ghātinīṃ* kathām |
+AL984/ janasya cakṣur+gamanīya+maṇḍalo* |
+AL985/ mahī+dharaṃ* ca*astam iyāya bhās+karaḥ ||4.100|
+AL986/ tato* vṛthā+dhārita+bhūṣaṇa+srajaḥ |
+AL987/ kalā+guṇaiś* ca praṇayaiś* ca niṣ+phalaiḥ |
+AL988/ svae* eva bhāve vinigṛhya manmathaṃ* |
+AL989/ puraṃ* yayur* bhagna+mano+rathāḥ striyaḥ ||4.101|
+AL990/ tataḥ pura+udyāna+gatāṃ* jana+śriyaṃ* |
+AL991/ nirīkṣya sāyaṃ* pratisaṃhṛtāṃ* punaḥ |
+AL992/ a+nityatāṃ* sarva+gatāṃ* vicintayan |
+AL993/ viveśa dhiṣṇyaṃ* kṣiti+pālaka+ātma+jaḥ ||4.102|
+AL994/ tataḥ śrutvā rājā viṣaya+vi+mukhaṃ* tasya tu mano* |
+AL995/ na śiśye tāṃ* rātriṃ* hṛdaya+gata+śalyo* gaja* iva |
+AL996/ atha śrānto* mantre bahu+vi+vidha+mārge sa+sacivo* |
+AL997/ na so* *anyat kāmebhyo* niyamanam apaśyat suta+mateḥ ||4.103|
+
+<B 5>
+
+pañcamaḥ sargaḥ |5|
+AL998/ sa* tathā viṣayair* vilobhyamānaḥ |
+AL999/ (parama+arhair* Cpara+mohair* )api śākya+rāja+sūnuḥ |
+AL1000/ na jagāma (dhṛtiṃ* Cratiṃ* )na śarma lebhe |
+AL1001/ hṛdaye siṃha* iva*ati+digdha+viddhaḥ ||5.1|
+AL1002/ atha mantri+sutaiḥ kṣamaiḥ kadā+cit |
+AL1003/ sakhibhiś* citra+kathaiḥ kṛta+anuyātraḥ |
+AL1004/ vana+bhūmi+didṛkṣayā śama+īpsur* |
+AL1005/ nara+deva+anumato* (bahiḥ Cvahiḥ )pratasthe ||5.2|
+AL1006/ nava+rukma+khalīna+kiṅkiṇīkaṃ* |
+AL1007/ pracalac+cāmara+cāru+hema+bhāṇḍam |
+AL1008/ abhiruhya sa* (kanthakaṃ* Ckaṇṭhakaṃ* )sad+aśvaṃ* |
+AL1009/ prayayau ketum iva druma+ab+ja+ketuḥ ||5.3|
+AL1010/ sa* (vikṛṣṭatarāṃ* Cnikṛṣṭatarāṃ* )vana+anta+bhūmiṃ* |
+AL1011/ vana+lobhāc* ca yayau mahī+(guṇāc* ca Cguṇa+icchuḥ )|
+AL1012/ salilo+urmi+vikāra+sīra+mārgāṃ* |
+AL1013/ vasu+dhāṃ* ca*eva dadarśa kṛṣyamāṇām ||5.4|
+AL1014/ hala+bhinna+vikīrṇa+śaṣpa+darbhāṃ* |
+AL1015/ hata+sūkṣma+krimi+(kīṭa+Ckāṇḍa+)jantu+kīrṇām |
+AL1016/ samavekṣya rasāṃ* tathā+vidhāṃ* tāṃ* |
+AL1017/ sva+janasya*iva (vadhe Cbadhe )bhṛśaṃ* śuśoca ||5.5|
+AL1018/ kṛṣataḥ puruṣāṃś* ca vīkṣamāṇaḥ |
+AL1019/ pavana+arka+aṃśu+rajo+vibhinna+varṇān |
+AL1020/ vahana+klama+viklavāṃś* ca dhuryān |
+AL1021/ parama+āryaḥ paramāṃ* kṛpāṃ* cakāra ||5.6|
+AL1022/ avatīrya tatas* turaṃ+ga+pṛṣṭhāc* |
+AL1023/ *chanakair* gāṃ* (vyacarac* *chucā Cvyacarat śucā )parītaḥ |
+AL1024/ jagato* janana+vyayaṃ* vicinvan |
+AL1025/ kṛpaṇaṃ* khalv* idam ity* uvāca (ca*ārtaḥ Cca*ārttaḥ )||5.7|
+AL1026/ manasā ca viviktatām abhīpsuḥ |
+AL1027/ su+hṛdas* tān anuyāyino* nivārya |
+AL1028/ (abhitaś* cala+Cabhitārala+)cāru+parṇavatyā* |
+AL1029/ vi+jane mūlam upeyivān sa* jambvāḥ ||5.8|
+AL1030/ niṣasāda (sa* yatra śaucavatyāṃ* Cca patra+khoravatyāṃ* )|
+AL1031/ bhuvi (vaiḍūrya+Cvaidūrya+)nikāśa+śādvalāyām |
+AL1032/ jagataḥ prabhava+vyayau (vicinvan Cvicintya )|
+AL1033/ manasaś* ca sthiti+mārgam ālalambe ||5.9|
+AL1034/ samavāpta+manaḥ+sthitiś* ca sadyo* |
+AL1035/ viṣaya+icchā+ādibhir* ādhibhiś* ca muktaḥ |
+AL1036/ sa+vitarka+vicāram āpa śāntaṃ* |
+AL1037/ prathamaṃ* dhyānam an+(āsrava+Cāśrava+)prakāram ||5.10|
+AL1038/ adhigamya tato* viveka+jaṃ* tu |
+AL1039/ parama+prīti+sukhaṃ* ((Cmanaḥ+C))samādhim |
+AL1040/ idam eva tataḥ paraṃ* pradadhyau |
+AL1041/ manasā loka+gatiṃ* (niśāmya Cniśamya )samyak ||5.11|
+AL1042/ kṛpaṇaṃ* (bata Cvata )yaj* janaḥ svayaṃ* sann* |
+AL1043/ a+(vaśo* Craso* )vyādhi+jarā+vināśa+(dharmā Cdharmaḥ )|
+AL1044/ jarayā*ārditam āturaṃ* mṛtaṃ* vā |
+AL1045/ param a+jño* vijugupsate mada+andhaḥ ||5.12|
+AL1046/ iha ced* aham ī+dṛśaḥ svayaṃ san* |
+AL1047/ vijugupseya paraṃ* tathā+sva+bhāvam |
+AL1048/ na bhavet sa+dṛśaṃ* hi tat kṣamaṃ* vā |
+AL1049/ paramaṃ* dharmam imaṃ* vijānato* me ||5.13|
+AL1050/ iti tasya vipaśyato* yathāvaj* |
+AL1051/ jagato* vyādhi+jarā+vipatti+doṣān |
+AL1052/ bala+yauvana+jīvita+(pravṛtto* Cpravṛttau )|
+AL1053/ vijagāma*ātma+gato* madaḥ kṣaṇena ||5.14|
+AL1054/ na jaharṣa na ca*api ca*anutepe |
+AL1055/ vicikitsāṃ* na yayau na tandri+nidre |
+AL1056/ na ca kāma+guṇeṣu saṃrarañje |
+AL1057/ na (vididveṣa Cca didveṣa )paraṃ* na ca*avamene ||5.15|
+AL1058/ iti buddhir* iyaṃ* ca nīrajaskā |
+AL1059/ vavṛdhe tasya mahā+ātmano* viśuddhā |
+AL1060/ puruṣair* a+parair* a+dṛśyamānaḥ |
+AL1061/ puruṣaś* ca*upasasarpa bhikṣu+(veṣaḥ Cveśaḥ )||5.16|
+AL1062/ nara+deva+sutas* tam abhyapṛcchad* |
+AL1063/ vada ko* *asi*iti śaśaṃsa so* *atha tasmai |
+AL1064/ (nara+puṃ+Csa* ca puṃ+)gava janma+mṛtyu+bhītaḥ |
+AL1065/ śramaṇaḥ pravrajito* *asmi mokṣa+hetoḥ ||5.17|
+AL1066/ jagati kṣaya+dharmake mumukṣur* |
+AL1067/ mṛgaye *ahaṃ* śivam a+kṣayaṃ* padaṃ* tat |
+AL1068/ sva+(jane *anya+jane ca tulya+Cjano* *anya+janair* a+tulya+)buddhir* |
+AL1069/ viṣayebhyo* vini.vrtta+rāga+doṣaḥ ||5.18|
+AL1070/ nivasan kva+cid* eva vṛkṣa+mūle |
+AL1071/ vi+jane vā*āyatane girau vane vā |
+AL1072/ vicarāmy* a+parigraho* nir+āśaḥ |
+AL1073/ parama+arthāya yathā+upapanna+(bhaikṣaḥ Cbhikṣuḥ )||5.19|
+AL1074/ iti paśyata* eva rāja+sūnor* |
+AL1075/ idam uktvā sa* nabhaḥ samutpapāta |
+AL1076/ sa* hi tad+vapur* anya+(buddha+Cbuddhi+)darśī |
+AL1077/ smṛtaye tasya sameyivān diva+okāḥ ||5.20|
+AL1078/ gaganaṃ* kha+gavad* gate ca tasmin |
+AL1079/ nṛ+varaḥ saṃjahṛṣe visismiye ca |
+AL1080/ upalabhya tataś* ca dharma+saṃjñām |
+AL1081/ abhiniryāṇa+vidhau matiṃ* cakāra ||5.21|
+AL1082/ tata* indra+samo* (jita+indriya+aśvaḥ Cjita+indriyaś* ca)|
+AL1083/ pravivikṣuḥ (puram aśvam Cparama+aśvam )āruroha |
+AL1084/ (parivāra+janaṃ* Cparivartya janaṃ* )tv* avekṣamāṇas* |
+AL1085/ tata* eva*abhimataṃ* vanaṃ* na bheje ||5.22|
+AL1086/ sa* jarā+maraṇa+kṣayaṃ* cikīrṣur* |
+AL1087/ vana+vāsāya matiṃ* smṛtau nidhāya |
+AL1088/ praviveśa punaḥ puraṃ* na kāmād* |
+AL1089/ vana+bhūmer* iva maṇḍalaṃ* dvi+pa+indraḥ ||5.23|
+AL1090/ sukhitā (bata Cvata )nirvṛtā ca sā strī |
+AL1091/ patir* ī+(dṛkṣa* iha*āyata+akṣa Cdṛk tvam iva*āyata+akṣa )yasyāḥ |
+AL1092/ iti taṃ* samudīkṣya rāja+kanyā |
+AL1093/ praviśantaṃ* pathi sa+añjalir* jagāda ||5.24|
+AL1094/ atha ghoṣam imaṃ* mahā+abhra+ghoṣaḥ |
+AL1095/ pariśuśrāva śamaṃ* paraṃ* ca lebhe |
+AL1096/ (śrutavān sa* Cśrutavāṃś* ca )hi nirvṛtā*iti śabdaṃ* |
+AL1097/ parinirvāṇa+vidhau matiṃ* cakāra ||5.25|
+AL1098/ atha kāñcana+śaila+śṛṅga+varṣmā |
+AL1099/ gaja+megha+ṛṣabha+bāhu+nisvana+akṣaḥ |
+AL1100/ kṣayam a+kṣaya+dharma+jāta+rāgaḥ |
+AL1101/ śaśi+siṃha+ānana+vikramaḥ prapede ||5.26|
+AL1102/ mṛga+rāja+gatis* tato* *abhyagacchan* |
+AL1103/ nṛ+patiṃ* mantri+gaṇair* upāsyamānam |
+AL1104/ samitau marutām iva jvalantaṃ* |
+AL1105/ maghavantaṃ* tri+dive sanat+kumāraḥ ||5.27|
+AL1106/ praṇipatya ca sa+añjalir* babhāṣe |
+AL1107/ diśa mahyaṃ* nara+deva sādhv* anujñām |
+AL1108/ parivivrajiṣāmi mokṣa+hetor* |
+AL1109/ niyato* hy* asya janasya viprayogaḥ ||5.28|
+AL1110/ iti tasya vaco* niśamya rājā |
+AL1111/ kariṇā*iva*abhihato* drumaś* cacāla |
+AL1112/ kamala+pratime *añjalau gṛhītvā |
+AL1113/ vacanaṃ* ca*idam uvāca (bāṣpa+Cvāṣpa+)kaṇṭhaḥ ||5.29|
+AL1114/ pratisaṃhara tāta buddhim etāṃ* |
+AL1115/ na hi kālas* tava dharma+saṃśrayasya |
+AL1116/ vayasi prathame matau calāyāṃ* |
+AL1117/ bahu+doṣāṃ* hi vadanti dharma+caryām ||5.30|
+AL1118/ viṣayeṣu kutūhala+indriyasya |
+AL1119/ vrata+khedeṣv* a+sam+artha+niścayasya |
+AL1120/ taruṇasya manaś* calaty* araṇyād* |
+AL1121/ an+abhijñasya viśeṣato* (viveke C*a+vivekam )||5.31|
+AL1122/ mama tu priya+dharma dharma+kālas* |
+AL1123/ tvayi lakṣmīm avasṛjya (lakṣma+Clakṣya+)bhūte |
+AL1124/ sthira+vikrama vikrameṇa dharmas* |
+AL1125/ tava hitvā tu guruṃ* bhaved* a+dharmaḥ ||5.32|
+AL1126/ tad* imaṃ* vyavasāyam utsṛja |
+AL1127/ tvaṃ* bhava tāvan* nirato* gṛha+stha+dharme |
+AL1128/ puruṣasya vayaḥ+sukhāni bhuktvā |
+AL1129/ ramaṇīyo* hi tapo+vana+praveśaḥ ||5.33|
+AL1130/ iti vākyam idaṃ* niśamya rājñaḥ |
+AL1131/ kalaviṅka+svara* uttaraṃ* babhāṣe |
+AL1132/ yadi me pratibhūś* caturṣu rājan |
+AL1133/ bhavasi tvaṃ* na tapo+vanaṃ* śrayiṣye ||5.34|
+AL1134/ na bhaven* maraṇāya jīvitaṃ me |
+AL1135/ viharet svāsthyam idam ca me na rogaḥ |
+AL1136/ na ca yauvanam ākṣipej* jarā me |
+AL1137/ na ca saṃpattim (imāṃ* hared* Capāhared* )vipattiḥ ||5.35|
+AL1138/ iti dur+labham artham ūcivāṃsaṃ* |
+AL1139/ tanay.am* vākyam uvāca śākya+rājaḥ |
+AL1140/ tyaja buddhim (imām ati+Cimāṃ* gati+)pravṛttām |
+AL1141/ avahāsyo* *ati+mano+(ratho* *a+Cratha+)kramaś* ca ||5.36|
+AL1142/ atha meru+gurur* guruṃ* babhāṣe |
+AL1143/ yadi na*asti krama* eṣa* (na*asmi Cna*asti )vāryaḥ |
+AL1144/ śaraṇāj* jvalanena dahyamānān* |
+AL1145/ na hi (niścikramiṣuḥ Cniścikramiṣuṃ* )kṣamaṃ* grahītum ||5.37|
+AL1146/ jagataś* ca (yadā Cyathā )dhruvo* viyogo* |
+AL1147/ (nanu Cna tu )dharmāya varaṃ* (svayaṃ+viyogaḥ Ctv* ayaṃ* viyogaḥ )|
+AL1148/ a+vaśaṃ* nanu viprayojayen* mām |
+AL1149/ a+kṛta+sva+artham a+tṛptam eva mṛtyuḥ ||5.38|
+AL1150/ iti bhūmi+patir* niśamya tasya |
+AL1151/ vyavasāyaṃ* tanayasya nirmumukṣoḥ |
+AL1152/ abhidhāya na yāsyati*iti bhūyo* |
+AL1153/ vidadhe rakṣaṇam uttamāṃś* ca kāmān ||5.39|
+AL1154/ sacivais* tu nidarśito* yathāvad* |
+AL1155/ bahu+mānāt praṇayāc* ca śāstra+pūrvam |
+AL1156/ guruṇā ca nivārito* *aśru+pātaiḥ |
+AL1157/ praviveśa*avasathaṃ* tataḥ sa* śocan ||5.40|
+AL1158/ cala+kuṇdala+cumbita+ānanābhir* |
+AL1159/ ghana+niśvāsa+vikampita+stanībhiḥ |
+AL1160/ vanitābhir* a+dhīra+locanābhir* |
+AL1161/ mṛga+śāvābhir* iva*abhyudīkṣyamāṇaḥ ||5.41|
+AL1162/ sa* hi kāñcana+parvata+avadāto* |
+AL1163/ hṛdaya+unmāda+karo* vara+aṅganānām |
+AL1164/ śravana+aṅga+vilocana+ātma+bhāvān |
+AL1165/ vacana+sparśa+vapur+guṇair* jahāra ||5.42|
+AL1166/ vigate divase tato* vimānaṃ* |
+AL1167/ vapuṣā sūrya* iva pradīpyamānaḥ |
+AL1168/ timiraṃ* vijighāṃsur* ātma+bhāsā |
+AL1169/ ravir* udyann* iva merum āruroha ||5.43|
+AL1170/ kanaka+ujjvala+dīpta+dīpa+vṛkṣaṃ* |
+AL1171/ vara+kāla+aguru+dhūpa+pūrṇa+garbham |
+AL1172/ adhiruhya sa* vajra+bhakti+citraṃ* |
+AL1173/ pravaraṃ* kāñcanam āsanaṃ* siṣeve ||5.44|
+AL1174/ tata* uttamam (uttama+aṅganās* taṃ* Cuttamāś* ca nāryo* )|
+AL1175/ niśi tūryair* upatasthur* indra+kalpam |
+AL1176/ himavac+chirasi*iva candra+gaure |
+AL1177/ draviṇa+indra+ātma+jam apsaro+gaṇa+oghāḥ ||5.45|
+AL1178/ paramair* api divya+tūrya+kalpaiḥ |
+AL1179/ sa* tu tair* na*eva ratiṃ* yayau na harṣam |
+AL1180/ parama+artha+sukhāya tasya sādhor* |
+AL1181/ abhiniścikramiṣā yato* na reme ||5.46|
+AL1182/ atha tatra surais* tapo+variṣṭhair* |
+AL1183/ a+kaniṣṭhair* vyavasāyam asya buddhvā |
+AL1184/ yugapat pramadā+janasya nidrā |
+AL1185/ vihitā*āsīd* vikṛtāś* ca gātra+ceṣṭāḥ ||5.47|
+AL1186/ abhavac* *chayitā hi tatra kā+cid* |
+AL1187/ viniveśya pracale kare kapolam |
+AL1188/ dayitām api rukma+pattra+citrāṃ* |
+AL1189/ kupitā*iva*aṅka+gatāṃ* vihāya vīṇām ||5.48|
+AL1190/ vibabhau kara+lagna+veṇur* anyā |
+AL1191/ stana+visrasta+sita+aṃśukā śayānā |
+AL1192/ ṛju+ṣaṭ+pada+paṅkti+juṣṭa+padmā |
+AL1193/ jala+phena+prahasat+taṭā nadī*iva ||5.49|
+AL1194/ nava+puṣkara+garbha+komalābhyāṃ* |
+AL1195/ tapanīya+ujjvala+saṃgata+aṅga+dābhyām |
+AL1196/ svapiti sma (tathā*a+parā Ctathā purā )bhujābhyāṃ* |
+AL1197/ parirabhya priyavan* mṛd+aṅgam eva ||5.50|
+AL1198/ nava+hāṭaka+bhūṣaṇās* tathā*anyā* |
+AL1199/ vasanaṃ* pītam an+uttamaṃ* vasānāḥ |
+AL1200/ a+vaśā (ghana+nidrayā Cvata nidrayā )nipetur* |
+AL1201/ gaja+bhagnā* iva karṇikāra+śākhāḥ ||5.51|
+AL1202/ avalambya gava+akṣa+pārśvam anyā |
+AL1203/ śayitā cāpa+vibhugna+gātra+yaṣṭiḥ |
+AL1204/ virarāja vilambi+cāru+hārā |
+AL1205/ racitā toraṇa+śāla+bhañjikā*iva ||5.52|
+AL1206/ maṇi+kuṇḍala+daṣṭa+pattra+lekhaṃ* |
+AL1207/ mukha+padmaṃ* vinataṃ* tathā*a+parasyāḥ |
+AL1208/ śata+pattram iva*ardha+(vakra+Ccakra+)nāḍaṃ* |
+AL1209/ sthita+kāraṇḍava+ghaṭṭitaṃ* cakāśe ||5.53|
+AL1210/ a+parāḥ śayitā* yathā+upaviṣṭāḥ |
+AL1211/ stana+bhārair* avanamyamāna+gātrāḥ |
+AL1212/ upaguhya paras+paraṃ* virejur* |
+AL1213/ bhuja+pāśais* tapanīya+pārihāryaiḥ ||5.54|
+AL1214/ mahatīṃ* parivādinīṃ* ca kā+cid* |
+AL1215/ vanitā*āliṅgya sakhīm iva prasuptā |
+AL1216/ vijughūrṇa calat+su+varṇa+(sūtrā Csūtrāṃ* )|
+AL1217/ vadanena*ākula+(yoktrakeṇa Ckarṇika+ujjvalena )||5.55|
+AL1218/ paṇavaṃ* yuvatir* bhuja+aṃsa+deśād* |
+AL1219/ avavisraṃsita+cāru+pāśam anyā |
+AL1220/ sa+vilāsa+rata+anta+tāntam ūrvor* |
+AL1221/ vivare kāntam iva*abhinīya śiśye ||5.56|
+AL1222/ a+parā* babhur* nimīlita+akṣyo* |
+AL1223/ vipula+akṣyo* *api śubha+bhruvo* *api satyaḥ |
+AL1224/ pratisaṃkucita+aravinda+kośāḥ |
+AL1225/ savitary* astam ite yathā nalinyaḥ ||5.57|
+AL1226/ śithila+ākula+mūrdha+jā tathā*anyā |
+AL1227/ jaghana+srasta+vibhūṣaṇa+aṃśuka+antā |
+AL1228/ aśayiṣṭa vikīrṇa+kaṇṭha+sūtrā |
+AL1229/ gaja+bhagnā (pratiyātana+aṅganā*iva Cpratipātita+aṅganā*iva )||5.58|
+AL1230/ a+parās* tv* a+vaśā* hriyā viyuktā* |
+AL1231/ dhṛtimatyo* *api vapur+guṇair* upetāḥ |
+AL1232/ viniśaśvasur* (ulbaṇaṃ* Culvaṇaṃ* )śayānā* |
+AL1233/ (vikṛtāḥ kṣipta+Cvikṛta+ākṣipta+)bhujā* jajṛmbhire ca ||5.59|
+AL1234/ vyapaviddha+vibhūṣaṇa+srajo* *anyā* |
+AL1235/ (visṛta+āgranthana+Cvisṛta+a+granthana+)vāsaso* vi+saṃjñāḥ |
+AL1236/ a+nimīlita+śukla+niś+cala+akṣyo* |
+AL1237/ na virejuḥ śayitā* gata+asu+kalpāḥ ||5.60|
+AL1238/ vivṛta+āsya+puṭā vivṛddha+(gātrī Cgātrā )|
+AL1239/ prapatad+vaktra+jalā prakāśa+guhyā |
+AL1240/ a+parā mada+ghūrṇitā*iva śiśye |
+AL1241/ na (babhāse Cbabhāṣe )vikṛtaṃ* vapuḥ pupoṣa ||5.61|
+AL1242/ iti sattva+(kula+anvaya+anu+rūpaṃ* Ckula+anu+rūpa+rūpaṃ* )|
+AL1243/ vi+vidhaṃ* sa* pramadā+janaḥ śayānaḥ |
+AL1244/ sarasaḥ sa+dṛśaṃ* babhāra rūpaṃ* |
+AL1245/ pavana+āvarjita+(rugna+Crugṇa+)puṣkarasya ||5.62|
+AL1246/ samavekṣya (tathā tathā Ctataś* ca tāḥ )śayānā* |
+AL1247/ vikṛtās* tā* yuvatīr* a+dhīra+ceṣṭāḥ |
+AL1248/ guṇavad+vapuṣo* *api valgu+(bhāṣā* Cbhāso* )|
+AL1249/ nṛ+pa+sūnuḥ sa* vigarhayāṃ* babhūva ||5.63|
+AL1250/ a+śucir* vikṛtaś* ca jīva+loke |
+AL1251/ vanitānām ayam ī+dṛśaḥ sva+bhāvaḥ |
+AL1252/ vasana+ābharaṇais* tu vañcyamānaḥ |
+AL1253/ puruṣaḥ strī+viṣayeṣu rāgam eti ||5.64|
+AL1254/ vimṛśed* yadi yoṣitāṃ* manuṣyaḥ |
+AL1255/ prakṛtiṃ* svapna+vikāram ī+dṛśaṃ* ca |
+AL1256/ dhruvam atra na vardhayet pramādaṃ* |
+AL1257/ guṇa+saṃkalpa+hatas* tu rāgam eti ||5.65|
+AL1258/ iti tasya tad+antaraṃ* viditvā |
+AL1259/ niśi niścikramiṣā samudbabhūva |
+AL1260/ avagamya manas* tato* *asya devair* |
+AL1261/ bhavana+dvāram apāvṛtaṃ* babhūva ||5.66|
+AL1262/ atha so* *avatatāra harmya+pṛṣṭhād* |
+AL1263/ yuvatīs* tāḥ śayitā* vigarhamāṇaḥ |
+AL1264/ avatīrya tataś* ca nir+viśaṅko* |
+AL1265/ gṛha+kakṣyāṃ* (prathamāṃ* Cprathamaṃ* )vinirjagāma ||5.67|
+AL1266/ tura+ga+avacaraṃ* sa* bodhayitvā |
+AL1267/ javinaṃ* chandakam ittham ity* uvāca |
+AL1268/ hayam ānaya kanthakaṃ* tvarāvān |
+AL1269/ a+mṛtaṃ+ prāptum ito* *adya ma yiyāsā ||5.68|
+AL1270/ hṛdi yā mama tuṣṭir* adya jātā |
+AL1271/ vyavasāyaś* ca yathā (matau Cdhṛtau )niviṣṭaḥ |
+AL1272/ vi+jane *api ca nāthavān iva*asmi |
+AL1273/ dhruvam artho* *abhi+mukhaḥ (sameta* Csa* me ya* )iṣṭaḥ ||5.69|
+AL1274/ hriyam eva ca saṃnatiṃ* ca hitvā |
+AL1275/ śayitā* mat+pra+mukhe yathā yuvatyaḥ |
+AL1276/ vivṛte ca yathā svayaṃ* kapāṭe |
+AL1277/ niyataṃ* yātum (ato* mama*adya Can+āmayāya )kālaḥ ||5.70|
+AL1278/ pratigṛhya tataḥ sa* bhartur* ājñāṃ* |
+AL1279/ vidita+artho* *api nara+indra+śāsanasya |
+AL1280/ manasi*iva pareṇa codyamānas* |
+AL1281/ tura+gasya*ānayane matiṃ* cakāra ||5.71|
+AL1282/ atha hema+khalīna+pūrṇa+vaktraṃ* |
+AL1283/ laghu+śayya+āstaraṇa+upagūḍha+pṛṣṭham |
+AL1284/ bala+sattva+(java+anvaya+upapannaṃ* Cjava+tvarā+upapannaṃ* )|
+AL1285/ sa* vara+aśvaṃ* tam upānināya bhartre ||5.72|
+AL1286/ pratata+trika+puccha+mūla+pārṣṇiṃ* |
+AL1287/ (nibhṛta+hrasva+Cnibhṛtaṃ* hrasva+)tanū+ja+(puccha+Cpṛṣṭha+)karṇam |
+AL1288/ vinata+unnata+pṛṣṭha+kukṣi+pārśvaṃ* |
+AL1289/ vipula+protha+lalāṭa+kaṭhy+uraskam ||5.73|
+AL1290/ upaguhya sa* taṃ* viśāla+vakṣāḥ |
+AL1291/ kamala+ābhena ca sāntvayan kareṇa |
+AL1292/ madhura+a+kṣarayā girā śaśāsa |
+AL1293/ dhvajinī+madhyam iva praveṣṭu+kāmaḥ ||5.74|
+AL1294/ bahuśaḥ (kila śatravo* Ckali+śatravo* )nirastāḥ |
+AL1295/ samare tvām adhiruhya pārthivena |
+AL1296/ aham apy* a+mṛtaṃ* (padaṃ* Cparaṃ* )yathāvat |
+AL1297/ tura+ga+śreṣṭha labheya tat kuruṣva ||5.75|
+AL1298/ su+labhāḥ khalu saṃ+yuge sahāyā* |
+AL1299/ viṣaya+avāpta+sukhe dhana+arjane vā |
+AL1300/ puruṣasya tu dur+labhāḥ sahāyāḥ |
+AL1301/ patitasya*āpadi dharma+saṃśraye vā ||5.76|
+AL1302/ iha ca*eva bhavanti ye sahāyāḥ |
+AL1303/ kaluṣe (karmaṇi Cdharmaṇi )dharma+saṃśraye vā |
+AL1304/ avagacchati me yathā*antar+ātmā |
+AL1305/ niyataṃ* te *api janās* tad+aṃśa+bhājaḥ ||5.77|
+AL1306/ tad* idaṃ* parigamya dharma+yuktaṃ* |
+AL1307/ mama niryāṇam (ito* Cato* )jagad+dhitāya |
+AL1308/ tura+ga+uttama vega+vikramābhyāṃ* |
+AL1309/ prayatasva*ātma+hite jagad+dhite ca ||5.78|
+AL1310/ iti su+hṛdam iva*anuśiṣya kṛtye |
+AL1311/ tura+ga+varaṃ* nṛ+varo* vanaṃ* yiyāsuḥ |
+AL1312/ sitam asita+gati+dyutir* vapuṣmān |
+AL1313/ ravir* iva śāradam abhram āruroha ||5.79|
+AL1314/ atha sa* pariharan niśītha+caṇḍaṃ* |
+AL1315/ parijana+bodha+karaṃ* dhvaniṃ* sad+aśvaḥ |
+AL1316/ vigata+hanu+ravaḥ praśānta+heṣaś* |
+AL1317/ cakita+vimukta+pada+(kramo* Ckramā )jagāma ||5.80|
+AL1318/ kanaka+valaya+bhūṣita+prakoṣṭhaiḥ |
+AL1319/ kamala+nibhaiḥ (kamalān iva Ckamalāni ca )pravidhya |
+AL1320/ avanata+tanavas* tato* *asya yakṣāś* |
+AL1321/ cakita+(gatair* Cgater* )dadhire khurān kara+agraiḥ ||5.81|
+AL1322/ guru+parigha+kapāṭa+saṃvṛtā* yā* |
+AL1323/ na sukham api dvi+radair* apāvriyante |
+AL1324/ vrajati nṛ+pa+sute gata+svanās* tāḥ |
+AL1325/ svayam abhavan vivṛtāḥ puraḥ pratolyaḥ ||5.82|
+AL1326/ pitaram abhi+mukhaṃ* sutaṃ* ca bālaṃ* |
+AL1327/ janam anuraktam an+uttamāṃ* ca lakṣmīm |
+AL1328/ kṛta+matir* apahāya nir+vyapekṣaḥ |
+AL1329/ pitṛ+nagarāt sa* tato* vinirjagāma ||5.83|
+AL1330/ atha sa* (vi+mala+Cvikaca+)paṅka+ja+āyata+akṣaḥ |
+AL1331/ puram avalokya nanāda siṃha+nādam |
+AL1332/ janana+maraṇayor* a+dṛṣṭa+pāro* |
+AL1333/ na (puram Cpunar* )ahaṃ* kapila+āhvayaṃ* (praveṣṭā Cpraviṣṭā )||5.84|
+AL1334/ iti vacanam idaṃ* niśamya tasya |
+AL1335/ draviṇa+pateḥ pariṣad+gaṇā* nananduḥ |
+AL1336/ pramudita+manasaś* ca deva+saṅghā* |
+AL1337/ vyavasita+pāraṇam āśaśaṃsire *asmai ||5.85|
+AL1338/ huta+vaha+vapuṣo* diva+okaso* *anye |
+AL1339/ vyavasitam asya (su+duṣ+Cca duṣ+)karaṃ* viditvā |
+AL1340/ (akṛṣata Cakuruta )tuhine pathi prakāśaṃ* |
+AL1341/ ghana+vivara+praṣrtā* iva*indu+pādāḥ ||5.86|
+AL1342/ hari+tura+ga+turaṃ+gavat turaṃ+gaḥ |
+AL1343/ sa* tu vicaran* manasi*iva codyamānaḥ |
+AL1344/ aruṇa+paruṣa+(tāram antarikṣaṃ* Cbhāram antarīkṣaṃ* )|
+AL1345/ (sa* ca su+bahūni Csarasa+bahūni )jagāma yojanāni ||5.87|
+
+<B 6>
+
+ṣaṣṭhaḥ sargaḥ |6|
+AL1346/ tato* (muhūrta+abhyudite Cmuhūrte *abhyudite )|jagac+cakṣuṣi bhās+kare |
+AL1347/ bhārgavasya*āśrama+padaṃ* |sa* dadarśa nṛṇāṃ* varaḥ ||6.1|
+AL1348/ supta+viśvasta+hariṇaṃ* |sva+stha+sthita+vihaṃ+gamam |
+AL1349/ viśrānta* iva yad* (dṛṣṭvā Cdṛṣṭā )|kṛta+artha* iva ca*abhavat ||6.2|
+AL1350/ sa* vismaya+nivṛtty+arthaṃ* |tapaḥ+pūjā+artham eva ca |
+AL1351/ svāṃ* ca*anuvartitāṃ* rakṣaṇn* |aśva+pṛṣṭhād* avātarat ||6.3|
+AL1352/ avatīrya ca pasparśa |nistīrṇam iti vājinam |
+AL1353/ chandakaṃ* ca*abravīt prītaḥ |snāpayann* iva cakṣuṣā ||6.4|
+AL1354/ imaṃ* tārkṣya+upama+javaṃ* |turaṃ+gam anugacchatā |
+AL1355/ darśitā saumya mad+bhaktir* |vikramaś* ca*ayam ātmanaḥ ||6.5|
+AL1356/ sarvathā*asmy* anya+kāryo* *api |gṛhīto* bhavatā hṛdi |
+AL1357/ bhartṛ+snehaś* ca yasya*ayam |ī+dṛśaḥ (śaktir* Cśakta* )eva ca ||6.6|
+AL1358/ a+snigdho* *api sam+artho* *asti |niḥ+sāmarthyo* *api bhaktimān |
+AL1359/ bhaktimāṃs* ca*eva śaktaś* ca |dur+labhas* tvad+vidho* bhuvi ||6.7|
+AL1360/ tat prīto* *asmi tava*anena |mahā+bhāgena karmaṇā |
+AL1361/ (yasya te Cdṛśyate )mayi bhāvo* *ayaṃ* |phalebhyo* *api parāṅ+(mukhaḥ Cmukhe )||6.8|
+AL1362/ ko* janasya phala+sthasya |na syād* abhi+mukho* janaḥ |
+AL1363/ janī+bhavati bhūyiṣṭhaṃ* |sva+jano* *api viparyaye ||6.9|
+AL1364/ kula+arthaṃ* dhāryate putraḥ |poṣa+arthaṃ* sevyate pitā |
+AL1365/ (āśayāc* *chliṣyati Cāśayā*āśliṣyati )jagan* |na*asti niṣ+(kāraṇā svatā Ckāraṇa+a+svatā )||6.10|
+AL1366/ kim uktvā bahu saṃkṣepāt |kṛtaṃ* me su+mahat priyam |
+AL1367/ nivartasva*aśvam ādāya |saṃprāpto* *asmi*īpsitaṃ* (padam Cvanam )||6.11|
+AL1368/ ity* uktvā sa* mahā+bāhur* |anuśaṃsa+cikīrṣayā |
+AL1369/ bhūṣaṇāny* avamucya*asmai |saṃtapta+manase dadau ||6.12|
+AL1370/ (mukuṭād* dīpa+Cmukuṭa+uddīpta+)karmāṇaṃ* |maṇim ādāya bhāsvaram |
+AL1371/ bruvan vākyam idaṃ* tasthau |sa+āditya* iva mandaraḥ ||6.13|
+AL1372/ anena maṇinā chanda |praṇamya bahuśo* nṛ+paḥ |
+AL1373/ vijñāpyo* *a+mukta+viśrambhaṃ* |saṃtāpa+vinivṛttaye ||6.14|
+AL1374/ (janma+Cjarā+)maraṇa+nāśa+arthaṃ* |praviṣṭo* *asmi tapo+vanam |
+AL1375/ na khalu svarga+tarṣeṇa |na*a+snehena na manyunā ||6.15|
+AL1376/ tad* evam abhiniṣkrāntaṃ* |na māṃ* śocitum arhasi |
+AL1377/ bhūtvā*api hi ciraṃ* śleṣaḥ |kālena na bhaviṣyati ||6.16|
+AL1378/ dhruvo* yasmāc* ca viśleṣas* |tasmān* mokṣāya me matiḥ |
+AL1379/ viprayogaḥ kathaṃ* na syād* |bhūyo* *api sva+(janād* iti Cjana+ādibhiḥ )||6.17|
+AL1380/ śoka+tyāgāya niṣkrāntaṃ* |na māṃ* śocitum arhasi |
+AL1381/ śoka+hetuṣu kāmeṣu |saktāḥ śocyās* tu rāgiṇaḥ ||6.18|
+AL1382/ ayaṃ* ca kila pūrveṣām |asmākaṃ* niścayaḥ sthiraḥ |
+AL1383/ iti (dāyādya+Cdāya+āda+)bhūtena |na śocyo* *asmi pathā vrajan ||6.19|
+AL1384/ bhavanti hy* artha+dāya+ādāḥ |puruṣasya viparyaye |
+AL1385/ pṛthivyāṃ* dharma+dāya+ādāḥ |dur+labhās* tu na santi vā ||6.20|
+AL1386/ yad* api syād* a+samaye |yāto* vanam asāv* iti |
+AL1387/ a+kālo* na*asti dharmasya |jīvite cañcale sati ||6.21|
+AL1388/ tasmād* adya*eva me śreyaś* |cetavyam iti niścayaḥ |
+AL1389/ jīvite ko* hi viśrambho* |mṛtyau praty+arthini sthite ||6.22|
+AL1390/ evam+ādi tvayā saumya |vijñāpyo* vasu+dhā+adhipaḥ |
+AL1391/ prayatethās* tathā ca*eva |yathā māṃ* na smared* api ||6.23|
+AL1392/ api nairguṇyam asmākaṃ* |vācyaṃ* nara+patau tvayā |
+AL1393/ nairguṇyāt tyajyate snehaḥ |sneha+tyāgān* na śocyate ||6.24|
+AL1394/ iti vākyam idaṃ* śrutvā |chandaḥ saṃtāpa+viklavaḥ |
+AL1395/ (bāṣpa+Cvāṣpa+)grathitayā vācā |pratyuvāca kṛta+añjaliḥ ||6.25|
+AL1396/ anena tava bhāvena |bāndhava+āyāsa+dāyinā |
+AL1397/ bhartaḥ sīdati me ceto* |nadī+paṅkae* iva dvi+paḥ ||6.26|
+AL1398/ kasya na*utpādayed* (bāṣpaṃ* Cvāṣpaṃ* )|niścayas* te *ayam ī+dṛśaḥ |
+AL1399/ ayomaye *api hṛdaye |kiṃ* punaḥ sneha+viklave ||6.27|
+AL1400/ vimāna+śayana+arhaṃ* hi |saukumāryam idaṃ* kva ca |
+AL1401/ khara+darbha+aṅkuravatī |tapo+vana+mahī kva ca ||6.28|
+AL1402/ śrutvā tu vyavasāyaṃ* te |yad* aśvo* *ayaṃ* (mayā*āhṛtaḥ Cmayā hṛtaḥ )|
+AL1403/ balāt+kāreṇa tan* nātha |daivena*eva*asmi kāritaḥ ||6.29|
+AL1404/ kathaṃ* hy* ātma+vaśo* jānan |vyavasāyam imaṃ* tava |
+AL1405/ upānayeyaṃ* tura+gaṃ* |śokaṃ* kapila+(vāstunaḥ Cvastunaḥ )||6.30|
+AL1406/ tan* na*arhasi mahā+bāho |vihātuṃ* putra+lālasam |
+AL1407/ snigdhaṃ* vṛddhaṃ* ca rājānaṃ* |sad+dharmam iva nāstikaḥ ||6.31|
+AL1408/ saṃvardhana+pariśrāntāṃ* |dvitīyāṃ* tāṃ* ca mātaram |
+AL1409/ (devīṃ* Cdeva )na*arhasi vismartuṃ* |kṛta+ghna* iva sat+kriyām ||6.32|
+AL1410/ bāla+putrāṃ* guṇavatīṃ* |kula+ślāghyāṃ* pati+vratām |
+AL1411/ devīm arhasi na tyaktuṃ* |(klībaḥ Cklīvaḥ )prāptām iva śriyam ||6.33|
+AL1412/ putraṃ* yāśodharaṃ* ślāghyaṃ* |yaśo+dharma+bhṛtāṃ* (varam Cvaraḥ )|
+AL1413/ bālam arhasi na tyaktuṃ* |vyasanī*iva*uttamaṃ* yaśaḥ ||6.34|
+AL1414/ atha bandhuṃ* ca rājyaṃ* ca |tyaktum eva kṛtā matiḥ |
+AL1415/ māṃ* na*arhasi vibho tyaktuṃ* |tvat+pādau hi gatir* mama ||6.35|
+AL1416/ na*asmi yātuṃ* puraṃ* śakto* |dahyamānena cetasā |
+AL1417/ tvām araṇye parityajya |su+(mantra* Cmitra* )iva rāghavam ||6.36|
+AL1418/ kiṃ* hi vakṣyati (māṃ* rājā Crājā māṃ* )|tvad+ṛte nagaraṃ* gatam |
+AL1419/ vakṣyāmy* ucita+darśitvāt |kiṃ* tava*antaḥ+purāṇi vā ||6.37|
+AL1420/ yad* apy* āttha*api nairguṇyaṃ* |vācyaṃ* nara+patāv* iti |
+AL1421/ kiṃ* tad* vakṣyāmy* a+bhūtaṃ* te |nir+doṣasya muner* iva ||6.38|
+AL1422/ hṛdayena sa+lajjena |jihvayā sajjamānayā |
+AL1423/ ahaṃ* yady+api vā brūyāṃ* |kas* tac* *chraddhātum arhati ||6.39|
+AL1424/ yo* hi candra+masas* (taikṣṇyaṃ* Ctaikṣṇya )|kathayec* *chraddadhīta vā |
+AL1425/ sa* doṣāṃs* tava doṣa+jña |kathayec* *chraddadhīta vā ||6.40|
+AL1426/ sa+anukrośasya satataṃ* |nityaṃ* karuṇa+vedinaḥ |
+AL1427/ snigdha+tyāgo* na sa+dṛśo* |nivartasva prasīda me ||6.41|
+AL1428/ iti śoka+abhibhūtasya |śrutvā chandasya bhāṣitam |
+AL1429/ sva+sthaḥ paramayā dhṛtyā |jagāda vadatāṃ* varaḥ ||6.42|
+AL1430/ mad+viyogaṃ* prati *cchanda |saṃtāpas* tyajyatām ayam |
+AL1431/ nānā+bhāvo* hi niyataṃ* |pṛthag+jātiṣu dehiṣu ||6.43|
+AL1432/ sva+janaṃ* yady+api snehān* |na (tyajeyam ahaṃ* svayam Ctyajeyaṃ* mumukṣayā )|
+AL1433/ mṛtyur* anyo+anyam a+vaśān |asmān saṃtyājayiṣyati ||6.44|
+AL1434/ mahatyā tṛṣṇayā duḥkhair* |garbheṇa*asmi yayā dhṛtaḥ |
+AL1435/ tasyā* niṣ+phala+yatnāyāḥ |kva*ahaṃ* mātuḥ kva sā mama ||6.45|
+AL1436/ vāsa+vṛkṣe samāgamya |vigacchanti yathā*aṇḍa+jāḥ |
+AL1437/ niyataṃ* viprayoga+antas* |tathā bhūta+samāgamaḥ ||6.46|
+AL1438/ sametya ca yathā bhūyo* |vyapayānti (balāhakāḥ Cvalāhakāḥ )|
+AL1439/ saṃyogo* viprayogaś* ca |tathā me prāṇināṃ* mataḥ ||6.47|
+AL1440/ yasmād* yāti ca loko* *ayaṃ* |vipralabhya paraṃ+param |
+AL1441/ mamatvaṃ* na kṣamaṃ* tasmāt |svapna+bhūte samāgame ||6.48|
+AL1442/ saha+jena viyujyante |parṇa+rāgeṇa pāda+pāḥ |
+AL1443/ anyena*anyasya viśleṣaḥ |kiṃ* punar* na bhaviṣyati ||6.49|
+AL1444/ tad* evaṃ* sati saṃtāpaṃ* |mā kārṣīḥ saumya gamyatām |
+AL1445/ lambate yadi tu sneho* |gatvā*api punar* āvraja ||6.50|
+AL1446/ brūyāś* (ca*asmat+kṛta+apekṣaṃ* Cca*asmāsv* an+ākṣepaṃ* )|janaṃ* kapila+(vāstuni Cvastuni )|
+AL1447/ tyajyatāṃ* tad+gataḥ snehaḥ |śrūyatāṃ* ca*asya niścayaḥ ||6.51|
+AL1448/ kṣipram eṣyati vā kṛtvā |janma+mṛtyu+kṣayaṃ* kila |
+AL1449/ a+kṛta+artho* nir+(ārambho* Cālambo* )|nidhanaṃ* yāsyati*iti vā ||6.52|
+AL1450/ iti tasya vacaḥ śrutvā |kanthakas* tura+ga+uttamaḥ |
+AL1451/ jihvayā lilihe pādau |(bāṣpam Cvāṣpam )uṣṇaṃ* mumoca ca ||6.53|
+AL1452/ jālinā svastika+aṅkena |(cakra+Cvakra+)madhyena pāṇinā |
+AL1453/ āmamarśa kumāras* taṃ* |babhāṣe ca vayasyavat ||6.54|
+AL1454/ muñca kanthaka mā (bāṣpaṃ* Cvāṣpaṃ* )|darśitā*iyaṃ* sad+aśvatā |
+AL1455/ mṛṣyatāṃ* sa+phalaḥ śīghraṃ* |śramas* te* *ayaṃ* bhaviṣyati ||6.55|
+AL1456/ maṇit+saruṃ* chandaka+hasta+saṃsthaṃ* |
+AL1457/ tataḥ sa* dhīro* niśitaṃ* gṛhītvā |
+AL1458/ kośād* asiṃ* kāñcana+bhakti+citraṃ* |
+AL1459/ (bilād* Cvilād* )iva*āśī+viṣam udbabarha ||6.56|
+AL1460/ niṣkāsya taṃ* cad*utpala+pattra+nīlaṃ* |
+AL1461/ ciccheda citraṃ* mukuṭaṃ* sa+keśam |
+AL1462/ vikīryamāṇa+aṃśukam antarīkṣe |
+AL1463/ cikṣepa ca*enaṃ* sarasi*iva haṃsam ||6.57|
+AL1464/ pūjā+abhilāṣeṇa ca bāhumānyād* |
+AL1465/ diva+okasas* taṃ* jagṛhuḥ praviddham |
+AL1466/ yathāvad* enaṃ* divi deva+saṅghā* |
+AL1467/ divyair* viśeṣair* mahayāṃ* ca cakruḥ ||6.58|
+AL1468/ muktvā tv* alaṃkāra+kalatravattāṃ* |
+AL1469/ śrī+vipravāsaṃ* śirasaś* ca kṛtvā |
+AL1470/ dṛṣṭvā*aṃśukaṃ* kāñcana+haṃsa+(cihnaṃ* Ccitram )|
+AL1471/ vanyaṃ* sa* dhīro* *abhicakāṅkṣa vāsaḥ ||6.59|
+AL1472/ tato* mṛga+vyādha+vapur* diva+okā* |
+AL1473/ bhāvaṃ* viditvā*asya viśuddha+bhāvaḥ |
+AL1474/ kāṣāya+vastro* *abhiyayau samīpaṃ* |
+AL1475/ taṃ* śākya+rāja+prabhavo* *abhyuvāca ||6.60|
+AL1476/ śivaṃ* ca kāṣāyam ṛṣi+dhvajas* te |
+AL1477/ na yujyate hiṃsram idaṃ* dhanuś* ca |
+AL1478/ tat saumya yady* asti na saktir* atra |
+AL1479/ mahyaṃ* prayaccha*idam idaṃ* gṛhāṇa ||6.61|
+AL1480/ vyādho* *abravīt kāma+da kāmam ārād* |
+AL1481/ anena viśvāsya mṛgān (nihanmi Cnihatya )|
+AL1482/ arthas* tu śakra+upama yady* anena hanta |
+AL1483/ pratīccha*ānaya śuklam etat ||6.62|
+AL1484/ pareṇa harṣeṇa tataḥ sa* vanyaṃ* |
+AL1485/ jagrāha vāso* *aṃśukam utsasarja |
+AL1486/ vyādhas* tu divyaṃ* vapur* eva bibhrat |
+AL1487/ tac* *chuklam ādāya divaṃ* jagāma ||6.63|
+AL1488/ tataḥ kumāraś* ca sa* ca*aśva+go+pas* |
+AL1489/ tasmiṃs* tathā yāti visismiyāte |
+AL1490/ āraṇyake vāsasi ca*eva bhūyas* |
+AL1491/ tasminn* akārṣṭāṃ* bahu+mānam āśu ||6.64|
+AL1492/ chandaṃ* tataḥ sa+aśru+mukhaṃ* visṛjya |
+AL1493/ kāṣāya+(saṃbhṛd* dhṛti+Csaṃvid* vṛta+)kīrti+bhṛt saḥ |
+AL1494/ yena*āśramas* tena yayau mahā+ātmā |
+AL1495/ saṃdhyā+abhra+saṃvīta* (iva*uḍu+Civa*adri+)rājaḥ ||6.65|
+AL1496/ tatas* tathā bhartari rājya+niḥ+spṛhe |
+AL1497/ tapo+vanaṃ* yāti vi+varṇa+vāsasi |
+AL1498/ bhujau samutkṣipya tataḥ sa* vāji+bhṛd* |
+AL1499/ bhṛśaṃ* vicukrośa papāta ca kṣitau ||6.66|
+AL1500/ vilokya bhūyaś* ca ruroda sa+svaraṃ* |
+AL1501/ hayaṃ* bhujābhyām upaguhya kanthakam |
+AL1502/ tato* nir+āśo* vilapan muhur* muhur* |
+AL1503/ yayau śarīreṇa puraṃ* na cetasā ||6.67|
+AL1504/ kva+cit pradadhyau vilalāpa ca kva+cit |
+AL1505/ kva+cit pracaskhāla papāta ca kva+cit |
+AL1506/ ato* vrajan bhakti+vaśena duḥkhitaś* |
+AL1507/ cacāra bahvīr* (avasaḥ Ca+vaśaḥ )pathi kriyāḥ ||6.68|
+
+<B 7>
+
+saptamaḥ sargaḥ |7|
+AL1508/ tato* visṛjya*aśru+mukhaṃ* rudantaṃ* |
+AL1509/ chandaṃ* vana+cchandatayā nir+āsthaḥ |
+AL1510/ sarva+artha+siddho* vapuṣā*abhibhūya |
+AL1511/ tam āśramaṃ* (siddha* Csiddham )iva prapede ||7.1|
+AL1512/ sa* rāja+sūnur* mṛga+rāja+gāmī |
+AL1513/ mṛga+ajiraṃ* tan* mṛgavat praviṣṭaḥ |
+AL1514/ lakṣmī+viyukto* *api śarīra+lakṣmyā |
+AL1515/ cakṣūṃṣi sarva+āśramiṇāṃ* jahāra ||7.2|
+AL1516/ sthitā* hi hasta+stha+yugās* tathā*eva |
+AL1517/ kautūhalāc* cakra+dharāḥ sa+dārāḥ |
+AL1518/ tam indra+kalpaṃ* dadṛśur* na jagmur* |
+AL1519/ dhuryā* iva*ardha+avanataiḥ śirobhiḥ ||7.3|
+AL1520/ viprāś* ca gatvā bahir* idhma+hetoḥ |
+AL1521/ prāptāḥ samit+puṣpa+pavitra+hastāḥ |
+AL1522/ tapaḥ+pradhānāḥ kṛta+buddhayo* *api |
+AL1523/ taṃ* draṣṭum īyur* na maṭhān abhīyuḥ ||7.4|
+AL1524/ hṛṣṭāś* ca kekā* mumucur* mayūrā* |
+AL1525/ dṛṣṭvā*ambu+daṃ* nīlam (iva*unnamantaḥ Civa*unnamantaṃ* )|
+AL1526/ śaṣpāṇi hitvā*abhi+mukhāś* ca tasthur* |
+AL1527/ mṛgāś* cala+akṣā* mṛga+cāriṇaś* ca ||7.5|
+AL1528/ dṛṣṭvā tam ikṣvāku+kula+pradīpaṃ* |
+AL1529/ jvalantam udyantam iva*aṃśumantam |
+AL1530/ kṛte *api dohe janita+pramodāḥ |
+AL1531/ prasusruvur* homa+duhaś* ca gāvaḥ ||7.6|
+AL1532/ kaś+cid* vasūnām ayam aṣṭamaḥ syāt |
+AL1533/ syād* aśvinor* anyataraś* cyuto* (vā C*atra )|
+AL1534/ uccerur* uccair* iti tatra vācas* |
+AL1535/ tad+darśanād* vismaya+jā* munīnām ||7.7|
+AL1536/ lekha+ṛṣabhasya*iva vapur* dvitīyaṃ* |
+AL1537/ dhāmā*iva lokasya cara+a+carasya |
+AL1538/ sa* dyotayām āsa vanaṃ* hi kṛtsnaṃ* |
+AL1539/ yad+ṛcchayā sūrya* iva*avatīrṇaḥ ||7.8|
+AL1540/ tataḥ sa* tair* āśramibhir* yathāvad* |
+AL1541/ abhyarcitaś* ca*upanimantritaś* ca |
+AL1542/ pratyarcayāṃ* dharma+bhṛto* babhūva |
+AL1543/ svareṇa (sa+ambho+ambu+Cbhādra+ambu+)dhara+upamena ||7.9|
+AL1544/ kīrṇaṃ* (tathā Ctataḥ )puṇya+kṛtā janena |
+AL1545/ svarga+abhikāmena vimokṣa+kāmaḥ |
+AL1546/ tam āśramaṃ* so* *anucacāra dhīras* |
+AL1547/ tapāṃsi citrāṇi nirīkṣamāṇaḥ ||7.10|
+AL1548/ tapo+vikārāṃś* ca nirīkṣya saumyas* |
+AL1549/ tapo+vane tatra tapo+dhanānām |
+AL1550/ tapasvinaṃ* kaṃ+cid* anuvrajantaṃ* |
+AL1551/ tattvaṃ* vijijñāsur* idaṃ* babhāṣe ||7.11|
+AL1552/ tat+pūrvam adya*āśrama+darśanaṃ* me |
+AL1553/ yasmād* imaṃ* dharma+vidhiṃ* na jāne |
+AL1554/ tasmād* bhavān arhati bhāṣituṃ* me |
+AL1555/ yo* niścayo* (yat Cyaṃ* )prati vaḥ pravṛttaḥ ||7.12|
+AL1556/ tato* dvi+jātiḥ sa* tapo+vihāraḥ |
+AL1557/ śākya+ṛṣabhāya*ṛṣabha+vikramāya |
+AL1558/ kram.ena tasmai kathayāṃ* cakāra |
+AL1559/ tapo+(viśeṣāṃs* Cviśeṣaṃ* )tapasaḥ phalaṃ* ca ||7.13|
+AL1560/ a+grāmyam annaṃ* salile prarūḍhaṃ* |
+AL1561/ parṇāni toyaṃ* phala+mūlam eva |
+AL1562/ yathā+āgamaṃ* vṛttir* iyaṃ* munīnāṃ* |
+AL1563/ bhinnās* tu te te tapasāṃ* vikalpāḥ ||7.14|
+AL1564/ uñchena jīvanti kha+gā* iva*anye |
+AL1565/ tṛṇāni ke+cin* mṛgavac* caranti |
+AL1566/ ke+cid* bhujaṃ+gaiḥ saha vartayanti |
+AL1567/ valmīka+bhūtā* (vana+mārutena Civa mārutena )||7.15|
+AL1568/ aśma+prayatna+arjita+vṛttayo* *anye |
+AL1569/ ke+cit sva+danta+apahata+anna+bhakṣāḥ |
+AL1570/ kṛtvā para+arthaṃ* śrapaṇaṃ* tathā*anye |
+AL1571/ kurvanti kāryaṃ* yadi śeṣam asti ||7.16|
+AL1572/ ke+cij* jala+klinna+jaṭā+kalāpā* |
+AL1573/ dviḥ pāvakaṃ* juhvati mantra+pūrvam |
+AL1574/ mīnaiḥ samaṃ* ke+cid* apo* vigāhya |
+AL1575/ vasanti kūrma+ullikhitaiḥ śarīraiḥ ||7.17|
+AL1576/ evaṃ+vidhaiḥ kāla+citais* tapobhiḥ |
+AL1577/ parair* divaṃ* yānty* a+parair* nṛ+lokam |
+AL1578/ duḥkhena mārgeṇa sukhaṃ* (hy* upaiti Ckṣiyanti )|
+AL1579/ (sukhaṃ* Cduḥkhaṃ* )hi dharmasya vadanti mūlam ||7.18|
+AL1580/ ity* evam+ādi dvi+pa+indra+vatsaḥ |
+AL1581/ śrutvā vacas* tasya tapo+dhanasya |
+AL1582/ a+dṛṣṭa+tattvo* *api na saṃtutoṣa |
+AL1583/ śanair* idaṃ* ca*ātma+gataṃ* (babhāṣe Cjagāda )||7.19|
+AL1584/ duḥkha+ātmakaṃ* na*eka+vidhaṃ* tapaś* ca |
+AL1585/ svarga+pradhānaṃ* tapasaḥ phalaṃ* ca |
+AL1586/ lokāś* ca sarve pariṇāmavantaḥ |
+AL1587/ sv+alpe śramaḥ khalv* ayam āśramāṇām ||7.20|
+AL1588/ (priyāṃś* Cśriyaṃ* )ca bandhūn viṣayāṃś* ca hitvā |
+AL1589/ ye svarga+(hetor* Chetau )niyamaṃ* caranti |
+AL1590/ te viprayuktāḥ khalu gantu+kāmā* |
+AL1591/ mahattaraṃ* (bandhanam Csvaṃ* vanam )eva bhūyaḥ ||7.21|
+AL1592/ kāya+klamair* yaś* ca tapo+abhidhānaiḥ |
+AL1593/ pravṛttim ākāṅkṣati kāma+hetoḥ |
+AL1594/ saṃsāra+doṣān a+parīkṣamāṇo* |
+AL1595/ duḥkhena so* *anvicchati duḥkham eva ||7.22|
+AL1596/ trāsaś* ca nityaṃ* maraṇāt prajānāṃ* |
+AL1597/ yatnena ca*icchanti (punaḥ+prasūtim Cpunaḥ prasūtim )|
+AL1598/ satyāṃ* pravṛttau niyataś* ca mṛtyus* |
+AL1599/ tatra*eva (magnā* Cmagno* )yata* eva (bhītāḥ Cbhītaḥ )||7.23|
+AL1600/ iha*artham eke praviśanti khedaṃ* |
+AL1601/ svarga+artham anye śramam āpnuvanti |
+AL1602/ sukha+artham āśā+kṛpaṇo* *a+kṛta+arthaḥ |
+AL1603/ pataty* an+arthe khalu jīva+lokaḥ ||7.24|
+AL1604/ na khalv* ayaṃ* garhita* eva yatno* |
+AL1605/ yo* hīnam utsṛjya viśeṣa+gāmī |
+AL1606/ prājñaiḥ samānena pariśrameṇa |
+AL1607/ kāryaṃ* tu tad* yatra punar* na kāryam ||7.25|
+AL1608/ śarīra+pīḍā tu yadi*iha dharmaḥ |
+AL1609/ sukhaṃ* śarīrasya bhavaty* a+dharmaḥ |
+AL1610/ dharmeṇa ca*āpnoti sukhaṃ* paratra |
+AL1611/ tasmād* a+dharmaṃ* phalati*iha dharmaḥ ||7.26|
+AL1612/ yataḥ śarīraṃ* manaso* vaśena |
+AL1613/ pravartate (ca*api Cvā*api )nivartate (ca Cvā )|
+AL1614/ yukto* damaś* cetasa* eva tasmāc* |
+AL1615/ cittād* ṛte kāṣṭha+samaṃ* śarīram ||7.27|
+AL1616/ āhāra+śuddhyā yadi puṇyam iṣṭaṃ* |
+AL1617/ tasmān* mṛgāṇām api puṇyam asti |
+AL1618/ ye ca*api bāhyāḥ puruṣāḥ phalebhyo* |
+AL1619/ bhāgya+aparādhena parāṅ+(mukha+arthāḥ Cmukhatvāt )||7.28|
+AL1620/ duḥkhe *abhisaṃdhis* tv* atha puṇya+hetuḥ |
+AL1621/ sukhe *api kāryo* nanu so* *abhisaṃdhiḥ |
+AL1622/ atha pramāṇaṃ* na sukhe *abhisaṃdhir* |
+AL1623/ duḥkhe pramāṇaṃ* nanu na*abhisaṃdhiḥ ||7.29|
+AL1624/ tathā*eva ye karma+viśuddhi+hetoḥ |
+AL1625/ spṛśanty* apas* tīrtham iti pravṛttāḥ |
+AL1626/ tatra*api toṣo* hṛdi kevalo* *ayaṃ* |
+AL1627/ na pāvayis.yanti hi pāpam āpaḥ ||7.30|
+AL1628/ spṛṣṭaṃ* hi yad* yad* guṇavadbhir* ambhas* |
+AL1629/ tat tat pṛthivyāṃ* yadi tīrtham iṣṭam |
+AL1630/ tasmād* guṇān eva paraimi tīrtham |
+AL1631/ āpas* tu niḥ+saṃśayam āpa* eva ||7.31|
+AL1632/ iti sma tat tad* bahu+yukti+yuktaṃ* |
+AL1633/ jagāda ca*astaṃ* ca yayau vivasvān |
+AL1634/ tato* havir+dhūma+vi+varṇa+vṛkṣaṃ* |
+AL1635/ tapaḥ+praśāntaṃ* sa* vanaṃ* viveśa ||7.32|
+AL1636/ abhyuddhṛta+prajvalita+agni+hotraṃ* |
+AL1637/ kṛta+abhiṣeka+ṛṣi+jana+avakīrṇam |
+AL1638/ jāpya+svana+ākūjita+deva+koṣṭhaṃ* |
+AL1639/ dharmasya karma+antam iva pravṛttam ||7.33|
+AL1640/ kāś+cin* niśās* tatra niśā+kara+ābhaḥ |
+AL1641/ parīkṣamāṇaś* ca tapāṃsy* uvāsa |
+AL1642/ sarvaṃ* parikṣepya tapaś* ca matvā |
+AL1643/ tasmāt tapaḥ+kṣetra+talāj* jagāma ||7.34|
+AL1644/ anvavrajann* āśramiṇas* tatas* taṃ* |
+AL1645/ tad+rūpa+māhātmya+gatair* manobhiḥ |
+AL1646/ deśād* an+āryair* abhibhūyamānān* |
+AL1647/ mahā+ṛṣayo* dharmam iva*apayāntam ||7.35|
+AL1648/ tato* jaṭā+valkala+cīra+khelāṃs* |
+AL1649/ tapo+dhanāṃś* ca*eva sa* tān dadarśa |
+AL1650/ tapāṃsi ca*eṣām (anurudhyamānas* Canubudhyamānas* )|
+AL1651/ tasthau śive śrīmati (vṛkṣa+mūle Cmārga+vṛkṣe )||7.36|
+AL1652/ atha*upasṛtya*āśrama+vāsinas* taṃ* |
+AL1653/ manuṣya+varyaṃ* parivārya tasthuḥ |
+AL1654/ vṛddhaś* ca teṣāṃ* bahu+māna+pūrvaṃ* |
+AL1655/ kalena sāmnā giram ity* uvāca ||7.37|
+AL1656/ tvayy* āgate pūrṇa* iva*āśramo* *abhūt |
+AL1657/ saṃpadyate śūnya* iva prayāte |
+AL1658/ tasmād* imaṃ* na*arhasi tāta hātuṃ* |
+AL1659/ jijīviṣor* deham iva*iṣṭam āyuḥ ||7.38|
+AL1660/ brahma+ṛṣi+rāja+ṛṣi+sura+ṛṣi+juṣṭaḥ |
+AL1661/ puṇyaḥ samīpe himavān hi śailaḥ |
+AL1662/ tapāṃsi tāny* eva tapo+dhanānāṃ* |
+AL1663/ yat+saṃnikarṣād* bahulī+bhavanti ||7.39|
+AL1664/ tīrthāni puṇyāny* abhitas* tathā*eva |
+AL1665/ sopāna+bhūtāni nabhas+talasya |
+AL1666/ juṣṭāni dharma+ātmabhir* ātmavadbhir* |
+AL1667/ deva+ṛṣibhiś* ca*eva mahā+ṛṣibhiś* ca ||7.40|
+AL1668/ itaś* ca bhūyaḥ kṣamam uttarā*eva |
+AL1669/ dik sevituṃ* dharma+viśeṣa+hetoḥ |
+AL1670/ na (tu Chi )kṣamaṃ* dakṣiṇato* budhena |
+AL1671/ padaṃ* bhaved* ekam api prayātum ||7.41|
+AL1672/ tapo+vane *asminn* atha niṣ+kriyo* vā |
+AL1673/ saṃkīrṇa+(dharma+āpatito* Cdharmā patito* )*a+śucir* vā |
+AL1674/ dṛṣṭas* tvayā yena na te vivatsā |
+AL1675/ tad* brūhi yāvad* rucito* *astu vāsaḥ ||7.42|
+AL1676/ ime hi vāñchanti tapaḥ+sahāyaṃ* |
+AL1677/ tapo+nidhāna+pratimaṃ* bhavantam |
+AL1678/ vāsas* tvayā hi*indra+samena sa+ardhaṃ* |
+AL1679/ bṛhas+pater* abhyudaya+āvahaḥ syāt ||7.43|
+AL1680/ ity* evam ukte sa* tapasvi+madhye |
+AL1681/ tapasvi+mukhyena manīṣi+mukhyaḥ |
+AL1682/ bhava+praṇāśāya kṛta+pratijñaḥ |
+AL1683/ svaṃ* bhāvam antar+gatam ācacakṣe ||7.44|
+AL1684/ ṛjv+ātmanāṃ* dharma+bhṛtāṃ* munīnām |
+AL1685/ iṣṭa+atithitvāt sva+jana+upamānām |
+AL1686/ evaṃ+vidhair* māṃ* prati bhāva+jātaiḥ |
+AL1687/ prītiḥ (parā me Cpara+ātmā )janitaś* ca (mānaḥ Cmārgaḥ )||7.45|
+AL1688/ snigdhābhir* ābhir* hṛdayaṃ+gamābhiḥ |
+AL1689/ samāsataḥ snāta* iva*asmi vāgbhiḥ |
+AL1690/ ratiś* ca me dharma+nava+grahasya |
+AL1691/ vispanditā saṃ+prati bhūya* eva ||7.46|
+AL1692/ evaṃ* pravṛttān bhavataḥ śaraṇyān |
+AL1693/ ati+iva saṃdarśita+pakṣa+pātān |
+AL1694/ yāsyāmi hitvā*iti mama*api duḥkhaṃ* |
+AL1695/ yathā*eva bandhūṃs* tyajatas* tathā*eva ||7.47|
+AL1696/ svargāya yuṣmākam ayaṃ* tu dharmo* |
+AL1697/ mama*abhilāṣas* tv* a+punar+bhavāya |
+AL1698/ asmin vane yena na me vivatsā |
+AL1699/ bhinnaḥ pravṛttyā* hi nivṛtti+dharmaḥ ||7.48|
+AL1700/ tan* na*a+ratir* me na para+apacāro* |
+AL1701/ vanād* ito* yena parivrajāmi |
+AL1702/ dharme sthitāḥ pūrva+yuga+anu+rūpe |
+AL1703/ sarve bhavanto* hi mahā+ṛṣi+kalpāḥ ||7.49|
+AL1704/ tato* vacaḥ sūnṛtam arthavac* ca |
+AL1705/ su+ślakṣṇam ojasvi ca garvitaṃ* ca |
+AL1706/ śrutvā kumārasya tapasvinas* te |
+AL1707/ viśeṣa+yuktaṃ* bahu+mānam īyuḥ ||7.50|
+AL1708/ kaś+cid* dvi+jas* tatra tu bhasma+śāyī |
+AL1709/ pra+aṃśuḥ śikhī dārava+cīra+vāsāḥ |
+AL1710/ ā+piṅgala+akṣas* tanu+dīrgha+ghoṇaḥ |
+AL1711/ (kuṇḍa+eka+Ckuṇḍa+uda+)hasto* giram ity* uvāca ||7.51|
+AL1712/ dhīmann* udāraḥ khalu niścayas* te |
+AL1713/ yas* tvaṃ* yuvā janmani dṛṣṭa+doṣaḥ |
+AL1714/ svarga+apavargau hi vicārya samyag* |
+AL1715/ yasya*apavarge matir* asti so* *asti ||7.52|
+AL1716/ yajñais* tapobhir* niyamaiś* ca tais* taiḥ |
+AL1717/ svargaṃ* yiyāsanti hi rāgavantaḥ |
+AL1718/ rāgeṇa sa+ardhaṃ* ripuṇā*iva yuddhvā |
+AL1719/ mokṣaṃ* parīpsanti tu sattvavantaḥ ||7.53|
+AL1720/ tad+buddhir* eṣā yadi niścitā te |
+AL1721/ tūrṇaṃ* bhavān gacchatu vindhyā+koṣṭham |
+AL1722/ asau munis* tatra vasaty* arāḍo* |
+AL1723/ yo* naiṣṭhike śreyasi labdha+cakṣuḥ ||7.54|
+AL1724/ tasmād* bhavāñ* *chroṣyati tattva+mārgaṃ* |
+AL1725/ satyāṃ* rucau saṃpratipatsyate ca |
+AL1726/ yathā tu paśyāmi matis* (tathā*eṣā Ctava*eṣā )|
+AL1727/ tasya*api yāsyaty* avadhūya buddhim ||7.55|
+AL1728/ (spaṣṭa+ucca+Cpuṣṭa+aśva+)ghoṇaṃ* vipula+āyata+akṣaṃ* |
+AL1729/ tāmra+adhara+oṣṭhaṃ* sita+tīkṣṇa+daṃṣṭram |
+AL1730/ idaṃ* hi vaktraṃ* tanu+rakta+jihvaṃ* |
+AL1731/ jñeya+arṇavaṃ* pāsyati kṛtsnam eva ||7.56|
+AL1732/ gambhīratā yā bhavatas* tv* a+gādhā |
+AL1733/ yā dīptatā yāni ca lakṣaṇāni |
+AL1734/ ācāryakaṃ* prāpsyasi tat prṭhivyāṃ* |
+AL1735/ yan* na*ṛṣibhiḥ pūrva+yuge *apy* avāptam ||7.57|
+AL1736/ paramam iti tato* nṛ+pa+ātma+jas* |
+AL1737/ tam ṛṣi+janaṃ* pratinandya niryayau |
+AL1738/ vidhivad* anuvidhāya te *api taṃ* |
+AL1739/ praviviśur* āśramiṇas* tapo+vanam ||7.58|
+
+<B 8>
+
+aṣṭamaḥ sargaḥ |8|
+AL1740/ tatas* turaṃ+ga+avacaraḥ sa* dur+manās* |
+AL1741/ tathā vanaṃ* bhartari nir+mame gate |
+AL1742/ cakāra yatnaṃ* pathi śoka+(nigrahe Cvigrahe )|
+AL1743/ tathā*api ca*eva*aśru na tasya (cikṣiye Ccikṣipe )||8.1|
+AL1744/ yam eka+rātreṇa tu bhartur* ājñayā |
+AL1745/ jagāma mārgaṃ* saha tena vājinā |
+AL1746/ iyāya bhartur* virahaṃ* vicintayaṃs* |
+AL1747/ tam eva panthānam ahobhir* aṣṭabhiḥ ||8.2|
+AL1748/ hayaś* ca (sa+ojā* vicacāra Csa+ojasvi cacāra )kanthakas* |
+AL1749/ tatāma bhāvena babhūva nir+madaḥ |
+AL1750/ alaṃkṛtaś* ca*api tathā*eva bhūṣaṇair* |
+AL1751/ abhūd* gata+śrīr* iva tena varjitaḥ ||8.3|
+AL1752/ nivṛtya ca*eva*abhi+mukhas* tapo+vanaṃ* |
+AL1753/ bhṛśaṃ* jiheṣe karuṇaṃ* muhur* muhuḥ |
+AL1754/ kṣudhā+anvito* *apy* adhvani śaṣpam ambu vā |
+AL1755/ yathā purā na*abhinananda na*ādade ||8.4|
+AL1756/ tato* vihīnaṃ* kapila+āhvayaṃ* puraṃ* |
+AL1757/ mahā+ātmanā tena jagad+dhita+ātmanā |
+AL1758/ krameṇa tau śūnyam iva*upajagmatur* |
+AL1759/ divā+kareṇa*iva vinā+kṛtaṃ* nabhaḥ ||8.5|
+AL1760/ sa+puṇḍarīkair* api śobhitaṃ* |
+AL1761/ jalair* alaṃkṛtaṃ* puṣpa+dharair* nagair* api |
+AL1762/ tad* eva tasya*upa+vanaṃ* vana+upamaṃ* |
+AL1763/ gata+praharṣair* na rarāja nāgaraiḥ ||8.6|
+AL1764/ tato* bhramadbhir* diśi dīna+mānasair* |
+AL1765/ an+ujjvalair* (bāṣpa+Cvāṣpa+)hata+īkṣaṇair* naraiḥ |
+AL1766/ nivāryamāṇāv* iva tāv* ubhau puraṃ* |
+AL1767/ (śanair* apasnātam Cśanai* rajaḥ+snātam )iva*abhijagmatuḥ ||8.7|
+AL1768/ (niśāmya Cniśamya )ca srasta+śarīra+gāminau |
+AL1769/ vinā*āgatau śākya+kula+ṛṣabheṇa tau |
+AL1770/ mumoca (bāṣpaṃ* Cvāṣpaṃ* )pathi nāgaro* janaḥ |
+AL1771/ purā rathe dāśarather* iva*āgate ||8.8|
+AL1772/ atha bruvantaḥ samupeta+manyavo* |
+AL1773/ janāḥ pathi *cchandakam āgata+aśravaḥ |
+AL1774/ kva rāja+putraḥ (pura+Ckula+)rāṣṭra+(nandano* Cvardhano* ) |
+AL1775/ hṛtas* tvayā*asāv* iti pṛṣṭhato* *anvayuḥ ||8.9|
+AL1776/ tataḥ sa* tān bhaktimato* *abravīj* janān |
+AL1777/ nara+indra+putraṃ* na parityajāmy* aham |
+AL1778/ rudann* ahaṃ* tena tu nir+jane vane |
+AL1779/ gṛha+stha+veśaś* ca visarjitāv* iti ||8.10|
+AL1780/ idaṃ* vacas* tasya niśamya te janāḥ |
+AL1781/ su+duṣ+karaṃ* khalv* iti niścayaṃ* yayuḥ |
+AL1782/ patad* (*dhi jahruḥ Cvijahruḥ )salilaṃ* na netra+jaṃ* |
+AL1783/ mano* nininduś* ca (phala+uttham Cphala+artham )ātmanaḥ ||8.11|
+AL1784/ atha*ūcur* adya*eva viśāma tad* vanaṃ* |
+AL1785/ gataḥ sa* yatra dvi+pa+rāja+vikramaḥ |
+AL1786/ jijīviṣā na*asti hi tena no* vinā |
+AL1787/ yathā*indriyāṇāṃ* vigame śarīriṇām ||8.12|
+AL1788/ idaṃ* puraṃ* tena vivarjitaṃ* vanaṃ* |
+AL1789/ vanaṃ* ca tat tena samanvitaṃ* puram |
+AL1790/ na śobhate tena hi no* vinā puraṃ* |
+AL1791/ marutvatā vṛtra+vadhe yathā divam ||8.13|
+AL1792/ punaḥ kumāro* vinivṛtta* ity* atha*u |
+AL1793/ gava+akṣa+mālāḥ pratipedire *aṅganāḥ |
+AL1794/ vivikta+pṛṣṭhaṃ* ca (niśāmya Cniśamya )vājinaṃ* |
+AL1795/ punar* gava+akṣāṇi pidhāya cukruśuḥ ||8.14|
+AL1796/ praviṣṭa+dīkṣas* tu suta+upalabdhaye |
+AL1797/ vratena śokena ca khinna+mānasaḥ |
+AL1798/ jajāpa deva+āyatane nara+adhipaś* |
+AL1799/ cakāra tās* tāś* ca (yathā+āśayāḥ Cyathā+āśrayāḥ )kriyāḥ ||8.15|
+AL1800/ tataḥ sa* (bāṣpa+Cvāṣpa+)pratipūrṇa+locanas* |
+AL1801/ turaṃ+gam ādāya turaṃ+(gama+anugaḥ Cga+mānasaḥ )|
+AL1802/ viveśa śoka+abhihato* nṛ+(pa+kṣayaṃ* Cpa+ālayaṃ* )|
+AL1803/ (yudhā*apinīte Ckṣayaṃ* vinīte )ripuṇā*iva bhartari ||8.16|
+AL1804/ vigāhamānaś* ca nara+indra+mandiraṃ* |
+AL1805/ vilokayann* aśru+vahena cakṣuṣā |
+AL1806/ svareṇa puṣṭena rurāva kanthako* |
+AL1807/ janāya duḥkhaṃ* prativedayann* iva ||8.17|
+AL1808/ tataḥ kha+gāś* ca kṣaya+madhya+go+carāḥ |
+AL1809/ samīpa+baddhās* tura+gāś* ca sat+kṛtāḥ |
+AL1810/ hayasya tasya pratisasvanuḥ svanaṃ* |
+AL1811/ nara+indra+sūnor* upayāna+(śaṅkinaḥ Cśaṅkitāḥ )||8.18|
+AL1812/ janāś* ca harṣa+atiśayena vañcitā* |
+AL1813/ jana+adhipa+antaḥ+pura+saṃnikarṣa+gāḥ |
+AL1814/ yathā hayaḥ kanthaka* eṣa* heṣate |
+AL1815/ dhruvaṃ* kumāro* viśati*iti menire ||8.19|
+AL1816/ ati+praharṣād* atha śoka+mūrchitāḥ |
+AL1817/ kumāra+saṃdarśana+lola+locanāḥ |
+AL1818/ gṛhād* viniścakramur* āśayā striyaḥ |
+AL1819/ śarat+payo+dād* iva vidyutaś* calāḥ ||8.20|
+AL1820/ vilamba+(keśyo* Cveśyo* )malina+aṃśuka+ambarā* |
+AL1821/ nir+añjanair* (bāṣpa+Cvāṣpa+)hata+īkṣaṇair* mukhaiḥ |
+AL1822/ (striyo* na rejur* mṛjayā Ckṛṣṇā* vi+varṇā**añjanayā )vinā+kṛtā* |
+AL1823/ divi*iva tārā* rajanī+kṣaya+aruṇāḥ ||8.21|
+AL1824/ a+rakta+tāmraiś* caraṇair* a+nūpurair* |
+AL1825/ a+kuṇḍalair* ārjava+(kandharair* Ckarṇikair* )mukhaiḥ |
+AL1826/ sva+bhāva+pīnair* jaghanair* a+mekhalair* |
+AL1827/ a+hāra+yoktrair* muṣitair* iva stanaiḥ ||8.22|
+AL1828/ (nirīkṣya tā* bāṣpa+Cnirīkṣitā* vāṣpa+)parīta+(locanā* Clocanaṃ* )|
+AL1829/ nir+āśrayaṃ* chandakam aśvam eva ca |
+AL1830/ (viṣaṇṇa+Cvi+varṇa+)vaktrā* rurudur* vara+aṅganā* |
+AL1831/ vana+antare gāva* iva*ṛṣabha+ujjhitāḥ ||8.23|
+AL1832/ tataḥ sa+(bāṣpā Cvāṣpā )mahiṣī mahī+pateḥ |
+AL1833/ pranaṣṭa+vatsā mahiṣī*iva vatsalā |
+AL1834/ pragṛhya bāhū nipapāta gautamī |
+AL1835/ vilola+parṇā kadalī*iva kāñcanī ||8.24|
+AL1836/ hata+tviṣo* *anyā* (śithila+aṃsa+Cśithila+ātma+)bāhavaḥ |
+AL1837/ striyo* viṣādena vi+cetanā* iva |
+AL1838/ na cukruśur* na*aśru jahur* na śaśvasur* |
+AL1839/ na (celur* āsur* likhitā* Ccetanā* ullikhitā* )iva sthitāḥ ||8.25|
+AL1840/ a+dhīram anyāḥ pati+śoka+mūrchitā* |
+AL1841/ vilocana+prasravaṇair* mukhaiḥ striyaḥ |
+AL1842/ siṣiñcire proṣita+candanān stanān |
+AL1843/ dharā+dharaḥ prasravaṇair* iva*upalān ||8.26|
+AL1844/ mukhaiś* ca tāsāṃ* nayana+ambu+(tāḍitai* Ctāḍitaiḥ )|
+AL1845/ rarāja tad* rāja+niveśanaṃ* tadā |
+AL1846/ nava+ambu+kāle *ambu+da+vṛṣṭi+tāḍitaiḥ |
+AL1847/ sravaj+jalais* tāmarasair* yathā saraḥ ||8.27|
+AL1848/ su+vṛtta+pīna+aṅgulibhir* nir+antarair* |
+AL1849/ a+bhūṣaṇair* gūḍha+sirair* vara+aṅganāḥ |
+AL1850/ urāṃsi jaghnuḥ kamala+upamaiḥ karaiḥ |
+AL1851/ sva+pallavair* vāta+calā* latā* iva ||8.28|
+AL1852/ kara+prahāra+pracalaiś* ca tā* (babhus* Cbabhur* )|
+AL1853/ (tathā*api Cyathā*api )nāryaḥ sahita+unnataiḥ stanaiḥ |
+AL1854/ vana+anila+āghūrṇita+padma+kampitai* |
+AL1855/ ratha+aṅga+nāmnāṃ* mithunair* iva*āpagāḥ ||8.29|
+AL1856/ yathā ca vakṣāṃsi karair* apīḍayaṃs* |
+AL1857/ tathā*eva vakṣobhir* apīḍayan karān |
+AL1858/ akārayaṃs* tatra paras+paraṃ* vyathāḥ |
+AL1859/ kara+agra+vakṣāṃsy* a+balā* dayā+a+lasāḥ ||8.30|
+AL1860/ tatas* tu roṣa+pravirakta+locanā |
+AL1861/ viṣāda+(saṃbandhi+Csaṃbandha+)kaṣāya+gadgadam |
+AL1862/ uvāca (niśvāsa+Cniḥśvāsa+)calat+payo+dharā* |
+AL1863/ vigāḍha+śoka+aśru+dharā yaśo+dharā ||8.31|
+AL1864/ niśi prasuptām a+vaśāṃ vihāya māṃ* |
+AL1865/ gataḥ kva sa* *cchandaka man+mano+rathaḥ |
+AL1866/ upāgate ca tvayi kanthake ca me |
+AL1867/ samaṃ* gateṣu triṣu kampate manaḥ ||8.32|
+AL1868/ an+āryam a+snidgham a+mitra+karma me |
+AL1869/ nṛ+śaṃsa kṛtvā kim iha*adya rodiṣi |
+AL1870/ niyaccha (bāṣpaṃ* Cvāṣpaṃ* )bhava tuṣṭa+mānaso* |
+AL1871/ na saṃvadaty* aśru ca tac* ca karma te ||8.33|
+AL1872/ priyeṇa vaśyena hitena sādhunā |
+AL1873/ tvayā sahāyena yathā+artha+kāriṇā |
+AL1874/ gato* *arya+putro* hy* a+punar+nivṛttaye |
+AL1875/ ramasva diṣṭyā sa+phalaḥ śramas* tava ||8.34|
+AL1876/ varaṃ* manuṣyasya vicakṣaṇo* ripur* |
+AL1877/ na mitram a+prājñam a+yoga+peśalam |
+AL1878/ su+hṛd+bruveṇa hy* a+vipaścitā tvayā |
+AL1879/ kṛtaḥ kulasya*asya mahān upaplavaḥ ||8.35|
+AL1880/ imā* hi śocyā* vyavamukta+bhūṣaṇāḥ |
+AL1881/ prasakta+(bāṣpa+āvila+Cvāṣpa+āvila+)rakta+locanāḥ |
+AL1882/ sthite *api patyau himavan+mahī+same |
+AL1883/ pranaṣṭa+śobhā* vidhavā* iva striyaḥ ||8.36|
+AL1884/ imāś* ca vikṣipta+viṭaṅka+bāhavaḥ |
+AL1885/ prasakta+pārāvata+dīrgha+nisvanāḥ |
+AL1886/ vinā+kṛtās* tena (saha*avarodhanair* Csaha*eva rodhanair* )|
+AL1887/ bhṛśaṃ* rudanti*iva vimāna+paṅktayaḥ ||8.37|
+AL1888/ an+artha+kāmo* *asya janasya sarvathā |
+AL1889/ turaṃ+gamo* *api dhruvam eṣa* kanthakaḥ |
+AL1890/ jahāra sarva+svam itas* tathā hi me |
+AL1891/ jane prasupte niśi ratna+cauravat ||8.38|
+AL1892/ yadā sam+arthaḥ khalu soḍhum āgatān |
+AL1893/ iṣu+prahārān api kiṃ* punaḥ kaśāḥ |
+AL1894/ gataḥ kaśā+pāta+bhayāt kathaṃ* (nv* Ctv* )ayaṃ* |
+AL1895/ śriyaṃ* gṛhītvā hṛdayaṃ* ca me samam ||8.39|
+AL1896/ an+ārya+karmā bhṛśam adya heṣate |
+AL1897/ nara+indra+dhiṣṇyaṃ* pratipūrayann* iva |
+AL1898/ yadā tu nirvāhayati sma me priyaṃ* |
+AL1899/ tadā hi mūkas* tura+ga+adhamo* *abhavat ||8.40|
+AL1900/ yadi hy* aheṣiṣyata (bodhayan Cbodhayañ* )janaṃ* |
+AL1901/ khuraiḥ kṣitau vā*apy* akariṣyata dhvanim |
+AL1902/ hanu+svanaṃ* vā*ajaniṣyad* uttamaṃ* |
+AL1903/ na ca*abhaviṣyan* mama duḥkham ī+dṛśam ||8.41|
+AL1904/ iti*iha devyāḥ paridevita+āśrayaṃ* |
+AL1905/ niśamya (bāṣpa+Cvāṣpa+)grathita+a+kṣaraṃ* vacaḥ |
+AL1906/ adho+mukhaḥ sa+aśru+kalaḥ kṛta+añjaliḥ |
+AL1907/ śanair* idaṃ* chandaka* uttaraṃ* jagau ||8.42|
+AL1908/ vigarhituṃ* na*arhasi devi kanthakaṃ* |
+AL1909/ na ca*api roṣaṃ* mayi kartum arhasi |
+AL1910/ an+āgasau svaḥ samavehi sarvaśo* |
+AL1911/ gato* nṛ+devaḥ sa* hi devi devavat ||8.43|
+AL1912/ ahaṃ* hi jānann* api rāja+śāsanaṃ* |
+AL1913/ balāt kṛtaḥ kair* api daivatair* iva |
+AL1914/ upānayaṃ* tūrṇam imaṃ* turaṃ+gamaṃ* |
+AL1915/ tathā*anvagacchaṃ* vigata+śramo* *adhvani ||8.44|
+AL1916/ vrajann* ayaṃ* vāji+varo* *api na*aspṛśan* |
+AL1917/ mahīṃ* khura+agrair* vidhṛtair* iva*antarā |
+AL1918/ tathā*eva daivād* iva saṃyata+ānano* |
+AL1919/ hanu+svanaṃ* na*akṛta na*apy* aheṣata ||8.45|
+AL1920/ (yato* bahir* Cyadā vahir* )gacchati pārthiva+ātma+(je Cjas* )|
+AL1921/ tadā*abhavad* dvāram apāvṛtaṃ* svayam |
+AL1922/ tamaś* ca* naiśaṃ* raviṇā*iva pāṭitaṃ* |
+AL1923/ tato* *api daivo* vidhir* eṣa* gṛhyatām ||8.46|
+AL1924/ (yad* a+Cyadā*a+)pramatto* *api nara+indra+śāsanād* |
+AL1925/ gṛhe pure ca*eva sahasraśo* janaḥ |
+AL1926/ tadā sa* na*abudhyata nidrayā hṛtas* |
+AL1927/ tato* *api daivo* vidhir* eṣa gṛhyatām ||8.47|
+AL1928/ yataś* ca vāso* vana+vāsa+saṃmataṃ* |
+AL1929/ (nisṛṣṭam Cvisṛṣṭam )asmai samaye diva+okasā |
+AL1930/ divi praviddhaṃ* mukuṭaṃ* ca tad* *dhṛtaṃ* |
+AL1931/ tato* *api daivo* vidhir* eṣa* gṛhyatām ||8.48|
+AL1932/ tad* evam āvāṃ* nara+devi doṣato* |
+AL1933/ na tat prayātaṃ* (prati gantum Cpratigantum )arhasi |
+AL1934/ na kāma+kāro* mama na*asya vājinaḥ |
+AL1935/ kṛta+anuyātraḥ sa* hi daivatair* gataḥ ||8.49|
+AL1936/ iti prayāṇaṃ* (bahu+devam Cbahudhā*evam )adbhutaṃ* |
+AL1937/ niśamya tās* tasya mahā+ātmanaḥ striyaḥ |
+AL1938/ pranaṣṭa+śokā* iva vismayaṃ* yayur* |
+AL1939/ mano+jvaraṃ* pravrajanāt tu lebhire ||8.50|
+AL1940/ viṣāda+pāriplava+locanā tataḥ |
+AL1941/ pranaṣṭa+potā kurarī*iva duḥkhitā |
+AL1942/ vihāya dhairyaṃ* virurāva gautamī |
+AL1943/ tatāma ca*eva*aśru+mukhī jagāda ca ||8.51|
+AL1944/ mahā+urmimanto* mṛdavo* *asitāḥ śubhāḥ |
+AL1945/ pṛthak+(pṛthaṅ+Cpṛthag+)mūla+ruhāḥ samudgatāḥ |
+AL1946/ (praveritās* Cpraceritās* )te bhuvi tasya mūrdha+jā* |
+AL1947/ nara+indra+maulī+pariveṣṭana+kṣamāḥ ||8.52|
+AL1948/ pralamba+bāhur* mṛga+rāja+vikramo* |
+AL1949/ mahā+ṛṣabha+akṣaḥ kanaka+ujjvala+dyutiḥ |
+AL1950/ viśāla+vakṣā* ghana+dundubhi+svanas* |
+AL1951/ tathā+vidho* *apy* āśrama+vāsam arhati ||8.53|
+AL1952/ a+bhāginī nūnam iyaṃ* vasuṃ+dharā |
+AL1953/ tam ārya+karmāṇam an+uttamaṃ* (patim Cprati )|
+AL1954/ gatas* tato* *asau guṇavān hi tā+dṛśo* |
+AL1955/ nṛ+paḥ prajā+bhāgya+guṇaiḥ prasūyate ||8.54|
+AL1956/ su+jāta+jāla+avatata+aṅgulī mṛdū |
+AL1957/ nigūḍha+gulphau (bisa+Cviṣa+)puṣpa+komalau |
+AL1958/ vana+anta+bhūmiṃ* kaṭhināṃ* kathaṃ* nu tau |
+AL1959/ sa+cakra+madhyau caraṇau gamiṣyataḥ ||8.55|
+AL1960/ vimāna+pṛṣṭhe śayana+āsana+ucitaṃ* |
+AL1961/ mahā+arha+vastra+aguru+candana+arcitam |
+AL1962/ kathaṃ* nu śīta+uṣṇa+jala+āgameṣu tac* |
+AL1963/ *charīram ojasvi vane bhaviṣyati ||8.56|
+AL1964/ kulena sattvena balena varcasā |
+AL1965/ śrutena lakṣmyā vayasā ca garvitaḥ |
+AL1966/ pradātum (eva*abhyucito* Ceva*abhyudito* )na yācituṃ* |
+AL1967/ kathaṃ* sa* bhikṣāṃ* parataś* cariṣyati ||8.57|
+AL1968/ śucau śayitvā śayane hiraṇmaye |
+AL1969/ prabodhyamāno* niśi tūrya+nisvanaiḥ |
+AL1970/ kathaṃ* (bata Cvata )svapsyati so* *adya me vratī |
+AL1971/ paṭa+eka+deśa+antarite mahī+tale ||8.58|
+AL1972/ imaṃ* (pralāpaṃ* Cvilāpaṃ* )karuṇaṃ niśamya tā* |
+AL1973/ bhujaiḥ pariṣvajya paras+paraṃ* striyaḥ |
+AL1974/ vilocanebhyaḥ salilāni tatyajur* |
+AL1975/ madhūni puṣpebhya* iva*īritā* latāḥ ||8.59|
+AL1976/ tato* dharāyām apatad* yaśo+dharā |
+AL1977/ vi+cakra+vākā*iva ratha+aṅga+sa+āhvayā |
+AL1978/ śanaiś* ca tat tad* vilalāpa viklavā |
+AL1979/ muhur* muhur* gadgada+ruddhayā girā ||8.60|
+AL1980/ sa* mām a+nāthāṃ* saha+dharma+cāriṇīm |
+AL1981/ apāsya dharmaṃ* yadi kartum icchati |
+AL1982/ kuto* *asya dharmaḥ saha+dharma+cāriṇīṃ* |
+AL1983/ vinā tapo* yaḥ paribhoktum icchati ||8.61|
+AL1984/ śṛṇoti nūnaṃ* sa* na pūrva+pārthivān* |
+AL1985/ mahā+su+darśa+prabhṛtīn pitā+mahān |
+AL1986/ vanāni patnī+sahitān upeyuṣas* |
+AL1987/ tathā (hi Csa* )dharmaṃ* mad+ṛte cikīrṣati ||8.62|
+AL1988/ makheṣu vā veda+vidhāna+sat+kṛtau |
+AL1989/ na daṃ+patī paśyati dīkṣitāv* ubhau |
+AL1990/ samaṃ* bubhukṣū parato* *api tat+phalaṃ* |
+AL1991/ tato* *asya jāto* mayi dharma+matsaraḥ ||8.63|
+AL1992/ dhruvaṃ* sa* jānan mama dharma+vallabho* |
+AL1993/ manaḥ (priya+īrṣyā+kalahaṃ* Cpriye *apy* ā+kalahaṃ* )muhur* mithaḥ |
+AL1994/ sukhaṃ* vi+bhīr* mām apahāya rosaṇāṃ* |
+AL1995/ mahā+indra+loke *apsaraso* jighṛkṣati ||8.64|
+AL1996/ iyaṃ* tu cintā mama kī+dṛśaṃ* nu tā* |
+AL1997/ vapur+guṇaṃ* bibhrati tatra yoṣitaḥ |
+AL1998/ vane yad+arthaṃ* sa* tapāṃsi tapyate |
+AL1999/ śriyaṃ* ca hitvā mama bhaktim eva ca ||8.65|
+AL2000/ na khalv* iyaṃ* svarga+sukhāya me spṛhā |
+AL2001/ na taj* janasya*ātmavato* *api dur+labham |
+AL2002/ sa* tu priyo* mām iha vā paratra vā |
+AL2003/ kathaṃ* na jahyād* iti me mano+rathaḥ ||8.66|
+AL2004/ a+bhāginī yady* aham āyata+īkṣaṇaṃ* |
+AL2005/ śuci+smitaṃ* bhartur* udīkṣituṃ* mukham |
+AL2006/ na manda+bhāgyo* *arhati rāhulo* *apy* ayaṃ* |
+AL2007/ kadā+cid* aṅke parivartituṃ* pituḥ ||8.67|
+AL2008/ aho nṛ+śaṃsaṃ* su+kumāra+varcasaḥ |
+AL2009/ su+dāruṇaṃ* tasya manasvino* manaḥ |
+AL2010/ kala+pralāpaṃ* dviṣato* *api harṣaṇaṃ* |
+AL2011/ śiśuṃ* sutaṃ* yas* tyajati*ī+dṛśaṃ* (bata Csvataḥ )||8.68|
+AL2012/ mama*api kāmaṃ* hṛdayaṃ* su+dāruṇaṃ* |
+AL2013/ śilāmayaṃ* vā*apy* (ayaso* *api Cayasā*api )vā kṛtam |
+AL2014/ a+nāthavac* *chrī+rahite sukha+ucite |
+AL2015/ vanaṃ* gate bhartari yan* na dīryate ||8.69|
+AL2016/ iti*iha devī pati+śoka+mūrchitā |
+AL2017/ ruroda dadhyau vilalāpa ca*a+sakṛt |
+AL2018/ sva+bhāva+dhīrā*api hi sā satī śucā |
+AL2019/ dhṛtiṃ* na sasmāra cakāra na*u hriyam ||8.70|
+AL2020/ tatas* tathā śoka+vilāpa+viklavāṃ* |
+AL2021/ yaśo+dharāṃ* prekṣya vasuṃ+dharā+gatām |
+AL2022/ mahā+aravindair* iva vṛṣṭi+tāḍitair* |
+AL2023/ mukhaiḥ sa+(bāṣpair* Cvāṣpair* )vanitā* vicukruśuḥ ||8.71|
+AL2024/ samāpta+jāpyaḥ kṛta+homa+maṅgalo* |
+AL2025/ nṛ+pas* tu deva+āyatanād* viniryayau |
+AL2026/ janasya tena*ārta+raveṇa ca*āhataś* |
+AL2027/ cacāla vajra+dhvaninā*iva vāraṇaḥ ||8.72|
+AL2028/ niśāmya ca *cchandaka+kanthakāv* ubhau |
+AL2029/ sutasya saṃśrutya ca niścayaṃ* sthiram |
+AL2030/ papāta śoka+abhihato* mahī+patiḥ |
+AL2031/ śacī+pater* vṛtta* iva*utsave dhvajaḥ ||8.73|
+AL2032/ tato* muhūrtaṃ* suta+śoka+mohito* |
+AL2033/ janena tulya+abhijanena dhāritaḥ |
+AL2034/ nirīkṣya dṛṣṭyā jala+pūrṇayā hayaṃ* |
+AL2035/ mahī+tala+stho* vilalāpa pārthivaḥ ||8.74|
+AL2036/ bahūni kṛtvā samare priyāṇi me |
+AL2037/ mahat tvayā kanthaka vi+priyaṃ* kṛtam |
+AL2038/ guṇa+priyo* yena vane sa* me priyaḥ |
+AL2039/ priyo* *api sann* a+priyavat (praveritaḥ Cpraceritaḥ )||8.75|
+AL2040/ tad* adya māṃ* vā naya tatra yatra sa* |
+AL2041/ vraja drutaṃ* vā punar* enam ānaya |
+AL2042/ ṛte hi tasmān* mama na*asti jīvitaṃ* |
+AL2043/ vigāḍha+rogasya sad+auṣadhād* iva ||8.76|
+AL2044/ su+varṇa+niṣṭhīvini mṛtyunā hṛte |
+AL2045/ su+duṣ+karaṃ* yan* na mamāra (saṃjayaḥ Csṛñjayaḥ )|
+AL2046/ ahaṃ* punar* dharma+ratau sute gate |
+AL2047/ (mumukṣur* C*a+mumukṣur* )ātmānam an+ātmavān iva ||8.77|
+AL2048/ vibhor* daśa+kṣatra+kṛtaḥ prajā+pateḥ |
+AL2049/ para+a+para+jñasya vivasvad+ātmanaḥ |
+AL2050/ priyeṇa putreṇa satā vinā+kṛtaṃ* |
+AL2051/ kathaṃ* na muhyed* *dhi mano* manor* api ||8.78|
+AL2052/ a+jasya rājñas* tanayāya dhīmate |
+AL2053/ nara+adhipāya*indra+sakhāya me spṛhā |
+AL2054/ gate vanaṃ* yas* tanaye divaṃ* gato* |
+AL2055/ na mogha+(bāṣpaḥ Cvāṣpaḥ )kṛpaṇaṃ* jijīva ha ||8.79|
+AL2056/ pracakṣva me bhadra tad+āśrama+ajiraṃ* |
+AL2057/ hṛtas* tvayā yatra sa* me jala+añjaliḥ |
+AL2058/ ime parīpsanti hi (taṃ* Cte )pipāsavo* |
+AL2059/ mama*āsavaḥ preta+gatiṃ* yiyāsavaḥ ||8.80|
+AL2060/ iti tanaya+viyoga+jāta+(duḥkhaḥ Cduḥkhaṃ* )|
+AL2061/ kṣiti+sa+dṛśaṃ* saha+jaṃ* vihāya dhairyam |
+AL2062/ daśa+ratha* iva rāma+śoka+vaśyo* |
+AL2063/ bahu vilalāpa nṛ+po* visaṃjña+kalpaḥ ||8.81|
+AL2064/ śruta+vinaya+guṇa+anvitas* tatas* taṃ* |
+AL2065/ mati+sacivaḥ pra+vayāḥ puro+hitaś* ca |
+AL2066/ (sama+dhṛtam Cavadhṛtam )idam ūcatur* yathāvan* |
+AL2067/ na ca paritapta+mukhau na ca*apy* a+śokau ||8.82|
+AL2068/ tyaja nara+vara śokam ehi dhairyaṃ* |
+AL2069/ ku+dhṛtir* iva*arhasi dhīra na*aśru moktum |
+AL2070/ srajam iva mṛditām apāsya lakṣmīṃ* |
+AL2071/ bhuvi bahavo* (ChiC) nṛ+pā* vanāny* atīyuḥ ||8.83|
+AL2072/ api ca niyata* eṣa* tasya bhāvaḥ |
+AL2073/ smara vacanaṃ* tad* ṛṣeḥ purā*asitasya |
+AL2074/ na hi sa* divi na cakra+varti+rājye |
+AL2075/ kṣaṇam api vāsayituṃ* sukhena śakyaḥ ||8.84|
+AL2076/ yadi tu nṛ+vara kārya* eva yatnas* |
+AL2077/ tvaritam udāhara yāvad* atra yāvaḥ |
+AL2078/ bahu+vidham iha yuddham astu tāvat |
+AL2079/ tava tanayasya vidheś* ca tasya tasya ||8.85|
+AL2080/ nara+patir* atha tau śaśāsa tasmād* |
+AL2081/ drutam ita* eva yuvām abhiprayātam |
+AL2082/ na hi mama hṛdayaṃ* prayāti śāntiṃ* |
+AL2083/ vana+śakuner* iva putra+lālasasya ||8.86|
+AL2084/ paramam iti nara+indra+śāsanāt tau |
+AL2085/ yayatur* amātya+puro+hitau vanaṃ* tat |
+AL2086/ kṛtam iti sa+vadhū+janaḥ sa+dāro* |
+AL2087/ nṛ+patir* api pracakāra śeṣa+kāryam ||8.87|
+
+<B 9>
+
+navamaḥ sargaḥ |9|
+AL2088/ tatas* tadā mantri+puro+hitau tau |
+AL2089/ (bāṣpa+pratoda+abhihitau Cvāṣpa+pratoda+abhihatau )nṛ+peṇa |
+AL2090/ viddhau sad+aśvāv* iva sarva+yatnāt |
+AL2091/ sauhārda+śīghraṃ* yayatur* vanaṃ* tat ||9.1|
+AL2092/ tam āśramam* jāta+pariśramau tāv* |
+AL2093/ upetya kāle sa+dṛśa+anu+yātrau |
+AL2094/ rāja+ṛddhim utsṛjya vinīta+ceṣṭāv* |
+AL2095/ upeyatur* bhārgava+dhiṣṇyam eva ||9.2|
+AL2096/ tau nyāyatas* taṃ* pratipūjya vipraṃ* |
+AL2097/ tena+arcitau tāv* api ca*anu+rūpam |
+AL2098/ kṛta+āsanau bhārgavam āsana+sthaṃ* |
+AL2099/ chittvā kathām ūcatur* ātma+kṛtyam ||9.3|
+AL2100/ śuddha+ojasaḥ śuddha+viśāla+kīrter* |
+AL2101/ ikṣvāku+vaṃśa+prabhavasya rājñaḥ |
+AL2102/ imaṃ* janaṃ* vettu bhavān (adhītaṃ* Ca+dhīraṃ* )|
+AL2103/ śruta+grahe mantra+parigrahe ca ||9.4|
+AL2104/ tasya*indra+kalpasya jayanta+kalpaḥ |
+AL2105/ putro* jarā+mṛtyu+bhayaṃ* titīrṣuḥ |
+AL2106/ iha*abhyupetaḥ kila tasya hetor* |
+AL2107/ āvām upetau bhagavān avaitu ||9.5|
+AL2108/ tau so* *abravīd* asti sa* dīrgha+bāhuḥ |
+AL2109/ prāptaḥ kumāro* na tu na+avabuddhaḥ |
+AL2110/ dharmo* *ayam āvartaka* ity* avetya |
+AL2111/ yātas* tv* arāḍa+abhi+mukho* mumukṣuḥ ||9.6|
+AL2112/ tasmāt tatas* tāv* upalabhya tattvaṃ* |
+AL2113/ taṃ* vipram (āmantrya Cāmanttya )tadā*eva sadyaḥ |
+AL2114/ khinnāv* a+khinnāv* iva rāja+(bhaktyā Cputraḥ )|
+AL2115/ prasasratus* tena yataḥ sa* yātaḥ ||9.7|
+AL2116/ yāntau tatas* tau (mṛjayā Csṛjayā )vihīnam |
+AL2117/ apaśyatāṃ* taṃ* (vapuṣā*ujjvalantam Cvapuṣā jvalantam )|
+AL2118/ (upopaviṣṭaṃ* Cnṛ+pa+upaviṣṭaṃ* )pathi vṛkṣa+mūle |
+AL2119/ sūryaṃ* ghana+ābhogam iva praviṣṭam ||9.8|
+AL2120/ yānaṃ* vihāya*upayayau tatas* taṃ* |
+AL2121/ puro+hito* mantra+dhareṇa sa+ardham |
+AL2122/ yathā vana+sthaṃ* saha+vāma+devo* |
+AL2123/ rāmaṃ* didṛkṣur* munir* aurvaśeyaḥ ||9.9|
+AL2124/ tāv* arcayām āsatur* arhatas* taṃ* |
+AL2125/ divi*iva śukra+āṅgirasau mahā+indram |
+AL2126/ pratyarcayām āsa sa* ca*arhatas* tau |
+AL2127/ divi*iva śukra+āṅgirasau mahā+indraḥ ||9.10|
+AL2128/ kṛta+abhyanujñāv* abhitas* tatas* tau |
+AL2129/ (niṣedatuḥ Cniṣīdatuḥ )śākya+kula+dhvajasya |
+AL2130/ virejatus* tasya ca saṃnikarṣe |
+AL2131/ punar+vasū yoga+gatāv* iva*indoḥ ||9.11|
+AL2132/ taṃ* vṛkṣa+mūla+stham abhijvalantaṃ* |
+AL2133/ puro+hito* rāja+sutaṃ* babhāṣe |
+AL2134/ yathā+upaviṣṭaṃ* divi pārijāte |
+AL2135/ bṛhas+patiḥ śakra+sutaṃ* jayantam ||9.12|
+AL2136/ tvac+choka+śalye hṛdaya+avagāḍhe |
+AL2137/ mohaṃ* gato* bhūmi+tale muhūrtam |
+AL2138/ kumāra rājā nayana+ambu+varṣo* |
+AL2139/ yat tvām avocat tad* idaṃ* nibodha ||9.13|
+AL2140/ jānāmi dharmaṃ* prati niścayaṃ* te |
+AL2141/ paraimi te (bhāvinam C*a+cyāvinam )etam artham |
+AL2142/ ahaṃ* tv* a+kāle vana+saṃśrayāt te |
+AL2143/ śoka+agninā*agni+pratimena dahye ||9.14|
+AL2144/ tad* ehi dharma+priya mat+priya+arthaṃ* |
+AL2145/ dharma+artham eva tyaja buddhim etām |
+AL2146/ ayaṃ* hi mā śoka+rayaḥ pravṛddho* |
+AL2147/ nadī+rayaḥ kūlam iva*abhihanti ||9.15|
+AL2148/ megha+ambu+kakṣa+adriṣu yā hi vṛttiḥ |
+AL2149/ samīraṇa+arka+agni+mahā+aśanīnām |
+AL2150/ tāṃ* vṛttim asmāsu karoti śoko* |
+AL2151/ vikarṣaṇa+ucchoṣaṇa+dāha+bhedaiḥ ||9.16|
+AL2152/ tad* bhuṅkṣva tāvad* vasu+dhā+ādhipatyaṃ* |
+AL2153/ kāle vanaṃ* yāsyasi śāstra+dṛṣṭe |
+AL2154/ an+iṣṭa+bandhau kuru (mayy* apekṣāṃ* Cmā*apy* upekṣāṃ* )|
+AL2155/ sarveṣu bhūteṣu dayā hi dharmaḥ ||9.17|
+AL2156/ na ca*eṣa* dharmo* vanae* eva siddhaḥ |
+AL2157/ pure *api siddhir* niyatā yatīnām |
+AL2158/ buddhiś* ca yatnaś* ca nimittam atra |
+AL2159/ vanaṃ* ca liṅgaṃ* ca hi bhīru+cihnam ||9.18|
+AL2160/ maulī+dharair* aṃsa+viṣakta+hāraiḥ |
+AL2161/ keyūra+viṣṭabdha+(bhujair* Csrajair* )nara+indraiḥ |
+AL2162/ lakṣmy-+aṅka+madhye parivartamānaiḥ |
+AL2163/ prāpto* gṛha+sthair* api mokṣa+dharmaḥ ||9.19|
+AL2164/ dhruva+anujau yau bali+vajra+bāhū |
+AL2165/ vaibhrājam āṣāḍham atha*anti+devam |
+AL2166/ videha+rājaṃ* janakaṃ* tathā*eva |
+AL2167/ ([[xx]] drumaṃ* Cpāka+drumaṃ* )sena+jitaś* ca rājñaḥ ||9.20|
+AL2168/ etān gṛha+sthān nṛ+patīn avehi |
+AL2169/ naiḥśreyase dharma+vidhau vinītān |
+AL2170/ (ubhau Cubhe )*api tasmād* yuga+pad* bhajasva |
+AL2171/ (vitta+ādhipatyaṃ* Ccitta+ādhipatyaṃ* )ca nṛ+pa+śriyaṃ* ca ||9.21|
+AL2172/ icchāmi hi tvām upaguhya gāḍhaṃ* |
+AL2173/ kṛta+abhiṣekaṃ* salila+ārdram eva |
+AL2174/ (dhṛta+ātapattraṃ* Cdhṛta+ātapatraṃ.* )samudīkṣamāṇas* |
+AL2175/ tena*eva harṣeṇa vanaṃ* praveṣṭum ||9.22|
+AL2176/ ity* abravīd* bhūmi+patir* bhavantaṃ* |
+AL2177/ vākyena (bāṣpa+Cvāṣpa+)grathita+a+kṣareṇa |
+AL2178/ śrutvā bhavān arhati tat+priya+arthaṃ* |
+AL2179/ snehena tat+sneham anuprayātum ||9.23|
+AL2180/ śoka+ambhasi tvat+prabhave hy a+gādhe |
+AL2181/ duḥkha+arṇave majjati śākya+rājaḥ |
+AL2182/ tasmāt tam uttāraya nātha+hīnaṃ* |
+AL2183/ nir+āśrayaṃ* magnam iva*arṇave (nauḥ Cgām )||9.24|
+AL2184/ bhīṣmeṇa gaṅgā+udara+saṃbhavena |
+AL2185/ rāmeṇa rāmeṇa ca bhārgaveṇa |
+AL2186/ śrutvā kṛtaṃ* karma pituḥ priya+arthaṃ* |
+AL2187/ pitus* tvam apy* arhasi kartum iṣṭam ||9.25|
+AL2188/ saṃvardhayitrīṃ* (samavehi Cca samehi )devīm |
+AL2189/ agastya+juṣṭāṃ* diśam a+prayātām |
+AL2190/ pranaṣṭa+vatsām iva vatsalāṃ* gām |
+AL2191/ ajasram ārtāṃ* karuṇaṃ* rudantīm ||9.26|
+AL2192/ haṃsena haṃsīm iva viprayuktāṃ* |
+AL2193/ tyaktāṃ* gajena*iva vane kareṇum |
+AL2194/ (ārtāṃ* Cārttāṃ* )sa+nāthām api nātha+hīnāṃ* |
+AL2195/ trātuṃ* vadhūm arhasi darśanena ||9.27|
+AL2196/ ekaṃ* sutaṃ* bālam an+arha+duḥkhaṃ* |
+AL2197/ (saṃtāpam antar+gatam udvahantam Csaṃtāpa+saṃtapta [[x x]])|
+AL2198/ taṃ* rāhulaṃ* mokṣaya bandhu+śokād* |
+AL2199/ rāhu+upasargād* iva pūrṇa+candram ||9.28|
+AL2200/ śoka+agninā tvad+viraha+indhanena |
+AL2201/ niḥśvāsa+dhūmena tamaḥ+śikhena |
+AL2202/ tvad+(darśana+ambv* icchati dahyamānam Cdarśanāya*ṛchati dahyamānaḥ )|
+AL2203/ (antaḥ+Cso* *antaḥ)+puraṃ* ca*eva puraṃ* ca kṛtsnam ||9.29|
+AL2204/ sa* bodhi+sattvaḥ paripūrṇa+sattvaḥ |
+AL2205/ śrutvā vacas* tasya puro+hitasya |
+AL2206/ dhyātvā muhūrtaṃ* guṇavad* guṇa+jñaḥ |
+AL2207/ praty+uttaraṃ* praśritam ity* uvāca ||9.30|
+AL2208/ avaimi bhāvaṃ* (tanaye pit-ṛṇāṃ* Ctanaya+prasaktaṃ* )|
+AL2209/ viśeṣato* yo* mayi bhūmi+pasya |
+AL2210/ jānann* api vyādhi+jarā+vipadbhyo* |
+AL2211/ bhītas* tv* a+gatyā sva+janaṃ* tyajāmi ||9.31|
+AL2212/ draṣṭuṃ* priyaṃ* kaḥ sva+janaṃ* hi na*icchen* |
+AL2213/ (na*ante Cna*asau )yadi syāt priya+viprayogaḥ |
+AL2214/ yadā tu bhūtvā*api (ciraṃ* Cbhaved* )viyogas* |
+AL2215/ tato* guruṃ* snigdham api tyajāmi ||9.32|
+AL2216/ mad+dhetukaṃ* yat tu nara+adhipasya |
+AL2217/ śokaṃ* bhavān (āha na tat Carhati na )priyaṃ* me |
+AL2218/ yat svapna+bhūteṣu samāgameṣu |
+AL2219/ saṃtapyate bhāvini (viprayoge Cviprayogaiḥ )||9.33|
+AL2220/ evaṃ* ca te niścayam etu buddhir* |
+AL2221/ dṛṣṭvā vicitraṃ* (jagataḥ pracāram Cvi+vidha+pracāram )|
+AL2222/ saṃtāpa+hetur* na suto* na bandhur* |
+AL2223/ a+jñāna+naimittika* eṣa* tāpaḥ ||9.34|
+AL2224/ (yathā*adhva+Cyadā*adhva+)gānām (iha Civa )saṃgatānāṃ* |
+AL2225/ kāle viyogo* niyataḥ prajānām |
+AL2226/ prājño* janaḥ ko* nu bhajeta śokaṃ* |
+AL2227/ bandhu+(pratijñāta+janair* vihīnaḥ Cpriyaḥ sann* api bandhu+hīnaḥ )||9.35|
+AL2228/ iha*eti hitvā sva+janaṃ* paratra |
+AL2229/ pralabhya ca*iha*api punaḥ prayāti |
+AL2230/ gatvā*api tatra*apy* a+paratra gacchaty* |
+AL2231/ evaṃ* (jane tyāgini Cjano* yogini )ko* *anurodhaḥ ||9.36|
+AL2232/ yadā ca garbhāt prabhṛti (pravṛttaḥ Cprajānāṃ* )|
+AL2233/ (sarvāsv* avasthāsu vadhāya C[[xx]] nubadhāya )mṛtyuḥ |
+AL2234/ kasmād* a+kāle vana+saṃśrayaṃ* me |
+AL2235/ putra+priyas* (tatra+bhavān Ctatra bhavān )avocat ||9.37|
+AL2236/ bhavaty* a+kālo* viṣaya+abhipattau |
+AL2237/ kālas* (tathā*eva*artha+vidhau Ctathā*eva*abhividhau )pradiṣṭaḥ |
+AL2238/ kālo* jagat karṣati sarva+kālān* |
+AL2239/ (nirvāhake Carca+arhake )śreyasi (na*asti kālaḥ Csarva+kālaḥ )||9.38|
+AL2240/ rājyaṃ* mumukṣur* mayi yac* ca rājā |
+AL2241/ tad* apy* udāraṃ* sa+dṛśaṃ* pituś* ca |
+AL2242/ pratigrahītuṃ* mama na kṣamaṃ* tu |
+AL2243/ lobhād* a+pathya+annam iva*āturasya ||9.39|
+AL2244/ kathaṃ* nu moha+āyatanaṃ* nṛ+patvaṃ* |
+AL2245/ kṣamaṃ* prapattuṃ* viduṣā nareṇa |
+AL2246/ sa+udvegatā yatra madaḥ śramaś* ca |
+AL2247/ (para+apacāreṇa Cpara+upacāreṇa )ca dharma+pīḍā ||9.40|
+AL2248/ jāmbūnadaṃ* harmyam iva pradīptaṃ* |
+AL2249/ viṣeṇa saṃyuktam iva*uttama+annam |
+AL2250/ grāha+ākulaṃ* (ca*ambv* iva sāra+vindaṃ* Cca sthitaṃ* [[xx]] )|
+AL2251/ ((Crājyaṃ* hi ramyaṃ* vyasana+āśrayaṃ* ca C))||9.41|
+AL2252/ ((Citthaṃ* ca rājyaṃ* na sukhaṃ* na dharmaḥ C))|
+AL2253/ ((Cpūrve yathā jāta+ghṛṇā* nara+indrāḥ |
+AL2254/ ((Cvayaḥ+prakarṣe *a+parihārya+duḥkhe C))|
+AL2255/ ((Crājyāni muktvā vanam eva jagmuḥ C))||9.42|
+AL2256/ ((Cvaraṃ* hi bhuktāni tṛṇāny* araṇye C))|
+AL2257/ ((Ctoṣaṃ* paraṃ* ratnam iva*upaguhya C))|
+AL2258/ ((Csaha+uṣitaṃ* śrī+su+labhair* na ca*eva C))|
+AL2259/ ((Cdoṣair* a+dṛśyair* iva kṛṣṇa+sarpaiḥ C))||9.43|
+AL2260/ ((Cślāghyaṃ* hi rājyāni vihāya rājñāṃ* C))|
+AL2261/ ((Cdharma+abhilāṣeṇa vanaṃ* praveṣṭum C))|
+AL2262/ ((Cbhagna+pratijñasya na tu*upapannaṃ* C))|
+AL2263/ ((Cvanaṃ* parityajya gṛhaṃ* praveṣṭum C))||9.44|
+AL2264/ ((Cjātaḥ kule ko* hi naraḥ sa+sattvo* C))|
+AL2265/ ((Cdharma+abhilāṣeṇa vanaṃ* praviṣṭaḥ C))|
+AL2266/ ((Ckāṣāyam utsṛjya vimukta+lajjaḥ C))|
+AL2267/ ((Cpuraṃ+darasya*api puraṃ* śrayeta C))||9.45|
+AL2268/ ((Clobhād* *dhi mohād* atha+vā bhayena C))|
+AL2269/ ((Cyo* vāntam annaṃ* punar* ādadīta C))|
+AL2270/ ((Clobhāt sa* mohād* atha+vā bhayena C))|
+AL2271/ ((Csaṃtyajya kāmān punar* ādadīta C))||9.46|
+AL2272/ ((Cyaś* ca pradīptāc* *charaṇāt kathaṃ+cin* C))|
+AL2273/ ((Cniṣkramya bhūyaḥ praviśet tad* eva C))|
+AL2274/ ((Cgārhasthyam utsṛjya sa* dṛṣṭa+doṣo* C))|
+AL2275/ ((Cmohena bhūyo* *abhilaṣed* grahītum C))||9.47|
+AL2276/ ((Cyā ca śrutir* mokṣam avāptavanto* C))|
+AL2277/ ((Cnṛ+pā* gṛha+sthā* iti na*etad* asti C))|
+AL2278/ ((Cśama+pradhānaḥ kva ca mokṣa+dharmo* C))|
+AL2279/ ((Cdaṇḍa+pradhānaḥ kva ca rāja+dharmaḥ C))||9.48|
+AL2280/ ((Cśame ratiś* cec* *chithilaṃ* ca rājyaṃ* C))|
+AL2281/ ((Crājye matiś* cec* *chama+viplavaś* ca C))|
+AL2282/ ((Cśamaś* ca taikṣṇyaṃ* ca hi na*upapannaṃ* C))|
+AL2283/ ((Cśīta+uṣṇayor* aikyam iva*udaka+agnyoḥ C))||9.49|
+AL2284/ ((Ctan* niścayād* vā vasu+dhā+adhipās* te C))|
+AL2285/ ((Crājyāni muktvā śamam āptavantaḥ C))|
+AL2286/ ((Crājya+aṅgitā* vā nibhṛta+indriyatvād* C))|
+AL2287/ ((Ca+naiṣṭhike mokṣa+kṛta+abhimānāḥ C))||9.50|
+AL2288/ ((Cteṣāṃ* ca rājye *astu śamo* yathāvat C))|
+AL2289/ ((Cprāpto* vanaṃ* na*aham a+niścayena C))|
+AL2290/ ((Cchittvā hi pāśaṃ* gṛha+bandhu+saṃjñaṃ* C))|
+AL2291/ ((Cmuktaḥ punar* na pravivikṣur* asmi C))||9.51|
+AL2292/ ity* ātma+vijñāna+guṇa+anu+rūpaṃ* |
+AL2293/ mukta+spṛhaṃ* hetumad* ūrjitaṃ* ca |
+AL2294/ śrutvā nara+indra+ātma+jam uktavantaṃ* |
+AL2295/ praty+uttaraṃ* mantra+dharo* *apy* uvāca ||9.52|
+AL2296/ yo* niścayo* (dharma+vidhau Cmantra+varas* )tava*ayam* |
+AL2297/ na*ayaṃ* na yukto* na tu kāla+yuktaḥ |
+AL2298/ śokāya (dattvā Chitvā )pitaraṃ* vayaḥ+sthaṃ* |
+AL2299/ syād* dharma+kāmasya hi te na dharmaḥ ||9.53|
+AL2300/ nūnaṃ* ca buddhis* tava na*ati+sūkṣmā |
+AL2301/ dharma+artha+kāmeṣv* a+vicakṣaṇā vā |
+AL2302/ hetor* a+dṛṣṭasya phalasya yas* tvaṃ* |
+AL2303/ praty+akṣam arthaṃ* paribhūya yāsi ||9.54|
+AL2304/ punar+bhavo* *asti*iti ca ke+cid* āhur* |
+AL2305/ na*asti*iti ke+cin* niyata+pratijñāḥ |
+AL2306/ evaṃ* yadā saṃśayito* *ayam arthas* |
+AL2307/ tasmāt kṣamaṃ* bhoktum upasthitā śrīḥ ||9.55|
+AL2308/ bhūyaḥ pravṛttir* yadi kā+cid* asti |
+AL2309/ raṃsyāmahe tatra yathā*upapattau |
+AL2310/ atha pravṛttiḥ parato* na kā+cit |
+AL2311/ siddho* *a+prayatnāj* jagato* *asya mokṣaḥ ||9.56|
+AL2312/ asti*iti ke+cit para+lokam āhur* |
+AL2313/ mokṣasya yogaṃ* na tu varṇayanti |
+AL2314/ agner* yathā hy* (auṣṇyam Cuṣṇam )apāṃ* dravatvaṃ* |
+AL2315/ tadvat pravṛttau prakṛtiṃ* vadanti ||9.57|
+AL2316/ ke+cit sva+bhāvād* iti varṇayanti |
+AL2317/ śubha+a+śubhaṃ* ca*eva bhava+a+bhavau ca |
+AL2318/ svābhāvikaṃ* sarvam idaṃ* ca yasmād* |
+AL2319/ ato* *api mogho* bhavati prayatnaḥ ||9.58|
+AL2320/ yad* indriyāṇāṃ* niyataḥ pracāraḥ |
+AL2321/ priya+a+priyatvaṃ* viṣayeṣu ca*eva |
+AL2322/ saṃyujyate yaj* (jarayā*ārtibhiś* Cjarayā*ārttibhiś* )ca |
+AL2323/ kas* tatra yatno* nanu sa* sva+bhāvaḥ ||9.59|
+AL2324/ adbhir* huta+āśaḥ śamam abhyupaiti |
+AL2325/ tejāṃsi ca*āpo* gamayanti śoṣam |
+AL2326/ bhinnāni bhūtāni śarīra+saṃsthāny* |
+AL2327/ aikyaṃ* ca (gatvā Cdattvā )jagad* udvahanti ||9.60|
+AL2328/ yat pāṇi+pāda+udara+pṛṣṭha+(mūrdhnāṃ* Cmūrdhnā )|
+AL2329/ nirvartate garbha+gatasya bhāvaḥ |
+AL2330/ yad* ātmanas* tasya ca tena yogaḥ |
+AL2331/ svābhāvikaṃ* tat kathayanti taj+jñāḥ ||9.61|
+AL2332/ kaḥ kaṇṭakasya prakaroti taikṣṇyaṃ* |
+AL2333/ vicitra+bhāvaṃ* mṛga+pakṣiṇāṃ* vā |
+AL2334/ sva+bhāvataḥ sarvam idaṃ* pravṛttaṃ* |
+AL2335/ na kāma+kāro* *asti kutaḥ prayatnaḥ ||9.62|
+AL2336/ sargaṃ* vadanti*īśvaratas* tathā*anye |
+AL2337/ tatra prayatne puruṣaṣya ko* *arthaḥ |
+AL2338/ ya* eva hetur* jagataḥ pravṛttau |
+AL2339/ hetur* nivṛttau niyataḥ sa* eva ||9.63|
+AL2340/ ke+cid* vadanty* ātma+nimittam eva |
+AL2341/ prādur+bhavaṃ* ca*eva bhava+kṣayaṃ* ca |
+AL2342/ prādur+bhavaṃ* tu pravadanty* a+yatnād* |
+AL2343/ yatnena mokṣa+adhigamaṃ* bruvanti ||9.64|
+AL2344/ naraḥ pit-ṛṇām an+ṛṇaḥ prajābhir* |
+AL2345/ vedair* ṛṣīṇāṃ* kratubhiḥ surāṇām |
+AL2346/ utpadyate sa+ardham ṛṇais* tribhis* tair* |
+AL2347/ yasya*asti mokṣaḥ kila tasya mokṣaḥ ||9.65|
+AL2348/ ity* evam etena vidhi+krameṇa mokṣaṃ* |
+AL2349/ sa+yatnasya vadanti taj+jñāḥ |
+AL2350/ prayatnavanto* *api hi vi+krameṇa |
+AL2351/ mumukṣavaḥ khedam avāpnuvanti ||9.66|
+AL2352/ tat saumya mokṣe yadi bhaktir* asti |
+AL2353/ nyāyena sevasva vidhiṃ* yathā+uktam |
+AL2354/ evaṃ* bhaviṣyaty* upapattir* asya |
+AL2355/ saṃtāpa+nāśaś* ca nara+adhipasya ||9.67|
+AL2356/ yā ca pravṛttā (tava doṣa+Cbhava+doṣa+)buddhis* |
+AL2357/ tapo+vanebhyo* bhavanaṃ* praveṣṭum |
+AL2358/ tatra*api cintā tava tāta mā bhūt |
+AL2359/ pūrve *api jagmuḥ sva+(gṛhān Cgṛhaṃ* )vanebhyaḥ ||9.68|
+AL2360/ tapo+vana+stho* *api vṛtaḥ prajābhir* |
+AL2361/ jagāma rājā puram ambarīṣaḥ |
+AL2362/ tathā mahīṃ* viprakṛtām an+āryais* |
+AL2363/ tapo+vanād* etya rarakṣa rāmaḥ ||9.69|
+AL2364/ tathā*eva śālva+adhi+patir* (druma+ākhyo* Cdruma+akṣo* )|
+AL2365/ vanāt sa+sūnur* (nagaraṃ* viveśa Csva+puraṃ* praviśya )|
+AL2366/ brahma+ṛṣi+bhūtaś* ca muner* (vasiṣṭhād* Cvaśiṣṭhād* )|
+AL2367/ dadhre śriyaṃ* sāṃkṛtir* anti+devaḥ ||9.70|
+AL2368/ evaṃ+vidhā* dharma+yaśaḥ+pradīptā* |
+AL2369/ vanāni hitvā bhavanāny* (atīyuḥ Cabhīyuḥ )|
+AL2370/ tasmān* na doṣo* *asti gṛhaṃ* (prayātuṃ* Cpraveṣṭuṃ* )|
+AL2371/ tapo+vanād* dharma+nimittam eva ||9.71|
+AL2372/ tato* vacas* tasya niśamya mantriṇaḥ |
+AL2373/ priyaṃ* hitaṃ* ca*eva nṛ+pasya cakṣuṣaḥ |
+AL2374/ an+ūnam a+vyastam a+saktam a+drutaṃ* |
+AL2375/ dhṛtau sthito* rāja+suto* *abravīd* vacaḥ ||9.72|
+AL2376/ iha*asti na*asti*iti ya* eṣa* saṃśayaḥ |
+AL2377/ parasya vākyair* na mama*atra niścayaḥ |
+AL2378/ avetya tattvaṃ* tapasā śamena (ca Cvā )|
+AL2379/ svayaṃ* grahīṣyāmi yad* atra niścitam ||9.73|
+AL2380/ na me kṣamaṃ* (saṃśaya+jaṃ* Csaṅga+śataṃ* )hi darśanaṃ* |
+AL2381/ grahītum a+vyakta+(paras+para+āhatam Cparaṃ* para+āhatam )|
+AL2382/ (budhaḥ Cbuddhaḥ )para+pratyayato* hi ko* vrajej* |
+AL2383/ jano* *andha+kāre *andha* iva*andha+(deśikaḥ Cdeśitaḥ )||9.74|
+AL2384/ a+dṛṣṭa+tattvasya sato* *api kiṃ* tu me |
+AL2385/ śubha+a+śubhe saṃśayite śubhe matiḥ |
+AL2386/ vṛthā*api khedo* (hi C*api )varaṃ* śubha+ātmanaḥ |
+AL2387/ sukhaṃ* na tattve *api vigarhita+ātmanaḥ ||9.75|
+AL2388/ imaṃ* tu dṛṣṭvā*āgamam a+vyavasthitaṃ* |
+AL2389/ yad* uktam āptais* tad* avehi sādhv* iti |
+AL2390/ prahīṇa+doṣatvam avehi ca*āptatāṃ* |
+AL2391/ prahīṇa+doṣo* hy* an+ṛtaṃ* na vakṣyati ||9.76|
+AL2392/ gṛha+praveśaṃ* prati yac* ca me bhavān |
+AL2393/ uvāca rāma+prabhṛtīn nidarśanam |
+AL2394/ na te pramāṇaṃ* na hi dharma+niścayeṣv* |
+AL2395/ alaṃ* pramāṇāya parikṣata+vratāḥ ||9.77|
+AL2396/ tad* evam apy* eva ravir* mahīṃ* pated* |
+AL2397/ api sthiratvaṃ* himavān giris* tyajet |
+AL2398/ a+dṛṣṭa+tattvo* viṣaya+un+mukha+indriyaḥ |
+AL2399/ śrayeya na tv* eva gṛhān pṛthag+janaḥ ||9.78|
+AL2400/ ahaṃ* viśeyaṃ* jvalitaṃ* huta+aśanaṃ* |
+AL2401/ na ca*a+kṛta+arthaḥ praviśeyam ālayam |
+AL2402/ iti pratijñāṃ* sa* cakāra garvito* |
+AL2403/ yathā+iṣṭam utthāya ca nir+mamo* yayau ||9.79|
+AL2404/ tataḥ sa+(bāṣpau Cvāṣpau )saciva+dvi+jāv* ubhau |
+AL2405/ niśamya tasya sthiram eva niścayam |
+AL2406/ viṣaṇṇa+vaktrāv* anugamya duḥkhitau |
+AL2407/ śanair* a+gatyā puram eva jagmatuḥ ||9.80|
+AL2408/ tat+snehād* atha nṛ+pateś* ca bhaktitas* tau |
+AL2409/ sa+apekṣaṃ* pratiyayatuś* ca tasthatuś* ca |
+AL2410/ dur+dharṣaṃ* ravim iva dīptam ātma+bhāsā |
+AL2411/ taṃ* draṣṭuṃ* na hi pathi śekatur* na moktum ||9.81|
+AL2412/ tau jñātuṃ* parama+gater* gatiṃ* tu tasya |
+AL2413/ pracchannāṃś* cara+puruṣāñ* *chucīn vidhāya |
+AL2414/ rājānaṃ* priya+suta+lālasaṃ* nu gatvā |
+AL2415/ drakṣyāvaḥ katham iti jagmatuḥ kathaṃ+cit ||9.82|
+
+<B 10>
+
+daśamaḥ sargaḥ |10|
+AL2416/ sa* rāja+vatsaḥ pṛthu+pīna+vakṣās* |
+AL2417/ tau havya+mantra+adhikṛtau vihāya |
+AL2418/ uttīrya gaṅgāṃ* pracalat+taraṃ+gāṃ* |
+AL2419/ śrīmad+gṛhaṃ* rāja+gṛhaṃ* jagāma ||10.1|
+AL2420/ śailaiḥ su+guptaṃ* ca vibhūṣitaṃ* ca |
+AL2421/ dhṛtaṃ* ca pūtaṃ* ca śivais* tapo+daiḥ |
+AL2422/ pañca+a+cala+aṅkaṃ* nagaraṃ* prapede |
+AL2423/ śāntaḥ svayaṃ+bhūr* iva nāka+pṛṣṭham ||10.2|
+AL2424/ gāmbhīryam ojaś* ca niśāmya tasya |
+AL2425/ vapuś* ca dīptaṃ* puruṣān atītya |
+AL2426/ visismiye tatra janas* tadānīṃ* |
+AL2427/ sthānu+vratasya*iva vṛṣa+dhvajasya ||10.3|
+AL2428/ taṃ* prekṣya yo* *anyena yayau sa* tasthau |
+AL2429/ (yas* tatra Cyaś* ca*atra )tasthau pathi so* *anvagacchat |
+AL2430/ drutaṃ* yayau (yaḥ sa* jagāma dhīraṃ* Csa+dayaṃ* sa+dhīraṃ* )|
+AL2431/ yaḥ kaś+cid* āste sma sa* ca*utpapāta ||10.4|
+AL2432/ kaś+cit tam ānarca janaḥ karābhyāṃ* |
+AL2433/ sat+kṛtya kaś+cic* *chirasā vavande |
+AL2434/ snigdhena kaś+cid* vacasā*abhyanandan* |
+AL2435/ (na*enaṃ* Cna*evaṃ* )jagāma*a+pratipūjya kaś+cit ||10.5|
+AL2436/ taṃ* jihriyuḥ prekṣya vicitra+veṣāḥ |
+AL2437/ prakīrṇa+vācaḥ pathi maunam īyuḥ |
+AL2438/ dharmasya sa+akṣād* iva (saṃnikarṣe Csaṃnikarṣān* )|
+AL2439/ na kaś+cid* a+nyāya+matir* babhūva ||10.6|
+AL2440/ anya+kriyāṇām api rāja+mārge |
+AL2441/ strīṇāṃ* nṛṇāṃ* vā bahu+māna+pūrvam |
+AL2442/ (taṃ* deva+kalpaṃ* Ctad* eva kalpaṃ* )nara+deva+(sūnuṃ* Csūtraṃ* )|
+AL2443/ nirīkṣamāṇā na (tatarpa Ctu tasya )dṛṣṭiḥ ||10.7|
+AL2444/ bhruvau lalāṭaṃ* mukham (īkṣaṇe Cīkṣaṇaṃ* )vā |
+AL2445/ vapuḥ karau vā caraṇau gatiṃ* vā |
+AL2446/ yad* eva yas* tasya dadarśa tatra |
+AL2447/ tad* eva (tasya*atha babandha Ctasya*anubabandha )cakṣuḥ ||10.8|
+AL2448/ dṛṣṭvā (ca sa+ūrṇa+Cśubha+ūrṇa+)bhruvam āyata+akṣaṃ* |
+AL2449/ jvalac+charīraṃ* śubha+jāla+hastam |
+AL2450/ taṃ* bhikṣu+(veṣaṃ* Cveśaṃ* )kṣiti+pālana+arhaṃ* |
+AL2451/ saṃcukṣubhe rāja+gṛhasya lakṣmīḥ ||10.9|
+AL2452/ śreṇyo* *atha bhartā magadha+ajirasya |
+AL2453/ (bāhyād* Cvāhyād* )vimānād* vipulaṃ* jana+ogham |
+AL2454/ dadarśa papraccha ca tasya hetuṃ* |
+AL2455/ tatas* tam asmai puruṣaḥ śaśaṃsa ||10.10|
+AL2456/ jñānaṃ* paraṃ* vā pṛthivī+śriyaṃ* vā |
+AL2457/ viprair* ya* ukto* *adhigamiṣyati*iti |
+AL2458/ sa* (eṣa* Ceva )śākya+adhi+pates* tanū+jo* |
+AL2459/ nirīkṣyate pravrajito* janena ||10.11|
+AL2460/ tataḥ śruta+artho* (manasā*a+gata+āstho* Cmanasā gata+artho* )|
+AL2461/ rājā babhāṣe puruṣaṃ* tam eva |
+AL2462/ vijñāyatāṃ* kva pratigacchati*iti |
+AL2463/ tathā*ity* atha*enaṃ* puruṣo* *anvagacchat ||10.12|
+AL2464/ a+lola+cakṣur* yuga+mātra+darśī |
+AL2465/ nivṛtta+vāg* yantrita+manda+gāmī |
+AL2466/ cacāra bhikṣāṃ* sa* tu bhikṣu+varyo* |
+AL2467/ nidhāya gātrāṇi calaṃ* ca cetaḥ ||10.13|
+AL2468/ ādāya bhaikṣaṃ* ca yathā+upapannaṃ* |
+AL2469/ yayau gireḥ prasravaṇaṃ* viviktam |
+AL2470/ nyāyena tatra*abhyavahṛtya ca*enan* |
+AL2471/ mahī+dharaṃ* pāṇḍavam āruroha ||10.14|
+AL2472/ tasmin navau lodhra+vana+upagūḍhe |
+AL2473/ mayūra+nāda+pratipūrṇa+kuñje |
+AL2474/ kāṣāya+vāsāḥ sa* babhau nṛ+sūryo* |
+AL2475/ yathā+udayasya*upari bāla+sūryaḥ ||10.15|
+AL2476/ (tatra*enam Ctatra*evam )ālokya sa* rāja+bhṛtyaḥ |
+AL2477/ śreṇyāya rājñe kathayāṃ* cakāra |
+AL2478/ saṃśrutya rājā sa* ca bāhumānyāt |
+AL2479/ tatra pratasthe nibhṛta+anu+yātraḥ ||10.16|
+AL2480/ sa* pāṇḍavaṃ* pāṇḍava+tulya+vīryaḥ |
+AL2481/ śaila+uttamaṃ* śaila+samāna+varṣmā |
+AL2482/ maulī+dharaḥ siṃha+gatir* nṛ+siṃhaś* |
+AL2483/ calat+saṭaḥ siṃha* iva*āruroha ||10.17|
+AL2484/ (tataḥ sma Ccalasya )tasya*upari śṛṅga+bhūtaṃ* |
+AL2485/ śānta+indriyaṃ* paśyati bodhi+sattvam |
+AL2486/ pary+aṅkam āsthāya virocamānaṃ* |
+AL2487/ śaśa+aṅkam udyantam iva*abhra+(kuñjāt Ckūṭāt )||10.18|
+AL2488/ taṃ* rūpa+lakṣmyā ca śamena ca*eva |
+AL2489/ dharmasya nirmāṇam iva*upaviṣṭam |
+AL2490/ sa+vismayaḥ praśrayavān nara+indraḥ |
+AL2491/ svayaṃ+bhuvaṃ* śakra* iva*upatasthe ||10.19|
+AL2492/ taṃ* nyāyato* (nyāya+vidāṃ* variṣṭhaṃ* Cnyāyavatāṃ* variṣṭhaḥ* )|
+AL2493/ sametya papraccha ca dhātu+sāmyam |
+AL2494/ sa* ca*apy* avocat sa+dṛśena sāmnā |
+AL2495/ nṛ+paṃ* manaḥ+svāsthyam an+āmayaṃ* ca ||10.20|
+AL2496/ tataḥ śucau vāraṇa+karṇa+nīle |
+AL2497/ śilā+tale (saṃniṣasāda C*asau niṣasāda )rājā |
+AL2498/ (upopaviśya*anumataś* Cnṛ+pa+upaviśya*anumataś* )ca tasya |
+AL2499/ bhāvaṃ* vijijñāsur* idaṃ* babhāṣe ||10.21|
+AL2500/ prītiḥ parā me bhavataḥ kulena |
+AL2501/ krama+āgatā ca*eva parīkṣitā ca |
+AL2502/ jātā vivakṣā (sva+vayo* Csuta yā )yato* me |
+AL2503/ tasmād* idaṃ* sneha+vaco* nibodha ||10.22|
+AL2504/ āditya+pūrvaṃ* vipulaṃ* kulaṃ* te |
+AL2505/ navaṃ* vayo* dīptam idaṃ* vapuś* ca |
+AL2506/ kasmād* iyaṃ* te matir* a+krameṇa |
+AL2507/ bhaikṣākae* eva*abhiratā na rājye ||10.23|
+AL2508/ gātraṃ* hi te lohita+candana+arhaṃ* |
+AL2509/ kāṣāya+saṃśleṣam an+arham etat |
+AL2510/ hastaḥ prajā+pālana+yogya* eṣa* |
+AL2511/ bhoktuṃ* na ca*arhaḥ para+dattam annam ||10.24|
+AL2512/ tat saumya rājyaṃ* yadi paitṛkaṃ* tvaṃ* |
+AL2513/ snehāt pitur* na*icchasi vikrameṇa |
+AL2514/ na ca (kramaṃ* Ckṣamaṃ* )marṣayituṃ* matis* te |
+AL2515/ (bhuṅkṣva*ardham Cbhuktvā*ardham )asmad+viṣayasya śīghram ||10.25|
+AL2516/ evaṃ* hi na syāt sva+jana+avamardaḥ |
+AL2517/ kāla+krameṇa*api śama+śrayā śrīḥ |
+AL2518/ tasmāt kuruṣva praṇayaṃ* mayi tvaṃ* |
+AL2519/ sadbhiḥ sahīyā hi satāṃ* samṛddhiḥ ||10.26|
+AL2520/ atha tv* idānīṃ* kula+garvitatvād* |
+AL2521/ asmāsu viśrambha+guṇo* na te *asti |
+AL2522/ (vyūḍhāny* anīkāni Cvyūhāny* an+ekāni )vigāhya (bāṇair* Cvāṇair* )|
+AL2523/ mayā sahāyena (parān Cparāñ* )jigīṣa ||10.27|
+AL2524/ tad* buddhim atra*anyatarāṃ* vṛṇīṣva |
+AL2525/ dharma+artha+kāmān vidhivad* bhajasva |
+AL2526/ vyatyasya (rāgād* iha Crāga+ādi ha )hi tri+vargaṃ* |
+AL2527/ pretya*iha ca (bhraṃśam Cvibhraṃśam )avāpnuvanti ||10.28|
+AL2528/ yo* hy* artha+dharmau paripīḍya kāmaḥ |
+AL2529/ syād* dharma+(kāmau Ckāmye )paribhūya ca*arthaḥ |
+AL2530/ kāma+arthayoś* ca*uparameṇa dharmas* |
+AL2531/ tyājyaḥ sa* kṛtsno* yadi (kāṅkṣito* *arthaḥ Ckāṅkṣita+arthaḥ )||10.29|
+AL2532/ tasmāt tri+vargasya niṣevaṇena |
+AL2533/ tvaṃ* rūpam etat sa+phalaṃ* kuruṣva |
+AL2534/ dharma+artha+kāma+adhigamaṃ* hy* an+ūnaṃ* |
+AL2535/ nṛṇām an+ūnaṃ* puruṣa+artham āhuḥ ||10.30|
+AL2536/ tan* niṣ+phalau na*arhasi kartum etau |
+AL2537/ pīnau bhujau cāpa+vikarṣaṇa+arhau |
+AL2538/ māndhātṛvaj* jetum imau hi yogyau |
+AL2539/ (lokān api trīn iha Clokāni hi trīṇi hi )kiṃ* punar* gām ||10.31|
+AL2540/ snehena khalv* etad* ahaṃ* bravīmi |
+AL2541/ na*aiśvarya+rāgeṇa na vismayena |
+AL2542/ imaṃ* hi dṛṣṭvā tava bhikṣu+(veṣaṃ* Cveśaṃ* )|
+AL2543/ jāta+anukampo* *asmy* api ca*āgata+aśruḥ ||10.32|
+AL2544/ yāvat sva+vaṃśa+prati+(rūpa rūpaṃ* Crūpa+rūpaṃ* )|
+AL2545/ na te jarā*abhyety* abhibhūya bhūyaḥ |
+AL2546/ tad* bhuṅkṣva bhikṣā+āśrama+kāma kāmān |
+AL2547/ kāle *asi kartā priya+dharma dharmam ||10.33|
+AL2548/ śaknoti jīrṇaḥ khalu dharmam āptuṃ* |
+AL2549/ kāma+upabhogeṣv* a+gatir* jarāyāḥ |
+AL2550/ ataś* ca yūnaḥ kathayanti kāmān |
+AL2551/ madhyasya vittaṃ* sthavirasya dharmam ||10.34|
+AL2552/ dharmasya ca*arthasya ca jīva+loke |
+AL2553/ praty+arthi+bhūtāni hi yauvanāni |
+AL2554/ saṃrakṣyamānāny* api dur+grahāṇi |
+AL2555/ kāmā* yatas* tena (pathā Cyathā )haranti ||10.35|
+AL2556/ vayāṃsi jīrṇāni (vimarśavanti Cvimarśayanti )|
+AL2557/ dhīrāṇy* avasthāna+para+ayaṇāni |
+AL2558/ alpena yatnena śama+ātmakāni |
+AL2559/ bhavanty* a+(gatyā*eva Cgatyā*iva )ca lajjayā ca ||10.36|
+AL2560/ ataś* ca lolaṃ* viṣaya+pradhānaṃ* |
+AL2561/ pramattam a+kṣāntam a+dīrgha+darśi |
+AL2562/ bahu+cchalaṃ* yauvanam abhyatītya |
+AL2563/ nistīrya kāntāram iva*āśvasanti ||10.37|
+AL2564/ tasmād* a+dhīraṃ* capala+pramādi |
+AL2565/ navaṃ* vayas* tāvad* idaṃ* vyapaitu |
+AL2566/ kāmasya pūrvaṃ* hi vayaḥ śaravyaṃ* |
+AL2567/ na śakyate rakṣitum indriyebhyaḥ ||10.38|
+AL2568/ atha*u cikīrṣā tava dharma* eva |
+AL2569/ yajasva yajñaṃ* kula+dharma* eṣaḥ |
+AL2570/ yajñair* adhiṣṭhāya hi nāka+pṛṣṭhaṃ* |
+AL2571/ yayau marutvān api nāka+pṛṣṭham ||10.39|
+AL2572/ su+varṇa+keyūra+vidaṣṭa+bāhavo* |
+AL2573/ maṇi+pradīpa+ujjvala+citra+maulayaḥ |
+AL2574/ nṛ+pa+ṛṣayas* tāṃ* hi gatiṃ* gatā* makhaiḥ |
+AL2575/ śrameṇa yām eva mahā+ṛṣayo* yayuḥ ||10.40|
+AL2576/ ity* evaṃ* magadha+patir* ((Cvaco* C))babhāṣe |
+AL2577/ yaḥ samyag* vala+bhid* iva (bruvan babhāse Cdhruvaṃ* babhāṣe )|
+AL2578/ tac* *chrutvā na sa* (vicacāla Cvicacāra )rāja+sūnuḥ |
+AL2579/ kailāso* girir* iva na+eka+citra+sānuḥ ||10.41|
+
+<B 11>
+
+ekā+daśaḥ sargaḥ |11|
+AL2580/ atha*evam ukto* magadha+adhipena |
+AL2581/ su+hṛn+mukhena prati+kūlam artham |
+AL2582/ sva+stho* *a+vikāraḥ kula+śauca+śuddhaḥ |
+AL2583/ śauddhodanir* vākyam idaṃ* jagāda ||11.1|
+AL2584/ na*āścaryam etad* bhavato* (vidhānaṃ* C*abhidhātuṃ* )|
+AL2585/ jātasya hary+aṅka+kule viśāle |
+AL2586/ yan* mitra+pakṣe tava mitra+kāma |
+AL2587/ syād* vṛttir* eṣā pariśuddha+vṛtteḥ ||11.2|
+AL2588/ a+satsu maitrī sva+(kula+anuvṛttā Ckula+anu+rūpā )|
+AL2589/ na tiṣṭhati śrir* iva viklaveṣu |
+AL2590/ pūrvaiḥ kṛtāṃ* prīti+paraṃ+parābhis* |
+AL2591/ tām eva santas* tu vivardhayanti ||11.3|
+AL2592/ ye ca*artha+kṛcchreṣu bhavanti loke |
+AL2593/ samāna+kāryāḥ su+hṛdāṃ* manuṣyāḥ |
+AL2594/ mitrāṇi tāni*iti paraimi buddhyā |
+AL2595/ sva+sthasya vṛddhiṣv* iha ko* hi na syāt ||11.4|
+AL2596/ evaṃ* ca ye dravyam avāpya loke |
+AL2597/ mitreṣu dharme ca niyojayanti |
+AL2598/ avāpta+sārāṇi dhanāni teṣāṃ* |
+AL2599/ bhraṣṭāni na*ante janayanti tāpam ||11.5|
+AL2600/ su+hṛttayā ca*āryatayā ca rājan |
+AL2601/ (khalv* eṣa* yo* māṃ* prati niścayas* Cvibhāvya mām eva viniścayas* )te |
+AL2602/ atra*anuneṣyāmi su+hṛttayā*eva |
+AL2603/ brūyām ahaṃ* na*uttaram anyad* atra ||11.6|
+AL2604/ ahaṃ* jarā+mṛtyu+bhayaṃ* viditvā |
+AL2605/ mumukṣayā dharmam imaṃ* prapannaḥ |
+AL2606/ bandhūn priyān aśru+mukhān vihāya |
+AL2607/ prāg* eva kāmān a+śubhasya hetūn ||11.7|
+AL2608/ na*āśī+viṣebhyo* (hi C*api )tathā bibhemi |
+AL2609/ na*eva*aśanibhyo* gaganāc* cyutebhyaḥ |
+AL2610/ na pāvakebhyo* *anila+saṃhitebhyo* |
+AL2611/ yathā bhayaṃ* me viṣayebhya* (eva Cebhyaḥ )||11.8|
+AL2612/ kāmā* hy* a+nityāḥ kuśala+artha+caurā* |
+AL2613/ riktāś* ca māyā+sa+dṛśāś* ca loke |
+AL2614/ āśāsyamānā* api mohayanti |
+AL2615/ cittaṃ* nṛṇāṃ* kiṃ* punar* ātma+saṃsthāḥ ||11.9|
+AL2616/ kāma+abhibhūtā* hi na yānti śarma |
+AL2617/ tri+piṣṭape kiṃ* (bata Cvata )martya+loke |
+AL2618/ kāmaiḥ sa+tṛṣṇasya hi na*asti tṛptir* |
+AL2619/ yathā*indhanair* vāta+sakhasya vahneḥ ||11.10|
+AL2620/ jagaty* an+artho* na samo* *asti kāmair* |
+AL2621/ mohāc* ca teṣv* eva janaḥ prasaktaḥ |
+AL2622/ tattvaṃ* viditvā*evam an+artha+bhīruḥ |
+AL2623/ prājñaḥ svayaṃ* ko* *abhilaṣed* an+artham ||11.11|
+AL2624/ samudra+vastrām api gām avāpya |
+AL2625/ pāraṃ* jigīṣanti mahā+arṇavasya |
+AL2626/ lokasya kāmair* na vitṛptir* asti |
+AL2627/ patadbhir* ambhobhir* iva*arṇavasya ||11.12|
+AL2628/ devena vṛṣṭe *api hiraṇya+varṣe |
+AL2629/ dvīpān (sam+agrāṃś* Csamudrāṃś* )caturo* *api jitvā |
+AL2630/ śakrasya ca*ardha+āsanam apy* avāpya |
+AL2631/ māndhātur* āsīd* viṣayeṣv* a+tṛptiḥ ||11.13|
+AL2632/ bhuktvā*api rājyaṃ* divi devatānāṃ* |
+AL2633/ śata+kratau vṛtra+bhayāt pranaṣṭe |
+AL2634/ darpān* mahā+ṛṣīn api vāhayitvā |
+AL2635/ kāmeṣv* a+tṛpto* nahuṣaḥ papāta ||11.14|
+AL2636/ aiḍaś* ca rājā tri+divaṃ* vigāhya |
+AL2637/ nītvā*api devīṃ* vaśam urvaśīṃ* tām |
+AL2638/ lobhād* ṛṣibhyaḥ kanakaṃ* jihīrṣur* |
+AL2639/ jagāma nāśaṃ* viṣayeṣv* a+tṛptaḥ ||11.15|
+AL2640/ baler* mahā+indraṃ* nahuṣaṃ* mahā+indrād* |
+AL2641/ indraṃ* punar* ye nahuṣād* upeyuḥ |
+AL2642/ svarge kṣitau vā viṣayeṣu teṣu |
+AL2643/ ko* viśvased* bhāgya+kula+ākuleṣu ||11.16|
+AL2644/ cīra+ambarā* mūla+phala+ambu+bhakṣā* |
+AL2645/ jaṭā* vahanto* *api bhujaṃ+ga+dīrghāḥ |
+AL2646/ yair* (na*anya+Canya+)kāryā* munayo* *api bhagnāḥ |
+AL2647/ kaḥ kāma+saṃjñān mṛgayeta śatrūn ||11.17|
+AL2648/ ugra+āyudhaś* ca*ugra+dhṛta+āyudho* *api |
+AL2649/ yeṣāṃ* kṛte mṛtyum avāpa bhīṣmāt |
+AL2650/ cintā*api teṣām a+śivā vadhāya |
+AL2651/ (sad+Ctad+)vṛttināṃ* kiṃ* punar* a+vratānām ||11.18|
+AL2652/ āsvādam alpaṃ* viṣayeṣu matvā |
+AL2653/ saṃyojana+utkarṣam a+tṛptim eva |
+AL2654/ sadbhyaś* ca garhāṃ* niyataṃ* ca pāpaṃ* |
+AL2655/ kaḥ kāma+saṃjñaṃ* viṣam (ādadīta Cāsasāda )||11.19|
+AL2656/ kṛṣya+ādibhiḥ (karmabhir* arditānāṃ* Cdharmabhir* anvitānāṃ* )|
+AL2657/ kāma+ātmakānāṃ* ca niśamya duḥkham |
+AL2658/ svāsthyaṃ* ca kāmeṣv* a+kutūhalānāṃ* |
+AL2659/ kāmān vihātuṃ* kṣamam ātmavadbhiḥ ||11.20|
+AL2660/ jñeyā vipat+kāmini kāma+saṃpat* |
+AL2661/ siddheṣu kāmeṣu madaṃ* hy* upaiti |
+AL2662/ madād* a+kāryaṃ* kurute na kāryaṃ* |
+AL2663/ yena kṣato* dur+gatim abhyupaiti ||11.21|
+AL2664/ yatnena labdhāḥ parirakṣitāś* ca |
+AL2665/ ye vipralabhya pratiyānti bhūyaḥ |
+AL2666/ teṣv* ātmavān yācita+kopam eṣu |
+AL2667/ kāmeṣu vidvān iha ko* rameta ||11.22|
+AL2668/ anviṣya ca*ādāya ca jāta+tarṣā* |
+AL2669/ yān a+tyajantaḥ pariyānti duḥkham |
+AL2670/ loke tṛṇa+ulkā+sa+dṛśeṣu teṣu |
+AL2671/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.23|
+AL2672/ an+ātmavanto* hṛdi yair* vidaṣṭā* |
+AL2673/ vināśam archanti na yānti śarma |
+AL2674/ kruddha+ugra+sarpa+pratimeṣu teṣu |
+AL2675/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.24|
+AL2676/ asthi (kṣudhā+ārtā* Ckṣudhā+ārttā* )iva sārameyā* |
+AL2677/ bhuktvā*api yān na*eva bhavanti tṛptāḥ |
+AL2678/ jīrṇa+asthi+kaṅkāla+sameṣu teṣu |
+AL2679/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.25|
+AL2680/ ye rāja+caura+udaka+pāvakebhyaḥ |
+AL2681/ sādhāraṇatvāj* janayanti duḥkham |
+AL2682/ teṣu praviddha+amiṣa+saṃnibheṣu |
+AL2683/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.26|
+AL2684/ yatra sthitānām abhito* vipattiḥ |
+AL2685/ śatroḥ sakāśād* api bāndhavebhyaḥ |
+AL2686/ hiṃsreṣu teṣv* āyatana+upameṣu |
+AL2687/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.27|
+AL2688/ girau vane ca*apsu ca sāgare ca |
+AL2689/ (yān Cyad* )bhraṃśam (archanti vilaṅghamānāḥ Carchanty* abhilaṅghamānāḥ )|
+AL2690/ teṣu druma+pra+agra+phala+upameṣu |
+AL2691/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.28|
+AL2692/ (tīvraiḥ Ctīrthaiḥ )prayatnair* vi+vidhair* avāptāḥ |
+AL2693/ kṣaṇena ye nāśam iha prayānti |
+AL2694/ svapna+upabhoga+pratimeṣu teṣu |
+AL2695/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.29|
+AL2696/ yān arcayitvā*api na yānti śarma |
+AL2697/ vivardhayitvā paripālayitvā |
+AL2698/ aṅgāra+(karṣū+Ckarṣa+)pratimeṣu teṣu |
+AL2699/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.30|
+AL2700/ vināśam īyuḥ kuravo* yad+arthaṃ* |
+AL2701/ vṛṣṇy+andhakā* (mekhala+Cmaithila+)daṇḍakāś* ca |
+AL2702/ (sūnā+asi+Cśūla+asi+)kāṣṭha+pratimeṣu teṣu |
+AL2703/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.31|
+AL2704/ sunda+upasundāv* asurau yad+artham |
+AL2705/ anyo+anya+vaira+prasṛtau vinaṣṭau |
+AL2706/ sauhārda+viśleṣa+kareṣu teṣu |
+AL2707/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.32|
+AL2708/ (yeṣāṃ* kṛte vāriṇi pāvake Ckāma+andha+saṃjñāḥ kṛpayā va ke )ca |
+AL2709/ kravya+atsu (ca*ātmānam Cna*ātmānam )iha*utsṛjanti |
+AL2710/ sa+patna+bhūteṣv* a+śiveṣu teṣu |
+AL2711/ kāmeṣu kasya*ātmavato* ratiḥ syāt ||11.33|
+AL2712/ (kāma+artham a+jñaḥ Ckāma+andha+saṃjñaḥ )kṛpaṇaṃ* karoti |
+AL2713/ prāpnoti duḥkhaṃ vadha+bandhana+ādi |
+AL2714/ kāma+artham āśā+kṛpaṇas* tapasvī |
+AL2715/ (mṛtyuṃ* śramaṃ* ca*archati Cmṛtyu+śramaṃ* ca*arhati )jīva+(lokaḥ Cloke )||11.34|
+AL2716/ gītair* hriyante hi mṛgā* vadhāya |
+AL2717/ rūpa+artham agnau śalabhāḥ patanti |
+AL2718/ matsyo* giraty* āyasam āmiṣa+arthī |
+AL2719/ tasmād* an+arthaṃ* viṣayāḥ phalanti ||11.35|
+AL2720/ kāmās* tu bhogā* iti (yan* matiḥ Cyan* mataṃ* )syād* |
+AL2721/ (bhogā* Cbhogyā* )na ke+cit parigaṇyamānāḥ |
+AL2722/ vastra+ādayo* dravya+guṇā* hi loke |
+AL2723/ duḥkha+pratīkāra* iti pradhāryāḥ ||11.36|
+AL2724/ iṣṭaṃ* hi tarṣa+praśamāya toyaṃ* |
+AL2725/ kṣun+nāśa+hetor* aśanaṃ* tathā*eva |
+AL2726/ vāta+ātapa+ambv+āvaraṇāya veśma |
+AL2727/ kaupīna+śīta+āvaraṇāya vāsaḥ ||11.37|
+AL2728/ nidrā+vighātāya tathā*eva śayyā |
+AL2729/ yānaṃ* tathā*adhva+śrama+nāśanāya |
+AL2730/ tathā*āsanaṃ* sthāna+vinodanāya |
+AL2731/ snānaṃ* mṛjā+ārogya+bala+āśrayāya ||11.38|
+AL2732/ duḥkha+pratīkāra+nimitta+bhūtās* |
+AL2733/ tasmāt prajānāṃ* viṣayā* na (bhogāḥ Cbhogyāḥ )|
+AL2734/ aśnāmi bhogān iti ko* *abhyupeyāt |
+AL2735/ prājñaḥ pratīkāra+vidhau (pravṛttaḥ Cpravṛttān )||11.39|
+AL2736/ yaḥ pitta+dāhena vidahyamānaḥ |
+AL2737/ śīta+kriyāṃ* bhoga* iti vyavasyet |
+AL2738/ duḥkha+pratīkāra+vidhau pravṛttaḥ |
+AL2739/ kāmeṣu kuryāt sa* hi bhoga+saṃjñām ||11.40|
+AL2740/ kāmeṣv* an+aikāntikatā ca yasmād* |
+AL2741/ ato* *api me teṣu na bhoga+saṃjñā |
+AL2742/ yae* eva bhāvā* hi sukhaṃ* diśanti |
+AL2743/ tae* eva duḥkhaṃ* punar* āvahanti ||11.41|
+AL2744/ gurūṇi vāsāṃsy* agurūṇi ca*eva |
+AL2745/ sukhāya (śīte Cgīte )hy* a+sukhāya (gharme Cdharme )|
+AL2746/ candra+aṃśavaś* candanam eva ca*uṣṇe |
+AL2747/ sukhāya dukhāya bhavanti śīte ||11.42|
+AL2748/ dvaṃdvāni sarvasya yataḥ prasaktāny* |
+AL2749/ a+lābha+lābha+prabhṛtīni loke |
+AL2750/ ato* *api na*eka+anta+sukho* *asti kaś+cin* |
+AL2751/ na*eka+anta+duḥkhaḥ puruṣaḥ prṭhivyām ||11.43|
+AL2752/ dṛṣṭvā (vimiśrāṃ* C ca miśrāṃ* )sukha+duḥkatāṃ* me |
+AL2753/ rājyaṃ* ca dāsyaṃ* ca mataṃ* samānam |
+AL2754/ nityaṃ* hasaty* eva hi na*eva rājā |
+AL2755/ na ca*api saṃtapyatae* eva dāsaḥ ||11.44|
+AL2756/ ājñā nṛ+patve *abhy+adhikā*iti (yat syān* Cyasmāt )|
+AL2757/ mahānti duḥkhāny* ata* eva rājñaḥ |
+AL2758/ āsaṅga+kāṣṭha+pratimo* hi rājā |
+AL2759/ lokasya hetoḥ parikhedam eti ||11.45|
+AL2760/ rājye nṛ+pas* tyāgini (bahv+a+Cvaṅka+)mitre |
+AL2761/ viśvāsam āgacchati ced* vipannaḥ |
+AL2762/ atha*api viśrambham upaiti na*iha |
+AL2763/ kiṃ* nāma saukhyaṃ* cakitasya rājñaḥ ||11.46|
+AL2764/ yadā ca jitvā*api mahīṃ* sam+agrāṃ* |
+AL2765/ vāsāya dṛṣṭaṃ* puram ekam eva |
+AL2766/ tatra*api ca*ekaṃ* bhavanaṃ* niṣevyaṃ* |
+AL2767/ śramaḥ para+arthe nanu rāja+bhāvaḥ ||11.47|
+AL2768/ rājño* *api (vāso+yugam Cvāse yugam )ekam eva |
+AL2769/ kṣut+saṃnirodhāya tathā*anna+mātrā |
+AL2770/ śayyā tathā*ekā*āsanam ekam eva |
+AL2771/ śeṣā* viśeṣā* nṛ+pater* madāya ||11.48|
+AL2772/ tuṣṭy+artham etac* ca phalaṃ* yadi*iṣṭam |
+AL2773/ ṛte *api rājyān* mama tuṣṭir* asti |
+AL2774/ tuṣṭau ca satyāṃ* puruṣasya loke |
+AL2775/ sarve viśeṣā* nanu nir+viśeṣāḥ ||11.49|
+AL2776/ tan* na*asmi kāmān prati saṃpratāryaḥ |
+AL2777/ (kṣemaṃ* Ckṣeme )śivaṃ* mārgam anuprapannaḥ |
+AL2778/ smṛtvā su+hṛttvaṃ* tu punaḥ punar* māṃ* |
+AL2779/ brūhi pratijñāṃ* khalu (pālaya*iti Cpālayanti )||11.50|
+AL2780/ na* hy* asmy* amarṣeṇa vanaṃ* praviṣṭo* |
+AL2781/ na śatru+bāṇair* avadhūta+mauliḥ |
+AL2782/ kṛta+spṛho* na*api phala+adhikebhyo* |
+AL2783/ gṛhṇāmi na*etad* vacanaṃ* yatas* te ||11.51|
+AL2784/ yo* danda+śūkaṃ* kupitaṃ* bhujaṃ+gaṃ* |
+AL2785/ muktvā vyavasyed* *dhi punar* grahītum |
+AL2786/ dāha+ātmikāṃ* vā jvalitāṃ* tṛṇa+ulkāṃ* |
+AL2787/ saṃtyajya kāmān sa* punar* bhajeta ||11.52|
+AL2788/ andhāya yaś* ca spṛhayed* an+andho* |
+AL2789/ baddhāya mukto* vidhanāya (ca*āḍhyaḥ Cvā*āḍhyaḥ )|
+AL2790/ unmatta+cittāya ca kalya+cittaḥ |
+AL2791/ spṛhāṃ* sa* kuryād* viṣaya+ātmakāya ||11.53|
+AL2792/ (bhaikṣa+upabhogī*iti ca Cbhikṣā+upabhogī vara* )na*anukampyaḥ |
+AL2793/ kṛtī jarā+mṛtyu+bhayaṃ* titīrṣuḥ |
+AL2794/ iha*uttamaṃ* śānti+sukhaṃ* ca yasya |
+AL2795/ paratra duḥkhāni ca saṃvṛtāni ||11.54|
+AL2796/ lakṣmyāṃ* mahatyām api vartamānas* |
+AL2797/ tṛṣṇā+abhibhūtas* tv* anukampitavyaḥ |
+AL2798/ prāpnoti yaḥ śānti+sukhaṃ* na ca*iha |
+AL2799/ paratra (duḥkhaiḥ Cduḥkhaṃ* )pratigṛhyate ca ||11.55|
+AL2800/ evaṃ* tu vaktuṃ* bhavato* *anu+rūpaṃ* |
+AL2801/ sattvasya vṛttasya kulasya ca*eva |
+AL2802/ mama*api voḍhuṃ* sa+dṛśaṃ* pratijñāṃ* |
+AL2803/ sattvasya vṛttasya kulasya ca*eva ||11.56|
+AL2804/ ahaṃ* hi saṃsāra+(śareṇa Crasena )viddho* |
+AL2805/ viniḥsṛtaḥ (śāntim Cśāntam )avāptu+kāmaḥ |
+AL2806/ na*iccheyam āptuṃ* tri+dive *api rājyaṃ* |
+AL2807/ nir+āmayaṃ* kiṃ* (bata Cvata )mānuṣeṣu ||11.57|
+AL2808/ tri+varga+sevāṃ* nṛpa yat tu kṛtsnataḥ |
+AL2809/ paro* manuṣya+artha* iti tvam āttha mām |
+AL2810/ an+artha* ity* (eva mama*atra darśanaṃ* Cāttha mama*artha+darśanaṃ* )|
+AL2811/ kṣayī tri+vargo* hi na ca*api tarpakaḥ ||11.58|
+AL2812/ pade tu yasmin na jarā na (bhīr* na ruṅ* Cbhīrutā )|
+AL2813/ na janma na*eva*uparamo* na (ca*ādhayaḥ Cvā*ādhayaḥ )|
+AL2814/ tam eva manye puruṣa+artham uttamaṃ* |
+AL2815/ na vidyate yatra punaḥ punaḥ kriyā ||11.59|
+AL2816/ yad* apy* avocaḥ paripālyatāṃ* jarā |
+AL2817/ navaṃ* vayo* gacchati vikriyām iti |
+AL2818/ a+niścayo* *ayaṃ* capalaṃ* hi dṛśyate |
+AL2819/ jarā*apy* a+dhīrā dhṛtimac* ca yauvanam ||11.60|
+AL2820/ sva+karma+dakṣaś* ca (yadā*antako* Cyadā tu ko* )jagad* |
+AL2821/ vayaḥsu (sarveṣv* a+vaśaṃ* vikarṣati Csarveṣu ca saṃvikarṣati )|
+AL2822/ vināśa+kāle katham a+vyavasthite |
+AL2823/ jarā pratīkṣyā viduṣā śama+īpsunā ||11.61|
+AL2824/ jarā+āyudho* vyādhi+vikīrṇa+sāyako* |
+AL2825/ yadā*antako* vyādha* (iva*a+śivaḥ Civa*āśritaḥ )sthitaḥ |
+AL2826/ prajā+mṛgān bhāgya+vana+āśritāṃs* tudan |
+AL2827/ vayaḥ+prakarṣaṃ* prati ko* mano+rathaḥ ||11.62|
+AL2828/ (ato* Csuto* )yuvā vā sthaviro* *atha+vā śiśus* |
+AL2829/ tathā tvarāvān iha kartum arhati |
+AL2830/ yathā bhaved* dharmavataḥ (kṛta+ātmanaḥ Ckṛpā+ātmanaḥ )|
+AL2831/ pravṛttir* iṣṭā vinivṛttir* eva vā ||11.63|
+AL2832/ yad* āttha (ca*api*iṣṭa+Cvā dīpta+)phalāṃ* kula+ucitāṃ* |
+AL2833/ kuruṣva dharmāya makha+kriyām iti |
+AL2834/ namo* makhebhyo* na hi kāmaye sukhaṃ* |
+AL2835/ parasya duḥkha+(kriyayā yad* iṣyate Ckriyayā*āpadiśyate )||11.64|
+AL2836/ paraṃ* hi hantuṃ* vi+vaśaṃ* phala+īpsayā |
+AL2837/ na yukta+rūpaṃ* karuṇā+ātmanaḥ sataḥ |
+AL2838/ kratoḥ phalaṃ* yady* api śāśvataṃ* bhavet |
+AL2839/ tathā*api kṛtvā kim (u yat kṣaya+ātmakam Cupakṣaya+ātmakam )||11.65|
+AL2840/ bhavec* ca dharmo* yadi na*a+paro* vidhir* |
+AL2841/ vratena śīlena manaḥ+śamena vā |
+AL2842/ tathā*api na*eva*arhati sevituṃ* kratuṃ* |
+AL2843/ viśasya yasmin param ucyate phalam ||11.66|
+AL2844/ iha*api tāvat puruṣasya tiṣṭhataḥ |
+AL2845/ pravartate yat para+hiṃsayā sukham |
+AL2846/ tad* apy* an+iṣṭaṃ* sa+ghṛṇasya dhīmato* |
+AL2847/ bhava+antare kiṃ* (bata Cvata )yan* na dṛśyate ||11.67|
+AL2848/ na ca pratāryo* *asmi phala+pravṛttaye |
+AL2849/ bhaveṣu rājan ramate na me manaḥ |
+AL2850/ latā* iva*ambho+dhara+vṛṣṭi+tāḍitāḥ |
+AL2851/ pravṛttayaḥ sarva+gatā* hi cañcalāḥ ||11.68|
+AL2852/ iha*āgataś* ca*aham ito* didṛkṣayā |
+AL2853/ muner* arāḍasya vimokṣa+vādinaḥ |
+AL2854/ prayāmi ca*adya*eva nṛ+pa*astu te śivaṃ* |
+AL2855/ vacaḥ (kṣamethā* mama tattva+Ckṣamethāḥ śama+tattva+)niṣṭhuram ||11.69|
+AL2856/ (ava*indravad* Catha*indravad* )divy* ava śaśvad* arkavad* |
+AL2857/ guṇair* ava śreya* iha*ava gām ava |
+AL2858/ ava*āyur* āryair* ava sat+sutān ava |
+AL2859/ śriyaś* ca rājann* ava dharmam ātmanaḥ ||11.70|
+AL2860/ hima+ari+ketu+udbhava+(saṃbhava+antare Csaṃplava*antare )|
+AL2861/ yathā dvi+jo* yāti vimokṣayaṃs* tanum |
+AL2862/ hima+ari+(śatru+kṣaya+Cśatruṃ* kṣaya+)śatru+(ghātane Cghātinas* )|
+AL2863/ tathā*antare yāhi (vimokṣayan Cvimocayan )manaḥ ||11.71|
+AL2864/ nṛ+po* *abravīt sa+añjalir* āgata+spṛho* |
+AL2865/ yathā+iṣṭam (āpnotu Cāpnoti )bhavān a+vighnataḥ |
+AL2866/ avāpya kāle kṛta+kṛtyatām imāṃ* |
+AL2867/ mama*api kāryo* bhavatā tv* anugrahaḥ ||11.72|
+AL2868/ sthiraṃ* pratijñāya tathā*iti pārthive |
+AL2869/ tataḥ sa* vaiśvaṃtaram āśramaṃ* yayau |
+AL2870/ parivrajantaṃ* (tam udīkṣya Csamudīkṣya )vismito* |
+AL2871/ nṛ+po* *api (vavrāja puriṃ* giri+vrajam Cca prāpur* imaṃ* giriṃ* vrajan )||11.73|
+
+<B 12>
+
+dvā+daśaḥ sargaḥ |12|
+AL2872/ tataḥ śama+vihārasya |muner* ikṣvāku+candra+māḥ |
+AL2873/ arāḍasya*āśramaṃ* bheje |vapuṣā pūrayann* iva ||12.1|
+AL2874/ sa* kālāma+sa+gotreṇa |tena*ālokya*eva dūrataḥ |
+AL2875/ uccaiḥ sv+āgatam ity* uktaḥ |samīpam upajagmivān ||12.2|
+AL2876/ tāv* ubhau nyāyataḥ pṛṣṭvā |dhātu+sāmyaṃ* paras+param |
+AL2877/ dāravyor* medhyayor* vṛṣyoḥ |śucau deśe (niṣedatuḥ Cniṣīdatuḥ )||12.3|
+AL2878/ tam āsīnaṃ* nṛ+pa+sutaṃ* |so* *abravīn* muni+sattamaḥ |
+AL2879/ bahu+māna+viśālābhyāṃ* |darśanābhyāṃ* pibann* iva ||12.4|
+AL2880/ viditaṃ* me yathā saumya |niṣkrānto* bhavanād* asi |
+AL2881/ chittvā snehamayaṃ* pāśaṃ* |pāśaṃ* dṛpta* iva dvi+paḥ ||12.5|
+AL2882/ sarvathā dhṛtimac* ca*eva |prājñaṃ* ca*eva manas* tava |
+AL2883/ yas* tvaṃ* prāptaḥ śriyaṃ* tyaktvā |latāṃ* viṣa+phalām iva ||12.6|
+AL2884/ na*āścaryaṃ* jīrṇa+vayaso* |yaj* jagmuḥ pārthivā* vanam |
+AL2885/ apatyebhyaḥ śriyaṃ* dattvā |bhukta+ucchiṣṭām iva srajam ||12.7|
+AL2886/ idaṃ* me matam āścaryaṃ* |nave vayasi yad* bhavān |
+AL2887/ a+bhuktvā*eva śriyaṃ* prāptaḥ |sthito* viṣaya+go+care ||12.8|
+AL2888/ tad* vijñātum imaṃ* dharmaṃ* |paramaṃ* bhājanaṃ* bhavān |
+AL2889/ jñāna+(plavam Cpūrvam )adhiṣṭhāya |śīghraṃ* duḥkha+arṇavaṃ* tara ||12.9|
+AL2890/ śiṣye yady* api vijñāte |śāstraṃ* kālena (varṇyate Cvartate )|
+AL2891/ gāmbhīryād* vyavasāyāc* ca |(na parīkṣyo* Csu+parīkṣyo* )bhavān mama ||12.10|
+AL2892/ iti vākyam arāḍasya |vijñāya sa* (nara+ṛṣabhaḥ Cnara+adhipaḥ )|
+AL2893/ babhūva parama+prītaḥ |provāca*uttaram eva ca ||12.11|
+AL2894/ viraktasya*api yad* idaṃ* |saumukhyaṃ* bhavataḥ param |
+AL2895/ a+kṛta+artho* *apy* anena*asmi |kṛta+artha* iva saṃ+prati ||12.12|
+AL2896/ didṛkṣur* iva hi jyotir* |yiyāsur* iva daiśikam |
+AL2897/ tvad+(darśanam Cdarśanād* )ahaṃ* manye |titīrṣur* iva ca plavam ||12.13|
+AL2898/ tasmād* arhasi tad* vaktuṃ* |vaktavyaṃ* yadi manyase |
+AL2899/ jarā+maraṇa+rogebhyo* |yathā*ayaṃ* parimucyate ||12.14|
+AL2900/ ity* arāḍaḥ kumārasya |māhātmyād* eva coditaḥ |
+AL2901/ saṃkṣiptaṃ* kathayāṃ* cakre |svasya śāstrasya niścayam ||12.15|
+AL2902/ śrūyatām ayam asmākaṃ* |siddha+antaḥ śṛṇvatāṃ* vara |
+AL2903/ yathā bhavati saṃsāro* |yathā (ca*eva nivartate Cvai parivartate )||12.16|
+AL2904/ prakṛtiś* ca vikāraś* ca |janma mṛtyur* jarā*eva ca |
+AL2905/ tat tāvat sattvam ity* uktaṃ* |sthira+sattva parehi (tat Cnaḥ )||12.17|
+AL2906/ tatra tu (prakṛtiṃ* Cprakṛtir* )nāma |viddhi prakṛti+kovida |
+AL2907/ pañca bhūtāny* ahaṃ+kāraṃ* |buddhim a+vyaktam eva ca ||12.18|
+AL2908/ vikāra* iti (budhyasva Cbuddhiṃ* tu )|viṣayān indriyāṇi ca |
+AL2909/ pāṇi+pādaṃ* ca vādaṃ* ca |pāyu+upasthaṃ* tathā manaḥ ||12.19|
+AL2910/ asya kṣetrasya vijñānāt |kṣetra+jña* iti saṃjñi ca |
+AL2911/ kṣetra+jña* iti ca*ātmānaṃ* |kathayanty* ātma+cintakāḥ ||12.20|
+AL2912/ sa+śiṣyaḥ kapilaś* ca*iha |(pratibuddhir* Cpratibuddha* )iti smṛtiḥ |
+AL2913/ sa+(putro* *a+pratibuddhas* tu Cputraḥ pratibuddhaś* ca )|prajā+patir* iha*ucyate ||12.21|
+AL2914/ jāyate jīryate ca*eva |(bādhyate Cbudhyate )mriyate ca yat |
+AL2915/ tad* vyaktam iti vijñeyam |a+vyaktaṃ* tu viparyayāt ||12.22|
+AL2916/ a+jñānaṃ* karma tṛṣṇā ca |jñeyāḥ saṃsāra+hetavaḥ |
+AL2917/ sthito* *asmiṃs* tritaye (jantus* Cyas* tu )|tat sattvaṃ* (na*ativartate Cna*abhivartate )||12.23|
+AL2918/ vi+pratyayād* ahaṃ+kārāt |saṃdehād* abhisaṃplavāt |
+AL2919/ a+viśeṣa+an+upāyābhyāṃ* |saṅgād* abhyavapātataḥ ||12.24|
+AL2920/ tatra vi+pratyayo* nāma |viparītaṃ* pravartate |
+AL2921/ anyathā kurute kāryaṃ* |mantavyaṃ* manyate *anyathā ||12.25|
+AL2922/ bravīmy* aham ahaṃ* vedmi |gacchāmy* aham ahaṃ* sthitaḥ |
+AL2923/ iti*iha*evam ahaṃ+kāras* tv* |an+ahaṃ+kāra vartate ||12.26|
+AL2924/ yas* tu (bhāvān a+saṃdigdhān Cbhāvena saṃdigdhān )|ekī+bhāvena paśyati |
+AL2925/ mṛt+piṇḍa+vad* a+saṃdeha |saṃdehaḥ sa* iha*ucyate ||12.27|
+AL2926/ ya* eva*ahaṃ* sa* eva*idaṃ* |mano* buddhiś* ca karma ca |
+AL2927/ yaś* (ca*eva*eṣa* Cca*evaṃ* sa* )gaṇaḥ so* *aham |iti yaḥ so* *abhisaṃplavaḥ ||12.28|
+AL2928/ a+viśeṣaṃ* viśeṣa+jña |pratibuddha+a+prabuddhayoḥ |
+AL2929/ prakṛtīnāṃ* ca yo* veda |so* *a+viśeṣa* iti smṛtaḥ ||12.29|
+AL2930/ namas+kāra+vaṣaṭ+kārau |prokṣaṇa+abhyukṣaṇa+ādayaḥ |
+AL2931/ an+upāya* iti prājñair* |upāya+jña praveditaḥ ||12.30|
+AL2932/ sajjate yena dur+medhā* |mano+(vāg+buddhi+karmabhiḥ Cvāk+karma+buddhibhiḥ )|
+AL2933/ viṣayeṣv* an+abhiṣvaṅga |so* *abhiṣvaṅga* iti smṛtaḥ ||12.31|
+AL2934/ mama*idam aham asya*iti |yad* duḥkham abhimanyate |
+AL2935/ vijñeyo* *abhyavapātaḥ sa* |saṃsāre yena pātyate ||12.32|
+AL2936/ ity* a+(vidyāṃ* Cvidyā )hi (vidvān sa* Cvidvāṃsaḥ [??] )|pañca+(parvāṃ* Cparvā )samīhate |
+AL2937/ tamo* mohaṃ* mahā+mohaṃ* |tāmisra+dvayam eva ca ||12.33|
+AL2938/ tatra*ālasyaṃ* tamo* viddhi |mohaṃ* mṛtyuṃ* ca janma ca |
+AL2939/ mahā+mohas* tv* a+saṃmoha |kāma ity* (eva gamyatām Cavagamyatām )||12.34|
+AL2940/ yasmād* atra ca bhūtāni |pramuhyanti mahānty* api |
+AL2941/ tasmād* eṣa* mahā+bāho |mahā+moha* iti smṛtaḥ ||12.35|
+AL2942/ tāmisram iti ca*a+krodha |krodham eva*adhikurvate |
+AL2943/ viṣādaṃ* ca*andha+tāmisram |a+viṣāda pracakṣate ||12.36|
+AL2944/ anayā*a+vidyayā bālaḥ |saṃyuktaḥ pañca+parvayā |
+AL2945/ saṃsāre duḥkha+bhūyiṣṭhe |janmasv* abhiniṣicyate ||12.37|
+AL2946/ draṣṭā śrotā ca mantā ca |(kārya+karaṇam Ckāryaṃ* karaṇam )eva ca |
+AL2947/ aham ity* evam āgamya |saṃsāre parivartate ||12.38|
+AL2948/ (iha*ebhir* City* ebhir* )hetubhir* dhīman |(janma+Ctamaḥ+)srotaḥ pravartate |
+AL2949/ hetv+a+(bhāvāt Cbhāve )phala+a+bhāva* |iti vijñātum arhasi ||12.39|
+AL2950/ tatra (samyaṅ+Csamyag+)matir* vidyān* |mokṣa+kāma catuṣṭayam |
+AL2951/ pratibuddha+a+prabuddhau ca |vyaktam a+vyaktam eva ca ||12.40|
+AL2952/ yathāvad* etad* vijñāya |kṣetra+jño* hi catuṣṭayam |
+AL2953/ (ājavaṃjavatāṃ* Cārjavaṃ* javatāṃ* )hitvā |prāpnoti padam a+kṣaram ||12.41|
+AL2954/ ity+arthaṃ* brāhmaṇā* loke |parama+brahma+vādinaḥ |
+AL2955/ brahma+caryaṃ* caranti*iha |brāhmaṇān vāsayanti ca ||12.42|
+AL2956/ iti vākyam idaṃ* śrutvā |munes* tasya nṛ+pa+ātma+jaḥ |
+AL2957/ abhyupāyaṃ* ca papraccha |padam eva ca naiṣṭhikam ||12.43|
+AL2958/ brahma+caryam idaṃ* caryaṃ* |yathā yāvac* ca yatra ca |
+AL2959/ dharmasya*asya ca pary+antaṃ* |bhavān vyākhyātum arhati ||12.44|
+AL2960/ ity* arāḍo* yathā+śāstraṃ* |vispaṣṭa+arthaṃ* samāsataḥ |
+AL2961/ tam eva*anyena kalpena |dharmam asmai vyabhāṣata ||12.45|
+AL2962/ ayam ādau gṛhān* muktvā |bhaikṣākaṃ* liṅgam āśritaḥ |
+AL2963/ samudācāra+vistīrṇaṃ* |śīlam ādāya vartate ||12.46|
+AL2964/ saṃtoṣaṃ* param āsthāya |yena tena yatas* tataḥ |
+AL2965/ viviktaṃ* sevate vāsaṃ* |nir+dvaṃdvaḥ śāstra+vit+kṛtī ||12.47|
+AL2966/ tato* rāgād* bhayaṃ* dṛṣṭvā |vairāgyāc* ca paraṃ* śivam |
+AL2967/ nigṛhṇann* indriya+grāmaṃ* |yatate manasaḥ (śame Cśrame )||12.48|
+AL2968/ atha*u viviktaṃ* kāmebhyo* |vyāpāda+ādibhya* eva ca |
+AL2969/ viveka+jam avāpnoti |pūrva+dhyānaṃ* vitarkavat ||12.49|
+AL2970/ tac* ca (dhyāna+sukhaṃ* Cdhyānaṃ* sukhaṃ* )prāpya |tat tad* eva vitarkayan |
+AL2971/ a+pūrva+sukha+lābhena |hriyate bāliśo* janaḥ ||12.50|
+AL2972/ śamena*evaṃ+vidhena*ayaṃ* |kāma+dveṣa+vigarhiṇā |
+AL2973/ brahma+lokam avāpnoti |paritoṣeṇa vañcitaḥ ||12.51|
+AL2974/ jñātvā vidvān vitarkāṃs* tu |manaḥ+saṃkṣobha+kārakān |
+AL2975/ tad+viyuktam avāpnoti |dhyānaṃ* prīti+sukha+anvitam ||12.52|
+AL2976/ hriyamāṇas* tayā prītyā |yo* viśeṣaṃ* na paśyati |
+AL2977/ sthānaṃ* bhāsvaram āpnoti |deveṣv* (ābhāsvareṣu saḥ Cābhā+sureṣv* api )||12.53|
+AL2978/ yas* tu prīti+sukhāt tasmād |vivecayati mānasam |
+AL2979/ tṛtīyaṃ* labhate dhyānaṃ* |sukhaṃ* prīti+vivarjitam ||12.54|
+AL2980/ yas* tu tasmin sukhe magno* |na viśeṣāya yatnavān |
+AL2981/ śubha+kṛtsnaiḥ sa* sāmānyaṃ* |sukhaṃ* prāpnoti daivataiḥ ||12.55|
+AL2982/ tā+dṛśaṃ* sukham āsādya |yo* na (rajyaty* upekṣakaḥ Crajyann* upekṣate )|
+AL2983/ caturthaṃ* dhyānam āpnoti |sukha+duḥkha+vivarjitam ||12.56|
+AL2984/ tatra ke+cid* vyavasyanti |mokṣa* ity* (abhimāninaḥ Capi māninaḥ )|
+AL2985/ sukha+duḥkha+parityāgād* |a+vyāpārāc* ca cetasaḥ ||12.57|
+AL2986/ asya dhyānasya tu phalaṃ* |samaṃ* devair* bṛhat+phalaiḥ |
+AL2987/ kathayanti (bṛhat+kālaṃ* |bṛhat+Cvṛhat+phalaṃ* |vṛhat+)prajñā+parīkṣakāḥ ||12.58|
+AL2988/ samādher* vyutthitas* tasmād* |dṛṣṭvā doṣāṃś* *charīriṇām |
+AL2989/ jñānam ārohati prājñaḥ |śarīra+vinivṛttaye ||12.59|
+AL2990/ tatas* tad* dhyānam utsṛjya |viśeṣe kṛta+niścayaḥ |
+AL2991/ kāmebhya* iva (sa* prājño* Csat+prājño* )|rūpād* api virajyate ||12.60|
+AL2992/ śarīre khāni yāny* asmin |tāny* ādau parikalpayan |
+AL2993/ ghaneṣv* api tato* dravyeṣv* |ākāśam adhimucyate ||12.61|
+AL2994/ ākāśa+(gatam Csamam )ātmānaṃ* |saṃkṣipya tv* a+paro* budhaḥ |
+AL2995/ (tad* eva*an+Ctadā*eva*an+)antataḥ paśyan |viśeṣam adhigacchati ||12.62|
+AL2996/ adhy+ātma+(kuśalas* tv* Ckuśaleṣv* )anyo* |nivartya*ātmānam ātmanā |
+AL2997/ kiṃ+cin* na*asti*iti saṃpaśyann* |ākiṃcanya* iti smṛtaḥ ||12.63|
+AL2998/ tato* muñjād* iṣīkā*iva |śakuniḥ pañjarād* iva |
+AL2999/ kṣetra+jño* niḥsṛto* dehān* |mukta* ity* abhidhīyate ||12.64|
+AL3000/ etat tat paramaṃ* brahma |nir+liṅgaṃ* dhruvam a+kṣaram |
+AL3001/ yan* mokṣa* iti tattva+jñāḥ |kathayanti manīṣiṇaḥ ||12.65|
+AL3002/ ity* upāyaś* ca mokṣaś* ca |mayā saṃdarśitas* tava |
+AL3003/ yadi jñātaṃ* yadi (rucir* Cruci )|yathāvat pratipadyatām ||12.66|
+AL3004/ jaigīṣavyo* *atha janako* |vṛddhaś* ca*eva parāśaraḥ |
+AL3005/ imaṃ* panthānam āsādya |muktā* hy* anye ca mokṣiṇaḥ ||12.67|
+AL3006/ iti tasya sa* tad* vākyaṃ* |gṛhītvā (tu Cna )vicārya ca |
+AL3007/ pūrva+hetu+bala+prāptaḥ |praty+uttaram uvāca (ha Csaḥ )||12.68|
+AL3008/ śrutaṃ* jñānam idaṃ* sūkṣmaṃ* |parataḥ parataḥ śivam |
+AL3009/ (kṣetra+jñasya*a+Ckṣetreṣv* asya*a+)parityāgād* |avaimy* etad* a+naiṣṭhikam ||12.69|
+AL3010/ vikāra+prakṛtibhyo* hi |kṣetra+jñaṃ* muktam apy* aham |
+AL3011/ manye prasava+dharmāṇaṃ* |(bīja+Cvīja+)dharmāṇam eva ca ||12.70|
+AL3012/ viśuddho* yady* api hy* ātmā |nirmukta* iti kalpyate |
+AL3013/ ((Cbhūyaḥ pratyaya+sad+bhāvād* |a+muktaḥ sa* bhaviṣyati C)) ||12.71|
+AL3014/ ((Cṛtu+bhūmy+ambu+virahād* |yathā bījaṃ* na rohati | C))
+AL3015/ ((Crohati pratyayais* tais* tais* |tadvat so* *api mato* mama C))||12.72|
+AL3016/ ((Cyat karma+a+jñāna+tṛṣṇānāṃ* |tyāgān* mokṣaś* ca kalpyate | C))
+AL3017/ aty+antas* tat+parityāgaḥ |saty* ātmani na vidyate ||12.73|
+AL3018/ hitvā hitvā trayam idaṃ* |viśeṣas* tu*upalabhyate |
+AL3019/ ātmanas* tu sthitir* yatra |tatra sūkṣmam idaṃ* trayam ||12.74|
+AL3020/ sūkṣmatvāc* ca*eva doṣāṇām |a+vyāpārāc* ca cetasaḥ |
+AL3021/ dīrghatvād* āyuṣaś* ca*eva |mokṣas* tu parikalpyate ||12.75|
+AL3022/ ahaṃ+kāra+parityāgo* |yaś* ca*eṣa* parikalpyate |
+AL3023/ saty* ātmani parityāgo* |na*ahaṃ+kārasya vidyate ||12.76|
+AL3024/ saṃkhyā+ādibhir* a+muktaś* ca |nir+guṇo* na bhavaty* ayam |
+AL3025/ tasmād* a+sati nairguṇye |na*asya mokṣo* *abhidhīyate ||12.77|
+AL3026/ guṇino* hi guṇānāṃ* ca |vyatireko* na vidyate |
+AL3027/ rūpa+uṣṇābhyāṃ* virahito* |na hy* agnir* upalabhyate ||12.78|
+AL3028/ prāg* dehān* na bhaved* dehī |prāg* guṇebhyas* tathā guṇī |
+AL3029/ (tasmād* Ckasmād* )ādau vimuktaḥ (san Csañ* )|śarīrī badhyate punaḥ ||12.79|
+AL3030/ kṣetra+jño* vi+śarīraś* ca |jño* vā syād* a+jña* eva vā |
+AL3031/ yadi jño* jñeyam asya*asti |jñeye sati na mucyate ||12.80|
+AL3032/ atha*a+jña* iti siddho* vaḥ |kalpitena kim ātmanā |
+AL3033/ vinā*api hy* ātmanā*a+jñānaṃ* |prasiddhaṃ* kāṣṭha+kuḍyavat ||12.81|
+AL3034/ parataḥ paratas* tyāgo* |yasmāt tu guṇavān smṛtaḥ |
+AL3035/ tasmāt sarva+parityāgān* |manye kṛtsnāṃ* kṛta+arthatām ||12.82|
+AL3036/ iti dharmam arāḍasya |viditvā na tutoṣa saḥ |
+AL3037/ a+kṛtsnam iti vijñāya |tataḥ pratijagāma ha ||12.83|
+AL3038/ viśeṣam atha śuśrūṣur* |udrakasya*āśramaṃ* yayau |
+AL3039/ ātma+grāhāc* ca tasya*api |jagṛhe na sa* darśanam ||12.84|
+AL3040/ saṃjñā+saṃjñitvayor* doṣaṃ* |jñātvā hi munir* udrakaḥ |
+AL3041/ ākiṃcinyāt paraṃ* lebhe |(*a+saṃjñā+a+saṃjñā+ātmikāṃ* Csaṃjñā+a+saṃjñā+ātmikāṃ* )gatim ||12.85|
+AL3042/ yasmāc* ca*ālambane sūkṣme |saṃjñā+a+saṃjñe tataḥ param |
+AL3043/ na+a+saṃjñī na*eva saṃjñī*iti |tasmāt (tatra+gata+Ctatra gata+)spṛhaḥ ||12.86|
+AL3044/ yataś* ca buddhis* tatra*eva |sthitā*anyatra*a+pracāriṇī |
+AL3045/ (sūkṣmā*a+paṭvī Csūkṣmā*apādi )tatas* tatra |na*a+saṃjñitvaṃ* na saṃjñitā ||12.87|
+AL3046/ yasmāc* ca (tad* Ctam )api prāpya |punar* āvartate jagat |
+AL3047/ bodhi+sattvaḥ paraṃ* prepsus* |tasmād* udrakam atyajat ||12.88|
+AL3048/ tato* hitvā*āśramaṃ* tasya |śreyo+arthī kṛta+niścayaḥ |
+AL3049/ bheje gayasya rāja+ṛṣer* |nagarī+saṃjñam āśramam ||12.89|
+AL3050/ atha nairañjanā+tīre |śucau śuci+parākramaḥ |
+AL3051/ cakāra vāsam eka+anta+ |(vihāra+abhiratir* C(vihāra+abhivratī )muniḥ ||12.90|
+AL3052/ ((C[[xxx]] tat+pūrvaṃ* |pañca+indriya+vaśa+uddhatān | C))
+AL3053/ ((Ctapaḥ [[xx]] vratino* bhikṣūn pañca niraikṣata C))||12.91|
+AL3054/ (te ca*upatasthur* Cpañca*upatasthur* )dṛṣṭvā*atra |bhikṣavas* taṃ* mumukṣavaḥ |
+AL3055/ puṇya+arjita+dhana+ārogyam |indriya+arthā* iva*īśvaram ||12.92|
+AL3056/ saṃpūjyamānas* taiḥ prahvair* |(vinayād* anuvartibhiḥ Cvinaya+ānata+mūrtibhiḥ )|
+AL3057/ tad+vaśa+sthāyibhiḥ śiṣyair* |lolair* mana* iva*indriyaiḥ ||12.93|
+AL3058/ mṛtyu+janma+anta+karaṇe |syād* upāyo* *ayam ity* atha |
+AL3059/ duṣ+karāṇi samārebhe |tapāṃsy* an+aśanena saḥ ||12.94|
+AL3060/ upavāsa+vidhīn na+ekān |kurvan nara+dur+ācarān |
+AL3061/ varṣāṇi ṣaṭ (śama+Ckarma+)prepsur* |akarot kārśyam ātmanaḥ ||12.95|
+AL3062/ anna+kāleṣu ca*eka+ekaiḥ |(sa* kola+Csa+kola+)tila+taṇḍulaiḥ |
+AL3063/ a+pāra+pāra+saṃsāra+ |pāraṃ* prepsur* apārayat ||12.96|
+AL3064/ dehād* apacayas* tena |tapasā tasya yaḥ kṛtaḥ |
+AL3065/ sa* eva*upacayo* bhūyas* |tejasā*asya kṛto* *abhavat ||12.97|
+AL3066/ kṛśo* *apy* a+kṛśa+kīrti+śrīr* |hlādaṃ* cakre *anya+(cakṣuṣām Ccakṣuṣam )|
+AL3067/ kumudānām iva śarac+ |chukla+pakṣa+ādi+candra+māḥ ||12.98|
+AL3068/ tvag+asthi+śeṣo* niḥ+śeṣair* |medaḥ+piśita+śoṇitaiḥ |
+AL3069/ kṣīṇo* *apy* a+kṣīṇa+gāmbhīryaḥ |samudra* iva sa* vyabhāt ||12.99|
+AL3070/ atha kaṣṭa+tapaḥ+spaṣṭa+ |vy+artha+kliṣṭa+tanur* muniḥ |
+AL3071/ bhava+bhīrur* imāṃ* cakre |buddhim buddhatva+kāṅkṣayā ||12.100|
+AL3072/ na*ayaṃ* dharmo* virāgāya |na bodhāya na muktaye |
+AL3073/ jambu+mūle mayā prāpto* |yas* tadā sa* vidhir* dhruvaḥ ||12.101|
+AL3074/ na ca*asau dur+balena*āptuṃ* |śakyam ity* āgata+ādaraḥ |
+AL3075/ śarīra+bala+vṛddhy+artham |idaṃ* bhūyo* *anvacintayat ||12.102|
+AL3076/ kṣut+pipāsā+śrama+klāntaḥ |śramād* a+sva+stha+mānasaḥ |
+AL3077/ prāpnuyān* manasā*avāpyaṃ* |phalaṃ* katham a+nirvṛtaḥ ||12.103|
+AL3078/ nirvṛtiḥ prāpyate samyak |satata+indriya+tarpaṇāt |
+AL3079/ saṃtarpita+indriyatayā |manaḥ+svāsthyam avāpyate ||12.104|
+AL3080/ sva+stha+prasanna+manasaḥ |samādhir* upapadyate |
+AL3081/ samādhi+yukta+cittasya |dhyāna+yogaḥ pravartate ||12.105|
+AL3082/ dhyāna+pravartanād* dharmāḥ |prāpyante yair* avāpyate |
+AL3083/ dur+labhaṃ* śāntam a+jaraṃ* |paraṃ* tad* a+mṛtaṃ* padam ||12.106|
+AL3084/ tasmād* āhāra+mūlo* *ayam |upāya* iti+niścayaḥ |
+AL3085/ (āhāra+Casūri+)karaṇe dhīraḥ |kṛtvā*a+mita+matir* matim ||12.107|
+AL3086/ snāto* nairañjanā+tīrād* |uttatāra śanaiḥ kṛśaḥ |
+AL3087/ bhaktyā*avanata+śākha+agrair* |datta+hastas* taṭa+drumaiḥ ||12.108|
+AL3088/ atha go+pa+adhipa+sutā |daivatair* abhicoditā |
+AL3089/ udbhūta+hṛdaya+ānandā |tatra nanda+balā*āgamat ||12.109|
+AL3090/ sita+śaṅkha+ujjvala+bhujā |nīla+kambala+vāsinī |
+AL3091/ sa+phena+mālā+nīla+ambur* |yamunā*iva sarid+varā ||12.110|
+AL3092/ sā (śrāddha+āvardhita+Cśraddhā+vardhita+)prītir* |vikasal+locana+utpalā |
+AL3093/ śirasā praṇipatya*enaṃ* |grāhayām āsa pāyasam ||12.111|
+AL3094/ kṛtvā tad+upabhogena |prāpta+janma+phalāṃ* sa* tām |
+AL3095/ bodhi+prāptau sam+artho* *abhūt |saṃtarpita+ṣaḍ+indriyaḥ ||12.112|
+AL3096/ paryāpta+āpyāna+(mūrtiś* Cmūrtaś* )ca |(sa+arthaṃ* sva+Csa+ardhaṃ* su+)yaśasā muniḥ |
+AL3097/ kānti+(dhairye babhāra*ekaḥ |śaśa+aṅka+arṇavayor* dvayoḥ Cdhairya+eka+bhāra+ekaḥ |śaśa+aṅka+arṇavaval* babhau )||12.113|
+AL3098/ āvṛtta* iti vijñāya |taṃ* jahuḥ (pañca bhikṣavaḥ Cpañca+bhikṣavaḥ )|
+AL3099/ manīṣiṇam iva*ātmānaṃ* |nirmuktaṃ* (pañca dhātavaḥ Cpañca+dhātavaḥ )||12.114|
+AL3100/ vyavasāya+dvitīyo* *atha |śādvalās* tīrṇa+bhū+talam |
+AL3101/ so* *aśvattha+mūlaṃ* prayayau |bodhāya kṛta+niścayaḥ ||12.115|
+AL3102/ tatas* tadānīṃ* gaja+rāja+vikramaḥ |
+AL3103/ pada+svanena*an+upamena bodhitaḥ |
+AL3104/ mahā+muner* āgata+bodhi+niścayo* |
+AL3105/ jagāda kālo* bhuja+ga+uttamaḥ stutim ||12.116|
+AL3106/ yathā mune tvac+caraṇa+avapīḍitā |
+AL3107/ muhur* muhur* niṣṭanati*iva medinī |
+AL3108/ yathā ca te rājati sūryavat prabhā |
+AL3109/ dhruvaṃ* tvam iṣṭaṃ* phalam adya bhokṣyase ||12.117|
+AL3110/ yathā bhramantyo* divi (cāṣa+Cvāya+)paṅktayaḥ |
+AL3111/ pra+dakṣiṇaṃ* tvāṃ* kamala+akṣa kurvate |
+AL3112/ yathā ca saumyā* divi vānti vāyavas* |
+AL3113/ tvam adya buddho* niyataṃ* bhaviṣyasi ||12.118|
+AL3114/ tato* bhujaṃ+ga+pravareṇa saṃstutas* |
+AL3115/ tṛṇāny* upādāya śucīni lāvakāt |
+AL3116/ kṛta+pratijño* niṣasāda bodhaye |
+AL3117/ mahā+taror* mūlam upāśritaḥ śuceḥ ||12.119|
+AL3118/ tataḥ sa* pary+aṅkam a+kampyam uttamaṃ* |
+AL3119/ babandha supta+ura+ga+bhoga+piṇḍitam |
+AL3120/ bhinadmi tāvad* bhuvi na*etad* āsanaṃ* |
+AL3121/ na yāmi yāvat kṛta+kṛtyatām iti ||12.120|
+AL3122/ tato* yayur* mudam a+tulāṃ* diva+okaso* |
+AL3123/ (vavāśire Cvavāsire )na mṛga+(gaṇāḥ Cgaṇā* )na pakṣiṇaḥ |
+AL3124/ na sasvanur* vana+taravo* *anila+āhatāḥ |
+AL3125/ kṛta+āsane bhagavati (niścita+ātmani Cniś+cala+ātmani )||12.121|
+
+<B 13>
+
+trayo+daśaḥ sargaḥ |13|
+AL3126/ tasmin vimokṣāya kṛta+pratijñe |
+AL3127/ rāja+ṛṣi+vaṃśa+prabhave mahā+ṛṣau |
+AL3128/ tatra*upaviṣṭe prajaharṣa lokas* |
+AL3129/ tatrāsa sad+dharma+ripus* tu māraḥ ||13.1|
+AL3130/ yaṃ* kāma+devaṃ* pravadanti loke |
+AL3131/ citra+āyudhaṃ* puṣpa+śaraṃ* tathā*eva |
+AL3132/ kāma+pracāra+adhi+patiṃ* tam eva |
+AL3133/ mokṣa+dviṣaṃ* māram udāharanti ||13.2|
+AL3134/ tasya+ātma+jā* vibhrama+harṣa+darpās* |
+AL3135/ tisro* (*a+rati+Crati+)prīti+tṛṣaś* ca kanyāḥ |
+AL3136/ papracchur* enaṃ* manaso* vikāraṃ* |
+AL3137/ sa* tāṃś* ca tāś* ca*eva vaco* (*abhyuvāca Cbabhāṣe )||13.3|
+AL3138/ asau munir* niścaya+varma bibhrat |
+AL3139/ sattva+āyudhaṃ* buddhi+śaraṃ* vikṛṣya |
+AL3140/ jigīṣur* āste viṣayān madīyān |
+AL3141/ tasmād* ayaṃ* me manaso* viṣādaḥ ||13.4|
+AL3142/ yadi hy* asau mām abhibhūya yāti |
+AL3143/ lokāya ca*ākhyāty* apavarga+mārgam |
+AL3144/ śūnyas* tato* *ayaṃ* viṣayo* mama*adya |
+AL3145/ vṛttāc* cyutasya*iva videha+bhartuḥ ||13.5|
+AL3146/ tad* yāvad* eva*eṣa* na labdha+cakṣur* |
+AL3147/ mad+go+care tiṣṭhati yāvad* eva |
+AL3148/ yāsyāmi tāvad* vratam asya bhettuṃ* |
+AL3149/ setuṃ* nadī+vega* (iva*ati+vṛddhaḥ Civa*abhivṛddhaḥ )||13.6|
+AL3150/ tato* dhanuḥ puṣpamayaṃ* gṛhītvā |
+AL3151/ (śarān jagan+moha+Cśarāṃs* tathā moha+)karāṃś* ca pañca |
+AL3152/ so* *aśva+ttha+mūlaṃ* sa+suto* *abhyagacchad* |
+AL3153/ a+svāsthya+kārī manasaḥ prajānām ||13.7|
+AL3154/ atha praśāntaṃ* munim āsana+sthaṃ* |
+AL3155/ pāraṃ* titīrṣuṃ* bhava+sāgarasya |
+AL3156/ viṣajya savyaṃ* karam āyudha+agre |
+AL3157/ (krīḍan Ckrīḍañ* )śareṇa*idam uvāca māraḥ ||13.8|
+AL3158/ uttiṣṭha bhoḥ kṣatriya mṛtyu+bhīta |
+AL3159/ (cara sva+dharmaṃ* Cvarasva dharmaṃ* )tyaja mokṣa+dharmam |
+AL3160/ (bāṇaiś* Cvāṇaiś* )ca (yajñaiś* ca C[[xxx]] )vinīya (lokaṃ* Clokān )|
+AL3161/ (lokāt padaṃ* Clokān parān )prāpnuhi vāsavasya ||13.9|
+AL3162/ panthā hi niryātum ayaṃ* yaśasyo* |
+AL3163/ yo* vāhitaḥ pūrvatamair* nara+indraiḥ |
+AL3164/ jātasya rāja+ṛṣi+kule viśāle |
+AL3165/ bhaikṣākam a+ślāghyam idaṃ* prapattum ||13.10|
+AL3166/ atha*adya na*uttiṣṭhasi (niścita+ātman Cniścita+ātmā )|
+AL3167/ bhava sthiro* mā vimucaḥ pratijñām |
+AL3168/ mayā*udyato* hy* eṣa* śaraḥ sa* eva |
+AL3169/ yaḥ (śūrpake Csūryake )mīna+ripau vimuktaḥ ||13.11|
+AL3170/ (spṛṣṭaḥ Cpṛṣṭaḥ )sa* ca*anena kathaṃ+cid* aiḍaḥ |
+AL3171/ somasya naptā*apy* abhavad* vi+cittaḥ |
+AL3172/ sa* ca*abhavac* (*chaṃ+tanur* C*chāṃtanur* )a+sva+tantraḥ |
+AL3173/ kṣīṇe yuge kiṃ* (bata Cvata )dur+balo* *anyaḥ ||13.12|
+AL3174/ tat kṣipram uttiṣṭha labhasva saṃjñāṃ* |
+AL3175/ (bāṇo* Cvāṇo* )hy* ayaṃ* tiṣṭhati lelihānaḥ |
+AL3176/ priyā+vidheyeṣu rati+priyeṣu |
+AL3177/ yaṃ* cakra+vākeṣv* (iva Capi )na*utsṛjāmi ||13.13|
+AL3178/ ity* evam ukto* *api yadā nir+āstho* |
+AL3179/ na*eva*āsanaṃ* śākya+munir* bibheda |
+AL3180/ śaraṃ* tato* *asmai visasarja māraḥ |
+AL3181/ kanyāś* ca kṛtvā purataḥ sutāṃś* ca ||13.14|
+AL3182/ tasmiṃs* tu (bāṇe Cvāṇe )*api sa* vipramukte |
+AL3183/ cakāra na*āsthāṃ* na dhṛteś* cacāla |
+AL3184/ dṛṣṭvā tathā*enaṃ* viṣasāda māraś* |
+AL3185/ cintā+parītaś* ca śanair* jagāda ||13.15|
+AL3186/ śaila+indra+putrīṃ* prati yena viddho* |
+AL3187/ devo* *api śaṃ+bhuś* calito* babhūva |
+AL3188/ na cintayaty* eṣa* tam eva (bāṇaṃ* Cvāṇaṃ* )|
+AL3189/ kiṃ* syād* a+citto* na śaraḥ sa* eṣaḥ ||13.16|
+AL3190/ tasmād* ayaṃ* na*arhati puṣpa+(bāṇaṃ* Cvāṇaṃ* )|
+AL3191/ na harṣaṇaṃ* na*api rater* niyogam |
+AL3192/ arhaty* ayaṃ* bhūta+gaṇair* a+(saumyaiḥ Cśeṣaiḥ )|
+AL3193/ saṃtrāsana+ātarjana+tāḍanāni ||13.17|
+AL3194/ sasmāra māraś* ca tataḥ sva+sainyaṃ* |
+AL3195/ (vighnaṃ* śame Cvidhvaṃsanaṃ* )śākya+muneś* cikīrṣan |
+AL3196/ nānā+āśrayāś* ca*anucarāḥ parīyuḥ |
+AL3197/ (śala+Cśara+)druma+prāsa+gadā+asi+hastāḥ ||13.18|
+AL3198/ varāha+mīna+aśva+khara+uṣṭra+vaktrā* |
+AL3199/ vyāghra+ṛkṣa+siṃha+dvi+rada+ānanāś* ca |
+AL3200/ eka+īkṣaṇā* na+eka+mukhās* tri+śīrṣā* |
+AL3201/ lamba+udarāś* ca*eva pṛṣa+udarāś* ca ||13.19|
+AL3202/ (a+jānu+sakthā* Cajāsu saktā* )ghaṭa+jānavaś* ca |
+AL3203/ daṃṣṭra+āyudhāś* ca*eva nakha+āyudhāś* ca |
+AL3204/ (karaṅka+vaktrā* Ckabandhu+hastā* )bahu+mūrtayaś* ca |
+AL3205/ bhagna+ardha+vaktrāś* ca mahā+mukhāś* ca ||13.20|
+AL3206/ (bhasma+aruṇā* Ctāmra+aruṇā* )lohita+(bindu+Cvindu+)citrāḥ |
+AL3207/ khaṭvā+aṅga+hastā* hari+dhūmra+keśāḥ |
+AL3208/ lamba+srajo* vāraṇa+lamba+karṇāś* |
+AL3209/ carma+ambarāś* ca*eva nir+ambarāś* ca ||13.21|
+AL3210/ śveta+ardha+vaktrā* harita+ardha+kāyās* |
+AL3211/ tāmrāś* ca dhūmrā* harayo* *asitāś* ca |
+AL3212/ (vyāla+uttara+āsaṅga+Cvyāḍa+uttara+āsaṅga+)bhujās* tathā*eva |
+AL3213/ praghuṣṭa+ghaṇṭa+ākula+mekhalāś* ca ||13.22|
+AL3214/ tāla+pramāṇāś* ca gṛhīta+śūlā* |
+AL3215/ daṃṣṭra+ākarālāś* ca śiśu+pramāṇāḥ |
+AL3216/ urabhra+vaktrāś* ca vihaṃ+(gama+ākṣā* Cgamāś* ca )|
+AL3217/ mārjāra+vaktrāś* ca manuṣya+kāyāḥ ||13.23|
+AL3218/ prakīrṇa+keśāḥ śikhino* *ardha+muṇḍā* |
+AL3219/ (rakta+ambarā* Crajjv+ambarā* )vyākula+veṣṭanāś* ca |
+AL3220/ prahṛṣṭa+vaktrā* bhṛ+kuṭī+mukhāś* ca |
+AL3221/ tejo+harāś* ca*eva mano+harāś* ca ||13.24|
+AL3222/ ke+cid* vrajanto* bhṛśam āvavalgur* |
+AL3223/ anyo+anyam āpupluvire tathā*anye |
+AL3224/ cikrīḍur* ākāśa+gatāś* ca ke+cit |
+AL3225/ ke+cic* ca cerus* taru+mastakeṣu ||13.25|
+AL3226/ nanarta kaś+cid* bhramayaṃs* tri+śūlaṃ* |
+AL3227/ kaś+(cid* vipusphūrja Ccid* *dha pusphūrja )gadāṃ* vikarṣan |
+AL3228/ harṣeṇa kaś+cid* vṛṣavan* (nanarda Cnanarta )|
+AL3229/ kaś+cit prajajvāla tanū+ruhebhyaḥ ||13.26|
+AL3230/ evaṃ+vidhā* bhūta+gaṇāḥ sam+antāt |
+AL3231/ tad* bodhi+mūlaṃ* parivārya tasthuḥ |
+AL3232/ jighṛkṣavaś* ca*eva jighāṃsavaś* ca |
+AL3233/ bhartur* niyogaṃ* paripālayantaḥ ||13.27|
+AL3234/ taṃ* prekṣya mārasya ca pūrva+rātre |
+AL3235/ śākya+ṛṣabhasya*eva ca yuddha+kālam |
+AL3236/ na dyauś* cakāśe pṛthivī cakampe |
+AL3237/ prajajvaluś* ca*eva diśaḥ sa+śabdāḥ ||13.28|
+AL3238/ (viṣvag* Cviśvag* )vavau vāyur* udīrṇa+vegas* |
+AL3239/ tārā* na rejur* na babhau śaśa+aṅkaḥ |
+AL3240/ tamaś* ca bhūyo* (vitatāna rātriḥ Cvitatāra rātreḥ )|
+AL3241/ sarve ca saṃcukṣubhire samudrāḥ ||13.29|
+AL3242/ mahī+bhṛto* dharma+parāś* ca nāgā* |
+AL3243/ mahā+muner* vighnam a+mṛṣyamāṇāḥ |
+AL3244/ māraṃ* prati krodha+vivṛtta+netrā* |
+AL3245/ niḥśaśvasuś* ca*eva jajṛmbhire ca ||13.30|
+AL3246/ śuddha+adhivāsā* vibudha+ṛṣayas* tu |
+AL3247/ sad+dharma+siddhy+artham (abhipravṛttāḥ Civa pravṛttāḥ )|
+AL3248/ māre *anukampāṃ* manasā pracakrur* |
+AL3249/ vi+rāga+bhāvāt tu na roṣam īyuḥ ||13.31|
+AL3250/ tad* bodhi+mūlaṃ* samavekṣya kīrṇaṃ* |
+AL3251/ hiṃsā+ātmanā māra+balena tena |
+AL3252/ dharma+ātmabhir* loka+vimokṣa+kāmair* |
+AL3253/ babhūva hāhā+kṛtam (antarīkṣe Cantarīkṣam )||13.32|
+AL3254/ (upaplavaṃ* Cupaplutaṃ* )dharma+(vidhes* Cvidas* )tu tasya |
+AL3255/ dṛṣṭvā sthitaṃ* māra+balaṃ* mahā+ṛṣiḥ |
+AL3256/ na cukṣubhe na*api yayau vikāraṃ* |
+AL3257/ madhye gavāṃ* siṃha* iva*upaviṣṭaḥ ||13.33|
+AL3258/ māras* tato* bhūta+camūm udīrṇām |
+AL3259/ ājñāpayām āsa bhayāya tasya |
+AL3260/ svaiḥ svaiḥ prabhāvair* atha sā*asya senā |
+AL3261/ tad+dhairya+bhedāya matiṃ* cakāra ||13.34|
+AL3262/ ke+cic* calan na+eka+vilambi+jihvās* |
+AL3263/ (tīkṣṇa+agra+Ctīkṣṇa+ugra+)daṃṣṭrā* hari+maṇḍala+akṣāḥ |
+AL3264/ vidārita+āsyāḥ sthira+śaṅku+karṇāḥ |
+AL3265/ saṃtrāsayantaḥ kila nāma tasthuḥ ||13.35|
+AL3266/ tebhyaḥ sthitebhyaḥ sa* tathā+vidhebhyaḥ |
+AL3267/ rūpeṇa bhāvena ca dāruṇebhyaḥ |
+AL3268/ na vivyathe na*udvivije mahā+ṛṣiḥ |
+AL3269/ (krīḍat+su+Ckrīḍan su+)bālebhya* iva*uddhatebhyaḥ ||13.36|
+AL3270/ kaś+cit tato* (roṣa+Craudra+)vivṛtta+dṛṣṭis* |
+AL3271/ tasmai gadām udyamayāṃ* cakāra |
+AL3272/ tastambha bāhuḥ sa+gadas* tato* *asya |
+AL3273/ puraṃ+darasya*iva purā sa+vajraḥ ||13.37|
+AL3274/ ke+cit samudyamya śilās* tarūṃś* ca |
+AL3275/ viṣehire na*eva munau vimoktum |
+AL3276/ petuḥ sa+vṛkṣāḥ sa+śilās* tathā*eva |
+AL3277/ vajra+avabhagnā* iva vindhya+pādāḥ ||13.38|
+AL3278/ kaiś+cit samutpatya nabho* vimuktāḥ |
+AL3279/ śilāś* ca vṛkṣāś* ca paraśvadhāś* ca |
+AL3280/ tasthur* nabhasy* eva na ca*avapetuḥ |
+AL3281/ saṃdhyā+abhra+pādā* iva na+eka+varṇāḥ ||13.39|
+AL3282/ cikṣepa tasya*upari dīptam anyaḥ |
+AL3283/ kaḍaṅgaraṃ* parvata+śṛṅga+mātram |
+AL3284/ yan* mukta+mātraṃ* gagana+stham eva |
+AL3285/ tasya*anubhāvāc* *chatadhā (paphāla Cbabhūva )||13.40|
+AL3286/ kaś+cij* jalann* arka* iva*uditaḥ khād* |
+AL3287/ aṅgāra+varṣaṃ* mahad* utsasarja |
+AL3288/ cūṛnāni cāmīkara+kandarāṇāṃ* |
+AL3289/ kalpa+atyaye merur* iva pradīptaḥ ||13.41|
+AL3290/ tad* bodhi+mūle pravikīryamāṇam |
+AL3291/ aṅgāra+varṣaṃ* tu sa+visphuliṅgam |
+AL3292/ maitrī+vihārād* ṛṣi+sattamasya |
+AL3293/ babhūva rakta+utpala+(pattra+Cpatra+)varṣaḥ ||13.42|
+AL3294/ śarīra+citta+vyasana+ātapais* tair* |
+AL3295/ evaṃ+vidhais* taiś* ca nipātyamānaiḥ |
+AL3296/ na*eva*āsanāc* *chaākya+muniś* cacāla |
+AL3297/ (sva+niścayaṃ* Csvaṃ* niścayaṃ* )bandhum iva*upaguhya ||13.43|
+AL3298/ atha*a+pare (nirjigilur* Cnirjagalur* )mukhebhyaḥ |
+AL3299/ sarpān vijīrṇebhya* iva drumebhyaḥ |
+AL3300/ te mantra+baddhā* iva tat+samīpe |
+AL3301/ na śaśvasur* (na*utsasṛpur* Cnal*utsasṛjur* )na celuḥ ||13.44|
+AL3302/ bhūtvā*a+pare vāri+dharā* (bṛhantaḥ Cvṛhantaḥ )|
+AL3303/ sa+vidyutaḥ sa+aśani+caṇḍa+ghoṣāḥ |
+AL3304/ tasmin drume tatyajur* aśma+varṣaṃ* |
+AL3305/ tat puṣ.pa+varṣaṃ* ruciraṃ* babhūva ||13.45|
+AL3306/ cāpe *atha (bāṇo* Cvāṇo* )nihito* *a+pareṇa |
+AL3307/ jajvāla tatra*eva na niṣpapāta |
+AL3308/ an+īśvarasya*ātmani (dhūyamāno* Cdhūryamāṇo* )|
+AL3309/ dur+marṣaṇasya*iva narasya manyuḥ ||13.46|
+AL3310/ pañca*iṣavo* *anyena tu vipramuktās* |
+AL3311/ tasthur* (nabhasy* Cnayaty* )eva munau na petuḥ |
+AL3312/ saṃsāra+bhīror* viṣaya+pravṛttau |
+AL3313/ pañca*indriyāṇi*iva parīkṣakasya ||13.47|
+AL3314/ jighāṃsayā*anyaḥ prasasāra ruṣṭo* |
+AL3315/ gadāṃ* gṛhītvā*abhi+mukho* mahā+ṛṣeḥ |
+AL3316/ so* *a+prāpta+(kāmo* Ckālo* )vi+vaśaḥ papāta |
+AL3317/ doṣeṣv* iva*an+artha+kareṣu lokaḥ ||13.48|
+AL3318/ strī megha+kālī tu kapāla+hastā |
+AL3319/ kartuṃ* mahā+ṛṣeḥ kila (citta+moham Cmoha+cittam )|
+AL3320/ babhrāma tatra*a+niyataṃ* na tasthau |
+AL3321/ cala+ātmano* buddhir* iva*āgameṣu ||13.49|
+AL3322/ kaś+cit pradīptaṃ* praṇidhāya cakṣur* |
+AL3323/ netra+agninā*āśī+viṣavad* didhakṣuḥ |
+AL3324/ tatra*eva (na*āsīnam Cna*asīt taṃ* )ṛṣiṃ* dadarśa |
+AL3325/ kāma+ātmakaḥ śreya* iva*upadiṣṭam ||13.50|
+AL3326/ gurvīṃ* śilām udyamayaṃs* tathā*anyaḥ |
+AL3327/ śaśrāma moghaṃ* vihata+prayatnaḥ |
+AL3328/ niḥ+śreyasaṃ* jñāna+samādhi+gamyaṃ* |
+AL3329/ kāya+klamair* dharmam iva*āptu+kāmaḥ ||13.51|
+AL3330/ tarakṣu+siṃha+ākṛtayas* tathā*anye |
+AL3331/ praṇedur* uccair* mahataḥ praṇādān |
+AL3332/ sattvāni yaiḥ saṃcukucuḥ sam+antād* |
+AL3333/ vajra+āhatā* dyauḥ phalati*iti matvā ||13.52|
+AL3334/ mṛgā* gajāś* (ca*ārta+Cca*ārtta+)ravān sṛjanto* |
+AL3335/ vidudruvuś* ca*eva nililyire ca |
+AL3336/ rātrau ca tasyām ahani*iva digbhyaḥ |
+AL3337/ kha+gā* ruvantaḥ paripetur* (ārtāḥ Cārttāḥ )||13.53|
+AL3338/ teṣāṃ* praṇādais* tu tathā+vidhais* taiḥ |
+AL3339/ sarveṣu bhūteṣv* api kampiteṣu |
+AL3340/ munir* na tatrāsa na saṃcukoca |
+AL3341/ ravair* garutmān iva vāyasānām ||13.54|
+AL3342/ bhaya+āvahebhyaḥ pariṣad+gaṇebhyo* |
+AL3343/ yathā yathā na*eva munir* bibhāya |
+AL3344/ tathā tathā dharma+bhṛtāṃ* sa+patnaḥ |
+AL3345/ śokāc* ca roṣāc* ca (sasāda Csasāra )māraḥ ||13.55|
+AL3346/ bhūtaṃ* tataḥ kiṃ+cid* a+dṛśya+rūpaṃ* |
+AL3347/ viśiṣṭa+(bhūtaṃ* Crūpaṃ* )gagana+stham eva |
+AL3348/ dṛṣṭvā*ṛṣaye drugdham a+vaira+ruṣṭaṃ* |
+AL3349/ māraṃ* babhāṣe mahatā svareṇa ||13.56|
+AL3350/ moghaṃ* śramaṃ* na*arhasi māra kartuṃ* |
+AL3351/ hiṃsrā+ātmatām utsṛja gaccha śarma |
+AL3352/ na*eṣa* tvayā kampayituṃ* hi śakyo* |
+AL3353/ mahā+girir* merur* iva*anilena ||13.57|
+AL3354/ apy* uṣṇa+bhāvaṃ* jvalanaḥ prajahyād* |
+AL3355/ āpo* dravatvaṃ* pṛthivī sthiratvam |
+AL3356/ an+eka+kalpa+ācita+puṇya+karmā |
+AL3357/ na tv* eva jahyād* vyavasāyam eṣaḥ ||13.58|
+AL3358/ yo* niścayo* hy* asya parākramaś* ca |
+AL3359/ tejaś* ca yad* yā ca dayā prajāsu |
+AL3360/ a+prāpya na*utthāsyati tattvam eṣa* |
+AL3361/ tamāṃsy* a+hatvā*iva sahasra+raśmiḥ ||13.59|
+AL3362/ kāṣṭhaṃ* hi mathnan labhate huta+āśaṃ* |
+AL3363/ bhūmiṃ* khanan vindati ca*api toyam |
+AL3364/ nirbandhinaḥ kiṃ+(cana na*asty* a+sādhyaṃ* Cca na na*asya sādhyaṃ* )|
+AL3365/ nyāyena yuktaṃ* ca kṛtaṃ* ca sarvam ||13.60|
+AL3366/ tal* lokam (ārtaṃ* Cārttaṃ* )karuṇāyamāno* |
+AL3367/ rogeṣu rāga+ādiṣu vartamānam |
+AL3368/ mahā+(bhiṣaṅ* Cbhiṣag* )na*arhati vighnam eṣa* |
+AL3369/ jñāna+auṣadha+arthaṃ* parikhidyamānaḥ ||13.61|
+AL3370/ hṛte ca loke bahubhiḥ ku+mārgaiḥ |
+AL3371/ san+mārgam anvicchati yaḥ śrameṇa |
+AL3372/ sa* daiśikaḥ kṣobhayituṃ* na yuktaṃ* |
+AL3373/ su+deśikaḥ sārthae* iva pranaṣṭe ||13.62|
+AL3374/ sattveṣu naṣṭeṣu mahā+andha+(kāre Ckārair* )|
+AL3375/ jñāna+pradīpaḥ kriyamāṇa* eṣaḥ |
+AL3376/ āryasya nirvāpayituṃ* na sādhu |
+AL3377/ prajvālyamānas* tamasi*iva dīpaḥ ||13.63|
+AL3378/ dṛṣṭvā ca saṃsāramaye mahā+oghe |
+AL3379/ magnaṃ* jagat pāram a+vindamānam |
+AL3380/ yaś* ca*idam uttārayituṃ* pravṛttaḥ |
+AL3381/ (kaś* cintayet Ckaś+cin* nayet )tasya tu pāpam āryaḥ ||13.64|
+AL3382/ kṣamā+śipho* dhairya+vigāḍha+mūlaś* |
+AL3383/ cāritra+puṣpaḥ smṛti+buddhi+śākhaḥ |
+AL3384/ jñāna+drumo* dharma+phala+pradātā |
+AL3385/ na*utpāṭanaṃ* hy* arhati vardhamānaḥ ||13.65|
+AL3386/ baddhāṃ* dṛḍhaiś* cetasi moha+pāśair* |
+AL3387/ yasya prajāṃ* mokṣayituṃ* manīṣā |
+AL3388/ tasmin jighāṃsā tava na*upapannā |
+AL3389/ śrānte jagad+bandhana+mokṣa+hetoḥ ||13.66|
+AL3390/ bodhāya karmāṇi hi yāny* anena |
+AL3391/ kṛtāni teṣāṃ* niyato* *adya kālaḥ |
+AL3392/ sthāne tathā*asminn* upaviṣṭa* eṣa* |
+AL3393/ yathā*eva pūrve munayas* tathā*eva ||13.67|
+AL3394/ eṣā hi nābhir* vasu+dhā+talasya |
+AL3395/ kṛtsnena yuktā parameṇa dhāmnā |
+AL3396/ bhūmer* ato* *anyo* *asti hi na pradeśo* |
+AL3397/ (vegaṃ* Cveśaṃ* )samādher* (viṣaheta yo* *asya Cviṣayo* hitasya )||13.68|
+AL3398/ tan* mā kṛthāḥ śokam upehi śāntiṃ* |
+AL3399/ mā bhūn* mahimnā tava māra mānaḥ |
+AL3400/ viśrambhituṃ* na kṣamam a+dhruvā śrīś* |
+AL3401/ cale pade (vismayam Ckiṃ* padam )abhyupaiṣi ||13.69|
+AL3402/ tataḥ sa* saṃśrutya ca tasya tad* vaco* |
+AL3403/ mahā+muneḥ prekṣya ca niṣ+prakampatām |
+AL3404/ jagāma māro* vi+(mano* Cmanā* )hata+udyamaḥ |
+AL3405/ śarair* jagac+cetasi yair* (vihanyate Cvihanyase )||13.70|
+AL3406/ gata+praharṣā vi+phalī+kṛta+śramā |
+AL3407/ praviddha+pāṣāṇa+kaḍaṅgara+drumā |
+AL3408/ diśaḥ pradudrāva tato* *asya sā camūr* |
+AL3409/ hata+āśrayā*iva dviṣatā dviṣac+camūḥ ||13.71|
+AL3410/ dravati sa+(paripakṣe Cpara+pakṣe )nirjite puṣpa+ketau |
+AL3411/ jayati jita+tamaske nīrajaske mahā+ṛṣau |
+AL3412/ yuvatir* iva sa+hāsā dyauś* cakāśe sa+candrā |
+AL3413/ su+rabhi ca jala+garbhaṃ* puṣpa+varṣaṃ* papāta ||13.72|
+AL3414/ X(Ctathā*api pāpīyasi nirjite gate |
+AL3415/ Xdiśaḥ praseduḥ prababhau niśā+karaḥ |
+AL3416/ Xdivo* nipetur* bhuvi puṣpa+vṛṣṭayo* |
+AL3417/ Xrarāja yoṣā*iva vi+kalmaṣā niśā | C)
+
+<B 14>
+
+caturdaśaḥ sargaḥ |14|
+AL3418/ tato* māra+balaṃ* jitvā |dhairyeṇa ca śamena ca |
+AL3419/ parama+arthaṃ* vijijñāsuḥ |sa* dadhyau dhyāna+kovidaḥ ||14.1|
+AL3420/ sarveṣu dhyāna+vidhiṣu |prāpya ca*aiśvaryam uttamam |
+AL3421/ sasmāra prathame yāme |pūrva+janma+paraṃparām ||14.2|
+AL3422/ amutra*aham ayaṃ* nāma |cyutas* tasmād* iha*āgataḥ |
+AL3423/ iti janma+sahasrāṇi |sasmāra*anubhavann* iva ||14.3|
+AL3424/ smṛtvā janma ca mṛtyuṃ* ca |tāsu tāsu*upapattiṣu |
+AL3425/ tataḥ sattveṣu kāruṇyaṃ* |cakāra karuṇa+ātmakaḥ ||14.4|
+AL3426/ kṛtvā*iha sva+jana+utsargaṃ* |punar* anyatra ca kriyāḥ |
+AL3427/ a+trāṇaḥ khalu loko* *ayaṃ* |paribhramati cakravat ||14.5|
+AL3428/ ity* evaṃ* smaratas* tasya |babhūva niyata+ātmanaḥ |
+AL3429/ kadalī+garbha+niḥ+sāraḥ |saṃsāra* iti niścayaḥ ||14.6|
+AL3430/ dvitīye tv* āgate yāme |so* *a+dvitīya+parākramaḥ |
+AL3431/ divyaṃ* (lebhe Ccakṣuḥ )paraṃ* (cakṣuḥ Clebhe )|sarva+cakṣuṣmatāṃ* varaḥ ||14.7|
+AL3432/ tatas* tena sa* divyena |pariśuddhena cakṣuṣā |
+AL3433/ dadarśa nikhilaṃ* lokam |ādarśae* iva nir+male ||14.8|
+AL3434/ sattvānāṃ* paśyatas* tasya |nikṛṣṭa+utkṛṣṭa+karmaṇām |
+AL3435/ pracyutiṃ* ca*upapattiṃ* ca |vavṛdhe karuṇa+ātmatā ||14.9|
+AL3436/ ime duṣ+kṛta+karmāṇaḥ |prāṇino* yānti dur+gatim |
+AL3437/ ime *anye śubha+karmāṇaḥ |pratiṣṭhante tri+piṣṭape ||14.10|
+AL3438/ upapannāḥ pratibhaye |narake bhṛśa+dāruṇe |
+AL3439/ amī duḥkhair* bahu+vidhaiḥ |pīḍyante kṛpaṇaṃ* (bata Cvata )||14.11|
+AL3440/ pāyyante kvathitaṃ* ke+cid* |agni+varṇam ayo+rasam |
+AL3441/ āropyante ruvanto* *anye |niṣṭapta+stambham āyasam ||14.12|
+AL3442/ pacyante piṣṭavat ke+cid* |ayas+kumbhīṣv* avāṅ+mukhāḥ |
+AL3443/ dahyante karuṇaṃ* ke+cid* |dīpteṣv* aṅgāra+rāśiṣu ||14.13|
+AL3444/ ke+cit tīkṣṇair* ayo+daṃṣṭrair* |bhakṣyante dāruṇaiḥ śvabhiḥ |
+AL3445/ ke+cid* dhṛṣṭair* ayas+tuṇḍair* |vāyasair* āyasair* iva ||14.14|
+AL3446/ ke+cid* dāha+pariśrāntāḥ |śīta+cchāyā+abhikāṅkṣiṇaḥ |
+AL3447/ asi+(pattra+vanaṃ* Cpatraṃ* vanaṃ* )nīlaṃ* |baddhā* iva viśanty* amī ||14.15|
+AL3448/ pāṭyante dāruvat ke+cit |kuṭhārair* (baddha+Cbahu+)bāhavaḥ |
+AL3449/ duḥkhe *api na (vipacyante Cvipadyante )|karmabhir* dhārita+asavaḥ ||14.16|
+AL3450/ sukhaṃ* syād* iti yat karma |kṛtaṃ* duḥkha+nivṛttaye |
+AL3451/ phalaṃ* tasya*idam a+vaśair* |duḥkham eva*upabhujyate ||14.17|
+AL3452/ sukha+artham a+śubhaṃ* kṛtvā |yae* ete bhṛśa+duḥkhitāḥ |
+AL3453/ āsvādaḥ sa* kim eteṣāṃ* |karoti sukham aṇv* api ||14.18|
+AL3454/ hasadbhir* yat kṛtaṃ* karma |kaluṣaṃ* kaluṣa+ātmabhiḥ |
+AL3455/ etat pariṇate kāle |krośadbhir* anubhūyate ||14.19|
+AL3456/ yady* (evaṃ* Ceva )pāpa+karmāṇaḥ |paśyeyuḥ karmaṇāṃ* phalam |
+AL3457/ vameyur* (uṣṇaṃ* rudhiraṃ* Cuṣṇa+rudhiraṃ* )|marmasv* abhihatā* iva ||14.20|
+AL3458/ X(Cśārīrebhyo* *api duḥkhebhyo* |nārakebhyo* manasvinaḥ |
+AL3459/ Xan+āryaiḥ saha saṃvāso* |mama kṛcchramatamo* mataḥ | C)
+AL3460/ ime *anye karmabhiś* citraiś* |citta+vispanda+saṃbhavaiḥ |
+AL3461/ tiryag+yonau vicitrāyām |upapannās* tapasvinaḥ ||14.21|
+AL3462/ māṃsa+tvag+bāla+danta+arthaṃ* |vairād* api madād* api |
+AL3463/ hanyante (kṛpaṇaṃ* Ckṛpaṇā* )yatra |bandhūnāṃ* paśyatām api ||14.22|
+AL3464/ a+śaknuvanto* *apy* a+vaśāḥ |kṣut+tarṣa+śrama+pīḍitāḥ |
+AL3465/ go+aśva+bhūtāś* ca vāhyante |pratoda+kṣata+mūrtayaḥ ||14.23|
+AL3466/ vāhyante gaja+bhūtāś* ca |balīyāṃso* *api dur+balaiḥ |
+AL3467/ aṅkuśa+kliṣṭa+mūrdhānas* |tāḍitāḥ pāda+pārṣṇibhiḥ ||14.24|
+AL3468/ satsv* apy* anyeṣu duḥkheṣu |duḥkhaṃ* yatra viśeṣataḥ |
+AL3469/ paras+para+virodhāc* ca |parādhīnatayā*eva ca ||14.25|
+AL3470/ kha+sthāḥ kha+sthair* hi bādhyante |jala+sthā* jala+cāribhiḥ |
+AL3471/ sthala+sthāḥ sthala+saṃsthaiś* (ca |prāpya ca*eva*itara+itaraiḥ Ctu |prāpyante ca*itara+itaraiḥ )||14.26|
+AL3472/ upapannās* tathā ca*ime |mātsarya+ākrānta+cetasaḥ |
+AL3473/ pitṛ+loke nir+āloke |kṛpaṇaṃ* bhuñjate phalam ||14.27|
+AL3474/ sūcī+chidra+upama+mukhāḥ |parvata+upama+kukṣayaḥ |
+AL3475/ kṣut+tarṣa+janitair* duḥkhaiḥ |pīḍyante duḥkha+bhāginaḥ ||14.28|
+AL3476/ āśayā (samatikrāntā* Csamabhikrāntā* )|dhāryamāṇāḥ sva+karmabhiḥ |
+AL3477/ labhante na hy* amī bhoktuṃ* |praviddhāny* a+śucīny* api ||14.29|
+AL3478/ puruṣo* yadi jānīta |mātsaryasya*ī+dṛśaṃ* phalam |
+AL3479/ sarvathā (śibivad* Cśivivad* )dadyāc* |*charīra+avayavān api ||14.30|
+AL3480/ ime *anye (naraka+prakhye Cnarakaṃ* prāpya )|garbha+saṃjñe *a+śuci+hrade |
+AL3481/ upapannā* manuṣyeṣu |duḥkham archanti jantavaḥ ||14.31|
+AL3482/ [[xxxxxx]]

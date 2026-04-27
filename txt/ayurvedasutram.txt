@@ -1,0 +1,71 @@
+Āyurvedasūtram
+A SARIT edition of chapters 1–5
+Anonymous
+Zoe Slatoff
+Creation of machine-readable version.
+Dominik Wujastyk
+Editing and conversion to TEI-conformant markup.
+SARIT: Search and Retrieval of Indic Texts
+Copyright Notice
+Machine-readable version copyright (C) Zoe Slatoff, 2010.
+Distributed by
+SARIT
+under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Under this licence, you are free
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+More information and fuller details of this license are given on the Creative Commons website.
+SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown.
+6th of December, 2010
+2013-03-05
+E-text prepared by Zoe Slatoff from Shamasastry 1922. TEI encoding by D. Wujastyk and Patrick McAllister.
+Āyurvedasūtram Yogānandanāthakṛtabhāṣyasametam = The Ayurvedasutram ; with the commentary of Yoganandanatha
+Rudrapatnam Shamasastry (1868–1944)
+Mysore
+University of Mysore
+1922
+Copyright (C) 1922-2004
+Rudrapatnam Shamasastry
+(
+1868–1944
+. (See URL:
+http://copyright.gov.in/Documents/handbook.html
+)
+Scanned copies available at
+Archive.org
+, including at
+ark:/13960/t5t78vk6x
+.
+According to the introduction, p. iv, the edition was based on three manuscripts.
+A palm leaf manuscript with a Jaina physician in Mysore who later donated the MS to the Mysore Oriental Institute Library. It contained the work in five praśnas together with a commentary on them by Yogānandanātha.
+A copy of the above item, that was used initially.
+Oriental Manuscripts Library, Tanjore: a copy of the sūtra text in sixteen praśnas, without the commentary
+A copy of the above.
+Oriental Manuscripts Library, Madras: a copy of the sūtra text in sixteen praśnas, without the commentary
+A copy of the above.
+A copy of the Suutra text from the library of the late native physician D. V. Gopalachar in Madras.
+Sanskrit
+British English
+Conversion to TEI by
+Dominik Wujastyk
+.
+Addition of revisionDesc element by
+Patrick McAllister
+Updated and simplified the TEI header, to bring it in line with current SARIT practice, by
+Dominik Wujastyk
+.
+Minor typo correction.
+
+<B 1>
+
+<B 2>
+
+<B 3>
+
+<B 4>
+
+<B 5>
